@@ -18,5 +18,15 @@
         "duration": "0.8",
         "remaining": "7.2",
         "alarm": "Modem part unlock"
+    },
+    {
+        "nft": "NFT20250924000370",
+        "site": "PH0600759",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "1.3",
+        "remaining": "6.7",
+        "alarm": "Cell out of service"
     }
 ]}
