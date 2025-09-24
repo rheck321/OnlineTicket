@@ -348,5 +348,15 @@
         "duration": "-",
         "remaining": "-",
         "alarm": "BBU optical module RX and TX abnormal"
+    },
+    {
+        "nft": "NFT20250916000215",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "RRU interrupted"
     }
 ]}
