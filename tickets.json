@@ -228,5 +228,15 @@
         "duration": "7.4",
         "remaining": "0.6",
         "alarm": "Common Alarm"
+    },
+    {
+        "nft": "NFT20250921000284",
+        "site": "IBS0610001",
+        "area": "PANAY",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "The received optical power of the optical module is abnormal"
     }
 ]}
