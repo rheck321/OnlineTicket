@@ -8,5 +8,15 @@
         "duration": "0.2",
         "remaining": "7.8",
         "alarm": "Device Offline"
+    },
+    {
+        "nft": "NFT20250924000468",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.3",
+        "remaining": "7.7",
+        "alarm": "RRU interrupted"
     }
 ]}
