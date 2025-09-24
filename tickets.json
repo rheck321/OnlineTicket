@@ -88,5 +88,15 @@
         "duration": "0.3",
         "remaining": "3.6",
         "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20250924000167",
+        "site": "IBS0640002",
+        "area": "PANAY",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.3",
+        "remaining": "7.7",
+        "alarm": "The received optical power of the optical module is abnormal"
     }
 ]}
