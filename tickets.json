@@ -328,5 +328,15 @@
         "duration": "-",
         "remaining": "-",
         "alarm": "RHUB link is down"
+    },
+    {
+        "nft": "NFT20250916000301",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "BBU optical module RX and TX abnormal"
     }
 ]}
