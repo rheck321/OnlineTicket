@@ -20,6 +20,16 @@
         "alarm": "Device Offline"
     },
     {
+        "nft": "NFT20250924000476",
+        "site": "PH0700588",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.4",
+        "remaining": "7.6",
+        "alarm": "Physical Port Down"
+    },
+    {
         "nft": "NFT20250924000437",
         "site": "PH0700771",
         "area": "CEBU",
