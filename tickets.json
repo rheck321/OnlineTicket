@@ -15,8 +15,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "RRU interrupted"
     },
     {
@@ -25,8 +25,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Physical Port Down"
     },
     {
@@ -278,5 +278,135 @@
         "duration": "3.8",
         "remaining": "4.2",
         "alarm": "Optical port link fault"
+    },
+    {
+        "nft": "NFT20250918000341",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "2.0",
+        "remaining": "6.0",
+        "alarm": "BBU optical module RX and TX abnormal"
+    },
+    {
+        "nft": "NFT20250917000633",
+        "site": "PH0700298",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Air Conditioner Outer Fan Fault"
+    },
+    {
+        "nft": "NFT20250917000377",
+        "site": "CO083",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "EngineIs Not In Automatic Position Alarm"
+    },
+    {
+        "nft": "NFT20250916000491",
+        "site": "PH0600829",
+        "area": "NEGROS",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "-3.2",
+        "remaining": "11.2",
+        "alarm": "Cell out of service"
+    },
+    {
+        "nft": "NFT20250916000309",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Critical",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "RHUB link is down"
+    },
+    {
+        "nft": "NFT20250916000301",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "BBU optical module RX and TX abnormal"
+    },
+    {
+        "nft": "NFT20250916000215",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "RRU interrupted"
+    },
+    {
+        "nft": "NFT20250916000122",
+        "site": "IBS0610001",
+        "area": "PANAY",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "4.1",
+        "remaining": "3.9",
+        "alarm": "The received optical power of the optical module is abnormal"
+    },
+    {
+        "nft": "NFT20250916000045",
+        "site": "PH0800048",
+        "area": "SAMAR",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.5",
+        "remaining": "7.5",
+        "alarm": "Air Conditioner Communication Lost"
+    },
+    {
+        "nft": "NFT20250916000043",
+        "site": "PH0800048",
+        "area": "SAMAR",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.5",
+        "remaining": "7.5",
+        "alarm": "Air Conditioner Communication Lost"
+    },
+    {
+        "nft": "NFT20250915000493",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "BBU optical module RX and TX abnormal"
+    },
+    {
+        "nft": "NFT20250915000468",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Cell out of service"
+    },
+    {
+        "nft": "NFT20250915000131",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Baseband module hardware failure"
     }
 ]}
