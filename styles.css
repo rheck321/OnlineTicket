@@ -92,7 +92,7 @@
     /* Responsive: turn table into grid on small devices */
     @media (max-width: 600px) {
       table, thead, tbody, th, td, tr {
-        display: block;
+        /* display: block; eric */
         width: 100%;
       }
       thead {
@@ -121,4 +121,5 @@
         margin-right: 10px;
       }
     }
+
 
