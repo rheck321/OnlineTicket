@@ -58,5 +58,15 @@
         "duration": "1.5",
         "remaining": "6.5",
         "alarm": "Cell out of service"
+    },
+    {
+        "nft": "NFT20250924000166",
+        "site": "IBS0710047",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.4",
+        "remaining": "3.6",
+        "alarm": "Pico RRU not connected"
     }
 ]}
