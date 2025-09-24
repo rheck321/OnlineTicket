@@ -178,5 +178,15 @@
         "duration": "4.5",
         "remaining": "3.5",
         "alarm": "Low fuel level alarm"
+    },
+    {
+        "nft": "NFT20250923000676",
+        "site": "PH0700304",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Gen communication status alarm"
     }
 ]}
