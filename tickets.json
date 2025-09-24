@@ -288,5 +288,15 @@
         "duration": "3.8",
         "remaining": "4.2",
         "alarm": "Optical port link fault"
+    },
+    {
+        "nft": "NFT20250918000341",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "2.0",
+        "remaining": "6.0",
+        "alarm": "BBU optical module RX and TX abnormal"
     }
 ]}
