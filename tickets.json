@@ -388,5 +388,15 @@
         "duration": "0.5",
         "remaining": "7.5",
         "alarm": "Air Conditioner Communication Lost"
+    },
+    {
+        "nft": "NFT20250915000493",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "BBU optical module RX and TX abnormal"
     }
 ]}
