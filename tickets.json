@@ -198,5 +198,15 @@
         "duration": "0.2",
         "remaining": "7.8",
         "alarm": "RRU interrupted"
+    },
+    {
+        "nft": "NFT20250922000396",
+        "site": "PH0700282",
+        "area": "NEGROS",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Air Conditioner Outer Fan Fault"
     }
 ]}
