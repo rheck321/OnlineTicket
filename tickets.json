@@ -178,5 +178,15 @@
         "duration": "0.0",
         "remaining": "8.0",
         "alarm": "Gen communication status alarm"
+    },
+    {
+        "nft": "NFT20250923000671",
+        "site": "PH0700304",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Major",
+        "duration": "0.3",
+        "remaining": "7.7",
+        "alarm": "Battery charger under voltage warning"
     }
 ]}
