@@ -228,5 +228,15 @@
         "duration": "0.1",
         "remaining": "7.9",
         "alarm": "The received optical power of the optical module is abnormal"
+    },
+    {
+        "nft": "NFT20250920000624",
+        "site": "PH0600456",
+        "area": "NEGROS",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.7",
+        "remaining": "7.3",
+        "alarm": "Air Conditioner Outer Fan Fault"
     }
 ]}
