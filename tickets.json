@@ -268,5 +268,15 @@
         "duration": "0.8",
         "remaining": "7.2",
         "alarm": "Battery Communication Fail"
+    },
+    {
+        "nft": "NFT20250918000530",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "3.8",
+        "remaining": "4.2",
+        "alarm": "Optical port link fault"
     }
 ]}
