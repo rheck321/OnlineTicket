@@ -128,5 +128,15 @@
         "duration": "0.5",
         "remaining": "3.5",
         "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20250924000161",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.3",
+        "remaining": "7.7",
+        "alarm": "RRU interrupted"
     }
 ]}
