@@ -8,5 +8,15 @@
         "duration": "0.2",
         "remaining": "7.8",
         "alarm": "RRU interrupted"
+    },
+    {
+        "nft": "NFT20250924000398",
+        "site": "PH0600293",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.5",
+        "remaining": "7.5",
+        "alarm": "Device Offline"
     }
 ]}
