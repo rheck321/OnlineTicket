@@ -1,12 +1,22 @@
 {"nftlist":[
     {
+        "nft": "NFT20250924000490",
+        "site": "CO086",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Critical",
+        "duration": "0.1",
+        "remaining": "3.9",
+        "alarm": "Over temperature"
+    },
+    {
         "nft": "NFT20250924000489",
         "site": "PH0700247",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Device Offline"
     },
     {
@@ -15,8 +25,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Device Offline"
     },
     {
@@ -25,8 +35,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Physical Port Down"
     },
     {
@@ -45,8 +55,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Cell out of service"
     },
     {
@@ -55,8 +65,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.3",
-        "remaining": "4.7",
+        "duration": "3.4",
+        "remaining": "4.6",
         "alarm": "The Device is offline"
     },
     {
@@ -175,8 +185,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.5",
-        "remaining": "2.5",
+        "duration": "5.6",
+        "remaining": "2.4",
         "alarm": "Low fuel level alarm"
     },
     {
