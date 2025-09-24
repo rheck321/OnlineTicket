@@ -298,5 +298,15 @@
         "duration": "2.0",
         "remaining": "6.0",
         "alarm": "BBU optical module RX and TX abnormal"
+    },
+    {
+        "nft": "NFT20250917000633",
+        "site": "PH0700298",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Air Conditioner Outer Fan Fault"
     }
 ]}
