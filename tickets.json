@@ -1,15 +1,5 @@
 {"nftlist":[
     {
-        "nft": "NFT20250923000755",
-        "site": "PH0800025",
-        "area": "SAMAR",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "6.6",
-        "remaining": "1.4",
-        "alarm": "Low fuel level alarm"
-    },
-    {
         "nft": "NFT20250923000676",
         "site": "PH0700304",
         "area": "CEBU",
