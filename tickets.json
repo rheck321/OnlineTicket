@@ -148,5 +148,15 @@
         "duration": "0.5",
         "remaining": "3.5",
         "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20250924000038",
+        "site": "PH0600075",
+        "area": "PANAY",
+        "state": "Suspend",
+        "severity": "Major",
+        "duration": "5.1",
+        "remaining": "2.9",
+        "alarm": "Charge Circuit Switch Failure alarm"
     }
 ]}
