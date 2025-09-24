@@ -198,5 +198,15 @@
         "duration": "0.3",
         "remaining": "7.7",
         "alarm": "Battery charger under voltage warning"
+    },
+    {
+        "nft": "NFT20250922000680",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "RRU interrupted"
     }
 ]}
