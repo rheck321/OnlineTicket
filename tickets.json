@@ -128,5 +128,15 @@
         "duration": "0.3",
         "remaining": "7.7",
         "alarm": "RRU interrupted"
+    },
+    {
+        "nft": "NFT20250924000160",
+        "site": "IBS0610007",
+        "area": "PANAY",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.4",
+        "remaining": "3.6",
+        "alarm": "Pico RRU not connected"
     }
 ]}
