@@ -368,5 +368,15 @@
         "duration": "0.5",
         "remaining": "7.5",
         "alarm": "Air Conditioner Communication Lost"
+    },
+    {
+        "nft": "NFT20250916000043",
+        "site": "PH0800048",
+        "area": "SAMAR",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.5",
+        "remaining": "7.5",
+        "alarm": "Air Conditioner Communication Lost"
     }
 ]}
