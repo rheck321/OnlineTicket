@@ -68,5 +68,15 @@
         "duration": "0.4",
         "remaining": "3.6",
         "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20250924000168",
+        "site": "IBS0640005",
+        "area": "NEGROS",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.3",
+        "remaining": "3.6",
+        "alarm": "Pico RRU not connected"
     }
 ]}
