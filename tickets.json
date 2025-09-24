@@ -28,5 +28,15 @@
         "duration": "0.6",
         "remaining": "7.4",
         "alarm": "Physical Port Down"
+    },
+    {
+        "nft": "NFT20250924000370",
+        "site": "PH0600759",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "2.1",
+        "remaining": "5.9",
+        "alarm": "Cell out of service"
     }
 ]}
