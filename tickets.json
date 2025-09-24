@@ -158,5 +158,15 @@
         "duration": "0.5",
         "remaining": "3.5",
         "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20250924000142",
+        "site": "PH0700707",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "6.1",
+        "remaining": "1.9",
+        "alarm": "Charge Circuit Switch Failure alarm"
     }
 ]}
