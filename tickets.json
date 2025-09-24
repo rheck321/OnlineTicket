@@ -38,5 +38,15 @@
         "duration": "2.3",
         "remaining": "5.7",
         "alarm": "The Device is offline"
+    },
+    {
+        "nft": "NFT20250924000288",
+        "site": "PH0700229",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "1.5",
+        "remaining": "6.5",
+        "alarm": "Cell out of service"
     }
 ]}
