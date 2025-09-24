@@ -108,5 +108,15 @@
         "duration": "0.4",
         "remaining": "3.6",
         "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20250924000158",
+        "site": "IBS0710029",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.5",
+        "remaining": "3.5",
+        "alarm": "Pico RRU not connected"
     }
 ]}
