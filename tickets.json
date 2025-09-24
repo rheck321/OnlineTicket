@@ -48,5 +48,15 @@
         "duration": "1.5",
         "remaining": "6.5",
         "alarm": "Cell out of service"
+    },
+    {
+        "nft": "NFT20250924000260",
+        "site": "CO038",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "3.8",
+        "remaining": "4.2",
+        "alarm": "Physical Port Down"
     }
 ]}
