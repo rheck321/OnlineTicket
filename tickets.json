@@ -318,5 +318,15 @@
         "duration": "-3.2",
         "remaining": "11.2",
         "alarm": "Cell out of service"
+    },
+    {
+        "nft": "NFT20250916000309",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Critical",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "RHUB link is down"
     }
 ]}
