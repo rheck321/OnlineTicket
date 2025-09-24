@@ -358,5 +358,15 @@
         "duration": "4.1",
         "remaining": "3.9",
         "alarm": "The received optical power of the optical module is abnormal"
+    },
+    {
+        "nft": "NFT20250916000045",
+        "site": "PH0800048",
+        "area": "SAMAR",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.5",
+        "remaining": "7.5",
+        "alarm": "Air Conditioner Communication Lost"
     }
 ]}
