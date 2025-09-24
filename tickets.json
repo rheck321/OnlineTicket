@@ -1,5 +1,15 @@
 {"nftlist":[
     {
+        "nft": "NFT20250924000489",
+        "site": "PH0700247",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Offline"
+    },
+    {
         "nft": "NFT20250924000480",
         "site": "PH0600378",
         "area": "PANAY",
@@ -8,16 +18,6 @@
         "duration": "0.2",
         "remaining": "7.8",
         "alarm": "Device Offline"
-    },
-    {
-        "nft": "NFT20250924000468",
-        "site": "IBS0740021",
-        "area": "BOHOL",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
-        "alarm": "RRU interrupted"
     },
     {
         "nft": "NFT20250924000437",
@@ -36,7 +36,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.1",
-        "remaining": "5.9",
+        "remaining": "5.8",
         "alarm": "Cell out of service"
     },
     {
