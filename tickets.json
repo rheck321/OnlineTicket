@@ -38,5 +38,15 @@
         "duration": "1.1",
         "remaining": "6.9",
         "alarm": "Cell out of service"
+    },
+    {
+        "nft": "NFT20250924000321",
+        "site": "CO103",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "2.2",
+        "remaining": "5.8",
+        "alarm": "The Device is offline"
     }
 ]}
