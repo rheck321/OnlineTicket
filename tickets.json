@@ -18,5 +18,15 @@
         "duration": "0.4",
         "remaining": "7.6",
         "alarm": "Device Offline"
+    },
+    {
+        "nft": "NFT20250924000390",
+        "site": "PH0800144",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.6",
+        "remaining": "7.4",
+        "alarm": "Modem part unlock"
     }
 ]}
