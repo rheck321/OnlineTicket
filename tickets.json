@@ -248,5 +248,15 @@
         "duration": "0.7",
         "remaining": "7.3",
         "alarm": "Air Conditioner Outer Fan Fault"
+    },
+    {
+        "nft": "NFT20250920000593",
+        "site": "PH0800410",
+        "area": "LEYTE",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Air Conditioner Outer Fan Fault"
     }
 ]}
