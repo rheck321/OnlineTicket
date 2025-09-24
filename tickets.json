@@ -298,5 +298,15 @@
         "duration": "0.2",
         "remaining": "7.8",
         "alarm": "Air Conditioner Outer Fan Fault"
+    },
+    {
+        "nft": "NFT20250917000377",
+        "site": "CO083",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "EngineIs Not In Automatic Position Alarm"
     }
 ]}
