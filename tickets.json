@@ -1,12 +1,132 @@
 {"nftlist":[
     {
+        "nft": "NFT20250924000670",
+        "site": "PH0600457",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline"
+    },
+    {
+        "nft": "NFT20250924000641",
+        "site": "PH0700757",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline"
+    },
+    {
+        "nft": "NFT20250924000645",
+        "site": "PH0700257",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline"
+    },
+    {
+        "nft": "NFT20250924000643",
+        "site": "PH0700207",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline"
+    },
+    {
+        "nft": "NFT20250924000610",
+        "site": "PH0600056",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline"
+    },
+    {
+        "nft": "NFT20250924000606",
+        "site": "CO038",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline"
+    },
+    {
+        "nft": "NFT20250924000593",
+        "site": "PH0600186",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline"
+    },
+    {
+        "nft": "NFT20250924000586",
+        "site": "PH0600048",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline"
+    },
+    {
+        "nft": "NFT20250924000559",
+        "site": "CO038",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline"
+    },
+    {
+        "nft": "NFT20250924000549",
+        "site": "PH0700758",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline"
+    },
+    {
+        "nft": "NFT20250924000536",
+        "site": "PH0600565",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline"
+    },
+    {
+        "nft": "NFT20250924000523",
+        "site": "PH0800124",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline"
+    },
+    {
         "nft": "NFT20250924000490",
         "site": "CO086",
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.2",
-        "remaining": "3.8",
+        "duration": "0.3",
+        "remaining": "3.7",
         "alarm": "Over temperature"
     },
     {
@@ -35,8 +155,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "The Equipment is offline(Microwave)"
     },
     {
@@ -45,8 +165,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.9",
-        "remaining": "7.1",
+        "duration": "1.0",
+        "remaining": "7.0",
         "alarm": "Physical Port Down"
     },
     {
