@@ -268,5 +268,15 @@
         "duration": "5.8",
         "remaining": "2.2",
         "alarm": "Compressor Fault"
+    },
+    {
+        "nft": "NFT20250919000121",
+        "site": "PH0600494",
+        "area": "PANAY",
+        "state": "Suspend",
+        "severity": "Major",
+        "duration": "0.8",
+        "remaining": "7.2",
+        "alarm": "Battery Communication Fail"
     }
 ]}
