@@ -398,5 +398,15 @@
         "duration": "-",
         "remaining": "-",
         "alarm": "Cell out of service"
+    },
+    {
+        "nft": "NFT20250915000131",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Baseband module hardware failure"
     }
 ]}
