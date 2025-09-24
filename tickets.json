@@ -1,22 +1,182 @@
 {"nftlist":[
     {
-        "nft": "NFT20250923000676",
-        "site": "PH0700304",
-        "area": "CEBU",
-        "state": "Suspend",
+        "nft": "NFT20250924004517",
+        "site": "IBS0640016",
+        "area": "NEGROS",
+        "state": "Processing",
         "severity": "Minor",
-        "duration": "0.0",
-        "remaining": "8.0",
-        "alarm": "Gen communication status alarm"
+        "duration": "0.4",
+        "remaining": "7.6",
+        "alarm": "RRU interrupted"
     },
     {
-        "nft": "NFT20250923000671",
-        "site": "PH0700304",
+        "nft": "NFT20250924004513",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.6",
+        "remaining": "7.4",
+        "alarm": "RRU interrupted"
+    },
+    {
+        "nft": "NFT20250924004503",
+        "site": "PH0600099",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.9",
+        "remaining": "7.1",
+        "alarm": "Cell out of service"
+    },
+    {
+        "nft": "NFT20250924004501",
+        "site": "PH0700763",
         "area": "CEBU",
         "state": "Suspend",
         "severity": "Major",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Physical Port Down"
+    },
+    {
+        "nft": "NFT20250924001455",
+        "site": "PH0700720",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Major",
+        "duration": "1.8",
+        "remaining": "6.2",
+        "alarm": "Physical Port Down"
+    },
+    {
+        "nft": "NFT20250924000470",
+        "site": "PH0800190",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "3.3",
+        "remaining": "4.7",
+        "alarm": "The Equipment is offline(Microwave)"
+    },
+    {
+        "nft": "NFT20250924000437",
+        "site": "PH0700771",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Major",
+        "duration": "2.9",
+        "remaining": "5.2",
+        "alarm": "Physical Port Down"
+    },
+    {
+        "nft": "NFT20250924000288",
+        "site": "PH0700229",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "1.5",
+        "remaining": "6.5",
+        "alarm": "Cell out of service"
+    },
+    {
+        "nft": "NFT20250924000166",
+        "site": "IBS0710047",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.4",
+        "remaining": "3.6",
+        "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20250924000168",
+        "site": "IBS0640005",
+        "area": "NEGROS",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.3",
+        "remaining": "3.6",
+        "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20250924000167",
+        "site": "IBS0640002",
+        "area": "PANAY",
+        "state": "Suspend",
+        "severity": "Minor",
         "duration": "0.3",
         "remaining": "7.7",
-        "alarm": "Battery charger under voltage warning"
+        "alarm": "The received optical power of the optical module is abnormal"
+    },
+    {
+        "nft": "NFT20250924000169",
+        "site": "IBS0610012",
+        "area": "NEGROS",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.4",
+        "remaining": "3.6",
+        "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20250924000158",
+        "site": "IBS0710029",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.5",
+        "remaining": "3.5",
+        "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20250924000155",
+        "site": "IBS0710030",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.5",
+        "remaining": "3.5",
+        "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20250924000161",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.3",
+        "remaining": "7.7",
+        "alarm": "RRU interrupted"
+    },
+    {
+        "nft": "NFT20250924000160",
+        "site": "IBS0610007",
+        "area": "PANAY",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.4",
+        "remaining": "3.6",
+        "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20250924000164",
+        "site": "IBS0610001",
+        "area": "PANAY",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.5",
+        "remaining": "3.5",
+        "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20250924000038",
+        "site": "PH0600075",
+        "area": "PANAY",
+        "state": "Suspend",
+        "severity": "Major",
+        "duration": "5.1",
+        "remaining": "2.9",
+        "alarm": "Charge Circuit Switch Failure alarm"
     }
 ]}
