@@ -15,8 +15,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Cell out of service"
     },
     {
@@ -143,10 +143,10 @@
         "nft": "NFT20250924000471",
         "site": "PH0700239",
         "area": "CEBU",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Major",
-        "duration": "4.7",
-        "remaining": "3.3",
+        "duration": "4.6",
+        "remaining": "3.4",
         "alarm": "Physical Port Down"
     },
     {
