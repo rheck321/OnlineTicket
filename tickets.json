@@ -15,8 +15,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -26,7 +26,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -35,8 +35,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.8",
-        "remaining": "5.2",
+        "duration": "2.9",
+        "remaining": "5.1",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -45,8 +45,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "Physical Port Down"
     },
     {
@@ -55,8 +55,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "Physical Port Down"
     },
     {
@@ -65,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "Physical Port Down"
     },
     {
@@ -336,7 +336,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.1",
-        "remaining": "5.9",
+        "remaining": "5.8",
         "alarm": "Cell out of service"
     },
     {
