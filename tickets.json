@@ -10,16 +10,6 @@
         "alarm": "RRU interrupted"
     },
     {
-        "nft": "NFT20250925000487",
-        "site": "CO089",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Critical",
-        "duration": "0.2",
-        "remaining": "3.8",
-        "alarm": "Incoming Communication Fail"
-    },
-    {
         "nft": "NFT20250925000486",
         "site": "CO086",
         "area": "NEGROS",
@@ -45,8 +35,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -55,7 +45,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.1",
+        "duration": "4.2",
         "remaining": "3.9",
         "alarm": "Battery Communication Fail"
     },
@@ -65,8 +55,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.5",
-        "remaining": "3.5",
+        "duration": "4.6",
+        "remaining": "3.4",
         "alarm": "Physical Port Down"
     },
     {
@@ -75,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.5",
-        "remaining": "3.5",
+        "duration": "4.6",
+        "remaining": "3.4",
         "alarm": "Physical Port Down"
     },
     {
@@ -85,8 +75,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.5",
-        "remaining": "3.5",
+        "duration": "4.6",
+        "remaining": "3.4",
         "alarm": "Physical Port Down"
     },
     {
