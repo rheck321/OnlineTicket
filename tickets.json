@@ -1,12 +1,22 @@
 {"nftlist":[
     {
+        "nft": "NFT20250925000429",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "RRU interrupted"
+    },
+    {
         "nft": "NFT20250925000428",
         "site": "CO086",
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.0",
-        "remaining": "8.0",
+        "duration": "0.1",
+        "remaining": "7.9",
         "alarm": "Overlow Input Power of Optical Module"
     },
     {
@@ -16,7 +26,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -35,8 +45,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.9",
-        "remaining": "6.1",
+        "duration": "2.0",
+        "remaining": "6.0",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -86,7 +96,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.1",
-        "remaining": "4.9",
+        "remaining": "4.8",
         "alarm": "Low oil pressure shutdown alarm"
     },
     {
