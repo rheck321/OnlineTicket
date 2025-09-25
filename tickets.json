@@ -1,5 +1,25 @@
 {"nftlist":[
     {
+        "nft": "NFT20250925000371",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "RRU interrupted"
+    },
+    {
+        "nft": "NFT20250925000370",
+        "site": "CO080",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Battery 03 Voltage Exceeds the Lower Limit Alarm"
+    },
+    {
         "nft": "NFT20250925000367",
         "site": "PH0600455",
         "area": "NEGROS",
@@ -145,8 +165,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.4",
-        "remaining": "3.6",
+        "duration": "4.5",
+        "remaining": "3.5",
         "alarm": "Cell out of service"
     },
     {
