@@ -5,8 +5,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "RRU interrupted"
     },
     {
@@ -305,8 +305,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-2.2",
-        "remaining": "10.2",
+        "duration": "-2.1",
+        "remaining": "10.1",
         "alarm": "Cell out of service"
     },
     {
