@@ -5,8 +5,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Modem part unlock"
     },
     {
@@ -358,35 +358,5 @@
         "duration": "-",
         "remaining": "-",
         "alarm": "RRU interrupted"
-    },
-    {
-        "nft": "NFT20250916000122",
-        "site": "IBS0610001",
-        "area": "PANAY",
-        "state": "Suspend",
-        "severity": "Minor",
-        "duration": "4.1",
-        "remaining": "3.9",
-        "alarm": "The received optical power of the optical module is abnormal"
-    },
-    {
-        "nft": "NFT20250916000045",
-        "site": "PH0800048",
-        "area": "SAMAR",
-        "state": "Suspend",
-        "severity": "Minor",
-        "duration": "0.5",
-        "remaining": "7.5",
-        "alarm": "Air Conditioner Communication Lost"
-    },
-    {
-        "nft": "NFT20250916000043",
-        "site": "PH0800048",
-        "area": "SAMAR",
-        "state": "Suspend",
-        "severity": "Minor",
-        "duration": "0.5",
-        "remaining": "7.5",
-        "alarm": "Air Conditioner Communication Lost"
     }
 ]}
