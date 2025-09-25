@@ -10,16 +10,6 @@
         "alarm": "Battery Communication Fail"
     },
     {
-        "nft": "NFT20250925000417",
-        "site": "IBS0740021",
-        "area": "BOHOL",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
-        "alarm": "RRU interrupted"
-    },
-    {
         "nft": "NFT20250925000416",
         "site": "PH0600334",
         "area": "PANAY",
@@ -75,8 +65,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "Cell out of service"
     },
     {
@@ -85,8 +75,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "Low oil pressure shutdown alarm"
     },
     {
@@ -355,7 +345,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.1",
+        "duration": "1.2",
         "remaining": "6.8",
         "alarm": "Cell out of service"
     },
