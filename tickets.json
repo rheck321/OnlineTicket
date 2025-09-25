@@ -95,8 +95,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Cell out of service"
     },
     {
@@ -175,8 +175,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Battery charger under voltage warning"
     },
     {
@@ -296,7 +296,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-2.4",
-        "remaining": "10.4",
+        "remaining": "10.3",
         "alarm": "Cell out of service"
     },
     {
