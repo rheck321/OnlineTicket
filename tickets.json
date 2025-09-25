@@ -1,5 +1,15 @@
 {"nftlist":[
     {
+        "nft": "NFT20250925000510",
+        "site": "PH0600095",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Battery Communication Fail"
+    },
+    {
         "nft": "NFT20250925000503",
         "site": "CO085",
         "area": "LEYTE",
@@ -8,16 +18,6 @@
         "duration": "0.2",
         "remaining": "7.8",
         "alarm": "Flooding Alarm"
-    },
-    {
-        "nft": "NFT20250925000498",
-        "site": "PH0800144",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
-        "alarm": "Modem part unlock"
     },
     {
         "nft": "NFT20250925000486",
@@ -325,8 +325,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.4",
-        "remaining": "3.6",
+        "duration": "4.5",
+        "remaining": "3.5",
         "alarm": "Cell out of service"
     },
     {
