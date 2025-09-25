@@ -10,16 +10,6 @@
         "alarm": "Optical Fail"
     },
     {
-        "nft": "NFT20250925000429",
-        "site": "IBS0740021",
-        "area": "BOHOL",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
-        "alarm": "RRU interrupted"
-    },
-    {
         "nft": "NFT20250925000418",
         "site": "PH0600810",
         "area": "PANAY",
@@ -45,8 +35,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -95,8 +85,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "Low oil pressure shutdown alarm"
     },
     {
@@ -365,8 +355,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Cell out of service"
     },
     {
