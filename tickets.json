@@ -13,10 +13,10 @@
         "nft": "NFT20250925000262",
         "site": "PH0700254",
         "area": "CEBU",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -50,23 +50,33 @@
         "alarm": "Pico RRU not connected"
     },
     {
+        "nft": "NFT20250925000254",
+        "site": "IBS0710029",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.2",
+        "remaining": "3.8",
+        "alarm": "Pico RRU not connected"
+    },
+    {
         "nft": "NFT20250925000250",
         "site": "IBS0610012",
         "area": "NEGROS",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Critical",
-        "duration": "0.8",
-        "remaining": "3.2",
+        "duration": "0.2",
+        "remaining": "3.8",
         "alarm": "Pico RRU not connected"
     },
     {
         "nft": "NFT20250925000246",
         "site": "IBS0710030",
         "area": "CEBU",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Critical",
-        "duration": "0.8",
-        "remaining": "3.2",
+        "duration": "0.2",
+        "remaining": "3.8",
         "alarm": "Pico RRU not connected"
     },
     {
