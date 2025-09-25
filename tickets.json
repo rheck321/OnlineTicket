@@ -40,23 +40,13 @@
         "alarm": "Physical Port Down"
     },
     {
-        "nft": "NFT20250925000342",
-        "site": "PH0800144",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.8",
-        "remaining": "7.2",
-        "alarm": "Modem part unlock"
-    },
-    {
         "nft": "NFT20250925000337",
         "site": "PH0800402",
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.9",
-        "remaining": "7.1",
+        "duration": "1.0",
+        "remaining": "7.0",
         "alarm": "Cell out of service"
     },
     {
