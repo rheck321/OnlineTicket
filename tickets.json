@@ -1,12 +1,22 @@
 {"nftlist":[
     {
+        "nft": "NFT20250925000342",
+        "site": "PH0800144",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Modem part unlock"
+    },
+    {
         "nft": "NFT20250925000337",
         "site": "PH0800402",
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Cell out of service"
     },
     {
@@ -146,7 +156,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.3",
-        "remaining": "3.7",
+        "remaining": "3.6",
         "alarm": "Physical Port Down"
     },
     {
