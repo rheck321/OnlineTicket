@@ -5,8 +5,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "RRU interrupted"
     },
     {
@@ -35,7 +35,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
+        "duration": "1.1",
         "remaining": "7.0",
         "alarm": "Physical Port Down"
     },
@@ -45,7 +45,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
+        "duration": "1.1",
         "remaining": "7.0",
         "alarm": "Physical Port Down"
     },
@@ -55,7 +55,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
+        "duration": "1.1",
         "remaining": "7.0",
         "alarm": "Physical Port Down"
     },
@@ -65,8 +65,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.6",
-        "remaining": "6.4",
+        "duration": "1.7",
+        "remaining": "6.3",
         "alarm": "Cell out of service"
     },
     {
@@ -356,7 +356,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-0.1",
-        "remaining": "8.2",
+        "remaining": "8.1",
         "alarm": "Cell out of service"
     },
     {
