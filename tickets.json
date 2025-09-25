@@ -5,19 +5,9 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Battery Communication Fail"
-    },
-    {
-        "nft": "NFT20250925000503",
-        "site": "CO085",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
-        "alarm": "Flooding Alarm"
     },
     {
         "nft": "NFT20250925000486",
@@ -25,7 +15,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
+        "duration": "1.6",
         "remaining": "6.5",
         "alarm": "Physical Port Down"
     },
@@ -68,16 +58,6 @@
         "duration": "5.8",
         "remaining": "2.2",
         "alarm": "Physical Port Down"
-    },
-    {
-        "nft": "NFT20250925000337",
-        "site": "PH0800402",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "6.4",
-        "remaining": "1.6",
-        "alarm": "Cell out of service"
     },
     {
         "nft": "NFT20250925000262",
@@ -325,8 +305,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.6",
-        "remaining": "3.4",
+        "duration": "4.7",
+        "remaining": "3.3",
         "alarm": "Cell out of service"
     },
     {
