@@ -15,19 +15,9 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Low oil pressure shutdown alarm"
-    },
-    {
-        "nft": "NFT20250925000326",
-        "site": "IBS0740021",
-        "area": "BOHOL",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
-        "alarm": "RRU interrupted"
     },
     {
         "nft": "NFT20250925000262",
@@ -315,8 +305,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-1.7",
-        "remaining": "9.7",
+        "duration": "-1.6",
+        "remaining": "9.6",
         "alarm": "Cell out of service"
     },
     {
