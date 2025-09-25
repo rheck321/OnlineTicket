@@ -15,8 +15,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Cell out of service"
     },
     {
@@ -115,17 +115,17 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.6",
-        "remaining": "4.4",
+        "duration": "3.7",
+        "remaining": "4.3",
         "alarm": "Cell out of service"
     },
     {
         "nft": "NFT20250924004831",
         "site": "PH0800022",
         "area": "SAMAR",
-        "state": "Suspend",
+        "state": "Processing",
         "severity": "Critical",
-        "duration": "0.3",
+        "duration": "0.4",
         "remaining": "3.6",
         "alarm": "The Device is offline"
     },
@@ -155,8 +155,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.6",
-        "remaining": "3.4",
+        "duration": "4.7",
+        "remaining": "3.3",
         "alarm": "Physical Port Down"
     },
     {
