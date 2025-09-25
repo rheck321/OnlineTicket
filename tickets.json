@@ -173,10 +173,10 @@
         "nft": "NFT20250923000671",
         "site": "PH0700304",
         "area": "CEBU",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Major",
-        "duration": "1.2",
-        "remaining": "6.8",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Battery charger under voltage warning"
     },
     {
@@ -295,7 +295,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-2.4",
+        "duration": "-2.3",
         "remaining": "10.3",
         "alarm": "Cell out of service"
     },
