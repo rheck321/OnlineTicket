@@ -45,8 +45,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.3",
-        "remaining": "3.7",
+        "duration": "4.4",
+        "remaining": "3.6",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -336,7 +336,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.6",
-        "remaining": "4.4",
+        "remaining": "4.3",
         "alarm": "Cell out of service"
     },
     {
