@@ -95,7 +95,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.6",
+        "duration": "2.7",
         "remaining": "5.3",
         "alarm": "Cell out of service"
     },
@@ -295,8 +295,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-2.3",
-        "remaining": "10.3",
+        "duration": "-2.2",
+        "remaining": "10.2",
         "alarm": "Cell out of service"
     },
     {
