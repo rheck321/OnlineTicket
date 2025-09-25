@@ -25,7 +25,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
+        "duration": "1.1",
         "remaining": "7.0",
         "alarm": "Battery Communication Fail"
     },
@@ -45,8 +45,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Physical Port Down"
     },
     {
@@ -55,8 +55,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Physical Port Down"
     },
     {
@@ -65,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Physical Port Down"
     },
     {
@@ -75,8 +75,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.3",
-        "remaining": "4.7",
+        "duration": "3.4",
+        "remaining": "4.6",
         "alarm": "Cell out of service"
     },
     {
@@ -193,7 +193,7 @@
         "nft": "NFT20250924000471",
         "site": "PH0700239",
         "area": "CEBU",
-        "state": "Suspend",
+        "state": "Processing",
         "severity": "Major",
         "duration": "4.6",
         "remaining": "3.4",
