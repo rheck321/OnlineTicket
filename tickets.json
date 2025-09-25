@@ -15,8 +15,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Modem part unlock"
     },
     {
@@ -126,7 +126,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.9",
-        "remaining": "4.2",
+        "remaining": "4.1",
         "alarm": "Cell out of service"
     },
     {
