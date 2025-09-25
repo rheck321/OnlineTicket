@@ -175,8 +175,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "Battery charger under voltage warning"
     },
     {
@@ -296,7 +296,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-2.5",
-        "remaining": "10.5",
+        "remaining": "10.4",
         "alarm": "Cell out of service"
     },
     {
