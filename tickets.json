@@ -25,8 +25,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Low oil pressure shutdown alarm"
     },
     {
@@ -305,8 +305,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-1.2",
-        "remaining": "9.2",
+        "duration": "-1.1",
+        "remaining": "9.1",
         "alarm": "Cell out of service"
     },
     {
