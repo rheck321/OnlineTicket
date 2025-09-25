@@ -16,7 +16,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -35,8 +35,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -86,7 +86,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.6",
-        "remaining": "4.4",
+        "remaining": "4.3",
         "alarm": "Low oil pressure shutdown alarm"
     },
     {
@@ -168,16 +168,6 @@
         "duration": "0.1",
         "remaining": "3.9",
         "alarm": "Pico RRU not connected"
-    },
-    {
-        "nft": "NFT20250924004755",
-        "site": "CO086",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Physical Port Down"
     },
     {
         "nft": "NFT20250924004517",
@@ -345,8 +335,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Cell out of service"
     },
     {
