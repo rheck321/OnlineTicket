@@ -1,5 +1,15 @@
 {"nftlist":[
     {
+        "nft": "NFT20250925000326",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "RRU interrupted"
+    },
+    {
         "nft": "NFT20250925000262",
         "site": "PH0700254",
         "area": "CEBU",
@@ -85,8 +95,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.3",
-        "remaining": "5.7",
+        "duration": "2.4",
+        "remaining": "5.6",
         "alarm": "Cell out of service"
     },
     {
@@ -135,8 +145,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "Physical Port Down"
     },
     {
