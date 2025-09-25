@@ -305,8 +305,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-2.0",
-        "remaining": "10.0",
+        "duration": "-1.9",
+        "remaining": "9.9",
         "alarm": "Cell out of service"
     },
     {
