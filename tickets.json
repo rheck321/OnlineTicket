@@ -95,8 +95,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Cell out of service"
     },
     {
@@ -145,7 +145,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.8",
+        "duration": "2.9",
         "remaining": "5.2",
         "alarm": "Physical Port Down"
     },
@@ -258,16 +258,6 @@
         "duration": "5.8",
         "remaining": "2.2",
         "alarm": "Compressor Fault"
-    },
-    {
-        "nft": "NFT20250919000121",
-        "site": "PH0600494",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.9",
-        "remaining": "7.1",
-        "alarm": "Battery Communication Fail"
     },
     {
         "nft": "NFT20250918000530",
