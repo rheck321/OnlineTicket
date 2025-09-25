@@ -1,12 +1,22 @@
 {"nftlist":[
     {
+        "nft": "NFT20250925000503",
+        "site": "CO085",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Flooding Alarm"
+    },
+    {
         "nft": "NFT20250925000498",
         "site": "PH0800144",
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Modem part unlock"
     },
     {
@@ -15,8 +25,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.2",
-        "remaining": "6.8",
+        "duration": "1.3",
+        "remaining": "6.7",
         "alarm": "Physical Port Down"
     },
     {
@@ -25,19 +35,9 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Optical Fail"
-    },
-    {
-        "nft": "NFT20250925000367",
-        "site": "PH0600455",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "5.1",
-        "remaining": "2.9",
-        "alarm": "Battery Communication Fail"
     },
     {
         "nft": "NFT20250925000351",
@@ -45,8 +45,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.5",
-        "remaining": "2.5",
+        "duration": "5.6",
+        "remaining": "2.4",
         "alarm": "Physical Port Down"
     },
     {
@@ -55,8 +55,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.5",
-        "remaining": "2.5",
+        "duration": "5.6",
+        "remaining": "2.4",
         "alarm": "Physical Port Down"
     },
     {
@@ -65,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.5",
-        "remaining": "2.5",
+        "duration": "5.6",
+        "remaining": "2.4",
         "alarm": "Physical Port Down"
     },
     {
@@ -75,8 +75,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.1",
-        "remaining": "1.9",
+        "duration": "6.2",
+        "remaining": "1.8",
         "alarm": "Cell out of service"
     },
     {
