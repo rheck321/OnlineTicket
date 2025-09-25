@@ -90,16 +90,6 @@
         "alarm": "Pico RRU not connected"
     },
     {
-        "nft": "NFT20250925000191",
-        "site": "PH0800402",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "2.6",
-        "remaining": "5.3",
-        "alarm": "Cell out of service"
-    },
-    {
         "nft": "NFT20250925000176",
         "site": "PH0600394",
         "area": "PANAY",
@@ -145,8 +135,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "Physical Port Down"
     },
     {
