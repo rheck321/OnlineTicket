@@ -1,5 +1,15 @@
 {"nftlist":[
     {
+        "nft": "NFT20250926000529",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "RRU interrupted"
+    },
+    {
         "nft": "NFT20250926000525",
         "site": "PH0700145",
         "area": "NEGROS",
@@ -15,8 +25,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "ATS S1 Voltage State"
     },
     {
@@ -25,8 +35,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "Device Powered Off"
     },
     {
@@ -46,7 +56,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.9",
-        "remaining": "7.1",
+        "remaining": "7.0",
         "alarm": "Transmission unit link break"
     },
     {
@@ -56,7 +66,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.9",
-        "remaining": "7.1",
+        "remaining": "7.0",
         "alarm": "Device Powered Off"
     },
     {
@@ -65,7 +75,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.9",
+        "duration": "1.0",
         "remaining": "7.0",
         "alarm": "BBU interrupted"
     },
@@ -75,7 +85,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
+        "duration": "1.1",
         "remaining": "7.0",
         "alarm": "Physical Port Down"
     },
@@ -85,8 +95,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Physical Port Down"
     },
     {
@@ -95,7 +105,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
+        "duration": "1.6",
         "remaining": "6.5",
         "alarm": "The Device is offline"
     },
@@ -105,7 +115,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.5",
+        "duration": "1.6",
         "remaining": "6.5",
         "alarm": "Cell out of service"
     },
@@ -125,8 +135,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.8",
-        "remaining": "6.2",
+        "duration": "1.9",
+        "remaining": "6.1",
         "alarm": "Low fuel level alarm"
     },
     {
@@ -155,8 +165,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "Device Powered Off"
     },
     {
@@ -165,8 +175,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "3.0",
-        "remaining": "1.0",
+        "duration": "3.1",
+        "remaining": "0.9",
         "alarm": "Break Off"
     },
     {
@@ -425,8 +435,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "Standing wave warning"
     },
     {
@@ -435,8 +445,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "ATS S1 Voltage State"
     },
     {
@@ -455,8 +465,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.9",
-        "remaining": "4.1",
+        "duration": "4.0",
+        "remaining": "4.0",
         "alarm": "Cell out of service"
     },
     {
@@ -545,8 +555,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "The received optical power of the optical module is abnormal"
     },
     {
@@ -666,7 +676,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.5",
-        "remaining": "1.6",
+        "remaining": "1.5",
         "alarm": "The received optical power of the optical module is abnormal"
     },
     {
