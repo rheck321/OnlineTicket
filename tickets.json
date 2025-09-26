@@ -15,7 +15,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "7.5",
         "alarm": "Optical Fail"
     },
@@ -30,22 +30,12 @@
         "alarm": "BBU optical module RX and TX abnormal"
     },
     {
-        "nft": "NFT20250926000737",
-        "site": "PH0800226",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.9",
-        "remaining": "7.1",
-        "alarm": "Device Powered Off"
-    },
-    {
         "nft": "NFT20250926000729",
         "site": "PH0700317",
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.0",
+        "duration": "1.1",
         "remaining": "7.0",
         "alarm": "Device Powered Off"
     },
@@ -65,8 +55,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "The received optical power of the optical module is abnormal"
     },
     {
@@ -95,8 +85,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "Device Powered Off"
     },
     {
@@ -106,7 +96,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.1",
-        "remaining": "4.9",
+        "remaining": "4.8",
         "alarm": "Device Powered Off"
     },
     {
@@ -115,7 +105,7 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "3.3",
+        "duration": "3.4",
         "remaining": "0.7",
         "alarm": "The Device is offline"
     },
@@ -125,19 +115,9 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.8",
+        "duration": "3.9",
         "remaining": "4.2",
         "alarm": "BBU interrupted"
-    },
-    {
-        "nft": "NFT20250926000573",
-        "site": "PH0800180",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "4.1",
-        "remaining": "3.9",
-        "alarm": "The Device is offline"
     },
     {
         "nft": "NFT20250926000554",
@@ -165,8 +145,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.2",
-        "remaining": "2.8",
+        "duration": "5.3",
+        "remaining": "2.7",
         "alarm": "BBU interrupted"
     },
     {
@@ -195,7 +175,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.1",
+        "duration": "6.2",
         "remaining": "1.9",
         "alarm": "BBU interrupted"
     },
@@ -245,8 +225,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.3",
-        "remaining": "0.7",
+        "duration": "7.4",
+        "remaining": "0.6",
         "alarm": "Device Powered Off"
     },
     {
