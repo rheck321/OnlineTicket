@@ -1,13 +1,23 @@
 {"nftlist":[
     {
-        "nft": "NFT20250926000483",
-        "site": "PH0600780",
-        "area": "PANAY",
+        "nft": "NFT20250926000477",
+        "site": "PH0800249",
+        "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "7.9",
-        "alarm": "Modem part unlock"
+        "remaining": "7.8",
+        "alarm": "The Device is offline"
+    },
+    {
+        "nft": "NFT20250926000479",
+        "site": "PH0600285",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.8",
+        "alarm": "Cell out of service"
     },
     {
         "nft": "NFT20250926000476",
@@ -15,8 +25,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Transmission unit link break"
     },
     {
@@ -95,8 +105,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Device Powered Off"
     },
     {
@@ -106,7 +116,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "The Device is offline"
     },
     {
@@ -115,8 +125,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.6",
-        "remaining": "2.4",
+        "duration": "1.7",
+        "remaining": "2.3",
         "alarm": "Break Off"
     },
     {
@@ -255,7 +265,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "3.1",
+        "duration": "3.2",
         "remaining": "0.8",
         "alarm": "Cell22 Over Resistance Alarm"
     },
@@ -395,8 +405,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Standing wave warning"
     },
     {
@@ -405,8 +415,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "ATS S1 Voltage State"
     },
     {
@@ -435,8 +445,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Cell out of service"
     },
     {
@@ -485,7 +495,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.1",
+        "duration": "6.2",
         "remaining": "1.9",
         "alarm": "Charge Circuit Switch Failure alarm"
     },
@@ -535,8 +545,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "The received optical power of the optical module is abnormal"
     },
     {
