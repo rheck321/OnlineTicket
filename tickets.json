@@ -45,7 +45,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "Device Powered Off"
     },
@@ -56,7 +56,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "The received optical power of the optical module is abnormal"
     },
     {
@@ -146,7 +146,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "5.3",
-        "remaining": "2.7",
+        "remaining": "2.6",
         "alarm": "BBU interrupted"
     },
     {
@@ -165,8 +165,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.1",
-        "remaining": "1.9",
+        "duration": "6.2",
+        "remaining": "1.8",
         "alarm": "Device Powered Off"
     },
     {
@@ -185,8 +185,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.2",
-        "remaining": "1.8",
+        "duration": "6.3",
+        "remaining": "1.7",
         "alarm": "Physical Port Down"
     },
     {
@@ -225,7 +225,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.4",
+        "duration": "7.5",
         "remaining": "0.6",
         "alarm": "Device Powered Off"
     },
