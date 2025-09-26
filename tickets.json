@@ -5,8 +5,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "The Device is offline"
     },
     {
@@ -25,8 +25,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Device Powered Off"
     },
     {
@@ -35,8 +35,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Physical Port Down"
     },
     {
@@ -46,7 +46,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "BBU interrupted"
     },
     {
@@ -65,8 +65,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.2",
-        "remaining": "2.8",
+        "duration": "1.3",
+        "remaining": "2.7",
         "alarm": "The Device is offline"
     },
     {
@@ -75,8 +75,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "BBU interrupted"
     },
     {
@@ -125,7 +125,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.3",
+        "duration": "2.4",
         "remaining": "5.7",
         "alarm": "BBU interrupted"
     },
@@ -145,8 +145,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Powered Off"
     },
     {
@@ -205,8 +205,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "Device Powered Off"
     },
     {
@@ -450,16 +450,6 @@
         "alarm": "Standing wave warning"
     },
     {
-        "nft": "NFT20250926000170",
-        "site": "CO085",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "4.8",
-        "remaining": "3.2",
-        "alarm": "ATS S1 Voltage State"
-    },
-    {
         "nft": "NFT20250925000561",
         "site": "PH0700229",
         "area": "CEBU",
@@ -676,7 +666,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "7.8",
-        "remaining": "0.2",
+        "remaining": "0.1",
         "alarm": "The received optical power of the optical module is abnormal"
     },
     {
