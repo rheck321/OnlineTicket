@@ -25,8 +25,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Device Powered Off"
     },
     {
@@ -95,7 +95,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.8",
+        "duration": "1.9",
         "remaining": "6.2",
         "alarm": "ATS S1 Voltage State"
     },
@@ -105,7 +105,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.1",
+        "duration": "2.2",
         "remaining": "5.8",
         "alarm": "Device Powered Off"
     },
@@ -135,8 +135,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "BBU interrupted"
     },
     {
@@ -165,8 +165,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Physical Port Down"
     },
     {
@@ -205,8 +205,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.1",
-        "remaining": "4.9",
+        "duration": "3.2",
+        "remaining": "4.8",
         "alarm": "Low fuel level alarm"
     },
     {
@@ -248,16 +248,6 @@
         "duration": "2.5",
         "remaining": "1.5",
         "alarm": "Break Off"
-    },
-    {
-        "nft": "NFT20250926000333",
-        "site": "PH0700145",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Critical",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "The Device is offline"
     },
     {
         "nft": "NFT20250926000319",
@@ -465,8 +455,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.7",
-        "remaining": "3.3",
+        "duration": "4.8",
+        "remaining": "3.2",
         "alarm": "Standing wave warning"
     },
     {
@@ -475,8 +465,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.7",
-        "remaining": "3.3",
+        "duration": "4.8",
+        "remaining": "3.2",
         "alarm": "ATS S1 Voltage State"
     },
     {
