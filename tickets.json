@@ -95,8 +95,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "Cell out of service"
     },
     {
@@ -125,8 +125,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "ATS S1 Voltage State"
     },
     {
@@ -145,7 +145,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.1",
+        "duration": "4.2",
         "remaining": "3.9",
         "alarm": "Transmission unit link break"
     },
@@ -155,7 +155,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.1",
+        "duration": "4.2",
         "remaining": "3.9",
         "alarm": "Device Powered Off"
     },
@@ -196,7 +196,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.7",
-        "remaining": "3.4",
+        "remaining": "3.3",
         "alarm": "Physical Port Down"
     },
     {
@@ -205,8 +205,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.7",
-        "remaining": "3.3",
+        "duration": "4.8",
+        "remaining": "3.2",
         "alarm": "The Device is offline"
     },
     {
@@ -215,8 +215,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.7",
-        "remaining": "3.3",
+        "duration": "4.8",
+        "remaining": "3.2",
         "alarm": "Cell out of service"
     },
     {
@@ -235,8 +235,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.0",
-        "remaining": "3.0",
+        "duration": "5.1",
+        "remaining": "2.9",
         "alarm": "Low fuel level alarm"
     },
     {
@@ -265,8 +265,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.1",
-        "remaining": "1.9",
+        "duration": "6.2",
+        "remaining": "1.8",
         "alarm": "Device Powered Off"
     },
     {
