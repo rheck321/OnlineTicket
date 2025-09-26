@@ -35,8 +35,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "ATS S1 Voltage State"
     },
     {
@@ -65,7 +65,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
+        "duration": "1.1",
         "remaining": "7.0",
         "alarm": "Transmission unit link break"
     },
@@ -75,7 +75,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.0",
+        "duration": "1.1",
         "remaining": "7.0",
         "alarm": "Device Powered Off"
     },
@@ -96,7 +96,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "6.9",
+        "remaining": "6.8",
         "alarm": "Physical Port Down"
     },
     {
@@ -106,7 +106,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "Physical Port Down"
     },
     {
@@ -116,7 +116,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "The Device is offline"
     },
     {
@@ -126,7 +126,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Cell out of service"
     },
     {
@@ -145,7 +145,7 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.9",
+        "duration": "2.0",
         "remaining": "6.0",
         "alarm": "Low fuel level alarm"
     },
@@ -175,8 +175,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "Device Powered Off"
     },
     {
@@ -185,7 +185,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "3.1",
+        "duration": "3.2",
         "remaining": "0.8",
         "alarm": "Break Off"
     },
@@ -445,8 +445,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "Standing wave warning"
     },
     {
@@ -455,8 +455,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "ATS S1 Voltage State"
     },
     {
@@ -475,8 +475,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "Cell out of service"
     },
     {
@@ -565,8 +565,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.6",
-        "remaining": "5.4",
+        "duration": "2.7",
+        "remaining": "5.3",
         "alarm": "The received optical power of the optical module is abnormal"
     },
     {
