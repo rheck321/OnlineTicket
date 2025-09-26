@@ -35,8 +35,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "Device Powered Off"
     },
     {
@@ -56,7 +56,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.4",
-        "remaining": "6.7",
+        "remaining": "6.6",
         "alarm": "Device Powered Off"
     },
     {
@@ -120,16 +120,6 @@
         "alarm": "The Device is offline"
     },
     {
-        "nft": "NFT20250926000588",
-        "site": "CO085",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "3.7",
-        "remaining": "4.3",
-        "alarm": "ATS S1 Voltage State"
-    },
-    {
         "nft": "NFT20250926000583",
         "site": "PH0800226",
         "area": "LEYTE",
@@ -160,16 +150,6 @@
         "alarm": "Physical Port Down"
     },
     {
-        "nft": "NFT20250926000543",
-        "site": "PH0800180",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "4.8",
-        "remaining": "3.2",
-        "alarm": "BBU interrupted"
-    },
-    {
         "nft": "NFT20250926000537",
         "site": "PH0600195",
         "area": "PANAY",
@@ -196,7 +176,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "5.7",
-        "remaining": "2.4",
+        "remaining": "2.3",
         "alarm": "ATS S1 Voltage State"
     },
     {
@@ -205,8 +185,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.0",
-        "remaining": "2.0",
+        "duration": "6.1",
+        "remaining": "1.9",
         "alarm": "Device Powered Off"
     },
     {
@@ -225,8 +205,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.1",
-        "remaining": "1.9",
+        "duration": "6.2",
+        "remaining": "1.8",
         "alarm": "Physical Port Down"
     },
     {
