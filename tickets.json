@@ -5,8 +5,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Transmission unit link break"
     },
     {
@@ -15,8 +15,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Powered Off"
     },
     {
@@ -25,8 +25,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Transmission unit link break"
     },
     {
@@ -35,8 +35,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Cell out of service"
     },
     {
@@ -45,8 +45,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "Device Powered Off"
     },
     {
@@ -55,8 +55,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "Physical Port Down"
     },
     {
@@ -65,19 +65,9 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.9",
-        "remaining": "7.1",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "Device Powered Off"
-    },
-    {
-        "nft": "NFT20250926000345",
-        "site": "PH0700023",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "1.0",
-        "remaining": "7.0",
-        "alarm": "Crc error alarm notification"
     },
     {
         "nft": "NFT20250926000346",
@@ -85,8 +75,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "The Device is offline"
     },
     {
@@ -95,8 +85,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.0",
-        "remaining": "3.0",
+        "duration": "1.2",
+        "remaining": "2.8",
         "alarm": "Break Off"
     },
     {
@@ -105,19 +95,9 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Transmission unit link break"
-    },
-    {
-        "nft": "NFT20250926000335",
-        "site": "PH0800251",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "1.1",
-        "remaining": "6.9",
-        "alarm": "Device Powered Off"
     },
     {
         "nft": "NFT20250926000333",
@@ -125,8 +105,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.1",
-        "remaining": "2.9",
+        "duration": "1.4",
+        "remaining": "2.6",
         "alarm": "The Device is offline"
     },
     {
@@ -135,8 +115,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.7",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Optical Invalid"
     },
     {
@@ -145,8 +125,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.6",
-        "remaining": "6.5",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Device Powered Off"
     },
     {
@@ -155,8 +135,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.9",
-        "remaining": "6.2",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Pico RRU not connected"
     },
     {
@@ -165,8 +145,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.9",
-        "remaining": "6.2",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "The received optical power of the optical module is abnormal"
     },
     {
@@ -175,8 +155,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.9",
-        "remaining": "2.1",
+        "duration": "2.1",
+        "remaining": "1.9",
         "alarm": "Pico RRU not connected"
     },
     {
@@ -185,8 +165,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.9",
-        "remaining": "2.1",
+        "duration": "2.1",
+        "remaining": "1.9",
         "alarm": "Pico RRU not connected"
     },
     {
@@ -195,8 +175,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.9",
-        "remaining": "2.1",
+        "duration": "2.1",
+        "remaining": "1.9",
         "alarm": "Pico RRU not connected"
     },
     {
@@ -205,8 +185,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.9",
-        "remaining": "2.1",
+        "duration": "2.1",
+        "remaining": "1.9",
         "alarm": "Pico RRU not connected"
     },
     {
@@ -215,8 +195,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.9",
-        "remaining": "2.1",
+        "duration": "2.1",
+        "remaining": "1.9",
         "alarm": "Pico RRU not connected"
     },
     {
@@ -225,8 +205,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "OSC_LOS"
     },
     {
@@ -235,8 +215,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "2.5",
-        "remaining": "1.5",
+        "duration": "2.7",
+        "remaining": "1.3",
         "alarm": "Cell22 Over Resistance Alarm"
     },
     {
@@ -245,8 +225,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.6",
-        "remaining": "5.4",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Cell18 Over Resistance Alarm"
     },
     {
@@ -255,8 +235,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.2",
+        "remaining": "4.8",
         "alarm": "Transmission unit link break"
     },
     {
@@ -265,8 +245,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.3",
-        "remaining": "4.7",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
@@ -325,8 +305,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.3",
-        "remaining": "3.6",
+        "duration": "4.6",
+        "remaining": "3.4",
         "alarm": "Modem part unlock"
     },
     {
@@ -385,8 +365,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Standing wave warning"
     },
     {
@@ -395,8 +375,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "ATS S1 Voltage State"
     },
     {
@@ -405,19 +385,9 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.6",
-        "remaining": "6.3",
+        "duration": "1.9",
+        "remaining": "6.1",
         "alarm": "Multi-point Flooding Alarm"
-    },
-    {
-        "nft": "NFT20250926000134",
-        "site": "IBS0840003",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Critical",
-        "duration": "0.7",
-        "remaining": "3.3",
-        "alarm": "System system power on"
     },
     {
         "nft": "NFT20250926000008",
@@ -425,19 +395,9 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.9",
+        "remaining": "6.0",
         "alarm": "Low Liquid Level Alarm shutdown"
-    },
-    {
-        "nft": "NFT20250925000668",
-        "site": "PH0700319",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "3.0",
-        "remaining": "5.0",
-        "alarm": "Under speed shutdown alarm"
     },
     {
         "nft": "NFT20250925000561",
@@ -445,8 +405,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.9",
-        "remaining": "6.1",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Cell out of service"
     },
     {
@@ -495,8 +455,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.5",
-        "remaining": "2.5",
+        "duration": "5.7",
+        "remaining": "2.3",
         "alarm": "Charge Circuit Switch Failure alarm"
     },
     {
@@ -518,16 +478,6 @@
         "duration": "0.4",
         "remaining": "7.6",
         "alarm": "Battery charger under voltage warning"
-    },
-    {
-        "nft": "NFT20250922000680",
-        "site": "IBS0740021",
-        "area": "BOHOL",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
-        "alarm": "RRU interrupted"
     },
     {
         "nft": "NFT20250922000396",
@@ -555,8 +505,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "The received optical power of the optical module is abnormal"
     },
     {
