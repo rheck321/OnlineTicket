@@ -1,15 +1,5 @@
 {"nftlist":[
     {
-        "nft": "NFT20250926000808",
-        "site": "PH0600093",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.1",
-        "remaining": "7.9",
-        "alarm": "Air Conditioner Outer Fan Fault"
-    },
-    {
         "nft": "NFT20250926000771",
         "site": "PH0700056",
         "area": "CEBU",
@@ -36,7 +26,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "BBU optical module RX and TX abnormal"
     },
     {
@@ -155,7 +145,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.0",
+        "duration": "6.1",
         "remaining": "1.9",
         "alarm": "ATS S1 Voltage State"
     },
@@ -165,8 +155,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.4",
-        "remaining": "1.6",
+        "duration": "6.5",
+        "remaining": "1.5",
         "alarm": "Device Powered Off"
     },
     {
@@ -185,8 +175,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.5",
-        "remaining": "1.5",
+        "duration": "6.6",
+        "remaining": "1.4",
         "alarm": "Physical Port Down"
     },
     {
