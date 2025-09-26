@@ -5,8 +5,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.4",
-        "remaining": "3.6",
+        "duration": "0.5",
+        "remaining": "3.5",
         "alarm": "The Device is offline"
     },
     {
@@ -15,8 +15,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "RRU interrupted"
     },
     {
@@ -25,8 +25,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "BBU interrupted"
     },
     {
@@ -35,8 +35,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Device Powered Off"
     },
     {
@@ -66,7 +66,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Cell22 Over Resistance Alarm"
     },
     {
@@ -75,7 +75,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "Transmission unit link break"
     },
@@ -85,7 +85,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "Device Powered Off"
     },
@@ -106,7 +106,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "Physical Port Down"
     },
     {
@@ -125,8 +125,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "The Device is offline"
     },
     {
@@ -135,8 +135,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Cell out of service"
     },
     {
@@ -165,8 +165,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Device Powered Off"
     },
     {
@@ -205,8 +205,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "3.7",
-        "remaining": "0.3",
+        "duration": "3.8",
+        "remaining": "0.2",
         "alarm": "The Device is offline"
     },
     {
@@ -225,8 +225,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.1",
-        "remaining": "3.9",
+        "duration": "4.2",
+        "remaining": "3.8",
         "alarm": "Device Powered Off"
     },
     {
@@ -410,16 +410,6 @@
         "alarm": "RRU hardware failure"
     },
     {
-        "nft": "NFT20250926000185",
-        "site": "PH0600780",
-        "area": "PANAY",
-        "state": "Suspend",
-        "severity": "Major",
-        "duration": "3.8",
-        "remaining": "4.2",
-        "alarm": "Rf unit communication is interrupted"
-    },
-    {
         "nft": "NFT20250926000183",
         "site": "PH0600285",
         "area": "NEGROS",
@@ -466,7 +456,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.3",
-        "remaining": "3.7",
+        "remaining": "3.6",
         "alarm": "Low Liquid Level Alarm shutdown"
     },
     {
