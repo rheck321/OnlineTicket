@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "BBU interrupted"
     },
     {
@@ -40,16 +40,6 @@
         "alarm": "Cell out of service"
     },
     {
-        "nft": "NFT20250926000476",
-        "site": "PH0800181",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
-        "alarm": "Transmission unit link break"
-    },
-    {
         "nft": "NFT20250926000468",
         "site": "PH0800190",
         "area": "LEYTE",
@@ -66,7 +56,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Physical Port Down"
     },
     {
@@ -85,19 +75,9 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.9",
-        "remaining": "7.1",
+        "duration": "1.0",
+        "remaining": "7.0",
         "alarm": "Device Powered Off"
-    },
-    {
-        "nft": "NFT20250926000395",
-        "site": "PH0800099",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.9",
-        "remaining": "7.1",
-        "alarm": "Transmission unit link break"
     },
     {
         "nft": "NFT20250926000366",
@@ -106,7 +86,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Cell out of service"
     },
     {
@@ -115,7 +95,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.6",
+        "duration": "1.7",
         "remaining": "6.3",
         "alarm": "Physical Port Down"
     },
@@ -155,7 +135,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.8",
+        "duration": "1.9",
         "remaining": "6.2",
         "alarm": "Transmission unit link break"
     },
@@ -165,7 +145,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.9",
+        "duration": "2.0",
         "remaining": "2.0",
         "alarm": "The Device is offline"
     },
@@ -175,7 +155,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.1",
+        "duration": "2.2",
         "remaining": "5.8",
         "alarm": "Optical Invalid"
     },
@@ -186,7 +166,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "Device Powered Off"
     },
     {
@@ -445,8 +425,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Low Liquid Level Alarm shutdown"
     },
     {
