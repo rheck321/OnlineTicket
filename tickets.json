@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "Transmission unit link break"
     },
     {
@@ -55,7 +55,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.1",
+        "duration": "1.2",
         "remaining": "6.8",
         "alarm": "Device Powered Off"
     },
@@ -65,7 +65,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "Physical Port Down"
     },
@@ -116,7 +116,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.6",
-        "remaining": "5.4",
+        "remaining": "5.3",
         "alarm": "ATS S1 Voltage State"
     },
     {
@@ -155,8 +155,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "BBU interrupted"
     },
     {
@@ -185,8 +185,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "Physical Port Down"
     },
     {
@@ -225,8 +225,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.9",
-        "remaining": "4.1",
+        "duration": "4.0",
+        "remaining": "4.0",
         "alarm": "Low fuel level alarm"
     },
     {
@@ -688,5 +688,35 @@
         "duration": "-",
         "remaining": "-",
         "alarm": "RRU interrupted"
+    },
+    {
+        "nft": "NFT20250916000122",
+        "site": "IBS0610001",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "-7.4",
+        "remaining": "15.4",
+        "alarm": "The received optical power of the optical module is abnormal"
+    },
+    {
+        "nft": "NFT20250916000045",
+        "site": "PH0800048",
+        "area": "SAMAR",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.5",
+        "remaining": "7.5",
+        "alarm": "Air Conditioner Communication Lost"
+    },
+    {
+        "nft": "NFT20250916000043",
+        "site": "PH0800048",
+        "area": "SAMAR",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.5",
+        "remaining": "7.5",
+        "alarm": "Air Conditioner Communication Lost"
     }
 ]}
