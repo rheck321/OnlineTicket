@@ -15,8 +15,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Device Powered Off"
     },
     {
@@ -25,7 +25,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "7.5",
         "alarm": "Physical Port Down"
     },
@@ -36,18 +36,8 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Device Powered Off"
-    },
-    {
-        "nft": "NFT20250926000349",
-        "site": "PH0800289",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.5",
-        "alarm": "Transmission unit link break"
     },
     {
         "nft": "NFT20250926000345",
@@ -55,8 +45,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Crc error alarm notification"
     },
     {
@@ -65,8 +55,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "The Device is offline"
     },
     {
@@ -106,7 +96,7 @@
         "state": "Processing",
         "severity": "Critical",
         "duration": "0.8",
-        "remaining": "3.2",
+        "remaining": "3.1",
         "alarm": "The Device is offline"
     },
     {
@@ -115,7 +105,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
+        "duration": "1.1",
         "remaining": "7.0",
         "alarm": "Optical Invalid"
     },
@@ -135,7 +125,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
+        "duration": "1.6",
         "remaining": "6.5",
         "alarm": "Pico RRU not connected"
     },
@@ -145,7 +135,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.5",
+        "duration": "1.6",
         "remaining": "6.5",
         "alarm": "The received optical power of the optical module is abnormal"
     },
@@ -155,7 +145,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.5",
+        "duration": "1.6",
         "remaining": "2.5",
         "alarm": "Pico RRU not connected"
     },
@@ -165,7 +155,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.5",
+        "duration": "1.6",
         "remaining": "2.5",
         "alarm": "Pico RRU not connected"
     },
@@ -175,7 +165,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.5",
+        "duration": "1.6",
         "remaining": "2.5",
         "alarm": "Pico RRU not connected"
     },
@@ -185,7 +175,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.5",
+        "duration": "1.6",
         "remaining": "2.5",
         "alarm": "Pico RRU not connected"
     },
@@ -195,7 +185,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.5",
+        "duration": "1.6",
         "remaining": "2.5",
         "alarm": "Pico RRU not connected"
     },
@@ -235,7 +225,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.6",
+        "duration": "2.7",
         "remaining": "5.3",
         "alarm": "Transmission unit link break"
     },
@@ -376,7 +366,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "Standing wave warning"
     },
     {
@@ -395,7 +385,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.3",
+        "duration": "1.4",
         "remaining": "6.7",
         "alarm": "Multi-point Flooding Alarm"
     },
@@ -405,8 +395,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.3",
-        "remaining": "3.7",
+        "duration": "0.4",
+        "remaining": "3.6",
         "alarm": "System system power on"
     },
     {
@@ -436,17 +426,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.5",
-        "alarm": "Cell out of service"
-    },
-    {
-        "nft": "NFT20250925000550",
-        "site": "PH0800402",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "remaining": "6.4",
         "alarm": "Cell out of service"
     },
     {
@@ -495,8 +475,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.1",
-        "remaining": "2.9",
+        "duration": "5.2",
+        "remaining": "2.8",
         "alarm": "Charge Circuit Switch Failure alarm"
     },
     {
@@ -525,8 +505,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "RRU interrupted"
     },
     {
@@ -555,7 +535,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.1",
+        "duration": "0.2",
         "remaining": "7.8",
         "alarm": "The received optical power of the optical module is abnormal"
     },
