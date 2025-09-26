@@ -5,8 +5,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Cell out of service"
     },
     {
@@ -35,7 +35,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "7.5",
         "alarm": "Device Powered Off"
     },
@@ -45,7 +45,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "7.5",
         "alarm": "Transmission unit link break"
     },
@@ -75,8 +75,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.6",
-        "remaining": "3.4",
+        "duration": "0.7",
+        "remaining": "3.3",
         "alarm": "Break Off"
     },
     {
@@ -90,33 +90,13 @@
         "alarm": "Transmission unit link break"
     },
     {
-        "nft": "NFT20250926000339",
-        "site": "PH0800257",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
-        "alarm": "Transmission unit link break"
-    },
-    {
-        "nft": "NFT20250926000340",
-        "site": "PH0800208",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
-        "alarm": "Transmission unit link break"
-    },
-    {
         "nft": "NFT20250926000335",
         "site": "PH0800251",
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Device Powered Off"
     },
     {
@@ -235,8 +215,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "2.1",
-        "remaining": "1.9",
+        "duration": "2.2",
+        "remaining": "1.8",
         "alarm": "Cell22 Over Resistance Alarm"
     },
     {
@@ -245,8 +225,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Cell18 Over Resistance Alarm"
     },
     {
@@ -256,7 +236,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.6",
-        "remaining": "5.4",
+        "remaining": "5.3",
         "alarm": "Transmission unit link break"
     },
     {
@@ -265,7 +245,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.6",
+        "duration": "2.7",
         "remaining": "5.3",
         "alarm": "BBU interrupted"
     },
@@ -393,9 +373,9 @@
         "nft": "NFT20250926000171",
         "site": "PH0700875",
         "area": "CEBU",
-        "state": "Suspend",
+        "state": "Processing",
         "severity": "Minor",
-        "duration": "1.0",
+        "duration": "1.1",
         "remaining": "7.0",
         "alarm": "Standing wave warning"
     },
@@ -403,17 +383,17 @@
         "nft": "NFT20250926000170",
         "site": "CO085",
         "area": "LEYTE",
-        "state": "Suspend",
+        "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "ATS S1 Voltage State"
     },
     {
         "nft": "NFT20250926000145",
         "site": "CO086",
         "area": "NEGROS",
-        "state": "Suspend",
+        "state": "Processing",
         "severity": "Major",
         "duration": "1.3",
         "remaining": "6.7",
@@ -423,7 +403,7 @@
         "nft": "NFT20250926000134",
         "site": "IBS0840003",
         "area": "LEYTE",
-        "state": "Suspend",
+        "state": "Processing",
         "severity": "Critical",
         "duration": "0.3",
         "remaining": "3.7",
@@ -433,7 +413,7 @@
         "nft": "NFT20250926000008",
         "site": "PH0700145",
         "area": "NEGROS",
-        "state": "Suspend",
+        "state": "Processing",
         "severity": "Minor",
         "duration": "1.4",
         "remaining": "6.6",
@@ -443,7 +423,7 @@
         "nft": "NFT20250925000668",
         "site": "PH0700319",
         "area": "CEBU",
-        "state": "Suspend",
+        "state": "Processing",
         "severity": "Major",
         "duration": "2.7",
         "remaining": "5.3",
@@ -453,9 +433,9 @@
         "nft": "NFT20250925000561",
         "site": "PH0700229",
         "area": "CEBU",
-        "state": "Suspend",
+        "state": "Processing",
         "severity": "Minor",
-        "duration": "1.5",
+        "duration": "1.6",
         "remaining": "6.5",
         "alarm": "Cell out of service"
     },
@@ -463,7 +443,7 @@
         "nft": "NFT20250925000550",
         "site": "PH0800402",
         "area": "LEYTE",
-        "state": "Suspend",
+        "state": "Processing",
         "severity": "Minor",
         "duration": "0.2",
         "remaining": "7.8",
@@ -513,7 +493,7 @@
         "nft": "NFT20250924000038",
         "site": "PH0600075",
         "area": "PANAY",
-        "state": "Suspend",
+        "state": "Processing",
         "severity": "Major",
         "duration": "5.1",
         "remaining": "2.9",
@@ -543,7 +523,7 @@
         "nft": "NFT20250922000680",
         "site": "IBS0740021",
         "area": "BOHOL",
-        "state": "Suspend",
+        "state": "Processing",
         "severity": "Minor",
         "duration": "0.2",
         "remaining": "7.8",
@@ -573,10 +553,10 @@
         "nft": "NFT20250921000284",
         "site": "IBS0610001",
         "area": "PANAY",
-        "state": "Suspend",
+        "state": "Processing",
         "severity": "Minor",
         "duration": "0.1",
-        "remaining": "7.9",
+        "remaining": "7.8",
         "alarm": "The received optical power of the optical module is abnormal"
     },
     {
