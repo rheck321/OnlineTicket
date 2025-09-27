@@ -15,19 +15,9 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "ATS S1 Voltage State"
-    },
-    {
-        "nft": "NFT20250927000310",
-        "site": "IBS0740021",
-        "area": "BOHOL",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.7",
-        "remaining": "7.3",
-        "alarm": "RRU interrupted"
     },
     {
         "nft": "NFT20250927000284",
@@ -35,8 +25,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.4",
-        "remaining": "2.6",
+        "duration": "1.5",
+        "remaining": "2.5",
         "alarm": "Break Off"
     },
     {
@@ -65,8 +55,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.9",
-        "remaining": "4.1",
+        "duration": "4.0",
+        "remaining": "4.0",
         "alarm": "RRU interrupted"
     },
     {
@@ -360,22 +350,12 @@
         "alarm": "Pico RRU not connected"
     },
     {
-        "nft": "NFT20250926000247",
-        "site": "PH0700881",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "3.8",
-        "remaining": "4.2",
-        "alarm": "RRU interrupted"
-    },
-    {
         "nft": "NFT20250926000236",
         "site": "PH0700096",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.1",
+        "duration": "4.2",
         "remaining": "3.9",
         "alarm": "Cell out of service"
     },
