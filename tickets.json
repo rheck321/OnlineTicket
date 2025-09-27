@@ -1,22 +1,12 @@
 {"nftlist":[
     {
-        "nft": "NFT20250927000232",
-        "site": "PH0800434",
-        "area": "SAMAR",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.0",
-        "remaining": "8.0",
-        "alarm": "Air Conditioner Communication Lost"
-    },
-    {
         "nft": "NFT20250927000224",
         "site": "PH0700185",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Optical Invalid"
     },
     {
@@ -25,8 +15,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Device Powered Off"
     },
     {
@@ -176,7 +166,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
@@ -265,8 +255,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
@@ -326,7 +316,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.6",
-        "remaining": "5.4",
+        "remaining": "5.3",
         "alarm": "BBU interrupted"
     },
     {
@@ -335,8 +325,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.5",
-        "remaining": "0.5",
+        "duration": "7.6",
+        "remaining": "0.4",
         "alarm": "Transmission unit link break"
     },
     {
@@ -415,8 +405,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.8",
-        "remaining": "2.2",
+        "duration": "1.9",
+        "remaining": "2.1",
         "alarm": "The Device is offline"
     },
     {
@@ -445,7 +435,7 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.5",
+        "duration": "1.6",
         "remaining": "6.5",
         "alarm": "Low fuel level alarm"
     },
@@ -455,7 +445,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.1",
+        "duration": "0.2",
         "remaining": "7.8",
         "alarm": "The Equipment is offline(DATA)"
     },
@@ -496,7 +486,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-4.0",
-        "remaining": "12.0",
+        "remaining": "11.9",
         "alarm": "Device Powered Off"
     },
     {
@@ -505,7 +495,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
+        "duration": "1.6",
         "remaining": "6.5",
         "alarm": "Physical Port Down"
     },
@@ -515,8 +505,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.7",
-        "remaining": "0.3",
+        "duration": "7.8",
+        "remaining": "0.2",
         "alarm": "Low fuel level alarm"
     },
     {
@@ -535,7 +525,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.1",
+        "duration": "3.2",
         "remaining": "4.8",
         "alarm": "Optical Invalid"
     },
@@ -565,8 +555,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "RRU interrupted"
     },
     {
@@ -596,7 +586,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.4",
-        "remaining": "6.7",
+        "remaining": "6.6",
         "alarm": "Cell out of service"
     },
     {
@@ -606,7 +596,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.1",
-        "remaining": "5.9",
+        "remaining": "5.8",
         "alarm": "RRU hardware failure"
     },
     {
