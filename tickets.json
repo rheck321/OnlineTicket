@@ -15,8 +15,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Device Powered Off"
     },
     {
@@ -28,16 +28,6 @@
         "duration": "0.5",
         "remaining": "7.5",
         "alarm": "Physical Port Down"
-    },
-    {
-        "nft": "NFT20250927000209",
-        "site": "IBS0740021",
-        "area": "BOHOL",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.5",
-        "alarm": "RRU interrupted"
     },
     {
         "nft": "NFT20250927000207",
@@ -65,7 +55,7 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "Battery Communication Fail"
     },
@@ -165,8 +155,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
@@ -210,16 +200,6 @@
         "alarm": "ATS S1 Voltage State"
     },
     {
-        "nft": "NFT20250927000118",
-        "site": "PH0800096",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "3.1",
-        "remaining": "4.9",
-        "alarm": "Battery Communication Fail"
-    },
-    {
         "nft": "NFT20250927000084",
         "site": "PH0800022",
         "area": "SAMAR",
@@ -255,8 +235,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
@@ -325,8 +305,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.6",
-        "remaining": "0.4",
+        "duration": "7.7",
+        "remaining": "0.3",
         "alarm": "Transmission unit link break"
     },
     {
@@ -346,7 +326,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "Device Powered Off"
     },
     {
@@ -406,7 +386,7 @@
         "state": "Processing",
         "severity": "Critical",
         "duration": "1.9",
-        "remaining": "2.1",
+        "remaining": "2.0",
         "alarm": "The Device is offline"
     },
     {
@@ -506,7 +486,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "7.8",
-        "remaining": "0.2",
+        "remaining": "0.1",
         "alarm": "Low fuel level alarm"
     },
     {
@@ -525,8 +505,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "Optical Invalid"
     },
     {
@@ -535,8 +515,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Pico RRU not connected"
     },
     {
@@ -555,8 +535,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "RRU interrupted"
     },
     {
@@ -575,7 +555,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.9",
+        "duration": "1.0",
         "remaining": "7.0",
         "alarm": "Cell out of service"
     },
@@ -585,8 +565,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Cell out of service"
     },
     {
@@ -605,8 +585,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Charge Circuit Switch Failure alarm"
     },
     {
