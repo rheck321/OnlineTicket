@@ -25,7 +25,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "7.5",
         "alarm": "Charge Circuit Switch Failure alarm"
     },
@@ -46,7 +46,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Device Powered Off"
     },
     {
@@ -196,7 +196,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
@@ -355,8 +355,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.2",
-        "remaining": "6.8",
+        "duration": "1.3",
+        "remaining": "6.7",
         "alarm": "The Equipment is offline(DATA)"
     },
     {
@@ -425,8 +425,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "Optical Invalid"
     },
     {
@@ -435,8 +435,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Pico RRU not connected"
     },
     {
@@ -445,8 +445,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "RRU interrupted"
     },
     {
@@ -465,7 +465,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.9",
+        "duration": "2.0",
         "remaining": "6.0",
         "alarm": "Cell out of service"
     },
@@ -485,8 +485,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Charge Circuit Switch Failure alarm"
     },
     {
