@@ -1,23 +1,33 @@
 {"nftlist":[
     {
+        "nft": "NFT20250927000256",
+        "site": "PH0800144",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Modem part unlock"
+    },
+    {
+        "nft": "NFT20250927000251",
+        "site": "PH0700181",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "The Device is offline"
+    },
+    {
         "nft": "NFT20250927000249",
         "site": "PH0600075",
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
-        "alarm": "Charge Circuit Switch Failure alarm"
-    },
-    {
-        "nft": "NFT20250927000247",
-        "site": "CO085",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Critical",
         "duration": "0.3",
-        "remaining": "3.7",
-        "alarm": "Perimeter Alarm"
+        "remaining": "7.7",
+        "alarm": "Charge Circuit Switch Failure alarm"
     },
     {
         "nft": "NFT20250927000224",
@@ -25,8 +35,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.9",
-        "remaining": "7.1",
+        "duration": "1.0",
+        "remaining": "7.0",
         "alarm": "Optical Invalid"
     },
     {
@@ -35,8 +45,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Device Powered Off"
     },
     {
@@ -185,8 +195,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
@@ -245,8 +255,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "BBU interrupted"
     },
     {
@@ -345,7 +355,7 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.3",
+        "duration": "2.4",
         "remaining": "5.7",
         "alarm": "Low fuel level alarm"
     },
@@ -355,8 +365,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.9",
-        "remaining": "7.1",
+        "duration": "1.0",
+        "remaining": "7.0",
         "alarm": "The Equipment is offline(DATA)"
     },
     {
@@ -395,7 +405,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.3",
+        "duration": "2.4",
         "remaining": "5.7",
         "alarm": "Physical Port Down"
     },
@@ -435,7 +445,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "Pico RRU not connected"
     },
@@ -445,7 +455,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.1",
+        "duration": "1.2",
         "remaining": "6.8",
         "alarm": "RRU interrupted"
     },
@@ -475,8 +485,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "RRU hardware failure"
     },
     {
@@ -485,7 +495,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "Charge Circuit Switch Failure alarm"
     },
