@@ -1,5 +1,15 @@
 {"nftlist":[
     {
+        "nft": "NFT20250927000484",
+        "site": "PH0600733",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "GPS clock failure"
+    },
+    {
         "nft": "NFT20250927000460",
         "site": "PH0600288",
         "area": "NEGROS",
@@ -15,8 +25,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Cell out of service"
     },
     {
@@ -25,7 +35,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.0",
+        "duration": "1.1",
         "remaining": "7.0",
         "alarm": "The received optical power of the optical module is abnormal"
     },
@@ -35,8 +45,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
