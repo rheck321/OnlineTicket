@@ -1,5 +1,15 @@
 {"nftlist":[
     {
+        "nft": "NFT20250927000232",
+        "site": "PH0800434",
+        "area": "SAMAR",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Air Conditioner Communication Lost"
+    },
+    {
         "nft": "NFT20250927000224",
         "site": "PH0700185",
         "area": "CEBU",
@@ -35,8 +45,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "RRU interrupted"
     },
     {
@@ -50,13 +60,23 @@
         "alarm": "RRU interrupted"
     },
     {
+        "nft": "NFT20250927000185",
+        "site": "PH0700217",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Major",
+        "duration": "0.9",
+        "remaining": "7.1",
+        "alarm": "Charge Circuit Switch Failure alarm"
+    },
+    {
         "nft": "NFT20250927000168",
         "site": "PH0700652",
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.3",
-        "remaining": "6.7",
+        "duration": "1.4",
+        "remaining": "6.6",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -66,67 +86,87 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.7",
+        "remaining": "6.6",
         "alarm": "BBU interrupted"
     },
     {
         "nft": "NFT20250927000156",
         "site": "IBS0640016",
         "area": "NEGROS",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Minor",
-        "duration": "1.8",
-        "remaining": "6.2",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "The received optical power of the optical module is abnormal"
     },
     {
         "nft": "NFT20250927000150",
         "site": "IBS0640002",
         "area": "PANAY",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Minor",
-        "duration": "1.8",
-        "remaining": "6.2",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "The received optical power of the optical module is abnormal"
     },
     {
         "nft": "NFT20250927000154",
         "site": "IBS0710030",
         "area": "CEBU",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Critical",
-        "duration": "1.8",
-        "remaining": "2.2",
+        "duration": "0.3",
+        "remaining": "3.6",
         "alarm": "Pico RRU not connected"
     },
     {
         "nft": "NFT20250927000144",
         "site": "IBS0640005",
         "area": "NEGROS",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Critical",
-        "duration": "1.8",
-        "remaining": "2.2",
+        "duration": "0.3",
+        "remaining": "3.7",
+        "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20250927000149",
+        "site": "IBS0610007",
+        "area": "PANAY",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.3",
+        "remaining": "3.7",
         "alarm": "Pico RRU not connected"
     },
     {
         "nft": "NFT20250927000145",
         "site": "IBS0710029",
         "area": "CEBU",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Critical",
-        "duration": "1.8",
-        "remaining": "2.2",
+        "duration": "0.3",
+        "remaining": "3.6",
         "alarm": "Pico RRU not connected"
     },
     {
         "nft": "NFT20250927000148",
         "site": "IBS0610012",
         "area": "NEGROS",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Critical",
-        "duration": "1.8",
-        "remaining": "2.2",
+        "duration": "0.4",
+        "remaining": "3.6",
+        "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20250927000147",
+        "site": "IBS0610001",
+        "area": "PANAY",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.4",
+        "remaining": "3.6",
         "alarm": "Pico RRU not connected"
     },
     {
@@ -135,7 +175,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.3",
+        "duration": "2.4",
         "remaining": "5.7",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
@@ -155,8 +195,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.6",
-        "remaining": "5.4",
+        "duration": "2.7",
+        "remaining": "5.3",
         "alarm": "Under speed shutdown alarm"
     },
     {
@@ -165,7 +205,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.6",
+        "duration": "2.7",
         "remaining": "5.3",
         "alarm": "Battery Communication Fail"
     },
@@ -173,10 +213,10 @@
         "nft": "NFT20250927000128",
         "site": "CO090",
         "area": "LEYTE",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Major",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "2.4",
+        "remaining": "5.6",
         "alarm": "ATS S1 Voltage State"
     },
     {
@@ -195,7 +235,7 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.3",
+        "duration": "4.4",
         "remaining": "3.6",
         "alarm": "Air Conditioner Communication Lost"
     },
@@ -205,7 +245,7 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.3",
+        "duration": "4.4",
         "remaining": "3.6",
         "alarm": "Air Conditioner Communication Lost"
     },
@@ -275,8 +315,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "BBU interrupted"
     },
     {
@@ -315,18 +355,18 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Device Powered Off"
     },
     {
         "nft": "NFT20250926000898",
         "site": "PH0600688",
         "area": "NEGROS",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Major",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "1.9",
+        "remaining": "6.1",
         "alarm": "Optical Invalid"
     },
     {
@@ -355,8 +395,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "BBU interrupted"
     },
     {
@@ -395,8 +435,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.8",
-        "remaining": "5.2",
+        "duration": "2.9",
+        "remaining": "5.1",
         "alarm": "Optical Fail"
     },
     {
@@ -416,7 +456,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.1",
-        "remaining": "7.9",
+        "remaining": "7.8",
         "alarm": "The Equipment is offline(DATA)"
     },
     {
@@ -496,7 +536,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.1",
-        "remaining": "4.9",
+        "remaining": "4.8",
         "alarm": "Optical Invalid"
     },
     {
@@ -505,8 +545,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Pico RRU not connected"
     },
     {
@@ -515,8 +555,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
@@ -545,8 +585,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "Cell out of service"
     },
     {
@@ -555,7 +595,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.3",
+        "duration": "1.4",
         "remaining": "6.7",
         "alarm": "Cell out of service"
     },
@@ -575,8 +615,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Charge Circuit Switch Failure alarm"
     },
     {
@@ -596,7 +636,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.7",
-        "remaining": "3.4",
+        "remaining": "3.3",
         "alarm": "Cell out of service"
     },
     {
@@ -605,7 +645,7 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.6",
+        "duration": "2.7",
         "remaining": "5.3",
         "alarm": "RRU interrupted"
     },
