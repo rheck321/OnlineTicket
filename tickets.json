@@ -1,12 +1,22 @@
 {"nftlist":[
     {
+        "nft": "NFT20250927000329",
+        "site": "PH0600195",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Critical",
+        "duration": "0.3",
+        "remaining": "3.7",
+        "alarm": "The Device is offline"
+    },
+    {
         "nft": "NFT20250927000322",
         "site": "CO074",
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "ATS S1 Voltage State"
     },
     {
@@ -15,8 +25,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "RRU interrupted"
     },
     {
@@ -35,8 +45,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.8",
-        "remaining": "5.2",
+        "duration": "2.9",
+        "remaining": "5.1",
         "alarm": "Charge Circuit Switch Failure alarm"
     },
     {
@@ -175,8 +185,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
@@ -285,8 +295,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "The Equipment is offline(DATA)"
     },
     {
@@ -355,8 +365,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "RRU interrupted"
     },
     {
@@ -365,8 +375,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "Cell out of service"
     },
     {
@@ -375,8 +385,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "Cell out of service"
     },
     {
