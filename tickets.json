@@ -1,13 +1,93 @@
 {"nftlist":[
     {
-        "nft": "NFT20250927000359",
-        "site": "PH0800144",
-        "area": "LEYTE",
+        "nft": "NFT20250927000460",
+        "site": "PH0600288",
+        "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
-        "alarm": "Modem part unlock"
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Low oil pressure shutdown alarm"
+    },
+    {
+        "nft": "NFT20250927000455",
+        "site": "PH0700747",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.3",
+        "remaining": "7.7",
+        "alarm": "Optical Fail"
+    },
+    {
+        "nft": "NFT20250927000442",
+        "site": "IBS0640016",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.7",
+        "remaining": "7.3",
+        "alarm": "The received optical power of the optical module is abnormal"
+    },
+    {
+        "nft": "NFT20250927000418",
+        "site": "PH0600219",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "1.2",
+        "remaining": "6.8",
+        "alarm": "Air Conditioner Outer Fan Fault"
+    },
+    {
+        "nft": "NFT20250927000415",
+        "site": "PH0600040",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "1.2",
+        "remaining": "6.8",
+        "alarm": "Transmission unit link break"
+    },
+    {
+        "nft": "NFT20250927000416",
+        "site": "PH0600040",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "1.2",
+        "remaining": "6.8",
+        "alarm": "Transmission unit link break"
+    },
+    {
+        "nft": "NFT20250927000417",
+        "site": "PH0600053",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "1.2",
+        "remaining": "6.8",
+        "alarm": "The Equipment is offline(Microwave)"
+    },
+    {
+        "nft": "NFT20250927000369",
+        "site": "PH0700298",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Major",
+        "duration": "0.3",
+        "remaining": "7.7",
+        "alarm": "Physical Port Down"
+    },
+    {
+        "nft": "NFT20250927000368",
+        "site": "PH0700276",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Major",
+        "duration": "0.3",
+        "remaining": "7.7",
+        "alarm": "Physical Port Down"
     },
     {
         "nft": "NFT20250927000356",
@@ -15,29 +95,9 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "Low Liquid Level Alarm shutdown"
-    },
-    {
-        "nft": "NFT20250927000329",
-        "site": "PH0600195",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Critical",
-        "duration": "2.2",
-        "remaining": "1.8",
-        "alarm": "The Device is offline"
-    },
-    {
-        "nft": "NFT20250927000322",
-        "site": "CO074",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "2.3",
-        "remaining": "5.7",
-        "alarm": "ATS S1 Voltage State"
     },
     {
         "nft": "NFT20250927000284",
@@ -48,16 +108,6 @@
         "duration": "2.7",
         "remaining": "1.3",
         "alarm": "Break Off"
-    },
-    {
-        "nft": "NFT20250927000249",
-        "site": "PH0600075",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "4.7",
-        "remaining": "3.3",
-        "alarm": "Charge Circuit Switch Failure alarm"
     },
     {
         "nft": "NFT20250927000185",
@@ -170,16 +220,6 @@
         "alarm": "ATS S1 Voltage State"
     },
     {
-        "nft": "NFT20250927000035",
-        "site": "PH0800146",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "5.6",
-        "remaining": "2.4",
-        "alarm": "Air Conditioner Outer Fan Fault"
-    },
-    {
         "nft": "NFT20250927000009",
         "site": "PH0800020",
         "area": "SAMAR",
@@ -188,145 +228,5 @@
         "duration": "0.3",
         "remaining": "3.7",
         "alarm": "The Device is offline"
-    },
-    {
-        "nft": "NFT20250926001012",
-        "site": "PH0600312",
-        "area": "PANAY",
-        "state": "Suspend",
-        "severity": "Minor",
-        "duration": "2.3",
-        "remaining": "5.7",
-        "alarm": "Heating exchange fan fault"
-    },
-    {
-        "nft": "NFT20250926000988",
-        "site": "PH0800020",
-        "area": "SAMAR",
-        "state": "Suspend",
-        "severity": "Major",
-        "duration": "5.4",
-        "remaining": "2.6",
-        "alarm": "BBU interrupted"
-    },
-    {
-        "nft": "NFT20250926000946",
-        "site": "PH0800434",
-        "area": "SAMAR",
-        "state": "Suspend",
-        "severity": "Major",
-        "duration": "2.5",
-        "remaining": "5.5",
-        "alarm": "BBU interrupted"
-    },
-    {
-        "nft": "NFT20250926000888",
-        "site": "PH0600829",
-        "area": "NEGROS",
-        "state": "Suspend",
-        "severity": "Minor",
-        "duration": "5.5",
-        "remaining": "2.5",
-        "alarm": "Cell out of service"
-    },
-    {
-        "nft": "NFT20250926000884",
-        "site": "PH0800022",
-        "area": "SAMAR",
-        "state": "Processing",
-        "severity": "Critical",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "The Device is offline"
-    },
-    {
-        "nft": "NFT20250926000839",
-        "site": "PH0800402",
-        "area": "LEYTE",
-        "state": "Suspend",
-        "severity": "Minor",
-        "duration": "1.8",
-        "remaining": "6.2",
-        "alarm": "Cell out of service"
-    },
-    {
-        "nft": "NFT20250926000701",
-        "site": "PH0800015",
-        "area": "SAMAR",
-        "state": "Suspend",
-        "severity": "Minor",
-        "duration": "3.4",
-        "remaining": "4.6",
-        "alarm": "Low fuel level alarm"
-    },
-    {
-        "nft": "NFT20250926000642",
-        "site": "PH0700429",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "5.4",
-        "remaining": "2.6",
-        "alarm": "The Equipment is offline(DATA)"
-    },
-    {
-        "nft": "NFT20250926000617",
-        "site": "PH0600674",
-        "area": "PANAY",
-        "state": "Suspend",
-        "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
-        "alarm": "Physical Port Down"
-    },
-    {
-        "nft": "NFT20250926000451",
-        "site": "PH0800016",
-        "area": "SAMAR",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Low fuel level alarm"
-    },
-    {
-        "nft": "NFT20250926000296",
-        "site": "IBS0710029",
-        "area": "CEBU",
-        "state": "Suspend",
-        "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
-        "alarm": "Pico RRU not connected"
-    },
-    {
-        "nft": "NFT20250926000192",
-        "site": "PH0700875",
-        "area": "CEBU",
-        "state": "Suspend",
-        "severity": "Minor",
-        "duration": "4.5",
-        "remaining": "3.5",
-        "alarm": "RRU hardware failure"
-    },
-    {
-        "nft": "NFT20250926000171",
-        "site": "PH0700875",
-        "area": "CEBU",
-        "state": "Suspend",
-        "severity": "Minor",
-        "duration": "-7.9",
-        "remaining": "15.9",
-        "alarm": "Standing wave warning"
-    },
-    {
-        "nft": "NFT20250925000545",
-        "site": "IBS0740021",
-        "area": "BOHOL",
-        "state": "Suspend",
-        "severity": "Minor",
-        "duration": "3.8",
-        "remaining": "4.2",
-        "alarm": "RRU interrupted"
     }
 ]}
