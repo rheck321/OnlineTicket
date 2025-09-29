@@ -1,12 +1,32 @@
 {"nftlist":[
     {
+        "nft": "NFT20250929000232",
+        "site": "PH0600831",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Battery Communication Fail"
+    },
+    {
+        "nft": "NFT20250929000231",
+        "site": "CO090",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Critical",
+        "duration": "0.1",
+        "remaining": "3.9",
+        "alarm": "Perimeter Alarm"
+    },
+    {
         "nft": "NFT20250929000221",
         "site": "PH0700329",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Gen communication status alarm"
     },
     {
@@ -15,8 +35,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Breaker Fail to Switch Warning"
     },
     {
@@ -175,8 +195,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.3",
-        "remaining": "4.7",
+        "duration": "3.4",
+        "remaining": "4.6",
         "alarm": "RRU interrupted"
     },
     {
@@ -185,8 +205,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.9",
-        "remaining": "4.1",
+        "duration": "4.0",
+        "remaining": "4.0",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -205,8 +225,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.8",
-        "remaining": "4.2",
+        "duration": "3.9",
+        "remaining": "4.1",
         "alarm": "Charge Circuit Switch Failure alarm"
     },
     {
@@ -246,7 +266,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.7",
-        "remaining": "1.4",
+        "remaining": "1.3",
         "alarm": "Low fuel level alarm"
     },
     {
