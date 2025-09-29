@@ -1,5 +1,15 @@
 {"nftlist":[
     {
+        "nft": "NFT20250929000263",
+        "site": "PH0700198",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.8",
+        "alarm": "Physical Port Down"
+    },
+    {
         "nft": "NFT20250929000253",
         "site": "PH0600652",
         "area": "NEGROS",
@@ -15,8 +25,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Optical Fail"
     },
     {
@@ -75,8 +85,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.1",
-        "remaining": "3.9",
+        "duration": "4.2",
+        "remaining": "3.8",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -85,8 +95,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.1",
-        "remaining": "3.9",
+        "duration": "4.2",
+        "remaining": "3.8",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -245,8 +255,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.7",
-        "remaining": "1.3",
+        "duration": "6.8",
+        "remaining": "1.2",
         "alarm": "Heating exchange fan fault"
     },
     {
@@ -255,8 +265,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.3",
-        "remaining": "0.7",
+        "duration": "7.4",
+        "remaining": "0.6",
         "alarm": "BBU interrupted"
     },
     {
