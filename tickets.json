@@ -15,7 +15,7 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.1",
+        "duration": "0.2",
         "remaining": "7.8",
         "alarm": "Air Conditioner Communication Lost"
     },
@@ -25,7 +25,7 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.1",
+        "duration": "0.2",
         "remaining": "7.8",
         "alarm": "Air Conditioner Communication Lost"
     },
@@ -45,8 +45,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Transmission unit link break"
     },
     {
@@ -55,8 +55,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Device Powered Off"
     },
     {
@@ -75,8 +75,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "Physical Port Down"
     },
     {
@@ -246,7 +246,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-2.6",
-        "remaining": "10.7",
+        "remaining": "10.6",
         "alarm": "Cell out of service"
     },
     {
@@ -255,8 +255,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-4.2",
-        "remaining": "12.2",
+        "duration": "-4.1",
+        "remaining": "12.1",
         "alarm": "Low fuel level alarm"
     },
     {
