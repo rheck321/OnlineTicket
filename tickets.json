@@ -55,8 +55,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -75,8 +75,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.7",
-        "remaining": "3.3",
+        "duration": "4.8",
+        "remaining": "3.2",
         "alarm": "Low oil pressure shutdown alarm"
     },
     {
@@ -246,7 +246,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-3.0",
-        "remaining": "11.1",
+        "remaining": "11.0",
         "alarm": "Low fuel level alarm"
     },
     {
