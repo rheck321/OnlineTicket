@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Low oil pressure shutdown alarm"
     },
     {
@@ -35,8 +35,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Optical Fail"
     },
     {
@@ -45,7 +45,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.6",
+        "duration": "1.7",
         "remaining": "6.3",
         "alarm": "Pico RRU not connected"
     },
@@ -75,7 +75,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.1",
+        "duration": "2.2",
         "remaining": "5.8",
         "alarm": "Breaker Fail to Switch Warning"
     },
@@ -96,7 +96,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.3",
-        "remaining": "3.7",
+        "remaining": "3.6",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -106,7 +106,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.3",
-        "remaining": "3.7",
+        "remaining": "3.6",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -225,8 +225,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.0",
-        "remaining": "3.0",
+        "duration": "5.1",
+        "remaining": "2.9",
         "alarm": "RRU interrupted"
     },
     {
@@ -236,7 +236,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "5.7",
-        "remaining": "2.4",
+        "remaining": "2.3",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -255,8 +255,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.5",
-        "remaining": "2.5",
+        "duration": "5.6",
+        "remaining": "2.4",
         "alarm": "Charge Circuit Switch Failure alarm"
     },
     {
