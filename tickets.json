@@ -85,8 +85,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "Physical Port Down"
     },
     {
@@ -215,8 +215,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-6.5",
-        "remaining": "14.5",
+        "duration": "-6.4",
+        "remaining": "14.4",
         "alarm": "Heating exchange fan fault"
     },
     {
@@ -236,7 +236,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-3.5",
-        "remaining": "11.5",
+        "remaining": "11.4",
         "alarm": "Cell out of service"
     },
     {
