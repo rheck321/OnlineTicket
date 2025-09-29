@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "Pico RRU not connected"
     },
     {
@@ -15,7 +15,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
+        "duration": "0.2",
         "remaining": "7.8",
         "alarm": "Battery Communication Fail"
     },
@@ -25,8 +25,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.1",
-        "remaining": "3.9",
+        "duration": "0.2",
+        "remaining": "3.8",
         "alarm": "Perimeter Alarm"
     },
     {
@@ -46,7 +46,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Breaker Fail to Switch Warning"
     },
     {
@@ -65,8 +65,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -75,19 +75,9 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Air Conditioner Communication Lost"
-    },
-    {
-        "nft": "NFT20250929000167",
-        "site": "PH0700398",
-        "area": "BOHOL",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "3.5",
-        "remaining": "4.5",
-        "alarm": "Battery Communication Fail"
     },
     {
         "nft": "NFT20250929000147",
@@ -215,8 +205,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -255,8 +245,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.9",
-        "remaining": "2.1",
+        "duration": "6.0",
+        "remaining": "2.0",
         "alarm": "BBU interrupted"
     },
     {
