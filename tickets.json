@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "Breaker Fail to Switch Warning"
     },
     {
@@ -15,8 +15,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Powered Off"
     },
     {
@@ -35,7 +35,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
+        "duration": "1.6",
         "remaining": "6.5",
         "alarm": "ATS S1 Voltage State"
     },
@@ -45,7 +45,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.9",
+        "duration": "2.0",
         "remaining": "6.0",
         "alarm": "Low oil pressure shutdown alarm"
     },
@@ -56,18 +56,8 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.1",
-        "remaining": "5.9",
+        "remaining": "5.8",
         "alarm": "Physical Port Down"
-    },
-    {
-        "nft": "NFT20250929000221",
-        "site": "PH0700329",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "3.8",
-        "remaining": "4.2",
-        "alarm": "Gen communication status alarm"
     },
     {
         "nft": "NFT20250929000201",
@@ -205,8 +195,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-7.3",
-        "remaining": "15.3",
+        "duration": "-7.2",
+        "remaining": "15.2",
         "alarm": "Heating exchange fan fault"
     },
     {
