@@ -6,8 +6,18 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "Transmission unit link break"
+    },
+    {
+        "nft": "NFT20250929000349",
+        "site": "PH0800391",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Powered Off"
     },
     {
         "nft": "NFT20250929000325",
@@ -15,7 +25,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
+        "duration": "1.1",
         "remaining": "7.0",
         "alarm": "Battery Communication Fail"
     },
@@ -25,8 +35,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.1",
-        "remaining": "5.9",
+        "duration": "2.2",
+        "remaining": "5.8",
         "alarm": "Physical Port Down"
     },
     {
@@ -195,7 +205,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-3.0",
+        "duration": "-2.9",
         "remaining": "10.9",
         "alarm": "Cell out of service"
     },
@@ -205,8 +215,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-4.5",
-        "remaining": "12.5",
+        "duration": "-4.4",
+        "remaining": "12.4",
         "alarm": "Low fuel level alarm"
     },
     {
