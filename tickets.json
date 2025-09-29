@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "Low oil pressure shutdown alarm"
     },
     {
@@ -15,8 +15,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Physical Port Down"
     },
     {
@@ -25,8 +25,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Optical Invalid"
     },
     {
@@ -85,8 +85,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.3",
-        "remaining": "4.7",
+        "duration": "3.4",
+        "remaining": "4.6",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -95,8 +95,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -105,8 +105,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -215,8 +215,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.9",
-        "remaining": "3.1",
+        "duration": "5.0",
+        "remaining": "3.0",
         "alarm": "RRU interrupted"
     },
     {
@@ -265,8 +265,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.8",
-        "remaining": "1.2",
+        "duration": "6.9",
+        "remaining": "1.1",
         "alarm": "Heating exchange fan fault"
     },
     {
@@ -276,7 +276,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "7.5",
-        "remaining": "0.6",
+        "remaining": "0.5",
         "alarm": "BBU interrupted"
     },
     {
