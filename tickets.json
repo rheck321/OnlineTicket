@@ -1,5 +1,15 @@
 {"nftlist":[
     {
+        "nft": "NFT20250929000220",
+        "site": "PH0600307",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.8",
+        "alarm": "Breaker Fail to Switch Warning"
+    },
+    {
         "nft": "NFT20250929000201",
         "site": "PH0600343",
         "area": "NEGROS",
@@ -8,16 +18,6 @@
         "duration": "1.4",
         "remaining": "6.6",
         "alarm": "Battery Communication Fail"
-    },
-    {
-        "nft": "NFT20250929000182",
-        "site": "PH0700071",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
-        "alarm": "The Device is offline"
     },
     {
         "nft": "NFT20250929000179",
@@ -135,8 +135,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "The Device is offline"
     },
     {
@@ -145,8 +145,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.3",
-        "remaining": "3.7",
+        "duration": "4.4",
+        "remaining": "3.6",
         "alarm": "Transmission unit link break"
     },
     {
@@ -155,8 +155,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.3",
-        "remaining": "3.7",
+        "duration": "4.4",
+        "remaining": "3.6",
         "alarm": "Transmission unit link break"
     },
     {
@@ -165,19 +165,9 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.9",
-        "remaining": "3.1",
+        "duration": "5.0",
+        "remaining": "3.0",
         "alarm": "BBU interrupted"
-    },
-    {
-        "nft": "NFT20250929000113",
-        "site": "PH0700257",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "5.4",
-        "remaining": "2.6",
-        "alarm": "Physical Port Down"
     },
     {
         "nft": "NFT20250928000316",
@@ -226,7 +216,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.6",
-        "remaining": "4.4",
+        "remaining": "4.3",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -275,7 +265,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.8",
+        "duration": "7.9",
         "remaining": "0.1",
         "alarm": "Cell out of service"
     },
@@ -285,8 +275,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.3",
-        "remaining": "1.7",
+        "duration": "6.4",
+        "remaining": "1.6",
         "alarm": "Low fuel level alarm"
     },
     {
