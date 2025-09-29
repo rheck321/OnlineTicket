@@ -36,7 +36,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "ATS S1 Voltage State"
     },
     {
@@ -55,7 +55,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.1",
+        "duration": "2.2",
         "remaining": "5.8",
         "alarm": "Physical Port Down"
     },
@@ -65,8 +65,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.2",
-        "remaining": "2.8",
+        "duration": "5.3",
+        "remaining": "2.7",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -215,8 +215,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-4.3",
-        "remaining": "12.3",
+        "duration": "-4.2",
+        "remaining": "12.2",
         "alarm": "Cell out of service"
     },
     {
