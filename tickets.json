@@ -1,11 +1,21 @@
 {"nftlist":[
     {
+        "nft": "NFT20250929000328",
+        "site": "PH0600307",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Powered Off"
+    },
+    {
         "nft": "NFT20250929000325",
         "site": "PH0700731",
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
+        "duration": "0.2",
         "remaining": "7.8",
         "alarm": "Battery Communication Fail"
     },
@@ -15,8 +25,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Powered Off"
     },
     {
@@ -25,8 +35,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Transmission unit link break"
     },
     {
@@ -36,7 +46,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Breaker Fail to Switch Warning"
     },
     {
@@ -76,7 +86,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.6",
-        "remaining": "5.4",
+        "remaining": "5.3",
         "alarm": "Physical Port Down"
     },
     {
@@ -85,8 +95,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.7",
-        "remaining": "2.3",
+        "duration": "5.8",
+        "remaining": "2.2",
         "alarm": "Battery Communication Fail"
     },
     {
