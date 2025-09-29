@@ -5,7 +5,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.1",
+        "duration": "0.2",
         "remaining": "7.8",
         "alarm": "Breaker Fail to Switch Warning"
     },
@@ -25,7 +25,7 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.3",
+        "duration": "2.4",
         "remaining": "5.7",
         "alarm": "Air Conditioner Communication Lost"
     },
@@ -35,7 +35,7 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.3",
+        "duration": "2.4",
         "remaining": "5.7",
         "alarm": "Air Conditioner Communication Lost"
     },
@@ -46,7 +46,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.1",
-        "remaining": "4.9",
+        "remaining": "4.8",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -205,8 +205,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "RRU interrupted"
     },
     {
@@ -215,7 +215,7 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.6",
+        "duration": "3.7",
         "remaining": "4.3",
         "alarm": "Battery Communication Fail"
     },
@@ -235,8 +235,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "Charge Circuit Switch Failure alarm"
     },
     {
