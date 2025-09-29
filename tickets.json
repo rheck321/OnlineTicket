@@ -1,12 +1,22 @@
 {"nftlist":[
     {
+        "nft": "NFT20250929000325",
+        "site": "PH0700731",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Battery Communication Fail"
+    },
+    {
         "nft": "NFT20250929000322",
         "site": "PH0800391",
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.1",
-        "remaining": "7.9",
+        "remaining": "7.8",
         "alarm": "Device Powered Off"
     },
     {
@@ -16,7 +26,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "7.9",
+        "remaining": "7.8",
         "alarm": "Transmission unit link break"
     },
     {
@@ -25,8 +35,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Breaker Fail to Switch Warning"
     },
     {
@@ -35,8 +45,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Device Powered Off"
     },
     {
@@ -45,19 +55,9 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Physical Port Down"
-    },
-    {
-        "nft": "NFT20250929000279",
-        "site": "CO087",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "1.9",
-        "remaining": "6.1",
-        "alarm": "ATS S1 Voltage State"
     },
     {
         "nft": "NFT20250929000268",
@@ -235,7 +235,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-4.0",
+        "duration": "-3.9",
         "remaining": "11.9",
         "alarm": "Cell out of service"
     },
@@ -245,8 +245,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-5.5",
-        "remaining": "13.5",
+        "duration": "-5.4",
+        "remaining": "13.4",
         "alarm": "Low fuel level alarm"
     },
     {
