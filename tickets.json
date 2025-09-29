@@ -45,7 +45,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.6",
+        "duration": "2.7",
         "remaining": "5.3",
         "alarm": "Battery Communication Fail"
     },
@@ -175,8 +175,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "RRU interrupted"
     },
     {
@@ -226,7 +226,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.2",
-        "remaining": "1.9",
+        "remaining": "1.8",
         "alarm": "Heating exchange fan fault"
     },
     {
@@ -245,8 +245,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-6.9",
-        "remaining": "14.9",
+        "duration": "-6.8",
+        "remaining": "14.8",
         "alarm": "Cell out of service"
     },
     {
@@ -255,8 +255,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.6",
-        "remaining": "0.4",
+        "duration": "7.7",
+        "remaining": "0.3",
         "alarm": "Low fuel level alarm"
     },
     {
