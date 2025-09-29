@@ -45,7 +45,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
+        "duration": "1.6",
         "remaining": "6.5",
         "alarm": "Battery Communication Fail"
     },
@@ -55,7 +55,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.6",
+        "duration": "2.7",
         "remaining": "5.3",
         "alarm": "Physical Port Down"
     },
@@ -65,7 +65,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.8",
+        "duration": "3.9",
         "remaining": "4.2",
         "alarm": "Low oil pressure shutdown alarm"
     },
@@ -235,7 +235,7 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-4.0",
+        "duration": "-3.9",
         "remaining": "11.9",
         "alarm": "Low fuel level alarm"
     },
