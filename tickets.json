@@ -30,23 +30,13 @@
         "alarm": "Breaker Fail to Switch Warning"
     },
     {
-        "nft": "NFT20250929000317",
-        "site": "PH0600831",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "1.2",
-        "remaining": "6.8",
-        "alarm": "Device Powered Off"
-    },
-    {
         "nft": "NFT20250929000298",
         "site": "PH0700237",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Physical Port Down"
     },
     {
@@ -65,8 +55,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "Physical Port Down"
     },
     {
@@ -215,8 +205,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-3.4",
-        "remaining": "11.4",
+        "duration": "-3.3",
+        "remaining": "11.3",
         "alarm": "Cell out of service"
     },
     {
@@ -225,8 +215,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-4.9",
-        "remaining": "12.9",
+        "duration": "-4.8",
+        "remaining": "12.8",
         "alarm": "Low fuel level alarm"
     },
     {
