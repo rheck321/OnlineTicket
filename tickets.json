@@ -45,7 +45,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.3",
+        "duration": "1.4",
         "remaining": "6.7",
         "alarm": "The Device is offline"
     },
@@ -216,7 +216,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-4.5",
-        "remaining": "12.5",
+        "remaining": "12.4",
         "alarm": "Heating exchange fan fault"
     },
     {
