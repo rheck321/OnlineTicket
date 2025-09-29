@@ -45,7 +45,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.9",
+        "duration": "2.0",
         "remaining": "6.0",
         "alarm": "Battery Communication Fail"
     },
@@ -65,8 +65,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "Low oil pressure shutdown alarm"
     },
     {
@@ -75,8 +75,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.4",
-        "remaining": "3.6",
+        "duration": "4.5",
+        "remaining": "3.5",
         "alarm": "Physical Port Down"
     },
     {
@@ -206,7 +206,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-5.0",
-        "remaining": "13.0",
+        "remaining": "12.9",
         "alarm": "Heating exchange fan fault"
     },
     {
