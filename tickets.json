@@ -5,7 +5,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.1",
+        "duration": "0.2",
         "remaining": "7.8",
         "alarm": "Device Powered Off"
     },
@@ -26,18 +26,8 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "ATS S1 Voltage State"
-    },
-    {
-        "nft": "NFT20250929000275",
-        "site": "PH0600195",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Critical",
-        "duration": "1.8",
-        "remaining": "2.2",
-        "alarm": "The Device is offline"
     },
     {
         "nft": "NFT20250929000268",
@@ -45,8 +35,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.8",
-        "remaining": "6.2",
+        "duration": "1.9",
+        "remaining": "6.1",
         "alarm": "Low oil pressure shutdown alarm"
     },
     {
@@ -85,7 +75,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.1",
+        "duration": "5.2",
         "remaining": "2.9",
         "alarm": "Battery Communication Fail"
     },
@@ -215,8 +205,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-7.4",
-        "remaining": "15.4",
+        "duration": "-7.3",
+        "remaining": "15.3",
         "alarm": "Heating exchange fan fault"
     },
     {
