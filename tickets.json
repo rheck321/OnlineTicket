@@ -55,8 +55,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.1",
-        "remaining": "4.9",
+        "duration": "3.2",
+        "remaining": "4.8",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -65,8 +65,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.1",
-        "remaining": "4.9",
+        "duration": "3.2",
+        "remaining": "4.8",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -225,8 +225,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.7",
-        "remaining": "2.3",
+        "duration": "5.8",
+        "remaining": "2.2",
         "alarm": "Heating exchange fan fault"
     },
     {
@@ -235,8 +235,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.3",
-        "remaining": "1.7",
+        "duration": "6.4",
+        "remaining": "1.6",
         "alarm": "BBU interrupted"
     },
     {
