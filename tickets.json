@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "The Device is offline"
     },
     {
@@ -125,8 +125,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "The Device is offline"
     },
     {
@@ -156,7 +156,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.1",
-        "remaining": "4.9",
+        "remaining": "4.8",
         "alarm": "BBU interrupted"
     },
     {
@@ -165,8 +165,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "Physical Port Down"
     },
     {
@@ -176,7 +176,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.9",
-        "remaining": "4.2",
+        "remaining": "4.1",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -185,8 +185,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.9",
-        "remaining": "4.1",
+        "duration": "4.0",
+        "remaining": "4.0",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -206,7 +206,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "6.3",
-        "remaining": "1.7",
+        "remaining": "1.6",
         "alarm": "ATS S1 Voltage State"
     },
     {
@@ -215,8 +215,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.4",
-        "remaining": "2.6",
+        "duration": "5.5",
+        "remaining": "2.5",
         "alarm": "Low oil pressure shutdown alarm"
     },
     {
@@ -235,8 +235,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.9",
-        "remaining": "7.1",
+        "duration": "1.0",
+        "remaining": "7.0",
         "alarm": "RRU interrupted"
     },
     {
@@ -245,8 +245,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "RRU interrupted"
     },
     {
@@ -305,8 +305,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "Heating exchange fan fault"
     },
     {
@@ -315,7 +315,7 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.5",
+        "duration": "6.6",
         "remaining": "1.4",
         "alarm": "BBU interrupted"
     },
@@ -335,8 +335,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.0",
-        "remaining": "2.0",
+        "duration": "6.1",
+        "remaining": "1.9",
         "alarm": "Cell out of service"
     },
     {
