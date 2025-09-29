@@ -1,15 +1,5 @@
 {"nftlist":[
     {
-        "nft": "NFT20250929000328",
-        "site": "PH0600307",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
-        "alarm": "Device Powered Off"
-    },
-    {
         "nft": "NFT20250929000325",
         "site": "PH0700731",
         "area": "NEGROS",
@@ -20,22 +10,12 @@
         "alarm": "Battery Communication Fail"
     },
     {
-        "nft": "NFT20250929000320",
-        "site": "PH0600307",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "1.1",
-        "remaining": "6.9",
-        "alarm": "Breaker Fail to Switch Warning"
-    },
-    {
         "nft": "NFT20250929000298",
         "site": "PH0700237",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.8",
+        "duration": "1.9",
         "remaining": "6.2",
         "alarm": "Physical Port Down"
     },
@@ -55,7 +35,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.1",
+        "duration": "3.2",
         "remaining": "4.8",
         "alarm": "Physical Port Down"
     },
@@ -205,8 +185,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-3.3",
-        "remaining": "11.3",
+        "duration": "-3.2",
+        "remaining": "11.2",
         "alarm": "Cell out of service"
     },
     {
