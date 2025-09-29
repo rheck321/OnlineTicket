@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.1",
-        "remaining": "7.9",
+        "remaining": "7.8",
         "alarm": "Gen communication status alarm"
     },
     {
@@ -26,7 +26,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -145,29 +145,9 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.4",
-        "remaining": "3.6",
+        "duration": "4.5",
+        "remaining": "3.5",
         "alarm": "The Device is offline"
-    },
-    {
-        "nft": "NFT20250929000124",
-        "site": "PH0700526",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "4.5",
-        "remaining": "3.5",
-        "alarm": "Transmission unit link break"
-    },
-    {
-        "nft": "NFT20250929000123",
-        "site": "PH0700523",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "4.5",
-        "remaining": "3.5",
-        "alarm": "Transmission unit link break"
     },
     {
         "nft": "NFT20250929000118",
@@ -175,7 +155,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.1",
+        "duration": "5.2",
         "remaining": "2.9",
         "alarm": "BBU interrupted"
     },
@@ -205,8 +185,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.1",
-        "remaining": "4.9",
+        "duration": "3.2",
+        "remaining": "4.8",
         "alarm": "RRU interrupted"
     },
     {
@@ -255,8 +235,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.0",
-        "remaining": "3.0",
+        "duration": "5.1",
+        "remaining": "2.9",
         "alarm": "Heating exchange fan fault"
     },
     {
@@ -275,8 +255,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-8.0",
-        "remaining": "16.0",
+        "duration": "-7.9",
+        "remaining": "15.9",
         "alarm": "Cell out of service"
     },
     {
@@ -286,7 +266,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.5",
-        "remaining": "1.5",
+        "remaining": "1.4",
         "alarm": "Low fuel level alarm"
     },
     {
