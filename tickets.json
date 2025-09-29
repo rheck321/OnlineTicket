@@ -1,12 +1,22 @@
 {"nftlist":[
     {
+        "nft": "NFT20250929000350",
+        "site": "PH0800200",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Transmission unit link break"
+    },
+    {
         "nft": "NFT20250929000325",
         "site": "PH0700731",
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.9",
-        "remaining": "7.1",
+        "duration": "1.0",
+        "remaining": "7.0",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -25,8 +35,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "Low oil pressure shutdown alarm"
     },
     {
