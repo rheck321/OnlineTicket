@@ -5,8 +5,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -165,7 +165,7 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.3",
+        "duration": "3.4",
         "remaining": "4.7",
         "alarm": "Battery Communication Fail"
     },
@@ -210,16 +210,6 @@
         "alarm": "Cell out of service"
     },
     {
-        "nft": "NFT20250929000040",
-        "site": "PH0800200",
-        "area": "LEYTE",
-        "state": "Suspend",
-        "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
-        "alarm": "Transmission unit link break"
-    },
-    {
         "nft": "NFT20250929000027",
         "site": "PH0700448",
         "area": "BOHOL",
@@ -238,26 +228,6 @@
         "duration": "5.0",
         "remaining": "3.0",
         "alarm": "Low oil pressure shutdown alarm"
-    },
-    {
-        "nft": "NFT20250929000025",
-        "site": "PH0800002",
-        "area": "LEYTE",
-        "state": "Suspend",
-        "severity": "Major",
-        "duration": "4.9",
-        "remaining": "3.1",
-        "alarm": "Low oil pressure shutdown alarm"
-    },
-    {
-        "nft": "NFT20250928000410",
-        "site": "IBS0710061",
-        "area": "CEBU",
-        "state": "Suspend",
-        "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
-        "alarm": "Cell out of service"
     },
     {
         "nft": "NFT20250928000316",
