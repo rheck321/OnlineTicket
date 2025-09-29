@@ -1,5 +1,15 @@
 {"nftlist":[
     {
+        "nft": "NFT20250929000281",
+        "site": "PH0700172",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Powered Off"
+    },
+    {
         "nft": "NFT20250929000279",
         "site": "CO087",
         "area": "CEBU",
@@ -15,8 +25,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.5",
-        "remaining": "3.5",
+        "duration": "0.6",
+        "remaining": "3.4",
         "alarm": "The Device is offline"
     },
     {
@@ -25,8 +35,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Low oil pressure shutdown alarm"
     },
     {
@@ -65,7 +75,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.6",
+        "duration": "2.7",
         "remaining": "5.3",
         "alarm": "Breaker Fail to Switch Warning"
     },
@@ -86,7 +96,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.8",
-        "remaining": "3.2",
+        "remaining": "3.1",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -96,7 +106,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.8",
-        "remaining": "3.2",
+        "remaining": "3.1",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -206,7 +216,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "6.2",
-        "remaining": "1.9",
+        "remaining": "1.8",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -215,7 +225,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.0",
+        "duration": "6.1",
         "remaining": "1.9",
         "alarm": "Charge Circuit Switch Failure alarm"
     },
@@ -235,8 +245,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Major",
-        "duration": "8.0",
-        "remaining": "0.0",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "BBU interrupted"
     },
     {
