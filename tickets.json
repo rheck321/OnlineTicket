@@ -5,7 +5,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
+        "duration": "0.2",
         "remaining": "7.8",
         "alarm": "Physical Port Down"
     },
@@ -15,8 +15,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Optical Invalid"
     },
     {
@@ -55,7 +55,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.8",
+        "duration": "1.9",
         "remaining": "6.2",
         "alarm": "Gen communication status alarm"
     },
@@ -75,8 +75,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -205,8 +205,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.8",
-        "remaining": "3.2",
+        "duration": "4.9",
+        "remaining": "3.1",
         "alarm": "RRU interrupted"
     },
     {
@@ -275,8 +275,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-6.3",
-        "remaining": "14.3",
+        "duration": "-6.2",
+        "remaining": "14.2",
         "alarm": "Cell out of service"
     },
     {
