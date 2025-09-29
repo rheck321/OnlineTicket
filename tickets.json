@@ -26,7 +26,7 @@
         "state": "Processing",
         "severity": "Critical",
         "duration": "0.8",
-        "remaining": "3.2",
+        "remaining": "3.1",
         "alarm": "The Device is offline"
     },
     {
@@ -36,7 +36,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.9",
-        "remaining": "7.1",
+        "remaining": "7.0",
         "alarm": "Low oil pressure shutdown alarm"
     },
     {
@@ -65,8 +65,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "Breaker Fail to Switch Warning"
     },
     {
@@ -185,8 +185,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.4",
-        "remaining": "1.6",
+        "duration": "6.5",
+        "remaining": "1.5",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -195,8 +195,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.3",
-        "remaining": "1.7",
+        "duration": "6.4",
+        "remaining": "1.6",
         "alarm": "Charge Circuit Switch Failure alarm"
     },
     {
