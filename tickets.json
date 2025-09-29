@@ -26,7 +26,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "Breaker Fail to Switch Warning"
     },
     {
@@ -56,7 +56,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.1",
-        "remaining": "4.9",
+        "remaining": "4.8",
         "alarm": "Physical Port Down"
     },
     {
@@ -185,8 +185,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-6.3",
-        "remaining": "14.3",
+        "duration": "-6.2",
+        "remaining": "14.2",
         "alarm": "Heating exchange fan fault"
     },
     {
