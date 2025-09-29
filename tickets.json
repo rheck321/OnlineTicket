@@ -46,7 +46,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Pico RRU not connected"
     },
     {
@@ -55,8 +55,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -65,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.9",
-        "remaining": "6.1",
+        "duration": "2.0",
+        "remaining": "6.0",
         "alarm": "Gen communication status alarm"
     },
     {
@@ -76,7 +76,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.1",
-        "remaining": "5.9",
+        "remaining": "5.8",
         "alarm": "Breaker Fail to Switch Warning"
     },
     {
@@ -235,7 +235,7 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.6",
+        "duration": "5.7",
         "remaining": "2.4",
         "alarm": "Battery Communication Fail"
     },
@@ -285,8 +285,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-6.2",
-        "remaining": "14.2",
+        "duration": "-6.1",
+        "remaining": "14.1",
         "alarm": "Cell out of service"
     },
     {
@@ -295,8 +295,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-7.7",
-        "remaining": "15.7",
+        "duration": "-7.6",
+        "remaining": "15.6",
         "alarm": "Low fuel level alarm"
     },
     {
