@@ -1,12 +1,22 @@
 {"nftlist":[
     {
+        "nft": "NFT20250929000221",
+        "site": "PH0700329",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Gen communication status alarm"
+    },
+    {
         "nft": "NFT20250929000220",
         "site": "PH0600307",
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Breaker Fail to Switch Warning"
     },
     {
@@ -135,7 +145,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.3",
+        "duration": "4.4",
         "remaining": "3.6",
         "alarm": "The Device is offline"
     },
@@ -145,8 +155,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.4",
-        "remaining": "3.6",
+        "duration": "4.5",
+        "remaining": "3.5",
         "alarm": "Transmission unit link break"
     },
     {
@@ -155,8 +165,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.4",
-        "remaining": "3.6",
+        "duration": "4.5",
+        "remaining": "3.5",
         "alarm": "Transmission unit link break"
     },
     {
@@ -165,8 +175,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.0",
-        "remaining": "3.0",
+        "duration": "5.1",
+        "remaining": "2.9",
         "alarm": "BBU interrupted"
     },
     {
@@ -195,8 +205,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "RRU interrupted"
     },
     {
@@ -205,8 +215,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.1",
-        "remaining": "4.9",
+        "duration": "3.2",
+        "remaining": "4.8",
         "alarm": "RRU interrupted"
     },
     {
@@ -215,8 +225,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -235,8 +245,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.6",
-        "remaining": "4.4",
+        "duration": "3.7",
+        "remaining": "4.3",
         "alarm": "Charge Circuit Switch Failure alarm"
     },
     {
@@ -266,7 +276,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "8.0",
-        "remaining": "0.1",
+        "remaining": "0.0",
         "alarm": "Cell out of service"
     },
     {
@@ -275,8 +285,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.4",
-        "remaining": "1.6",
+        "duration": "6.5",
+        "remaining": "1.5",
         "alarm": "Low fuel level alarm"
     },
     {
