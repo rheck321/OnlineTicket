@@ -26,7 +26,7 @@
         "state": "Processing",
         "severity": "Critical",
         "duration": "1.4",
-        "remaining": "2.6",
+        "remaining": "2.5",
         "alarm": "The Device is offline"
     },
     {
@@ -35,7 +35,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
+        "duration": "1.6",
         "remaining": "6.5",
         "alarm": "Low oil pressure shutdown alarm"
     },
@@ -56,7 +56,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.4",
-        "remaining": "4.7",
+        "remaining": "4.6",
         "alarm": "Gen communication status alarm"
     },
     {
@@ -65,8 +65,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "Breaker Fail to Switch Warning"
     },
     {
