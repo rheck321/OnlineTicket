@@ -15,8 +15,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -26,7 +26,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -36,7 +36,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -45,7 +45,7 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.1",
+        "duration": "3.2",
         "remaining": "4.8",
         "alarm": "Battery Communication Fail"
     },
@@ -136,7 +136,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.3",
-        "remaining": "3.7",
+        "remaining": "3.6",
         "alarm": "The Device is offline"
     },
     {
@@ -245,8 +245,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.9",
-        "remaining": "3.1",
+        "duration": "5.0",
+        "remaining": "3.0",
         "alarm": "Heating exchange fan fault"
     },
     {
@@ -255,8 +255,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.5",
-        "remaining": "2.5",
+        "duration": "5.6",
+        "remaining": "2.4",
         "alarm": "BBU interrupted"
     },
     {
@@ -265,7 +265,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.9",
+        "duration": "8.0",
         "remaining": "0.1",
         "alarm": "Cell out of service"
     },
