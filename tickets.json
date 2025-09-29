@@ -55,8 +55,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "Gen communication status alarm"
     },
     {
@@ -66,7 +66,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.6",
-        "remaining": "5.4",
+        "remaining": "5.3",
         "alarm": "Breaker Fail to Switch Warning"
     },
     {
@@ -205,7 +205,7 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.1",
+        "duration": "6.2",
         "remaining": "1.9",
         "alarm": "Battery Communication Fail"
     },
@@ -216,7 +216,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "6.0",
-        "remaining": "2.0",
+        "remaining": "1.9",
         "alarm": "Charge Circuit Switch Failure alarm"
     },
     {
@@ -245,8 +245,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-5.7",
-        "remaining": "13.7",
+        "duration": "-5.6",
+        "remaining": "13.6",
         "alarm": "Cell out of service"
     },
     {
@@ -255,8 +255,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-7.2",
-        "remaining": "15.2",
+        "duration": "-7.1",
+        "remaining": "15.1",
         "alarm": "Low fuel level alarm"
     },
     {
