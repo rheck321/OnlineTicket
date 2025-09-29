@@ -235,8 +235,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "3.7",
-        "remaining": "0.3",
+        "duration": "3.8",
+        "remaining": "0.2",
         "alarm": "The Device is offline"
     },
     {
@@ -265,7 +265,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.9",
+        "duration": "2.0",
         "remaining": "6.0",
         "alarm": "RRU interrupted"
     },
@@ -275,8 +275,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -305,8 +305,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "2.1",
-        "remaining": "1.9",
+        "duration": "2.2",
+        "remaining": "1.8",
         "alarm": "The Device is offline"
     },
     {
@@ -335,8 +335,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.4",
-        "remaining": "3.6",
+        "duration": "4.5",
+        "remaining": "3.5",
         "alarm": "BBU interrupted"
     },
     {
