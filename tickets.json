@@ -15,7 +15,7 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.1",
+        "duration": "1.2",
         "remaining": "6.8",
         "alarm": "Air Conditioner Communication Lost"
     },
@@ -25,7 +25,7 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.1",
+        "duration": "1.2",
         "remaining": "6.8",
         "alarm": "Air Conditioner Communication Lost"
     },
@@ -226,7 +226,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-1.6",
-        "remaining": "9.7",
+        "remaining": "9.6",
         "alarm": "Cell out of service"
     },
     {
@@ -235,8 +235,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-3.2",
-        "remaining": "11.2",
+        "duration": "-3.1",
+        "remaining": "11.1",
         "alarm": "Low fuel level alarm"
     },
     {
