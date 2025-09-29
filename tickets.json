@@ -26,7 +26,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -35,8 +35,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -45,8 +45,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -55,8 +55,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.3",
-        "remaining": "4.7",
+        "duration": "3.4",
+        "remaining": "4.6",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -215,7 +215,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.1",
+        "duration": "5.2",
         "remaining": "2.9",
         "alarm": "Heating exchange fan fault"
     },
@@ -225,8 +225,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.7",
-        "remaining": "2.3",
+        "duration": "5.8",
+        "remaining": "2.2",
         "alarm": "BBU interrupted"
     },
     {
