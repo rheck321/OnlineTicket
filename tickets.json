@@ -65,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Physical Port Down"
     },
     {
@@ -246,7 +246,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-3.6",
-        "remaining": "11.7",
+        "remaining": "11.6",
         "alarm": "Cell out of service"
     },
     {
@@ -255,8 +255,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-5.2",
-        "remaining": "13.2",
+        "duration": "-5.1",
+        "remaining": "13.1",
         "alarm": "Low fuel level alarm"
     },
     {
