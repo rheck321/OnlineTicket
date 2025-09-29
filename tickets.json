@@ -76,7 +76,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.8",
-        "remaining": "3.2",
+        "remaining": "3.1",
         "alarm": "Low oil pressure shutdown alarm"
     },
     {
@@ -245,7 +245,7 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-3.0",
+        "duration": "-2.9",
         "remaining": "10.9",
         "alarm": "Low fuel level alarm"
     },
