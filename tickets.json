@@ -15,8 +15,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -25,8 +25,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -35,8 +35,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "The Device is offline"
     },
     {
@@ -75,8 +75,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.3",
-        "remaining": "3.7",
+        "duration": "4.4",
+        "remaining": "3.6",
         "alarm": "Physical Port Down"
     },
     {
@@ -205,8 +205,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-5.1",
-        "remaining": "13.1",
+        "duration": "-5.0",
+        "remaining": "13.0",
         "alarm": "Heating exchange fan fault"
     },
     {
@@ -225,7 +225,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-2.1",
+        "duration": "-2.0",
         "remaining": "10.1",
         "alarm": "Cell out of service"
     },
