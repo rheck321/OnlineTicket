@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.0",
-        "remaining": "8.0",
+        "duration": "0.1",
+        "remaining": "7.9",
         "alarm": "Air Conditioner Inner Fan Fault"
     },
     {
@@ -25,8 +25,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Low Liquid Level Alarm shutdown"
     },
     {
@@ -35,8 +35,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Physical Port Down"
     },
     {
@@ -76,7 +76,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Physical Port Down"
     },
     {
@@ -85,7 +85,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.9",
+        "duration": "2.0",
         "remaining": "6.0",
         "alarm": "Cell out of service"
     },
@@ -105,7 +105,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.6",
+        "duration": "3.7",
         "remaining": "4.3",
         "alarm": "Battery Communication Fail"
     },
@@ -206,7 +206,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "7.0",
-        "remaining": "1.1",
+        "remaining": "1.0",
         "alarm": "RRU interrupted"
     },
     {
@@ -215,7 +215,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.9",
+        "duration": "7.0",
         "remaining": "1.1",
         "alarm": "RRU interrupted"
     },
@@ -235,8 +235,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.9",
-        "remaining": "1.1",
+        "duration": "7.0",
+        "remaining": "1.0",
         "alarm": "Cell out of service"
     }
 ]}
