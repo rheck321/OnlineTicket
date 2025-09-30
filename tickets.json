@@ -1,5 +1,15 @@
 {"nftlist":[
     {
+        "nft": "NFT20250930000191",
+        "site": "PH0600780",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Modem part unlock"
+    },
+    {
         "nft": "NFT20250930000165",
         "site": "PH0700671",
         "area": "CEBU",
@@ -103,7 +113,7 @@
         "nft": "NFT20250930000052",
         "site": "PH0600651",
         "area": "PANAY",
-        "state": "Suspend",
+        "state": "Processing",
         "severity": "Major",
         "duration": "0.7",
         "remaining": "7.3",
@@ -133,10 +143,10 @@
         "nft": "NFT20250930000023",
         "site": "PH0710022",
         "area": "CEBU",
-        "state": "Suspend",
+        "state": "Processing",
         "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "RRU interrupted"
     },
     {
@@ -183,10 +193,10 @@
         "nft": "NFT20250929000467",
         "site": "PH0800020",
         "area": "SAMAR",
-        "state": "Suspend",
+        "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "BBU interrupted"
     },
     {
@@ -223,9 +233,9 @@
         "nft": "NFT20250929000263",
         "site": "PH0700198",
         "area": "CEBU",
-        "state": "Suspend",
+        "state": "Processing",
         "severity": "Major",
-        "duration": "3.8",
+        "duration": "3.9",
         "remaining": "4.2",
         "alarm": "Physical Port Down"
     }
