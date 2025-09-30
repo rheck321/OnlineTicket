@@ -20,16 +20,6 @@
         "alarm": "Optical Fail"
     },
     {
-        "nft": "NFT20250930000191",
-        "site": "PH0600780",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
-        "alarm": "Modem part unlock"
-    },
-    {
         "nft": "NFT20250930000165",
         "site": "PH0700671",
         "area": "CEBU",
@@ -125,7 +115,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.9",
+        "duration": "1.0",
         "remaining": "7.0",
         "alarm": "Low oil pressure shutdown alarm"
     },
@@ -145,7 +135,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.9",
+        "duration": "1.0",
         "remaining": "7.0",
         "alarm": "RRU interrupted"
     },
@@ -155,8 +145,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.9",
-        "remaining": "7.1",
+        "duration": "1.0",
+        "remaining": "7.0",
         "alarm": "RRU interrupted"
     },
     {
