@@ -5,8 +5,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Cell out of service"
     },
     {
@@ -46,7 +46,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "Low Liquid Level Alarm shutdown"
     },
     {
@@ -65,8 +65,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.1",
-        "remaining": "5.9",
+        "duration": "2.2",
+        "remaining": "5.8",
         "alarm": "BBU optical module RX and TX abnormal"
     },
     {
@@ -105,8 +105,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "Physical Port Down"
     },
     {
@@ -115,8 +115,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.3",
-        "remaining": "2.7",
+        "duration": "5.4",
+        "remaining": "2.6",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -125,8 +125,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.1",
-        "remaining": "1.9",
+        "duration": "6.2",
+        "remaining": "1.8",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
