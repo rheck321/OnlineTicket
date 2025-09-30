@@ -5,7 +5,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.0",
+        "duration": "0.1",
         "remaining": "8.0",
         "alarm": "Modem part unlock"
     },
@@ -15,7 +15,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.0",
+        "duration": "0.1",
         "remaining": "8.0",
         "alarm": "Rf unit communication is interrupted"
     },
@@ -95,8 +95,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "BBU optical module RX and TX abnormal"
     },
     {
@@ -145,8 +145,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.4",
-        "remaining": "2.6",
+        "duration": "5.5",
+        "remaining": "2.5",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -155,8 +155,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.2",
-        "remaining": "1.8",
+        "duration": "6.3",
+        "remaining": "1.7",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
