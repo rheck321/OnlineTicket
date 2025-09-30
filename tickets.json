@@ -1,5 +1,25 @@
 {"nftlist":[
     {
+        "nft": "NFT20250930000423",
+        "site": "PH0600780",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Modem part unlock"
+    },
+    {
+        "nft": "NFT20250930000422",
+        "site": "PH0600780",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Rf unit communication is interrupted"
+    },
+    {
         "nft": "NFT20250930000417",
         "site": "PH0710020",
         "area": "CEBU",
@@ -15,8 +35,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Air Conditioner Inner Fan Fault"
     },
     {
@@ -55,8 +75,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "BBU optical module RX and TX abnormal"
     },
     {
@@ -95,8 +115,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Cell out of service"
     },
     {
@@ -115,8 +135,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -125,8 +145,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.0",
-        "remaining": "3.0",
+        "duration": "5.1",
+        "remaining": "2.9",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
