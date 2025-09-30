@@ -85,7 +85,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.6",
+        "duration": "2.7",
         "remaining": "5.3",
         "alarm": "Physical Port Down"
     },
@@ -105,8 +105,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "3.3",
-        "remaining": "0.7",
+        "duration": "3.4",
+        "remaining": "0.6",
         "alarm": "Comm Status"
     },
     {
@@ -126,7 +126,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.9",
-        "remaining": "4.2",
+        "remaining": "4.1",
         "alarm": "Physical Port Down"
     },
     {
@@ -136,7 +136,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.8",
-        "remaining": "3.2",
+        "remaining": "3.1",
         "alarm": "Physical Port Down"
     },
     {
