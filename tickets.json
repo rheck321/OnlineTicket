@@ -1,12 +1,42 @@
 {"nftlist":[
     {
+        "nft": "NFT20250930000463",
+        "site": "PH0600780",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Modem part unlock"
+    },
+    {
+        "nft": "NFT20250930000464",
+        "site": "PH0600780",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Rf unit communication is interrupted"
+    },
+    {
+        "nft": "NFT20250930000462",
+        "site": "IBS0710031",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "The Equipment is offline(DATA)"
+    },
+    {
         "nft": "NFT20250930000447",
         "site": "PH0800354",
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Cell out of service"
     },
     {
@@ -105,8 +135,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.3",
-        "remaining": "3.7",
+        "duration": "4.4",
+        "remaining": "3.6",
         "alarm": "Physical Port Down"
     },
     {
