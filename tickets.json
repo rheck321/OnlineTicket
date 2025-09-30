@@ -145,8 +145,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "Cell out of service"
     },
     {
@@ -165,8 +165,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.5",
-        "remaining": "3.5",
+        "duration": "4.6",
+        "remaining": "3.4",
         "alarm": "RRU interrupted"
     },
     {
@@ -185,8 +185,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.5",
-        "remaining": "3.5",
+        "duration": "4.6",
+        "remaining": "3.4",
         "alarm": "RRU interrupted"
     },
     {
@@ -195,8 +195,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.5",
-        "remaining": "3.5",
+        "duration": "4.6",
+        "remaining": "3.4",
         "alarm": "Cell out of service"
     },
     {
@@ -205,8 +205,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.2",
-        "remaining": "2.8",
+        "duration": "5.3",
+        "remaining": "2.7",
         "alarm": "Physical Port Down"
     },
     {
@@ -226,7 +226,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.5",
-        "remaining": "1.6",
+        "remaining": "1.5",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -236,7 +236,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.5",
-        "remaining": "1.6",
+        "remaining": "1.5",
         "alarm": "Air Conditioner Communication Lost"
     }
 ]}
