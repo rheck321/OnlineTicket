@@ -1,5 +1,15 @@
 {"nftlist":[
     {
+        "nft": "NFT20250930000468",
+        "site": "PH0700021",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Cell out of service"
+    },
+    {
         "nft": "NFT20250930000463",
         "site": "PH0600780",
         "area": "PANAY",
@@ -20,23 +30,13 @@
         "alarm": "Rf unit communication is interrupted"
     },
     {
-        "nft": "NFT20250930000462",
-        "site": "IBS0710031",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
-        "alarm": "The Equipment is offline(DATA)"
-    },
-    {
         "nft": "NFT20250930000447",
         "site": "PH0800354",
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "Cell out of service"
     },
     {
@@ -95,8 +95,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "BBU optical module RX and TX abnormal"
     },
     {
@@ -135,8 +135,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.5",
-        "remaining": "3.5",
+        "duration": "4.6",
+        "remaining": "3.4",
         "alarm": "Physical Port Down"
     },
     {
@@ -145,7 +145,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.6",
+        "duration": "5.7",
         "remaining": "2.4",
         "alarm": "Battery Communication Fail"
     },
@@ -155,8 +155,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.4",
-        "remaining": "1.6",
+        "duration": "6.5",
+        "remaining": "1.5",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
