@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.1",
-        "remaining": "7.9",
+        "remaining": "7.8",
         "alarm": "RRU interrupted"
     },
     {
@@ -15,8 +15,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Physical Port Down"
     },
     {
@@ -45,8 +45,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -55,8 +55,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.3",
-        "remaining": "5.7",
+        "duration": "2.4",
+        "remaining": "5.6",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -156,7 +156,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.7",
-        "remaining": "3.4",
+        "remaining": "3.3",
         "alarm": "RRU interrupted"
     },
     {
@@ -196,7 +196,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.8",
-        "remaining": "3.2",
+        "remaining": "3.1",
         "alarm": "Physical Port Down"
     },
     {
