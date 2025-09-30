@@ -1,35 +1,5 @@
 {"nftlist":[
     {
-        "nft": "NFT20250930000431",
-        "site": "PH0800144",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
-        "alarm": "Modem part unlock"
-    },
-    {
-        "nft": "NFT20250930000423",
-        "site": "PH0600780",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
-        "alarm": "Modem part unlock"
-    },
-    {
-        "nft": "NFT20250930000422",
-        "site": "PH0600780",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
-        "alarm": "Rf unit communication is interrupted"
-    },
-    {
         "nft": "NFT20250930000417",
         "site": "PH0710020",
         "area": "CEBU",
@@ -95,7 +65,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.9",
+        "duration": "2.0",
         "remaining": "2.0",
         "alarm": "Comm Status"
     },
@@ -135,8 +105,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "Physical Port Down"
     },
     {
@@ -156,7 +126,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "5.3",
-        "remaining": "2.7",
+        "remaining": "2.6",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
