@@ -16,18 +16,8 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Cell out of service"
-    },
-    {
-        "nft": "NFT20250930000334",
-        "site": "PH0800020",
-        "area": "SAMAR",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "1.0",
-        "remaining": "7.0",
-        "alarm": "RRU interrupted"
     },
     {
         "nft": "NFT20250930000327",
@@ -45,8 +35,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -155,8 +145,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.5",
-        "remaining": "2.5",
+        "duration": "5.6",
+        "remaining": "2.4",
         "alarm": "RRU interrupted"
     },
     {
@@ -185,8 +175,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.5",
-        "remaining": "2.5",
+        "duration": "5.6",
+        "remaining": "2.4",
         "alarm": "RRU interrupted"
     },
     {
@@ -195,8 +185,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.5",
-        "remaining": "2.5",
+        "duration": "5.6",
+        "remaining": "2.4",
         "alarm": "Cell out of service"
     }
 ]}
