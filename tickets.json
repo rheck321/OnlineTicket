@@ -45,7 +45,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "Physical Port Down"
     },
@@ -65,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "2.1",
-        "remaining": "1.9",
+        "duration": "2.2",
+        "remaining": "1.8",
         "alarm": "Comm Status"
     },
     {
@@ -75,8 +75,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Optical Fail"
     },
     {
@@ -85,7 +85,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.6",
+        "duration": "2.7",
         "remaining": "5.3",
         "alarm": "Physical Port Down"
     },
@@ -96,7 +96,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.6",
-        "remaining": "4.4",
+        "remaining": "4.3",
         "alarm": "Physical Port Down"
     },
     {
