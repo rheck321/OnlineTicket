@@ -15,8 +15,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Optical Fail"
     },
     {
@@ -26,7 +26,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "6.9",
+        "remaining": "6.8",
         "alarm": "Physical Port Down"
     },
     {
@@ -35,7 +35,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "Cell out of service"
     },
@@ -55,7 +55,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.1",
+        "duration": "3.2",
         "remaining": "4.8",
         "alarm": "Battery Communication Fail"
     },
@@ -156,7 +156,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.5",
-        "remaining": "1.6",
+        "remaining": "1.5",
         "alarm": "RRU interrupted"
     },
     {
@@ -165,7 +165,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.4",
+        "duration": "6.5",
         "remaining": "1.6",
         "alarm": "RRU interrupted"
     },
@@ -185,8 +185,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.4",
-        "remaining": "1.6",
+        "duration": "6.5",
+        "remaining": "1.5",
         "alarm": "Cell out of service"
     }
 ]}
