@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "7.9",
+        "remaining": "7.8",
         "alarm": "Modem part unlock"
     },
     {
@@ -16,7 +16,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "7.9",
+        "remaining": "7.8",
         "alarm": "Rf unit communication is interrupted"
     },
     {
@@ -35,8 +35,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Air Conditioner Inner Fan Fault"
     },
     {
@@ -55,8 +55,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.9",
-        "remaining": "7.1",
+        "duration": "1.0",
+        "remaining": "7.0",
         "alarm": "Low Liquid Level Alarm shutdown"
     },
     {
@@ -66,7 +66,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "6.9",
+        "remaining": "6.8",
         "alarm": "Physical Port Down"
     },
     {
@@ -75,7 +75,7 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.1",
+        "duration": "1.2",
         "remaining": "6.8",
         "alarm": "BBU optical module RX and TX abnormal"
     },
@@ -96,7 +96,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "Optical Fail"
     },
     {
@@ -105,7 +105,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.3",
+        "duration": "2.4",
         "remaining": "5.7",
         "alarm": "Physical Port Down"
     },
@@ -115,7 +115,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.6",
+        "duration": "2.7",
         "remaining": "5.3",
         "alarm": "Cell out of service"
     },
@@ -135,7 +135,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.3",
+        "duration": "4.4",
         "remaining": "3.6",
         "alarm": "Battery Communication Fail"
     },
