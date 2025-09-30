@@ -1,12 +1,22 @@
 {"nftlist":[
     {
+        "nft": "NFT20250930000249",
+        "site": "PH0800147",
+        "area": "SAMAR",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Air Conditioner Outer Fan Fault"
+    },
+    {
         "nft": "NFT20250930000248",
         "site": "PH0600195",
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.0",
-        "remaining": "8.0",
+        "duration": "0.1",
+        "remaining": "7.9",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -15,8 +25,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -36,7 +46,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "Physical Port Down"
     },
     {
@@ -55,8 +65,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Optical Fail"
     },
     {
@@ -216,7 +226,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.6",
-        "remaining": "5.4",
+        "remaining": "5.3",
         "alarm": "Physical Port Down"
     },
     {
