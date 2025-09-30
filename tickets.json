@@ -43,10 +43,10 @@
         "nft": "NFT20250930000405",
         "site": "PH0800336",
         "area": "LEYTE",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Minor",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.1",
+        "remaining": "7.9",
         "alarm": "Air Conditioner Inner Fan Fault"
     },
     {
@@ -115,8 +115,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Cell out of service"
     },
     {
@@ -126,7 +126,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.4",
-        "remaining": "4.7",
+        "remaining": "4.6",
         "alarm": "Physical Port Down"
     },
     {
@@ -135,8 +135,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.4",
-        "remaining": "3.6",
+        "duration": "4.5",
+        "remaining": "3.5",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -145,8 +145,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.2",
-        "remaining": "2.8",
+        "duration": "5.3",
+        "remaining": "2.7",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
