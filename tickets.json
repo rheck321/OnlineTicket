@@ -15,8 +15,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "RRU interrupted"
     },
     {
@@ -35,7 +35,7 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.0",
+        "duration": "1.1",
         "remaining": "7.0",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
@@ -45,8 +45,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -55,8 +55,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -65,8 +65,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Physical Port Down"
     },
     {
@@ -226,7 +226,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.6",
-        "remaining": "4.4",
+        "remaining": "4.3",
         "alarm": "Physical Port Down"
     },
     {
