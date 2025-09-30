@@ -1,12 +1,22 @@
 {"nftlist":[
     {
+        "nft": "NFT20250930000327",
+        "site": "PH0700678",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Physical Port Down"
+    },
+    {
         "nft": "NFT20250930000325",
         "site": "CO086",
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.1",
-        "remaining": "3.9",
+        "duration": "0.2",
+        "remaining": "3.8",
         "alarm": "Over temperature"
     },
     {
@@ -15,7 +25,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
+        "duration": "1.2",
         "remaining": "6.8",
         "alarm": "Battery Communication Fail"
     },
@@ -58,16 +68,6 @@
         "duration": "2.1",
         "remaining": "5.9",
         "alarm": "Air Conditioner Communication Lost"
-    },
-    {
-        "nft": "NFT20250930000195",
-        "site": "CO086",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "3.5",
-        "remaining": "4.5",
-        "alarm": "Physical Port Down"
     },
     {
         "nft": "NFT20250930000138",
@@ -145,8 +145,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.9",
-        "remaining": "4.1",
+        "duration": "4.0",
+        "remaining": "4.0",
         "alarm": "Cell out of service"
     },
     {
@@ -165,8 +165,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.4",
-        "remaining": "3.6",
+        "duration": "4.5",
+        "remaining": "3.5",
         "alarm": "RRU interrupted"
     },
     {
@@ -185,8 +185,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.4",
-        "remaining": "3.6",
+        "duration": "4.5",
+        "remaining": "3.5",
         "alarm": "RRU interrupted"
     },
     {
@@ -195,8 +195,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.4",
-        "remaining": "3.6",
+        "duration": "4.5",
+        "remaining": "3.5",
         "alarm": "Cell out of service"
     },
     {
@@ -205,8 +205,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.1",
-        "remaining": "2.9",
+        "duration": "5.2",
+        "remaining": "2.8",
         "alarm": "Physical Port Down"
     },
     {
@@ -225,8 +225,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.3",
-        "remaining": "1.7",
+        "duration": "6.4",
+        "remaining": "1.6",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -235,8 +235,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.3",
-        "remaining": "1.7",
+        "duration": "6.4",
+        "remaining": "1.6",
         "alarm": "Air Conditioner Communication Lost"
     }
 ]}
