@@ -40,16 +40,6 @@
         "alarm": "Air Conditioner Communication Lost"
     },
     {
-        "nft": "NFT20250930000231",
-        "site": "PH0800144",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "1.0",
-        "remaining": "7.0",
-        "alarm": "Modem part unlock"
-    },
-    {
         "nft": "NFT20250930000195",
         "site": "CO086",
         "area": "NEGROS",
@@ -165,8 +155,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "RRU interrupted"
     },
     {
@@ -195,8 +185,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "RRU interrupted"
     },
     {
@@ -205,8 +195,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "Cell out of service"
     },
     {
@@ -216,7 +206,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.6",
-        "remaining": "4.4",
+        "remaining": "4.3",
         "alarm": "Physical Port Down"
     },
     {
@@ -225,8 +215,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "Physical Port Down"
     },
     {
@@ -236,7 +226,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.8",
-        "remaining": "3.2",
+        "remaining": "3.1",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -246,7 +236,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.8",
-        "remaining": "3.2",
+        "remaining": "3.1",
         "alarm": "Air Conditioner Communication Lost"
     }
 ]}
