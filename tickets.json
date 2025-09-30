@@ -96,7 +96,7 @@
         "state": "Processing",
         "severity": "Critical",
         "duration": "4.0",
-        "remaining": "0.1",
+        "remaining": "0.0",
         "alarm": "Comm Status"
     },
     {
@@ -117,16 +117,6 @@
         "severity": "Major",
         "duration": "4.5",
         "remaining": "3.5",
-        "alarm": "Physical Port Down"
-    },
-    {
-        "nft": "NFT20250930000327",
-        "site": "PH0700678",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "5.4",
-        "remaining": "2.6",
         "alarm": "Physical Port Down"
     },
     {
