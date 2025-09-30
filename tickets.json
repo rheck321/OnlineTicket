@@ -15,8 +15,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Modem part unlock"
     },
     {
@@ -35,8 +35,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "RRU interrupted"
     },
     {
@@ -145,8 +145,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.3",
-        "remaining": "5.7",
+        "duration": "2.4",
+        "remaining": "5.6",
         "alarm": "RRU interrupted"
     },
     {
@@ -175,7 +175,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.3",
+        "duration": "2.4",
         "remaining": "5.7",
         "alarm": "RRU interrupted"
     },
@@ -185,7 +185,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.3",
+        "duration": "2.4",
         "remaining": "5.7",
         "alarm": "Cell out of service"
     },
