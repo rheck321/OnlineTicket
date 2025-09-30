@@ -35,8 +35,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Cell out of service"
     },
     {
@@ -95,7 +95,7 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.3",
+        "duration": "2.4",
         "remaining": "5.7",
         "alarm": "BBU optical module RX and TX abnormal"
     },
@@ -155,8 +155,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.3",
-        "remaining": "1.7",
+        "duration": "6.4",
+        "remaining": "1.6",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
