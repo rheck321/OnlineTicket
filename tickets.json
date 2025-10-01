@@ -5,8 +5,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Transmission unit link break"
     },
     {
@@ -15,8 +15,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Transmission unit link break"
     },
     {
@@ -95,7 +95,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.9",
+        "duration": "1.0",
         "remaining": "7.0",
         "alarm": "Device Powered Off"
     },
@@ -105,7 +105,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
+        "duration": "1.1",
         "remaining": "7.0",
         "alarm": "BBU interrupted"
     },
@@ -115,38 +115,58 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.1",
-        "remaining": "2.9",
+        "duration": "1.2",
+        "remaining": "2.8",
         "alarm": "RHUB link is down"
+    },
+    {
+        "nft": "NFT20251001000258",
+        "site": "IBS0610001",
+        "area": "PANAY",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.4",
+        "remaining": "3.6",
+        "alarm": "Pico RRU not connected"
     },
     {
         "nft": "NFT20251001000248",
         "site": "IBS0710029",
         "area": "CEBU",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Minor",
-        "duration": "1.1",
-        "remaining": "6.8",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "GPS clock failure"
     },
     {
         "nft": "NFT20251001000250",
         "site": "IBS0610012",
         "area": "NEGROS",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Critical",
-        "duration": "1.1",
-        "remaining": "2.9",
+        "duration": "0.4",
+        "remaining": "3.6",
+        "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20251001000251",
+        "site": "IBS0710029",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Major",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Pico RRU not connected"
     },
     {
         "nft": "NFT20251001000243",
         "site": "IBS0610007",
         "area": "PANAY",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Critical",
-        "duration": "1.1",
-        "remaining": "2.9",
+        "duration": "0.4",
+        "remaining": "3.6",
         "alarm": "Pico RRU not connected"
     },
     {
@@ -175,7 +195,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.1",
+        "duration": "1.2",
         "remaining": "6.8",
         "alarm": "RRU interrupted"
     },
@@ -196,7 +216,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.4",
-        "remaining": "6.7",
+        "remaining": "6.6",
         "alarm": "Device Powered Off"
     },
     {
@@ -205,8 +225,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "BBU interrupted"
     },
     {
@@ -255,8 +275,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.3",
-        "remaining": "5.7",
+        "duration": "2.4",
+        "remaining": "5.6",
         "alarm": "The Device is offline"
     },
     {
@@ -265,8 +285,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "BBU interrupted"
     },
     {
@@ -315,7 +335,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.8",
+        "duration": "2.9",
         "remaining": "5.2",
         "alarm": "Device Powered Off"
     },
@@ -346,7 +366,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.1",
-        "remaining": "4.9",
+        "remaining": "4.8",
         "alarm": "Cell out of service"
     },
     {
@@ -355,7 +375,7 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.1",
+        "duration": "3.2",
         "remaining": "4.8",
         "alarm": "BBU interrupted"
     },
@@ -385,8 +405,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "BBU interrupted"
     },
     {
@@ -1145,8 +1165,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-4.4",
-        "remaining": "12.4",
+        "duration": "-4.3",
+        "remaining": "12.3",
         "alarm": "RRU interrupted"
     },
     {
