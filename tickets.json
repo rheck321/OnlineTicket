@@ -55,7 +55,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "7.5",
         "alarm": "The Equipment is offline(DATA)"
     },
@@ -65,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Device Powered Off"
     },
     {
@@ -75,8 +75,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "BBU interrupted"
     },
     {
@@ -85,8 +85,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "BBU interrupted"
     },
     {
@@ -105,8 +105,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "BBU interrupted"
     },
     {
@@ -175,8 +175,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "BBU interrupted"
     },
     {
@@ -196,7 +196,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "BBU interrupted"
     },
     {
@@ -235,8 +235,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.9",
-        "remaining": "6.1",
+        "duration": "2.0",
+        "remaining": "6.0",
         "alarm": "Transmission unit link break"
     },
     {
@@ -265,7 +265,7 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.3",
+        "duration": "2.4",
         "remaining": "5.7",
         "alarm": "Air Conditioner Communication Lost"
     },
@@ -275,7 +275,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.3",
+        "duration": "2.4",
         "remaining": "5.7",
         "alarm": "BBU interrupted"
     },
@@ -305,7 +305,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.6",
+        "duration": "2.7",
         "remaining": "5.3",
         "alarm": "Device Powered Off"
     },
@@ -325,8 +325,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "BBU interrupted"
     },
     {
@@ -355,8 +355,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "Device Powered Off"
     },
     {
@@ -366,7 +366,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.1",
-        "remaining": "4.9",
+        "remaining": "4.8",
         "alarm": "Device Powered Off"
     },
     {
@@ -375,8 +375,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "BBU interrupted"
     },
     {
@@ -385,8 +385,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "Transmission unit link break"
     },
     {
@@ -395,8 +395,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "Device Powered Off"
     },
     {
@@ -415,8 +415,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -426,7 +426,7 @@
         "state": "Processing",
         "severity": "Critical",
         "duration": "3.6",
-        "remaining": "0.4",
+        "remaining": "0.3",
         "alarm": "The link between the server and the NE is broken"
     },
     {
@@ -435,8 +435,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.6",
-        "remaining": "4.4",
+        "duration": "3.7",
+        "remaining": "4.3",
         "alarm": "Transmission unit link break"
     },
     {
@@ -465,8 +465,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.1",
-        "remaining": "3.9",
+        "duration": "4.2",
+        "remaining": "3.8",
         "alarm": "Cell out of service"
     },
     {
@@ -475,8 +475,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.1",
-        "remaining": "3.9",
+        "duration": "4.2",
+        "remaining": "3.8",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -485,7 +485,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.3",
+        "duration": "4.4",
         "remaining": "3.6",
         "alarm": "Device Powered Off"
     },
