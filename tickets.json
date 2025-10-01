@@ -1,5 +1,25 @@
 {"nftlist":[
     {
+        "nft": "NFT20251001000360",
+        "site": "PH0800121",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Transmission unit link break"
+    },
+    {
+        "nft": "NFT20251001000350",
+        "site": "CO086",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Critical",
+        "duration": "0.2",
+        "remaining": "3.8",
+        "alarm": "Break Off"
+    },
+    {
         "nft": "NFT20251001000336",
         "site": "PH0800251",
         "area": "LEYTE",
@@ -115,7 +135,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.8",
+        "duration": "1.9",
         "remaining": "6.2",
         "alarm": "Device Powered Off"
     },
@@ -126,7 +146,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "BBU interrupted"
     },
     {
@@ -155,8 +175,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.1",
-        "remaining": "5.9",
+        "duration": "2.2",
+        "remaining": "5.8",
         "alarm": "BBU interrupted"
     },
     {
@@ -275,7 +295,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.3",
+        "duration": "2.4",
         "remaining": "5.7",
         "alarm": "BBU interrupted"
     },
@@ -295,8 +315,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.8",
-        "remaining": "5.2",
+        "duration": "2.9",
+        "remaining": "5.1",
         "alarm": "BBU interrupted"
     },
     {
@@ -325,8 +345,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "BBU interrupted"
     },
     {
@@ -365,8 +385,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.9",
-        "remaining": "4.1",
+        "duration": "4.0",
+        "remaining": "4.0",
         "alarm": "Device Powered Off"
     },
     {
@@ -385,8 +405,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "Cell out of service"
     },
     {
@@ -405,8 +425,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.3",
-        "remaining": "3.7",
+        "duration": "4.4",
+        "remaining": "3.6",
         "alarm": "Device Powered Off"
     },
     {
@@ -425,8 +445,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.5",
-        "remaining": "3.5",
+        "duration": "4.6",
+        "remaining": "3.4",
         "alarm": "BBU interrupted"
     },
     {
@@ -466,7 +486,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.8",
-        "remaining": "3.2",
+        "remaining": "3.1",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -485,8 +505,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.9",
-        "remaining": "3.1",
+        "duration": "5.0",
+        "remaining": "3.0",
         "alarm": "Transmission unit link break"
     },
     {
@@ -515,8 +535,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.4",
-        "remaining": "2.6",
+        "duration": "5.5",
+        "remaining": "2.5",
         "alarm": "Cell out of service"
     },
     {
@@ -525,8 +545,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.4",
-        "remaining": "2.6",
+        "duration": "5.5",
+        "remaining": "2.5",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -535,8 +555,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.6",
-        "remaining": "2.4",
+        "duration": "5.7",
+        "remaining": "2.3",
         "alarm": "Device Powered Off"
     },
     {
@@ -638,16 +658,6 @@
         "duration": "0.9",
         "remaining": "7.1",
         "alarm": "Low oil pressure shutdown alarm"
-    },
-    {
-        "nft": "NFT20251001000090",
-        "site": "PH0800049",
-        "area": "SAMAR",
-        "state": "Suspend",
-        "severity": "Major",
-        "duration": "0.9",
-        "remaining": "7.1",
-        "alarm": "BBU interrupted"
     },
     {
         "nft": "NFT20251001000082",
@@ -815,8 +825,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "Cell out of service"
     },
     {
@@ -835,8 +845,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.3",
-        "remaining": "5.7",
+        "duration": "2.4",
+        "remaining": "5.6",
         "alarm": "COMMUN_FAIL"
     },
     {
@@ -845,8 +855,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Comm status"
     },
     {
@@ -855,8 +865,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "The Device is offline"
     },
     {
@@ -865,7 +875,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.9",
+        "duration": "2.0",
         "remaining": "6.0",
         "alarm": "Under speed shutdown alarm"
     },
@@ -876,7 +886,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "Cell out of service"
     },
     {
@@ -935,8 +945,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.1",
-        "remaining": "5.9",
+        "duration": "2.2",
+        "remaining": "5.8",
         "alarm": "Physical Port Down"
     },
     {
@@ -945,7 +955,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "2.9",
+        "duration": "3.0",
         "remaining": "1.1",
         "alarm": "Power module failed to communicate with the MPU"
     },
@@ -965,8 +975,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "B tank level gauge failure Alarm"
     },
     {
@@ -995,8 +1005,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "ATS S1 Voltage State"
     },
     {
@@ -1006,7 +1016,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.6",
-        "remaining": "4.4",
+        "remaining": "4.3",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
@@ -1035,8 +1045,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.6",
-        "remaining": "1.4",
+        "duration": "6.7",
+        "remaining": "1.3",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -1045,8 +1055,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.5",
-        "remaining": "2.5",
+        "duration": "5.6",
+        "remaining": "2.4",
         "alarm": "Cell out of service"
     },
     {
@@ -1126,7 +1136,7 @@
         "state": "Processing",
         "severity": "Critical",
         "duration": "0.9",
-        "remaining": "3.1",
+        "remaining": "3.0",
         "alarm": "Pico RRU not connected"
     },
     {
@@ -1135,8 +1145,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.8",
-        "remaining": "1.2",
+        "duration": "6.9",
+        "remaining": "1.1",
         "alarm": "RRU interrupted"
     },
     {
@@ -1145,8 +1155,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.8",
-        "remaining": "1.2",
+        "duration": "6.9",
+        "remaining": "1.1",
         "alarm": "Cell out of service"
     }
 ]}
