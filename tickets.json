@@ -15,8 +15,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Device Powered Off"
     },
     {
@@ -26,7 +26,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Device Powered Off"
     },
     {
@@ -45,7 +45,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.9",
+        "duration": "1.0",
         "remaining": "7.0",
         "alarm": "Transmission unit link break"
     },
@@ -65,8 +65,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Transmission unit link break"
     },
     {
@@ -75,8 +75,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Transmission unit link break"
     },
     {
@@ -86,7 +86,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "Compressor Fault"
     },
     {
@@ -96,7 +96,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "Compressor Fault"
     },
     {
@@ -146,7 +146,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.9",
-        "remaining": "6.2",
+        "remaining": "6.1",
         "alarm": "Device Powered Off"
     },
     {
@@ -156,7 +156,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "BBU interrupted"
     },
     {
@@ -165,7 +165,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "2.0",
+        "duration": "2.1",
         "remaining": "1.9",
         "alarm": "RHUB link is down"
     },
@@ -285,8 +285,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Device Powered Off"
     },
     {
@@ -296,7 +296,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.6",
-        "remaining": "5.4",
+        "remaining": "5.3",
         "alarm": "BBU interrupted"
     },
     {
@@ -315,8 +315,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "The Device is offline"
     },
     {
@@ -325,8 +325,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.3",
-        "remaining": "4.7",
+        "duration": "3.4",
+        "remaining": "4.6",
         "alarm": "BBU interrupted"
     },
     {
@@ -365,8 +365,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "Device Powered Off"
     },
     {
@@ -376,7 +376,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.9",
-        "remaining": "4.2",
+        "remaining": "4.1",
         "alarm": "BBU interrupted"
     },
     {
@@ -395,8 +395,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "BBU interrupted"
     },
     {
@@ -405,7 +405,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.1",
+        "duration": "4.2",
         "remaining": "3.9",
         "alarm": "Device Powered Off"
     },
@@ -426,7 +426,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.3",
-        "remaining": "3.7",
+        "remaining": "3.6",
         "alarm": "BBU interrupted"
     },
     {
@@ -535,8 +535,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.4",
-        "remaining": "2.6",
+        "duration": "5.5",
+        "remaining": "2.5",
         "alarm": "Device Powered Off"
     },
     {
@@ -875,8 +875,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.3",
-        "remaining": "6.7",
+        "duration": "1.4",
+        "remaining": "6.6",
         "alarm": "The Device is offline"
     },
     {
@@ -885,8 +885,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Under speed shutdown alarm"
     },
     {
@@ -955,8 +955,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.9",
-        "remaining": "6.1",
+        "duration": "2.0",
+        "remaining": "6.0",
         "alarm": "Physical Port Down"
     },
     {
@@ -976,7 +976,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.9",
-        "remaining": "6.2",
+        "remaining": "6.1",
         "alarm": "Transmission unit link break"
     },
     {
@@ -985,8 +985,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "B tank level gauge failure Alarm"
     },
     {
@@ -1005,8 +1005,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "The Device is offline"
     },
     {
@@ -1015,8 +1015,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.8",
-        "remaining": "5.2",
+        "duration": "2.9",
+        "remaining": "5.1",
         "alarm": "ATS S1 Voltage State"
     },
     {
@@ -1055,7 +1055,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.4",
+        "duration": "6.5",
         "remaining": "1.6",
         "alarm": "Battery Communication Fail"
     },
@@ -1065,8 +1065,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.3",
-        "remaining": "2.7",
+        "duration": "5.4",
+        "remaining": "2.6",
         "alarm": "Cell out of service"
     },
     {
@@ -1075,8 +1075,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "RRU interrupted"
     },
     {
@@ -1106,7 +1106,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "7.5",
-        "remaining": "0.6",
+        "remaining": "0.5",
         "alarm": "Low Liquid Level Alarm shutdown"
     },
     {
@@ -1115,8 +1115,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "BBU optical module RX and TX abnormal"
     },
     {
@@ -1128,16 +1128,6 @@
         "duration": "-",
         "remaining": "-",
         "alarm": "Comm Status"
-    },
-    {
-        "nft": "NFT20250930000370",
-        "site": "PH0600652",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "-6.1",
-        "remaining": "14.1",
-        "alarm": "Optical Fail"
     },
     {
         "nft": "NFT20250930000248",
@@ -1165,8 +1155,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.7",
-        "remaining": "3.3",
+        "duration": "0.8",
+        "remaining": "3.2",
         "alarm": "Pico RRU not connected"
     },
     {
@@ -1215,8 +1205,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.7",
-        "remaining": "3.3",
+        "duration": "0.8",
+        "remaining": "3.2",
         "alarm": "Pico RRU not connected"
     },
     {
@@ -1226,7 +1216,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.7",
-        "remaining": "1.4",
+        "remaining": "1.3",
         "alarm": "RRU interrupted"
     },
     {
@@ -1235,7 +1225,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.6",
+        "duration": "6.7",
         "remaining": "1.4",
         "alarm": "RRU interrupted"
     },
@@ -1255,8 +1245,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.6",
-        "remaining": "1.4",
+        "duration": "6.7",
+        "remaining": "1.3",
         "alarm": "Cell out of service"
     }
 ]}
