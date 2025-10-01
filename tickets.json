@@ -5,8 +5,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Transmission unit link break"
     },
     {
@@ -25,8 +25,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Device Powered Off"
     },
     {
@@ -55,8 +55,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "Optical Fail"
     },
     {
@@ -75,8 +75,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.3",
-        "remaining": "6.7",
+        "duration": "1.4",
+        "remaining": "6.6",
         "alarm": "BBU interrupted"
     },
     {
@@ -105,7 +105,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.8",
+        "duration": "1.9",
         "remaining": "6.2",
         "alarm": "Compressor Fault"
     },
@@ -115,7 +115,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.8",
+        "duration": "1.9",
         "remaining": "6.2",
         "alarm": "Compressor Fault"
     },
@@ -125,8 +125,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.8",
-        "remaining": "6.2",
+        "duration": "1.9",
+        "remaining": "6.1",
         "alarm": "The Equipment is offline(DATA)"
     },
     {
@@ -136,7 +136,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.9",
-        "remaining": "6.2",
+        "remaining": "6.1",
         "alarm": "Device Powered Off"
     },
     {
@@ -145,7 +145,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.9",
+        "duration": "2.0",
         "remaining": "6.0",
         "alarm": "BBU interrupted"
     },
@@ -155,8 +155,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "BBU interrupted"
     },
     {
@@ -166,7 +166,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.1",
-        "remaining": "5.9",
+        "remaining": "5.8",
         "alarm": "Device Powered Off"
     },
     {
@@ -185,8 +185,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "2.3",
-        "remaining": "1.7",
+        "duration": "2.4",
+        "remaining": "1.6",
         "alarm": "RHUB link is down"
     },
     {
@@ -296,7 +296,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "BBU interrupted"
     },
     {
@@ -325,8 +325,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "Transmission unit link break"
     },
     {
@@ -355,8 +355,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.6",
-        "remaining": "4.4",
+        "duration": "3.7",
+        "remaining": "4.3",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -365,8 +365,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.6",
-        "remaining": "4.4",
+        "duration": "3.7",
+        "remaining": "4.3",
         "alarm": "BBU interrupted"
     },
     {
@@ -375,8 +375,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "Transmission unit link break"
     },
     {
@@ -395,7 +395,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.1",
+        "duration": "4.2",
         "remaining": "3.9",
         "alarm": "BBU interrupted"
     },
@@ -416,7 +416,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.3",
-        "remaining": "3.7",
+        "remaining": "3.6",
         "alarm": "BBU interrupted"
     },
     {
@@ -435,8 +435,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.4",
-        "remaining": "3.6",
+        "duration": "4.5",
+        "remaining": "3.5",
         "alarm": "Device Powered Off"
     },
     {
@@ -455,8 +455,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.7",
-        "remaining": "3.3",
+        "duration": "4.8",
+        "remaining": "3.2",
         "alarm": "Transmission unit link break"
     },
     {
@@ -465,8 +465,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.7",
-        "remaining": "3.3",
+        "duration": "4.8",
+        "remaining": "3.2",
         "alarm": "Device Powered Off"
     },
     {
@@ -475,8 +475,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.8",
-        "remaining": "3.2",
+        "duration": "4.9",
+        "remaining": "3.1",
         "alarm": "Transmission unit link break"
     },
     {
@@ -485,7 +485,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.8",
+        "duration": "4.9",
         "remaining": "3.1",
         "alarm": "Battery Communication Fail"
     },
@@ -515,8 +515,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.3",
-        "remaining": "2.7",
+        "duration": "5.4",
+        "remaining": "2.6",
         "alarm": "Device Powered Off"
     },
     {
@@ -525,8 +525,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.3",
-        "remaining": "2.7",
+        "duration": "5.4",
+        "remaining": "2.6",
         "alarm": "RRU interrupted"
     },
     {
@@ -590,16 +590,6 @@
         "alarm": "Low fuel level alarm"
     },
     {
-        "nft": "NFT20251001000114",
-        "site": "PH0600885",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
-        "alarm": "Transmission unit link break"
-    },
-    {
         "nft": "NFT20251001000111",
         "site": "PH0700675",
         "area": "CEBU",
@@ -607,16 +597,6 @@
         "severity": "Major",
         "duration": "0.6",
         "remaining": "7.4",
-        "alarm": "BBU interrupted"
-    },
-    {
-        "nft": "NFT20251001000109",
-        "site": "PH0700644",
-        "area": "BOHOL",
-        "state": "Suspend",
-        "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
         "alarm": "BBU interrupted"
     },
     {
@@ -658,6 +638,16 @@
         "duration": "0.9",
         "remaining": "7.1",
         "alarm": "Low oil pressure shutdown alarm"
+    },
+    {
+        "nft": "NFT20251001000090",
+        "site": "PH0800049",
+        "area": "SAMAR",
+        "state": "Suspend",
+        "severity": "Major",
+        "duration": "0.9",
+        "remaining": "7.1",
+        "alarm": "BBU interrupted"
     },
     {
         "nft": "NFT20251001000082",
@@ -835,8 +825,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Physical Port Down"
     },
     {
@@ -885,7 +875,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.9",
+        "duration": "2.0",
         "remaining": "6.0",
         "alarm": "Cell out of service"
     },
@@ -895,8 +885,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Low oil pressure shutdown alarm"
     },
     {
@@ -915,8 +905,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Low oil pressure shutdown alarm"
     },
     {
@@ -925,8 +915,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Low oil pressure shutdown alarm"
     },
     {
@@ -956,7 +946,7 @@
         "state": "Processing",
         "severity": "Critical",
         "duration": "3.0",
-        "remaining": "1.1",
+        "remaining": "1.0",
         "alarm": "Power module failed to communicate with the MPU"
     },
     {
@@ -966,7 +956,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.1",
-        "remaining": "5.9",
+        "remaining": "5.8",
         "alarm": "Transmission unit link break"
     },
     {
@@ -995,7 +985,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.3",
+        "duration": "2.4",
         "remaining": "5.7",
         "alarm": "The Device is offline"
     },
@@ -1015,7 +1005,7 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.6",
+        "duration": "3.7",
         "remaining": "4.3",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
@@ -1026,7 +1016,7 @@
         "state": "Processing",
         "severity": "Critical",
         "duration": "3.1",
-        "remaining": "0.9",
+        "remaining": "0.8",
         "alarm": "The Device is offline"
     },
     {
@@ -1035,8 +1025,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.3",
-        "remaining": "2.7",
+        "duration": "5.4",
+        "remaining": "2.6",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -1085,8 +1075,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.7",
-        "remaining": "0.3",
+        "duration": "7.8",
+        "remaining": "0.2",
         "alarm": "Low Liquid Level Alarm shutdown"
     },
     {
@@ -1135,7 +1125,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.9",
+        "duration": "1.0",
         "remaining": "3.0",
         "alarm": "Pico RRU not connected"
     },
