@@ -5,8 +5,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "RRU interrupted"
     },
     {
@@ -105,8 +105,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.1",
-        "remaining": "4.9",
+        "duration": "3.2",
+        "remaining": "4.8",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
@@ -120,23 +120,13 @@
         "alarm": "Battery Communication Fail"
     },
     {
-        "nft": "NFT20251002000179",
-        "site": "PH0600265",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "3.5",
-        "remaining": "4.5",
-        "alarm": "Battery Communication Fail"
-    },
-    {
         "nft": "NFT20251002000152",
         "site": "PH0700315",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.5",
-        "remaining": "3.5",
+        "duration": "4.6",
+        "remaining": "3.4",
         "alarm": "Physical Port Down"
     },
     {
@@ -225,7 +215,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.4",
+        "duration": "6.5",
         "remaining": "1.6",
         "alarm": "The Device is offline"
     },
@@ -235,8 +225,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.4",
-        "remaining": "1.6",
+        "duration": "6.5",
+        "remaining": "1.5",
         "alarm": "Transmission unit link break"
     },
     {
@@ -246,7 +236,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "7.8",
-        "remaining": "0.2",
+        "remaining": "0.1",
         "alarm": "Cell out of service"
     },
     {
@@ -255,8 +245,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.1",
-        "remaining": "3.9",
+        "duration": "4.2",
+        "remaining": "3.8",
         "alarm": "Physical Port Down"
     },
     {
@@ -285,8 +275,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.7",
-        "remaining": "3.3",
+        "duration": "4.8",
+        "remaining": "3.2",
         "alarm": "Cell out of service"
     },
     {
@@ -316,7 +306,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "6.0",
-        "remaining": "2.0",
+        "remaining": "1.9",
         "alarm": "Transmission unit link break"
     },
     {
@@ -325,8 +315,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.0",
-        "remaining": "2.0",
+        "duration": "6.1",
+        "remaining": "1.9",
         "alarm": "Device Powered Off"
     },
     {
@@ -465,8 +455,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "4.0",
-        "remaining": "0.0",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "RHUB link is down"
     },
     {
@@ -485,8 +475,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "RRU interrupted"
     },
     {
@@ -565,8 +555,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.8",
-        "remaining": "3.2",
+        "duration": "4.9",
+        "remaining": "3.1",
         "alarm": "The Device is offline"
     }
 ]}
