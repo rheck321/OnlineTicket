@@ -15,8 +15,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Physical Port Down"
     },
     {
@@ -30,23 +30,73 @@
         "alarm": "Optical Fail"
     },
     {
+        "nft": "NFT20251002000108",
+        "site": "IBS0610001",
+        "area": "PANAY",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.5",
+        "remaining": "7.5",
+        "alarm": "RRU interrupted"
+    },
+    {
         "nft": "NFT20251002000106",
         "site": "IBS0640002",
         "area": "PANAY",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Critical",
-        "duration": "1.1",
-        "remaining": "2.9",
+        "duration": "0.4",
+        "remaining": "3.6",
+        "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20251002000102",
+        "site": "IBS0610012",
+        "area": "NEGROS",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.5",
+        "remaining": "3.5",
+        "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20251002000104",
+        "site": "IBS0710030",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.5",
+        "remaining": "3.5",
         "alarm": "Pico RRU not connected"
     },
     {
         "nft": "NFT20251002000105",
         "site": "IBS0610001",
         "area": "PANAY",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Critical",
-        "duration": "1.1",
-        "remaining": "2.9",
+        "duration": "0.5",
+        "remaining": "3.5",
+        "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20251002000103",
+        "site": "IBS0610007",
+        "area": "PANAY",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.4",
+        "remaining": "3.6",
+        "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20251002000098",
+        "site": "IBS0640005",
+        "area": "NEGROS",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.4",
+        "remaining": "3.6",
         "alarm": "Pico RRU not connected"
     },
     {
@@ -55,8 +105,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -116,7 +166,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.3",
-        "remaining": "3.7",
+        "remaining": "3.6",
         "alarm": "Charge Circuit Switch Failure alarm"
     },
     {
@@ -375,8 +425,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "The Equipment is offline(DATA)"
     },
     {
