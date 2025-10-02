@@ -1,11 +1,21 @@
 {"nftlist":[
     {
+        "nft": "NFT20251002000304",
+        "site": "PH0800144",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Modem part unlock"
+    },
+    {
         "nft": "NFT20251002000302",
         "site": "PH0800165",
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.1",
+        "duration": "0.2",
         "remaining": "7.8",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
@@ -63,10 +73,10 @@
         "nft": "NFT20251002000289",
         "site": "PH0600343",
         "area": "NEGROS",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Major",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -85,7 +95,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.3",
+        "duration": "1.4",
         "remaining": "6.7",
         "alarm": "Physical Port Down"
     },
@@ -155,8 +165,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.6",
-        "remaining": "4.4",
+        "duration": "3.7",
+        "remaining": "4.3",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
@@ -255,7 +265,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.9",
+        "duration": "7.0",
         "remaining": "1.1",
         "alarm": "The Device is offline"
     },
@@ -265,8 +275,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.9",
-        "remaining": "1.1",
+        "duration": "7.0",
+        "remaining": "1.0",
         "alarm": "Transmission unit link break"
     },
     {
@@ -336,7 +346,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "6.5",
-        "remaining": "1.5",
+        "remaining": "1.4",
         "alarm": "Transmission unit link break"
     },
     {
@@ -345,8 +355,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.5",
-        "remaining": "1.5",
+        "duration": "6.6",
+        "remaining": "1.4",
         "alarm": "Device Powered Off"
     },
     {
@@ -505,8 +515,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.5",
-        "remaining": "3.5",
+        "duration": "4.6",
+        "remaining": "3.4",
         "alarm": "RRU interrupted"
     },
     {
@@ -575,8 +585,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.3",
-        "remaining": "2.7",
+        "duration": "5.4",
+        "remaining": "2.6",
         "alarm": "The Device is offline"
     }
 ]}
