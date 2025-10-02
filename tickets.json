@@ -15,8 +15,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Physical Port Down"
     },
     {
@@ -46,18 +46,8 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "Transmission unit link break"
-    },
-    {
-        "nft": "NFT20251002000224",
-        "site": "IBS0740021",
-        "area": "BOHOL",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "1.9",
-        "remaining": "6.1",
-        "alarm": "RRU interrupted"
     },
     {
         "nft": "NFT20251002000222",
@@ -96,7 +86,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.9",
-        "remaining": "5.2",
+        "remaining": "5.1",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
@@ -215,8 +205,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.1",
-        "remaining": "1.9",
+        "duration": "6.2",
+        "remaining": "1.8",
         "alarm": "The Device is offline"
     },
     {
@@ -226,7 +216,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "6.2",
-        "remaining": "1.9",
+        "remaining": "1.8",
         "alarm": "Transmission unit link break"
     },
     {
@@ -235,8 +225,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.5",
-        "remaining": "0.5",
+        "duration": "7.6",
+        "remaining": "0.4",
         "alarm": "Cell out of service"
     },
     {
@@ -245,8 +235,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.3",
-        "remaining": "3.7",
+        "duration": "4.4",
+        "remaining": "3.6",
         "alarm": "Cell out of service"
     },
     {
@@ -256,7 +246,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.9",
-        "remaining": "4.2",
+        "remaining": "4.1",
         "alarm": "Physical Port Down"
     },
     {
@@ -285,8 +275,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.4",
-        "remaining": "3.6",
+        "duration": "4.5",
+        "remaining": "3.5",
         "alarm": "Cell out of service"
     },
     {
@@ -295,8 +285,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.2",
-        "remaining": "2.8",
+        "duration": "5.3",
+        "remaining": "2.7",
         "alarm": "Physical Port Down"
     },
     {
@@ -315,8 +305,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.7",
-        "remaining": "2.3",
+        "duration": "5.8",
+        "remaining": "2.2",
         "alarm": "Transmission unit link break"
     },
     {
@@ -435,8 +425,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "3.8",
-        "remaining": "0.2",
+        "duration": "3.9",
+        "remaining": "0.1",
         "alarm": "RHUB link is down"
     },
     {
@@ -465,8 +455,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "3.7",
-        "remaining": "0.3",
+        "duration": "3.8",
+        "remaining": "0.2",
         "alarm": "RHUB link is down"
     },
     {
@@ -476,7 +466,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.6",
-        "remaining": "4.4",
+        "remaining": "4.3",
         "alarm": "RRU interrupted"
     },
     {
@@ -565,8 +555,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.5",
-        "remaining": "3.5",
+        "duration": "4.6",
+        "remaining": "3.4",
         "alarm": "The Device is offline"
     }
 ]}
