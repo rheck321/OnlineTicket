@@ -5,8 +5,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "RRU interrupted"
     },
     {
@@ -35,8 +35,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.9",
-        "remaining": "7.1",
+        "duration": "1.0",
+        "remaining": "7.0",
         "alarm": "Physical Port Down"
     },
     {
@@ -115,8 +115,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -145,7 +145,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.8",
+        "duration": "2.9",
         "remaining": "5.2",
         "alarm": "Transmission unit link break"
     },
@@ -165,7 +165,7 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.6",
+        "duration": "4.7",
         "remaining": "3.4",
         "alarm": "Charge Circuit Switch Failure alarm"
     },
@@ -416,7 +416,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "The Equipment is offline(DATA)"
     },
     {
@@ -456,7 +456,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "8.0",
-        "remaining": "0.1",
+        "remaining": "0.0",
         "alarm": "Device Powered Off"
     },
     {
