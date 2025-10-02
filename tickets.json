@@ -15,8 +15,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Transmission unit link break"
     },
     {
@@ -25,8 +25,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
@@ -35,8 +35,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -55,7 +55,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.9",
+        "duration": "1.0",
         "remaining": "7.0",
         "alarm": "Device Powered Off"
     },
@@ -66,7 +66,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "6.9",
+        "remaining": "6.8",
         "alarm": "BBU interrupted"
     },
     {
@@ -85,8 +85,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.8",
-        "remaining": "6.2",
+        "duration": "1.9",
+        "remaining": "6.1",
         "alarm": "Physical Port Down"
     },
     {
@@ -165,8 +165,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.6",
-        "remaining": "5.4",
+        "duration": "2.7",
+        "remaining": "5.3",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -195,8 +195,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "Transmission unit link break"
     },
     {
@@ -216,7 +216,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.9",
-        "remaining": "6.2",
+        "remaining": "6.1",
         "alarm": "BBU interrupted"
     },
     {
@@ -236,7 +236,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Physical Port Down"
     },
     {
@@ -255,8 +255,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "Air Conditioner Inner Fan Fault"
     },
     {
@@ -275,8 +275,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.3",
-        "remaining": "5.7",
+        "duration": "2.4",
+        "remaining": "5.6",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
@@ -286,7 +286,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.6",
-        "remaining": "5.4",
+        "remaining": "5.3",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
@@ -305,8 +305,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "Cell out of service"
     },
     {
@@ -325,7 +325,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.3",
+        "duration": "3.4",
         "remaining": "4.7",
         "alarm": "Device Powered Off"
     },
@@ -335,8 +335,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "Cell out of service"
     },
     {
@@ -345,8 +345,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "Transmission unit link break"
     },
     {
@@ -355,7 +355,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.1",
+        "duration": "4.2",
         "remaining": "3.9",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
@@ -375,8 +375,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-7.8",
-        "remaining": "15.8",
+        "duration": "-7.7",
+        "remaining": "15.7",
         "alarm": "Cell out of service"
     },
     {
@@ -385,7 +385,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "The Equipment is offline(DATA)"
     },
@@ -475,8 +475,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.2",
-        "remaining": "6.8",
+        "duration": "1.3",
+        "remaining": "6.7",
         "alarm": "GPS clock failure"
     },
     {
@@ -485,8 +485,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.2",
-        "remaining": "6.8",
+        "duration": "1.3",
+        "remaining": "6.7",
         "alarm": "Pico RRU not connected"
     },
     {
@@ -515,7 +515,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.3",
+        "duration": "1.4",
         "remaining": "6.7",
         "alarm": "RRU interrupted"
     },
@@ -595,8 +595,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Low oil pressure shutdown alarm"
     },
     {
@@ -605,8 +605,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "2.1",
-        "remaining": "1.9",
+        "duration": "2.2",
+        "remaining": "1.8",
         "alarm": "The link between the server and the NE is broken"
     },
     {
@@ -616,7 +616,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.1",
-        "remaining": "5.9",
+        "remaining": "5.8",
         "alarm": "The Device is offline"
     },
     {
@@ -706,7 +706,837 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
+        "alarm": "Oil Spill Alarm Station 1 Alarm"
+    },
+    {
+        "nft": "NFT20250930000581",
+        "site": "PH0700722",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "The Device is offline"
+    },
+    {
+        "nft": "NFT20250930000578",
+        "site": "CO089",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "ATS S1 Voltage State"
+    },
+    {
+        "nft": "NFT20250930000468",
+        "site": "PH0700021",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Cell out of service"
+    },
+    {
+        "nft": "NFT20250930000409",
+        "site": "PH0600384",
+        "area": "NEGROS",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Air Conditioner Inner Fan Fault"
+    },
+    {
+        "nft": "NFT20250930000405",
+        "site": "PH0800336",
+        "area": "LEYTE",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Air Conditioner Inner Fan Fault"
+    },
+    {
+        "nft": "NFT20250930000395",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "BBU optical module RX and TX abnormal"
+    },
+    {
+        "nft": "NFT20250930000377",
+        "site": "CO089",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Critical",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Comm Status"
+    },
+    {
+        "nft": "NFT20250930000248",
+        "site": "PH0600195",
+        "area": "PANAY",
+        "state": "Suspend",
+        "severity": "Major",
+        "duration": "1.1",
+        "remaining": "6.9",
+        "alarm": "Battery Communication Fail"
+    },
+    {
+        "nft": "NFT20250930000141",
+        "site": "IBS0640002",
+        "area": "PANAY",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "The received optical power of the optical module is abnormal"
+    },
+    {
+        "nft": "NFT20250930000129",
+        "site": "IBS0710029",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Critical",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20250930000024",
+        "site": "PH0710021",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "RRU interrupted"
+    },
+    {
+        "nft": "NFT20250930000020",
+        "site": "PH0700198",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Cell out of service"
+    },
+    {
+        "nft": "NFT20251002000198",
+        "site": "PH0700202",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Air Conditioner Outer Fan Fault"
+    },
+    {
+        "nft": "NFT20251002000192",
+        "site": "PH0700573",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.4",
+        "remaining": "7.6",
+        "alarm": "Transmission unit link break"
+    },
+    {
+        "nft": "NFT20251002000187",
+        "site": "PH0700265",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.5",
+        "remaining": "7.5",
+        "alarm": "Air Conditioner Outer Fan Fault"
+    },
+    {
+        "nft": "NFT20251002000181",
+        "site": "PH0600104",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.8",
+        "remaining": "7.2",
+        "alarm": "Battery Communication Fail"
+    },
+    {
+        "nft": "NFT20251002000179",
+        "site": "PH0600265",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.8",
+        "remaining": "7.2",
+        "alarm": "Battery Communication Fail"
+    },
+    {
+        "nft": "NFT20251002000171",
+        "site": "PH0600772",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "1.0",
+        "remaining": "7.0",
+        "alarm": "Device Powered Off"
+    },
+    {
+        "nft": "NFT20251002000168",
+        "site": "PH0600527",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "1.1",
+        "remaining": "6.8",
+        "alarm": "BBU interrupted"
+    },
+    {
+        "nft": "NFT20251002000157",
+        "site": "PH0800144",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "1.5",
+        "remaining": "6.5",
+        "alarm": "Modem part unlock"
+    },
+    {
+        "nft": "NFT20251002000152",
+        "site": "PH0700315",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "1.9",
+        "remaining": "6.1",
+        "alarm": "Physical Port Down"
+    },
+    {
+        "nft": "NFT20251002000108",
+        "site": "IBS0610001",
+        "area": "PANAY",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.5",
+        "remaining": "7.5",
+        "alarm": "RRU interrupted"
+    },
+    {
+        "nft": "NFT20251002000106",
+        "site": "IBS0640002",
+        "area": "PANAY",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.4",
+        "remaining": "3.6",
+        "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20251002000102",
+        "site": "IBS0610012",
+        "area": "NEGROS",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.5",
+        "remaining": "3.5",
+        "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20251002000104",
+        "site": "IBS0710030",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.5",
+        "remaining": "3.5",
+        "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20251002000105",
+        "site": "IBS0610001",
+        "area": "PANAY",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.5",
+        "remaining": "3.5",
+        "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20251002000103",
+        "site": "IBS0610007",
+        "area": "PANAY",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.4",
+        "remaining": "3.6",
+        "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20251002000098",
+        "site": "IBS0640005",
+        "area": "NEGROS",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.4",
+        "remaining": "3.6",
+        "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20251002000091",
+        "site": "PH0700378",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "2.7",
+        "remaining": "5.3",
+        "alarm": "Battery Communication Fail"
+    },
+    {
+        "nft": "NFT20251002000082",
+        "site": "PH0600078",
+        "area": "PANAY",
+        "state": "Suspend",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Battery Communication Fail"
+    },
+    {
+        "nft": "NFT20251002000079",
+        "site": "PH0700405",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "3.7",
+        "remaining": "4.3",
+        "alarm": "The Device is offline"
+    },
+    {
+        "nft": "NFT20251002000077",
+        "site": "PH0700284",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "3.8",
+        "remaining": "4.2",
+        "alarm": "Transmission unit link break"
+    },
+    {
+        "nft": "NFT20251002000057",
+        "site": "PH0600406",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "5.1",
+        "remaining": "2.9",
+        "alarm": "Cell out of service"
+    },
+    {
+        "nft": "NFT20251002000039",
+        "site": "PH0800162",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "1.9",
+        "remaining": "6.1",
+        "alarm": "BBU interrupted"
+    },
+    {
+        "nft": "NFT20251002000011",
+        "site": "PH0700063",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "1.9",
+        "remaining": "6.1",
+        "alarm": "Cell out of service"
+    },
+    {
+        "nft": "NFT20251001000825",
+        "site": "PH0700329",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "1.4",
+        "remaining": "6.5",
+        "alarm": "Physical Port Down"
+    },
+    {
+        "nft": "NFT20251001000822",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "3.5",
+        "remaining": "4.5",
+        "alarm": "RRU interrupted"
+    },
+    {
+        "nft": "NFT20251001000790",
+        "site": "PH0800126",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.9",
+        "remaining": "7.1",
+        "alarm": "Air Conditioner Inner Fan Fault"
+    },
+    {
+        "nft": "NFT20251001000757",
+        "site": "PH0700217",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "2.0",
+        "remaining": "6.0",
+        "alarm": "Cell out of service"
+    },
+    {
+        "nft": "NFT20251001000748",
+        "site": "PH0800146",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "2.4",
+        "remaining": "5.6",
+        "alarm": "Air Conditioner Outer Fan Fault"
+    },
+    {
+        "nft": "NFT20251001000741",
+        "site": "PH0800165",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "2.6",
+        "remaining": "5.3",
+        "alarm": "Air Conditioner Outer Fan Fault"
+    },
+    {
+        "nft": "NFT20251001000736",
+        "site": "PH0700719",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "2.8",
+        "remaining": "5.2",
+        "alarm": "Physical Port Down"
+    },
+    {
+        "nft": "NFT20251001000716",
+        "site": "PH0700330",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "3.3",
+        "remaining": "4.7",
+        "alarm": "Cell out of service"
+    },
+    {
+        "nft": "NFT20251001000715",
+        "site": "PH0700420",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "3.3",
+        "remaining": "4.7",
+        "alarm": "Transmission unit link break"
+    },
+    {
+        "nft": "NFT20251001000714",
+        "site": "PH0700340",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "3.4",
+        "remaining": "4.7",
+        "alarm": "Device Powered Off"
+    },
+    {
+        "nft": "NFT20251001000705",
+        "site": "PH0700420",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "3.6",
+        "remaining": "4.4",
+        "alarm": "Cell out of service"
+    },
+    {
+        "nft": "NFT20251001000698",
+        "site": "PH0700340",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "3.8",
+        "remaining": "4.2",
+        "alarm": "Transmission unit link break"
+    },
+    {
+        "nft": "NFT20251001000671",
+        "site": "PH0600345",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "4.2",
+        "remaining": "3.9",
+        "alarm": "Air Conditioner Outer Fan Fault"
+    },
+    {
+        "nft": "NFT20251001000505",
+        "site": "PH0800019",
+        "area": "SAMAR",
+        "state": "Processing",
+        "severity": "Critical",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Physical Port Down"
+    },
+    {
+        "nft": "NFT20251001000503",
+        "site": "PH0700217",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "-7.7",
+        "remaining": "15.7",
+        "alarm": "Cell out of service"
+    },
+    {
+        "nft": "NFT20251001000463",
+        "site": "PH0700487",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "1.5",
+        "remaining": "6.5",
+        "alarm": "The Equipment is offline(DATA)"
+    },
+    {
+        "nft": "NFT20251001000456",
+        "site": "PH0700289",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Physical Port Down"
+    },
+    {
+        "nft": "NFT20251001000417",
+        "site": "PH0700408",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "7.5",
+        "remaining": "0.5",
+        "alarm": "Device Powered Off"
+    },
+    {
+        "nft": "NFT20251001000329",
+        "site": "PH0700537",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Device Powered Off"
+    },
+    {
+        "nft": "NFT20251001000283",
+        "site": "IBS0740027",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "The Device is offline"
+    },
+    {
+        "nft": "NFT20251001000276",
+        "site": "PH0700566",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "The Equipment is offline(DATA)"
+    },
+    {
+        "nft": "NFT20251001000275",
+        "site": "PH0700506",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Device Powered Off"
+    },
+    {
+        "nft": "NFT20251001000272",
+        "site": "PH0700271",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "BBU interrupted"
+    },
+    {
+        "nft": "NFT20251001000257",
+        "site": "IBS0710033",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Critical",
+        "duration": "1.4",
+        "remaining": "2.6",
+        "alarm": "RHUB link is down"
+    },
+    {
+        "nft": "NFT20251001000248",
+        "site": "IBS0710029",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "1.3",
+        "remaining": "6.7",
+        "alarm": "GPS clock failure"
+    },
+    {
+        "nft": "NFT20251001000251",
+        "site": "IBS0710029",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "1.3",
+        "remaining": "6.7",
+        "alarm": "Pico RRU not connected"
+    },
+    {
+        "nft": "NFT20251001000238",
+        "site": "IBS0710030",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Critical",
+        "duration": "1.3",
+        "remaining": "2.7",
+        "alarm": "RHUB link is down"
+    },
+    {
+        "nft": "NFT20251001000239",
+        "site": "IBS0640002",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "1.2",
+        "remaining": "6.8",
+        "alarm": "RRU interrupted"
+    },
+    {
+        "nft": "NFT20251001000244",
+        "site": "IBS0710029",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "1.4",
+        "remaining": "6.7",
+        "alarm": "RRU interrupted"
+    },
+    {
+        "nft": "NFT20251001000235",
+        "site": "PH0700411",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "BBU interrupted"
+    },
+    {
+        "nft": "NFT20251001000199",
+        "site": "PH0700779",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "The Device is offline"
+    },
+    {
+        "nft": "NFT20251001000166",
+        "site": "PH0700365",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "BBU interrupted"
+    },
+    {
+        "nft": "NFT20251001000160",
+        "site": "PH0700338",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Device Powered Off"
+    },
+    {
+        "nft": "NFT20251001000151",
+        "site": "PH0800166",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Battery Communication Fail"
+    },
+    {
+        "nft": "NFT20251001000137",
+        "site": "PH0700826",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "RRU interrupted"
+    },
+    {
+        "nft": "NFT20251001000128",
+        "site": "PH0700124",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Cell out of service"
+    },
+    {
+        "nft": "NFT20251001000093",
+        "site": "PH0600651",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "1.8",
+        "remaining": "6.2",
+        "alarm": "Low oil pressure shutdown alarm"
+    },
+    {
+        "nft": "NFT20251001000082",
+        "site": "PH0700554",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Critical",
+        "duration": "2.2",
+        "remaining": "1.8",
+        "alarm": "The link between the server and the NE is broken"
+    },
+    {
+        "nft": "NFT20251001000083",
+        "site": "PH0700554",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "2.1",
+        "remaining": "5.8",
+        "alarm": "The Device is offline"
+    },
+    {
+        "nft": "NFT20250930000682",
+        "site": "PH0700556",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Physical Port Down"
+    },
+    {
+        "nft": "NFT20250930000674",
+        "site": "CO089",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "COMMUN_FAIL"
+    },
+    {
+        "nft": "NFT20250930000673",
+        "site": "CO083",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Comm status"
+    },
+    {
+        "nft": "NFT20250930000656",
+        "site": "PH0700319",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Under speed shutdown alarm"
+    },
+    {
+        "nft": "NFT20250930000653",
+        "site": "PH0700205",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Low oil pressure shutdown alarm"
+    },
+    {
+        "nft": "NFT20250930000643",
+        "site": "PH0700204",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Low oil pressure shutdown alarm"
+    },
+    {
+        "nft": "NFT20250930000612",
+        "site": "CO038",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Critical",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Power module failed to communicate with the MPU"
+    },
+    {
+        "nft": "NFT20250930000602",
+        "site": "CO037s",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "B tank level gauge failure Alarm"
+    },
+    {
+        "nft": "NFT20250930000599",
+        "site": "CO037s",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "1.6",
+        "remaining": "6.3",
         "alarm": "Oil Spill Alarm Station 1 Alarm"
     },
     {
