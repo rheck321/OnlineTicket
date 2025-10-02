@@ -25,8 +25,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -35,8 +35,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Device Powered Off"
     },
     {
@@ -55,8 +55,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Modem part unlock"
     },
     {
@@ -166,7 +166,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.4",
-        "remaining": "4.7",
+        "remaining": "4.6",
         "alarm": "The Device is offline"
     },
     {
@@ -205,7 +205,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
+        "duration": "1.6",
         "remaining": "6.5",
         "alarm": "BBU interrupted"
     },
@@ -216,7 +216,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "Cell out of service"
     },
     {
@@ -245,8 +245,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Physical Port Down"
     },
     {
@@ -255,7 +255,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "7.5",
         "alarm": "Air Conditioner Inner Fan Fault"
     },
@@ -265,7 +265,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.6",
+        "duration": "1.7",
         "remaining": "6.3",
         "alarm": "Cell out of service"
     },
@@ -315,8 +315,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "Cell out of service"
     },
     {
@@ -375,7 +375,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.3",
+        "duration": "6.4",
         "remaining": "1.6",
         "alarm": "Battery Communication Fail"
     },
@@ -406,7 +406,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.1",
-        "remaining": "6.9",
+        "remaining": "6.8",
         "alarm": "The Equipment is offline(DATA)"
     },
     {
@@ -485,8 +485,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.0",
-        "remaining": "3.0",
+        "duration": "1.1",
+        "remaining": "2.9",
         "alarm": "RHUB link is down"
     },
     {
@@ -506,7 +506,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.9",
-        "remaining": "7.1",
+        "remaining": "7.0",
         "alarm": "Pico RRU not connected"
     },
     {
@@ -515,7 +515,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.9",
+        "duration": "1.0",
         "remaining": "3.0",
         "alarm": "RHUB link is down"
     },
@@ -525,8 +525,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "RRU interrupted"
     },
     {
@@ -630,16 +630,6 @@
         "alarm": "Cell out of service"
     },
     {
-        "nft": "NFT20251001000111",
-        "site": "PH0700675",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
-        "alarm": "BBU interrupted"
-    },
-    {
         "nft": "NFT20251001000093",
         "site": "PH0600651",
         "area": "PANAY",
@@ -668,16 +658,6 @@
         "duration": "1.8",
         "remaining": "6.2",
         "alarm": "The Device is offline"
-    },
-    {
-        "nft": "NFT20251001000029",
-        "site": "PH0700037",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "1.8",
-        "remaining": "6.2",
-        "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
         "nft": "NFT20250930000682",
@@ -818,6 +798,16 @@
         "duration": "0.1",
         "remaining": "7.9",
         "alarm": "Air Conditioner Inner Fan Fault"
+    },
+    {
+        "nft": "NFT20250930000395",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "BBU optical module RX and TX abnormal"
     },
     {
         "nft": "NFT20250930000377",
