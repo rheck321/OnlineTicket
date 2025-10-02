@@ -15,8 +15,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -25,8 +25,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Cell out of service"
     },
     {
@@ -46,7 +46,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "6.9",
+        "remaining": "6.8",
         "alarm": "Physical Port Down"
     },
     {
@@ -55,8 +55,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Optical port link fault"
     },
     {
@@ -66,7 +66,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "Transmission unit link break"
     },
     {
@@ -75,8 +75,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -220,16 +220,6 @@
         "alarm": "Transmission unit link break"
     },
     {
-        "nft": "NFT20251002000057",
-        "site": "PH0600406",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "8.0",
-        "remaining": "0.0",
-        "alarm": "Cell out of service"
-    },
-    {
         "nft": "NFT20251001000825",
         "site": "PH0700329",
         "area": "CEBU",
@@ -255,8 +245,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "Air Conditioner Inner Fan Fault"
     },
     {
@@ -285,8 +275,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.1",
-        "remaining": "1.9",
+        "duration": "6.2",
+        "remaining": "1.8",
         "alarm": "Cell out of service"
     },
     {
@@ -315,8 +305,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.4",
-        "remaining": "1.6",
+        "duration": "6.5",
+        "remaining": "1.5",
         "alarm": "Cell out of service"
     },
     {
@@ -325,7 +315,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.6",
+        "duration": "6.7",
         "remaining": "1.4",
         "alarm": "Transmission unit link break"
     },
@@ -335,8 +325,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-4.9",
-        "remaining": "12.9",
+        "duration": "-4.8",
+        "remaining": "12.8",
         "alarm": "Cell out of service"
     },
     {
@@ -346,7 +336,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.3",
-        "remaining": "3.7",
+        "remaining": "3.6",
         "alarm": "The Equipment is offline(DATA)"
     },
     {
@@ -435,8 +425,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.1",
-        "remaining": "3.9",
+        "duration": "4.2",
+        "remaining": "3.8",
         "alarm": "Pico RRU not connected"
     },
     {
@@ -455,8 +445,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "RRU interrupted"
     },
     {
@@ -525,7 +515,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.6",
+        "duration": "4.7",
         "remaining": "3.4",
         "alarm": "Low oil pressure shutdown alarm"
     },
