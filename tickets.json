@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Transmission unit link break"
     },
     {
@@ -15,8 +15,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
@@ -55,8 +55,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "BBU interrupted"
     },
     {
@@ -75,8 +75,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Physical Port Down"
     },
     {
@@ -155,8 +155,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -176,7 +176,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.6",
-        "remaining": "4.4",
+        "remaining": "4.3",
         "alarm": "The Device is offline"
     },
     {
@@ -185,8 +185,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.6",
-        "remaining": "4.4",
+        "duration": "3.7",
+        "remaining": "4.3",
         "alarm": "Transmission unit link break"
     },
     {
@@ -198,16 +198,6 @@
         "duration": "5.0",
         "remaining": "3.0",
         "alarm": "Cell out of service"
-    },
-    {
-        "nft": "NFT20251002000048",
-        "site": "PH0700707",
-        "area": "BOHOL",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "5.4",
-        "remaining": "2.6",
-        "alarm": "Charge Circuit Switch Failure alarm"
     },
     {
         "nft": "NFT20251002000039",
@@ -225,7 +215,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.8",
+        "duration": "1.9",
         "remaining": "6.2",
         "alarm": "Cell out of service"
     },
@@ -235,8 +225,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.3",
-        "remaining": "6.7",
+        "duration": "1.4",
+        "remaining": "6.6",
         "alarm": "Physical Port Down"
     },
     {
@@ -266,7 +256,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "Cell out of service"
     },
     {
@@ -275,19 +265,9 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.2",
-        "remaining": "5.8",
-        "alarm": "Air Conditioner Outer Fan Fault"
-    },
-    {
-        "nft": "NFT20251001000743",
-        "site": "PH0700043",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
         "duration": "2.3",
         "remaining": "5.7",
-        "alarm": "Charge Circuit Switch Failure alarm"
+        "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
         "nft": "NFT20251001000741",
@@ -295,8 +275,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
@@ -305,8 +285,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Physical Port Down"
     },
     {
@@ -335,8 +315,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "Device Powered Off"
     },
     {
@@ -355,7 +335,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.6",
+        "duration": "3.7",
         "remaining": "4.3",
         "alarm": "Transmission unit link break"
     },
@@ -365,8 +345,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "Air Conditioner Outer Fan Fault"
     },
     {
@@ -375,7 +355,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.6",
+        "duration": "6.7",
         "remaining": "1.4",
         "alarm": "Battery Communication Fail"
     },
@@ -425,7 +405,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.4",
+        "duration": "7.5",
         "remaining": "0.6",
         "alarm": "Device Powered Off"
     },
@@ -495,8 +475,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "GPS clock failure"
     },
     {
@@ -535,8 +515,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.2",
-        "remaining": "6.8",
+        "duration": "1.3",
+        "remaining": "6.7",
         "alarm": "RRU interrupted"
     },
     {
@@ -615,7 +595,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.6",
+        "duration": "1.7",
         "remaining": "6.3",
         "alarm": "Low oil pressure shutdown alarm"
     },
@@ -625,8 +605,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "2.0",
-        "remaining": "2.0",
+        "duration": "2.1",
+        "remaining": "1.9",
         "alarm": "The link between the server and the NE is broken"
     },
     {
@@ -635,8 +615,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "The Device is offline"
     },
     {
@@ -725,8 +705,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Oil Spill Alarm Station 1 Alarm"
     },
     {
