@@ -1,5 +1,15 @@
 {"nftlist":[
     {
+        "nft": "NFT20251002000170",
+        "site": "IBS0740021",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "RRU interrupted"
+    },
+    {
         "nft": "NFT20251002000168",
         "site": "PH0600527",
         "area": "PANAY",
@@ -106,7 +116,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -155,8 +165,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.1",
-        "remaining": "3.9",
+        "duration": "4.2",
+        "remaining": "3.8",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -425,8 +435,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "The Equipment is offline(DATA)"
     },
     {
@@ -465,8 +475,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.8",
-        "remaining": "0.2",
+        "duration": "7.9",
+        "remaining": "0.1",
         "alarm": "Device Powered Off"
     },
     {
