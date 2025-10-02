@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "RRU interrupted"
     },
     {
@@ -15,8 +15,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "BBU interrupted"
     },
     {
@@ -35,8 +35,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "Physical Port Down"
     },
     {
@@ -115,7 +115,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.6",
+        "duration": "1.7",
         "remaining": "6.3",
         "alarm": "Battery Communication Fail"
     },
@@ -135,8 +135,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "The Device is offline"
     },
     {
@@ -145,8 +145,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Transmission unit link break"
     },
     {
@@ -155,7 +155,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.1",
+        "duration": "4.2",
         "remaining": "3.9",
         "alarm": "Cell out of service"
     },
@@ -175,8 +175,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.5",
-        "remaining": "3.5",
+        "duration": "4.6",
+        "remaining": "3.4",
         "alarm": "Charge Circuit Switch Failure alarm"
     },
     {
@@ -198,16 +198,6 @@
         "duration": "1.1",
         "remaining": "7.0",
         "alarm": "Cell out of service"
-    },
-    {
-        "nft": "NFT20251001000855",
-        "site": "PH0700664",
-        "area": "NEGROS",
-        "state": "Suspend",
-        "severity": "Major",
-        "duration": "1.8",
-        "remaining": "6.2",
-        "alarm": "Physical Port Down"
     },
     {
         "nft": "NFT20251001000825",
@@ -456,7 +446,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.5",
-        "remaining": "1.5",
+        "remaining": "1.4",
         "alarm": "Device Powered Off"
     },
     {
