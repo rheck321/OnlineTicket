@@ -1,12 +1,22 @@
 {"nftlist":[
     {
+        "nft": "NFT20251002000168",
+        "site": "PH0600527",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "BBU interrupted"
+    },
+    {
         "nft": "NFT20251002000157",
         "site": "PH0800144",
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Modem part unlock"
     },
     {
@@ -18,16 +28,6 @@
         "duration": "0.8",
         "remaining": "7.2",
         "alarm": "Physical Port Down"
-    },
-    {
-        "nft": "NFT20251002000151",
-        "site": "PH0600657",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.8",
-        "remaining": "7.2",
-        "alarm": "Optical Fail"
     },
     {
         "nft": "NFT20251002000108",
@@ -106,7 +106,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -125,8 +125,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.6",
-        "remaining": "5.4",
+        "duration": "2.7",
+        "remaining": "5.3",
         "alarm": "The Device is offline"
     },
     {
@@ -135,8 +135,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.6",
-        "remaining": "5.4",
+        "duration": "2.7",
+        "remaining": "5.3",
         "alarm": "Transmission unit link break"
     },
     {
@@ -145,8 +145,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "Cell out of service"
     },
     {
@@ -165,8 +165,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.4",
-        "remaining": "3.6",
+        "duration": "4.5",
+        "remaining": "3.5",
         "alarm": "Charge Circuit Switch Failure alarm"
     },
     {
@@ -445,8 +445,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.4",
-        "remaining": "1.6",
+        "duration": "6.5",
+        "remaining": "1.5",
         "alarm": "Device Powered Off"
     },
     {
