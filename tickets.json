@@ -15,8 +15,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Physical Port Down"
     },
     {
@@ -25,19 +25,9 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Optical Fail"
-    },
-    {
-        "nft": "NFT20251002000110",
-        "site": "PH0700664",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.9",
-        "remaining": "7.0",
-        "alarm": "Physical Port Down"
     },
     {
         "nft": "NFT20251002000108",
@@ -45,8 +35,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "RRU interrupted"
     },
     {
@@ -55,8 +45,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.0",
-        "remaining": "3.0",
+        "duration": "1.1",
+        "remaining": "2.9",
         "alarm": "Pico RRU not connected"
     },
     {
@@ -65,8 +55,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.0",
-        "remaining": "3.0",
+        "duration": "1.1",
+        "remaining": "2.9",
         "alarm": "Pico RRU not connected"
     },
     {
@@ -75,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.0",
-        "remaining": "3.0",
+        "duration": "1.1",
+        "remaining": "2.9",
         "alarm": "Pico RRU not connected"
     },
     {
@@ -85,8 +75,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.0",
-        "remaining": "3.0",
+        "duration": "1.1",
+        "remaining": "2.9",
         "alarm": "Pico RRU not connected"
     },
     {
@@ -95,8 +85,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.0",
-        "remaining": "3.0",
+        "duration": "1.1",
+        "remaining": "2.9",
         "alarm": "Pico RRU not connected"
     },
     {
@@ -105,8 +95,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.0",
-        "remaining": "3.0",
+        "duration": "1.1",
+        "remaining": "2.9",
         "alarm": "Pico RRU not connected"
     },
     {
@@ -115,8 +105,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.3",
-        "remaining": "6.7",
+        "duration": "1.4",
+        "remaining": "6.6",
         "alarm": "Battery Communication Fail"
     },
     {
@@ -135,8 +125,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "The Device is offline"
     },
     {
@@ -145,8 +135,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "Transmission unit link break"
     },
     {
@@ -155,7 +145,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.8",
+        "duration": "3.9",
         "remaining": "4.2",
         "alarm": "Cell out of service"
     },
@@ -165,8 +155,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.8",
-        "remaining": "4.2",
+        "duration": "3.9",
+        "remaining": "4.1",
         "alarm": "Air Conditioner Communication Lost"
     },
     {
@@ -175,8 +165,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "Charge Circuit Switch Failure alarm"
     },
     {
@@ -465,8 +455,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.5",
-        "remaining": "0.5",
+        "duration": "7.6",
+        "remaining": "0.4",
         "alarm": "Device Powered Off"
     },
     {
