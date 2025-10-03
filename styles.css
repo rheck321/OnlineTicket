@@ -249,7 +249,7 @@ body {
     text-align: center;
 }
 /* Responsive: turn table into grid on small devices */
-@media (max-width: 600px) {
+@media (max-width: 500px) {
     table, thead, tbody, th, td, tr {
     display: block;
     width: 100%;
@@ -280,3 +280,4 @@ body {
     margin-right: 10px;
     }
 }
+
