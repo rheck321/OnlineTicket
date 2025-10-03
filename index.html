@@ -3,180 +3,154 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>NFT</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <script src="script.js" defer></script>
+  <link href="styles.css" rel="stylesheet">
+  <title>Tabs</title>
 </head>
 <body>
-  <h2>Network Fault Ticket (NFT)</h2>
 
-</div>
-  <div class="option-container">
-      <div class="grid-col">
-        <label class="item" for="area">Area</label> 
-      </div>
-      <div class="grid-col">
-        <select class="table-filter" onchange="filter_table()" id="filter_area">
-          <option value="ALL">ALL</option>
-          <option value="BOHOL">BOHOL</option>
-          <option value="CEBU">CEBU</option>
-          <option value="LEYTE">LEYTE</option>
-          <option value="NEGROS">NEGROS</option>
-          <option value="PANAY">PANAY</option>
-          <option value="SAMAR">SAMAR</option>
-        </select>        
-      </div>
-      <div class="grid-col">
-        <label class="item"  for="state">State</label> 
-      </div>
-      <div class="grid-col">
-        <select class="table-filter" onchange="filter_table()" id="filter_state">
-          <option value="ALL">ALL</option>
-          <option value="PROCESSING">PROCESSING</option>
-          <option value="SUSPEND">SUSPEND</option>
-          <option value="FINISHED">FINISHED</option>
-        </select>        
-      </div>
-  </div>  
+  <!-- <h2>Test</h2>   -->
+  <ul class="tabs">
+    <li data-tab-target="#home" class="active tab">Home</li>
+    <li data-tab-target="#tickets" class="tab">Tickets</li>
+    <li data-tab-target="#about" class="tab">About</li>
+  </ul>
 
-  <br>
+  <div class="tab-content">
+    <div id="home" data-tab-content class="active">
 
-  <div class="flex-container">
-    <table id="ticketsTable">
-      <thead>
-        <tr>
-          <th>TICKET</th>
-          <th>SITE</th>
-          <th>AREA
-            <!-- <select class="table-filter" onchange="filter_table()" id="filter_area">
-              <option value="ALL">ALL</option>
-              <option value="BOHOL">BOHOL</option>
-              <option value="CEBU">CEBU</option>
-              <option value="LEYTE">LEYTE</option>
-              <option value="NEGROS">NEGROS</option>
-              <option value="PANAY">PANAY</option>
-              <option value="SAMAR">SAMAR</option>
-            </select> -->
-          </th>
-          <th>STATE
-            <!-- <select class="table-filter" onchange="filter_table()" id="filter_state">
-              <option value="ALL">ALL</option>
-              <option value="PROCESSING">PROCESSING</option>
-              <option value="SUSPEND">SUSPEND</option>
-              <option value="FINISHED">FINISHED</option>
-            </select> -->
-          </th>
-          <th>SEVERITY</th>
-          <th>DURATION</th>
-          <th>REMAINING</th>
-          <th>ALARM</th>
-        </tr>
-      </thead>
-      <tbody></tbody>
-    </table>
+        <!-- <div class="flex-container-home-grid111">
+            <div class="home-container-grid1" style="flex-basis: 100px;background-color:powderblue;color:black;">Active</div>
+            <div class="home-container-grid1" style="flex-basis: 10px;background-color:powderblue;color: red;" id="activecount">0</div>
+            <div class="home-container-grid1" style="flex-basis: 100px;background-color:powderblue;color:black;">Suspended</div>
+            <div class="home-container-grid1" style="flex-basis: 20px;background-color:powderblue;color: red;" id="suspendcount">0</div>
+            <div class="home-container-grid1" style="flex-basis: 100px;background-color:powderblue;color:black;">Closed</div>
+            <div class="home-container-grid1" style="flex-basis: 20px;background-color:powderblue;color: red;" id="closedcount">0</div>
+        </div> -->
+
+        <!-- <br> -->
+        <div class="flex-container-home-grid2">
+            <table class="home-table-grid2" id="gridTable">
+                <thead>
+                    <tr>
+                        <td>AREA</td>
+                        <td>ACTIVE</td>
+                        <td>SUSPEND</td>
+                        <td>FINISHED</td>
+                    </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                      <td>CEBU</td>
+                      <td id="cebuactive">0</td>
+                      <td id="cebususpend">0</td>
+                      <td id="cebuclosed">0</td>
+                  </tr>
+                      <td>BOHOL</td>
+                      <td id="boholactive">0</td>
+                      <td id="boholsuspend">0</td>
+                      <td id="boholclosed">0</td>
+                  </tr>
+                      <td>LEYTE</td>
+                      <td id="leyteactive">0</td>
+                      <td id="leytesuspend">0 </td>
+                      <td id="leyteclosed">0</td>
+                  </tr>
+                      <td>NEGROS</td>
+                      <td id="negrosactive">0</td>
+                      <td id="negrossuspend">0</td>
+                      <td id="negrosclosed">0</td>
+                  </tr>
+                      <td>PANAY</td>
+                      <td id="panayactive">0</td>
+                      <td id="panaysuspend">0</td>
+                      <td id="panayclosed">0</td>
+                  </tr>
+                      <td>SAMAR</td>
+                      <td id="samaractive">0</td>
+                      <td id="samarsuspend">0</td>
+                      <td id="samarclosed">0</td>
+                  </tr>
+                </tbody>
+                <tfoot>
+                  <tr>
+                      <td>Total</td>
+                      <td id="totalactive">7</td>
+                      <td id="totalsuspend">8</td>
+                      <td id="totalclosed">0</td>
+                  </tr>
+                </tfoot>
+            </table>
+          </div>
+    </div>
+
+    
+    <div id="tickets" data-tab-content>
+        <div class="option-container">
+            <div class="grid-col">
+            <label class="item" for="area">Area</label> 
+            </div>
+            <div class="grid-col">
+            <select class="table-filter" onchange="filter_table()" id="filter_area">
+                <option value="ALL">ALL</option>
+                <option value="CEBU">CEBU</option>
+                <option value="BOHOL">BOHOL</option>
+                <option value="LEYTE">LEYTE</option>
+                <option value="NEGROS">NEGROS</option>
+                <option value="PANAY">PANAY</option>
+                <option value="SAMAR">SAMAR</option>
+            </select>        
+            </div>
+            <div class="grid-col">
+            <label class="item"  for="state">State</label> 
+            </div>
+            <div class="grid-col">
+            <select class="table-filter" onchange="filter_table()" id="filter_state">
+                <option value="ALL">ALL</option>
+                <option value="PROCESSING">PROCESSING</option>
+                <option value="SUSPEND">SUSPEND</option>
+                <option value="FINISHED">FINISHED</option>
+            </select>        
+            </div>
+        </div>  
+
+        <br>
+        <div class="flex-container-tickets">
+            <table class="tickets-table" id="ticketsTable">
+                <thead>
+                <tr>
+                    <th>TICKET</th>
+                    <th>SITE</th>
+                    <th>AREA</th>
+                    <th>STATE</th>
+                    <th>SEVERITY</th>
+                    <th>DURATION</th>
+                    <th>REMAINING</th>
+                    <th>ALARM</th>
+                </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+
+    </div>
+    <div id="about" data-tab-content>
+      <h1>About</h1>
+      <p>Let me tell you about me</p>
+    </div>
   </div>
-
-  <script>
-    // Load data from external JSON file
-    let allData = []; 
-    var filtered = ""
-
-    // Load data from external JSON file
+  <!-- <script>  
     fetch("tickets.json")
-      .then(response => response.json())
-      .then(data => {
+        // alert("tickets.json")
+        .then(response => response.json())
+        .then(data => {
         // json table name  "nftlist"
         allData = data.nftlist;
+        alert(allData)
         renderTable(allData);
-      })
-      .catch(error => console.error("Error loading JSON:", error));
-
-    // Render function
-    function renderTable(data) {
-      const tableBody = document.querySelector("#ticketsTable tbody");
-      tableBody.innerHTML = ""; // clear old data
-
-      data.forEach(tickets => {
-
-        const row = document.createElement("tr");
-
-        const ticket = document.createElement("td");
-        ticket.textContent = tickets.nft;
-        ticket.setAttribute("data-label", "nft");
-
-        const site = document.createElement("td");
-        site.textContent = tickets.site;
-        site.setAttribute("data-label", "site");
-
-        const area = document.createElement("td");
-        area.textContent = tickets.area;
-        area.setAttribute("data-label", "area");
-
-        const state = document.createElement("td");
-        state.textContent = tickets.state;
-        state.setAttribute("data-label", "state");
-
-        const severity = document.createElement("td");
-        severity.textContent = tickets.severity;
-        severity.setAttribute("data-label", "severity");
-
-        const duration = document.createElement("td");
-        duration.textContent = tickets.duration;
-        duration.setAttribute("data-label", "duration");
-
-        const remaining = document.createElement("td");
-        remaining.textContent = tickets.remaining;
-        remaining.setAttribute("data-label", "remaining");
-
-        const alarm = document.createElement("td");
-        alarm.textContent = tickets.alarm;
-        alarm.setAttribute("data-label", "alarm");
-
-        row.appendChild(ticket);
-        row.appendChild(site);
-        row.appendChild(area);
-        row.appendChild(state);
-        row.appendChild(severity);
-        row.appendChild(duration);
-        row.appendChild(remaining);
-        row.appendChild(alarm);
-
-        tableBody.appendChild(row);
-        });
-      }
-
-    function filter_table() {
-      const area_selected = document.getElementById("filter_area").value.toLowerCase();
-      const state_selected = document.getElementById("filter_state").value.toLowerCase();
-      console.log(state_selected);  
-
-      if (area_selected == "all" && state_selected == "all") {
-          renderTable(allData);
-      } else {
-          if (area_selected !== "all" && state_selected == "all") {
-            // alert(area_selected +" area_selected not all  state_selected all");
-            const filtered = allData.filter(tickets =>
-              tickets.area.toLowerCase().includes(area_selected))            
-            renderTable(filtered);
-          }
-          if (area_selected == "all" && state_selected !== "all") {
-            // alert(area_selected +" area_selected not all  state_selected all");
-            const filtered = allData.filter(tickets =>
-              tickets.state.toLowerCase().includes(state_selected))            
-            renderTable(filtered);
-
-          }
-          if (area_selected !== "all" && state_selected !== "all") {
-            // alert(area_selected +" area_selected not all  state_selected all");
-            const filtered = allData.filter(tickets =>
-              tickets.area.toLowerCase().includes(area_selected) && tickets.state.toLowerCase().includes(state_selected))    
-            renderTable(filtered);
-          }
-      }
-    }
-
-  </script>
+        })
+        .catch(error => console.error("Error loading JSON:", error));
+  </script> -->
 </body>
 </html>
