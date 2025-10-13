@@ -1,12 +1,23 @@
 {"nftlist":[
     {
+        "nft": "NFT20251013000487",
+        "site": "PH0600298",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Offline",
+        "created": "13/10/2025 19:31:00"
+    },
+    {
         "nft": "NFT20251013000485",
         "site": "CO037s",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Operating status of rectifier 15 commfail",
         "created": "13/10/2025 19:26:00"
     },
@@ -27,7 +38,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "7.5",
         "alarm": "Battery Communication Fail",
         "created": "13/10/2025 19:03:00"
@@ -38,7 +49,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
+        "duration": "1.1",
         "remaining": "7.0",
         "alarm": "Device Offline",
         "created": "13/10/2025 18:33:00"
@@ -137,8 +148,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "Physical Port Down",
         "created": "13/10/2025 16:01:00"
     },
