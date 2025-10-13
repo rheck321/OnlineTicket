@@ -99,7 +99,7 @@ fetch("tickets.json")
       UpdateActiveTable(allData);
       UpdateSuspendTable(allData);
       UpdateClosedTable(allData);
-      // UpdateLatestAlarmTable(allData);
+      UpdateLatestAlarmTable(allData);
     })
     .catch(error => console.error("Error loading JSON:", error));
     
@@ -358,5 +358,4 @@ function UpdateLatestAlarmTable(data) {
     // }
   });
 }
-
 
