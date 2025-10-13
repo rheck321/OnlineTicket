@@ -5,154 +5,267 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <script src="script.js" defer></script>
+  <script src="dashboard.js" defer></script> 
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <link href="styles.css" rel="stylesheet">
   <title>NFT</title>
 </head>
 <body>
-
-  <!-- <h2>Test</h2>   -->
   <ul class="tabs">
     <li data-tab-target="#home" class="active tab">Home</li>
-    <li data-tab-target="#tickets" class="tab">Tickets</li>
-    <li data-tab-target="#about" class="tab">About</li>
+    <li data-tab-target="#active" class="tab">Active</li>
+    <li data-tab-target="#suspended" class="tab">Suspended</li>
+    <li data-tab-target="#closed" class="tab">Closed</li>
+    <li data-tab-target="#last10" class="tab">Tickets</li>
+    <!-- <li data-tab-target="#top" class="tab">Top 10 Alarm</li> -->
   </ul>
 
   <div class="tab-content">
     <div id="home" data-tab-content class="active">
+        <main class="flex-container-chart">  
+            <div class="chart-container">
+                <canvas id="lineChart"></canvas>
+            </div>
+            <div class="chart-container">
+                <canvas id="barChart"></canvas>
+            </div>
+            <div class="chart-container">
+                <canvas id="pieChart"></canvas>
+            </div>
+            <div>
+                <div>
+                    <table class="home-tickets-table" id="gridTable">
+                        <thead>
+                            <tr>
+                                <td>AREA</td>
+                                <td>ACTIVE</td>
+                                <td>SUSPENDED</td>
+                                <td>FINISHED</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td>BOHOL</td>
+                            <td id="boholactive">0</td>
+                            <td id="boholsuspend">0</td>
+                            <td id="boholclosed">0</td>
+                        </tr>
+                            <td>CEBU</td>
+                            <td id="cebuactive">0</td>
+                            <td id="cebususpend">0</td>
+                            <td id="cebuclosed">0</td>
+                        </tr>
+                            <td>LEYTE</td>
+                            <td id="leyteactive">0</td>
+                            <td id="leytesuspend">0 </td>
+                            <td id="leyteclosed">0</td>
+                        </tr>
+                            <td>NEGROS</td>
+                            <td id="negrosactive">0</td>
+                            <td id="negrossuspend">0</td>
+                            <td id="negrosclosed">0</td>
+                        </tr>
+                            <td>PANAY</td>
+                            <td id="panayactive">0</td>
+                            <td id="panaysuspend">0</td>
+                            <td id="panayclosed">0</td>
+                        </tr>
+                            <td>SAMAR</td>
+                            <td id="samaractive">0</td>
+                            <td id="samarsuspend">0</td>
+                            <td id="samarclosed">0</td>
+                        </tr>
+                        </tbody>
+                        <!-- <tfoot>
+                        <tr>
+                            <td>Total</td>
+                            <td id="totalactive">7</td>
+                            <td id="totalsuspend">8</td>
+                            <td id="totalclosed">0</td>
+                        </tr>
+                        </tfoot> -->
+                    </table>
 
-        <!-- <div class="flex-container-home-grid111">
-            <div class="home-container-grid1" style="flex-basis: 100px;background-color:powderblue;color:black;">Active</div>
-            <div class="home-container-grid1" style="flex-basis: 10px;background-color:powderblue;color: red;" id="activecount">0</div>
-            <div class="home-container-grid1" style="flex-basis: 100px;background-color:powderblue;color:black;">Suspended</div>
-            <div class="home-container-grid1" style="flex-basis: 20px;background-color:powderblue;color: red;" id="suspendcount">0</div>
-            <div class="home-container-grid1" style="flex-basis: 100px;background-color:powderblue;color:black;">Closed</div>
-            <div class="home-container-grid1" style="flex-basis: 20px;background-color:powderblue;color: red;" id="closedcount">0</div>
-        </div> -->
+                </div>      
+            </div>
+            <div>
+                <div>
+                    <table class="home-tickets-table" id="gridTable">
+                        <thead>
+                            <tr>
+                                <td>TOTAL TICKETS</td>
+                                <td>0-3 HOURS</td>
+                                <td>3-7 HOURS</td>
+                                <td>OTHER</td>
+                                <td>NUMBER OF SLA</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td id="tickets_bohol"></td>
+                            <td id="bohol_00_03">0</td>
+                            <td id="bohol_03_05">0</td>
+                            <td id="bohol_other">0</td>
+                            <td id="bohol_sla">0</td>
+                        </tr>
+                            <td id="tickets_cebu"></td>
+                            <td id="cebu_00_03">0</td>
+                            <td id="cebu_03_05">0</td>
+                            <td id="cebu_other">0</td>
+                            <td id="cebu_sla">0</td>
+                        </tr>
+                            <td id="tickets_leyte"></td>
+                            <td id="leyte_00_03">0</td>
+                            <td id="leyte_03_05">0</td>
+                            <td id="leyte_other">0</td>
+                            <td id="leyte_sla">0</td>
+                        </tr>
+                            <td id="tickets_negros"></td>
+                            <td id="negros_00_03">0</td>
+                            <td id="negros_03_05">0</td>
+                            <td id="negros_other">0</td>
+                            <td id="negros_sla">0</td>
+                        </tr>
+                            <td id="tickets_panay"></td>
+                            <td id="panay_00_03">0</td>
+                            <td id="panay_03_05">0</td>
+                            <td id="panay_other">0</td>
+                            <td id="panay_sla">0</td>
+                        </tr>
+                            <td id="tickets_samar"></td>
+                            <td id="samar_00_03">0</td>
+                            <td id="samar_03_05">0</td>
+                            <td id="samar_other">0</td>
+                            <td id="samar_sla">0</td>
+                        </tr>
+                        </tbody>
+                        <!-- <tfoot>
+                        <tr>
+                            <td>Total</td>
+                            <td id="totalactive">7</td>
+                            <td id="totalsuspend">8</td>
+                            <td id="totalclosed">0</td>
+                        </tr>
+                        </tfoot> -->
+                    </table>
+                </div>      
+            </div>
+        </main>
+    </div>
 
-        <!-- <br> -->
-        <div class="flex-container-home-grid2">
-            <table class="home-table-grid2" id="gridTable">
+    <div id="active" data-tab-content>
+        <div class="flex-container-other-grid">
+            <div class="dboard-container">
+                <table class="other-tickets-table" id="ticketsActiveTable">
+                    <thead>
+                        <tr>
+                            <td>TICKET</td>
+                            <td>SITE</td>
+                            <td>AREA</td>
+                            <td>STATE</td>
+                            <td>SEVERITY</td>
+                            <td>DURATION</td>
+                            <td>REMAINING</td>
+                            <td>ALARM</td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                    <!-- <tfoot>
+                    </tfoot> -->
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div id="suspended" data-tab-content>
+        <div class="flex-container-other-grid">
+            <table class="other-tickets-table" id="ticketsSuspendTable">
                 <thead>
                     <tr>
+                        <td>TICKET</td>
+                        <td>SITE</td>
                         <td>AREA</td>
-                        <td>ACTIVE</td>
-                        <td>SUSPEND</td>
-                        <td>FINISHED</td>
+                        <td>STATE</td>
+                        <td>SEVERITY</td>
+                        <td>DURATION</td>
+                        <td>REMAINING</td>
+                        <td>ALARM</td>
                     </tr>
                 </thead>
                 <tbody>
-                  <tr>
-                      <td>CEBU</td>
-                      <td id="cebuactive">0</td>
-                      <td id="cebususpend">0</td>
-                      <td id="cebuclosed">0</td>
-                  </tr>
-                      <td>BOHOL</td>
-                      <td id="boholactive">0</td>
-                      <td id="boholsuspend">0</td>
-                      <td id="boholclosed">0</td>
-                  </tr>
-                      <td>LEYTE</td>
-                      <td id="leyteactive">0</td>
-                      <td id="leytesuspend">0 </td>
-                      <td id="leyteclosed">0</td>
-                  </tr>
-                      <td>NEGROS</td>
-                      <td id="negrosactive">0</td>
-                      <td id="negrossuspend">0</td>
-                      <td id="negrosclosed">0</td>
-                  </tr>
-                      <td>PANAY</td>
-                      <td id="panayactive">0</td>
-                      <td id="panaysuspend">0</td>
-                      <td id="panayclosed">0</td>
-                  </tr>
-                      <td>SAMAR</td>
-                      <td id="samaractive">0</td>
-                      <td id="samarsuspend">0</td>
-                      <td id="samarclosed">0</td>
-                  </tr>
                 </tbody>
-                <tfoot>
-                  <tr>
-                      <td>Total</td>
-                      <td id="totalactive">7</td>
-                      <td id="totalsuspend">8</td>
-                      <td id="totalclosed">0</td>
-                  </tr>
-                </tfoot>
-            </table>
-          </div>
-    </div>
-
-    
-    <div id="tickets" data-tab-content>
-        <div class="option-container">
-            <div class="grid-col">
-            <label class="item" for="area">Area</label> 
-            </div>
-            <div class="grid-col">
-            <select class="table-filter" onchange="filter_table()" id="filter_area">
-                <option value="ALL">ALL</option>
-                <option value="CEBU">CEBU</option>
-                <option value="BOHOL">BOHOL</option>
-                <option value="LEYTE">LEYTE</option>
-                <option value="NEGROS">NEGROS</option>
-                <option value="PANAY">PANAY</option>
-                <option value="SAMAR">SAMAR</option>
-            </select>        
-            </div>
-            <div class="grid-col">
-            <label class="item"  for="state">State</label> 
-            </div>
-            <div class="grid-col">
-            <select class="table-filter" onchange="filter_table()" id="filter_state">
-                <option value="ALL">ALL</option>
-                <option value="PROCESSING">PROCESSING</option>
-                <option value="SUSPEND">SUSPEND</option>
-                <option value="FINISHED">FINISHED</option>
-            </select>        
-            </div>
-        </div>  
-
-        <br>
-        <div class="flex-container-tickets">
-            <table class="tickets-table" id="ticketsTable">
-                <thead>
-                <tr>
-                    <th>TICKET</th>
-                    <th>SITE</th>
-                    <th>AREA</th>
-                    <th>STATE</th>
-                    <th>SEVERITY</th>
-                    <th>DURATION</th>
-                    <th>REMAINING</th>
-                    <th>ALARM</th>
-                </tr>
-                </thead>
-                <tbody></tbody>
+                <!-- <tfoot>
+                </tfoot> -->
             </table>
         </div>
+    </div>
 
+    <div id="closed" data-tab-content>
+        <div class="flex-container-other-grid">
+            <table class="other-tickets-table" id="ticketsClosedTable">
+                <thead>
+                    <tr>
+                        <td>TICKET</td>
+                        <td>SITE</td>
+                        <td>AREA</td>
+                        <td>STATE</td>
+                        <td>SEVERITY</td>
+                        <td>DURATION</td>
+                        <td>REMAINING</td>
+                        <td>ALARM</td>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+                <!-- <tfoot>
+                </tfoot> -->
+            </table>
+        </div>
     </div>
-    <div id="about" data-tab-content>
-      <h1>About</h1>
-      <p>Network Fault Ticket</p>
+
+    <div id="last10" data-tab-content>
+        <div class="flex-container-other-grid">
+            <table class="other-tickets-table1" id="ticketsLatestTable">
+                <thead>
+                    <tr>
+                        <td>TICKET CREATED</td>
+                        <td>TICKET</td>
+                        <td>SITE</td>
+                        <td>AREA</td>
+                        <td>STATE</td>
+                        <td>SEVERITY</td>
+                        <!-- <td>DURATION</td>
+                        <td>REMAINING</td> -->
+                        <td>ALARM</td>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+                <!-- <tfoot>
+                </tfoot> -->
+            </table>
+        </div>
     </div>
+        
+    <div id="top" data-tab-content>
+        <div class="container-home">
+            <div class="flex-container-home-grid">
+                <div>
+                    <table id="gridTable">
+                        <tfoot>
+                            <tr>
+                                <td id="totalactive">7</td>
+                                <td id="totalsuspend">8</td>
+                                <td id="totalclosed">0</td>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+            </div>
+        </div>        
+    </div>
+
   </div>
-  <!-- <script>  
-    fetch("tickets.json")
-        // alert("tickets.json")
-        .then(response => response.json())
-        .then(data => {
-        // json table name  "nftlist"
-        allData = data.nftlist;
-        alert(allData)
-        renderTable(allData);
-        })
-        .catch(error => console.error("Error loading JSON:", error));
-  </script> -->
 </body>
 </html>
-
-
