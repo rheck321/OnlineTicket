@@ -39,7 +39,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "Battery Communication Fail",
         "created": "13/10/2025 16:36:00"
     },
@@ -71,8 +71,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.1",
-        "remaining": "5.9",
+        "duration": "2.2",
+        "remaining": "5.8",
         "alarm": "Physical Port Down",
         "created": "13/10/2025 16:01:00"
     },
@@ -148,8 +148,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.0",
-        "remaining": "3.0",
+        "duration": "5.1",
+        "remaining": "2.9",
         "alarm": "Battery Communication Fail",
         "created": "13/10/2025 13:06:00"
     },
