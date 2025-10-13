@@ -1,12 +1,23 @@
 {"nftlist":[
     {
+        "nft": "NFT20251013000479",
+        "site": "PH0600652",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Battery Communication Fail",
+        "created": "13/10/2025 19:03:00"
+    },
+    {
         "nft": "NFT20251013000468",
         "site": "CO038",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Device Offline",
         "created": "13/10/2025 18:33:00"
     },
@@ -14,10 +25,10 @@
         "nft": "NFT20251013000463",
         "site": "CO075",
         "area": "PANAY",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Device Offline",
         "created": "13/10/2025 18:25:00"
     },
@@ -25,10 +36,10 @@
         "nft": "NFT20251013000452",
         "site": "PH0700450",
         "area": "CEBU",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Device Offline",
         "created": "13/10/2025 18:18:00"
     },
