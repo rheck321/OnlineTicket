@@ -16,8 +16,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Device Offline",
         "created": "13/10/2025 18:25:00"
     },
@@ -104,8 +104,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "Physical Port Down",
         "created": "13/10/2025 16:01:00"
     },
