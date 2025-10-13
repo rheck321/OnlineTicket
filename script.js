@@ -292,7 +292,7 @@ function UpdateClosedTable(data) {
 
 
 function UpdateLatestAlarmTable(data) {
-    // alert('latest')
+    alert('latest')
     // update suspend table
     const tableBody = document.querySelector("#ticketsLatestTable tbody");
     tableBody.innerHTML = ""; // clear old data
@@ -358,4 +358,5 @@ function UpdateLatestAlarmTable(data) {
     // }
   });
 }
+
 
