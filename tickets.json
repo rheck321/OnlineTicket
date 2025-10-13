@@ -38,7 +38,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "13/10/2025 16:36:00"
@@ -71,8 +71,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Physical Port Down",
         "created": "13/10/2025 16:01:00"
     },
