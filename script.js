@@ -1,6 +1,8 @@
 
 const tabs = document.querySelectorAll('[data-tab-target]')
 const tabContents = document.querySelectorAll('[data-tab-content]')
+
+
 // alert("eric")
 
 tabs.forEach(tab => {
@@ -17,16 +19,6 @@ tabs.forEach(tab => {
   })
 })
 
-
-// const activecount = 125; // You can fetch this from a database or API
-// document.getElementById('activecount').textContent = activecount;
-
-// const suspendcount = 125; // You can fetch this from a database or API
-// document.getElementById('suspendcount').textContent = suspendcount;
-
-// const closedcount = 125; // You can fetch this from a database or API
-// document.getElementById('closedcount').textContent = closedcount;
-
 let allData = []; 
 var filtered = ""
 
@@ -39,29 +31,10 @@ fetch("tickets.json")
       // json table name  "nftlist" from json file
       allData = data.nftlist;
 
-      // // count active tickets
-      // let activecount = 0
-      // filtered = allData.filter(test => test.state.toLowerCase() == "processing")
-      // activecount = filtered.length
-      // document.getElementById('activecount').textContent = activecount;
-
-      // // count active tickets
-      // let suspendcount = 0
-      // filtered = allData.filter(test => test.state.toLowerCase() == "suspend")
-      // suspendcount = filtered.length
-      // document.getElementById('suspendcount').textContent = suspendcount;
-
-      // // count closed tickets
-      //  let closedcount = 0     
-      // filtered = allData.filter(test => test.state.toLowerCase() == "finished")
-      // closedcount = filtered.length
-      // document.getElementById('closedcount').textContent = closedcount;
-
-      // update tickets count per region and status
-
       filtered = allData.filter(filterarea => filterarea.area.toLowerCase() == "cebu" && filterarea.state.toLowerCase()== "processing")
       document.getElementById('cebuactive').textContent = filtered.length;
 
+      // alert(filtered.length)
       filtered = allData.filter(filterarea => filterarea.area.toLowerCase() == "cebu" && filterarea.state.toLowerCase()== "suspend")
       document.getElementById('cebususpend').textContent = filtered.length;
 
@@ -121,128 +94,268 @@ fetch("tickets.json")
 
       filtered = allData.filter(filterarea => filterarea.state.toLowerCase()== "processing")
       document.getElementById('totalactive').textContent = filtered.length;
-      // alert(filtered.length)
-    renderTable(allData);
+
+      // alert(filtered.length) 
+      UpdateActiveTable(allData);
+      UpdateSuspendTable(allData);
+      UpdateClosedTable(allData);
+      UpdateLatestAlarmTable(allData);
     })
     .catch(error => console.error("Error loading JSON:", error));
     
 console.log(allData)
 
-// const area_selected = document.getElementById("filter_area").value.toLowerCase();
-// alert(area_selected)
-tstdata = allData.filter(tickets => tickets.state.toLowerCase().includes(area_selected))
-// console.log(tstdata)  
-// alert(tstdata)
-
-  // const filteredstate = allData.filter(nftlist => nftlist.state.toLowerCase == "processing")
-  // alert(filteredstate)
-  // document.getElementById('activecount').textContent = filteredstate;
-
-// alert(allData)
-
-// let activecount = 0;
-// let suspendcount = 0;
-// let closedcount = 0;
-
-// allData.forEach(tickets => {
-//   alert(tickets.state)
-
-//   if (tickets.state.toLowerCase == "active") {
-//     activecount++
-//   }
-//     if (tickets.state.toLowerCase == "suspend") {
-//     suspendcount++
-//   }
-//     if (tickets.state.toLowerCase == "processing") {
-//     closedcount++
-//   }
-// });
-
-// document.getElementById('activecount').textContent = activecount;
-// document.getElementById('suspendcount').textContent = suspendcount;
-// document.getElementById('closedcount').textContent = closedcount;
 
 // Render function
-function renderTable(data) {
-    const tableBody = document.querySelector("#ticketsTable tbody");
+function UpdateActiveTable(data) {
+    // alert('test')
+    // update active table
+    const tableBody = document.querySelector("#ticketsActiveTable tbody");
     tableBody.innerHTML = ""; // clear old data
 
     data.forEach(tickets => {
 
-    const row = document.createElement("tr");
+    // alert(tickets.state.toLowerCase())
+    if (tickets.state.toLowerCase() == "processing") {
+        // alert("processing")
+        const row = document.createElement("tr");
 
-    const ticket = document.createElement("td");
-    ticket.textContent = tickets.nft;
-    ticket.setAttribute("data-label", "nft");
+        const ticket = document.createElement("td");
 
-    const site = document.createElement("td");
-    site.textContent = tickets.site;
-    site.setAttribute("data-label", "site");
+        ticket.textContent = tickets.nft;
+        
+        ticket.setAttribute("data-label", "nft");
 
-    const area = document.createElement("td");
-    area.textContent = tickets.area;
-    area.setAttribute("data-label", "area");
+        const site = document.createElement("td");
+        site.textContent = tickets.site;
+        site.setAttribute("data-label", "site");
 
-    const state = document.createElement("td");
-    state.textContent = tickets.state;
-    state.setAttribute("data-label", "state");
+        const area = document.createElement("td");
+        area.textContent = tickets.area;
+        area.setAttribute("data-label", "area");
 
-    const severity = document.createElement("td");
-    severity.textContent = tickets.severity;
-    severity.setAttribute("data-label", "severity");
+        const state = document.createElement("td");
+        state.textContent = tickets.state;
+        state.setAttribute("data-label", "state");
 
-    const duration = document.createElement("td");
-    duration.textContent = tickets.duration;
-    duration.setAttribute("data-label", "duration");
+        const severity = document.createElement("td");
+        severity.textContent = tickets.severity;
+        severity.setAttribute("data-label", "severity");
 
-    const remaining = document.createElement("td");
-    remaining.textContent = tickets.remaining;
-    remaining.setAttribute("data-label", "remaining");
+        const duration = document.createElement("td");
+        duration.textContent = tickets.duration;
+        duration.setAttribute("data-label", "duration");
 
-    const alarm = document.createElement("td");
-    alarm.textContent = tickets.alarm;
-    alarm.setAttribute("data-label", "alarm");
+        const remaining = document.createElement("td");
+        remaining.textContent = tickets.remaining;
+        remaining.setAttribute("data-label", "remaining");
 
-    row.appendChild(ticket);
-    row.appendChild(site);
-    row.appendChild(area);
-    row.appendChild(state);
-    row.appendChild(severity);
-    row.appendChild(duration);
-    row.appendChild(remaining);
-    row.appendChild(alarm);
+        const alarm = document.createElement("td");
+        alarm.textContent = tickets.alarm;
+        alarm.setAttribute("data-label", "alarm");
 
-    tableBody.appendChild(row);
-    });
-}
+        row.appendChild(ticket);
+        row.appendChild(site);
+        row.appendChild(area);
+        row.appendChild(state);
+        row.appendChild(severity);
+        row.appendChild(duration);
+        row.appendChild(remaining);
+        row.appendChild(alarm);
 
-function filter_table() {
-    const area_selected = document.getElementById("filter_area").value.toLowerCase();
-    const state_selected = document.getElementById("filter_state").value.toLowerCase();
-    console.log(state_selected);  
+        tableBody.appendChild(row);
 
-    if (area_selected == "all" && state_selected == "all") {
-        renderTable(allData);
-    } else {
-        if (area_selected !== "all" && state_selected == "all") {
-        // alert(area_selected +" area_selected not all  state_selected all");
-        const filtered = allData.filter(tickets =>
-            tickets.area.toLowerCase().includes(area_selected))
-        // console.log(filtered)       
-        renderTable(filtered);
-        }
-        if (area_selected == "all" && state_selected !== "all") {
-        // alert(area_selected +" area_selected not all  state_selected all");
-        const filtered = allData.filter(tickets =>
-            tickets.state.toLowerCase().includes(state_selected))            
-        renderTable(filtered);
-
-        }
-        if (area_selected !== "all" && state_selected !== "all") {
-        // alert(area_selected +" area_selected not all  state_selected all");
-        const filtered = allData.filter(tickets =>
-            tickets.area.toLowerCase().includes(area_selected) && tickets.state.toLowerCase().includes(state_selected))    
-        renderTable(filtered);
-        }
     }
+  });
 }
+
+function UpdateSuspendTable(data) {
+    // update suspend table
+    const tableBody = document.querySelector("#ticketsSuspendTable tbody");
+    tableBody.innerHTML = ""; // clear old data
+
+    data.forEach(tickets => {
+
+    // alert(tickets.state.toLowerCase())
+    if (tickets.state.toLowerCase() == "suspend") {
+        // alert("processing")
+        const row = document.createElement("tr");
+
+        const ticket = document.createElement("td");
+
+        ticket.textContent = tickets.nft;
+        
+        ticket.setAttribute("data-label", "nft");
+
+        const site = document.createElement("td");
+        site.textContent = tickets.site;
+        site.setAttribute("data-label", "site");
+
+        const area = document.createElement("td");
+        area.textContent = tickets.area;
+        area.setAttribute("data-label", "area");
+
+        const state = document.createElement("td");
+        state.textContent = tickets.state;
+        state.setAttribute("data-label", "state");
+
+        const severity = document.createElement("td");
+        severity.textContent = tickets.severity;
+        severity.setAttribute("data-label", "severity");
+
+        const duration = document.createElement("td");
+        duration.textContent = tickets.duration;
+        duration.setAttribute("data-label", "duration");
+
+        const remaining = document.createElement("td");
+        remaining.textContent = tickets.remaining;
+        remaining.setAttribute("data-label", "remaining");
+
+        const alarm = document.createElement("td");
+        alarm.textContent = tickets.alarm;
+        alarm.setAttribute("data-label", "alarm");
+
+        row.appendChild(ticket);
+        row.appendChild(site);
+        row.appendChild(area);
+        row.appendChild(state);
+        row.appendChild(severity);
+        row.appendChild(duration);
+        row.appendChild(remaining);
+        row.appendChild(alarm);
+
+        tableBody.appendChild(row);
+
+    }
+  });
+}
+
+function UpdateClosedTable(data) {
+
+    // update suspend table
+    const tableBody = document.querySelector("#ticketsClosedTable tbody");
+    tableBody.innerHTML = ""; // clear old data
+
+    data.forEach(tickets => {
+
+    // alert(tickets.state.toLowerCase())
+    if (tickets.state.toLowerCase() == "finished") {
+        // alert("processing")
+        const row = document.createElement("tr");
+
+        const ticket = document.createElement("td");
+
+        ticket.textContent = tickets.nft;
+        
+        ticket.setAttribute("data-label", "nft");
+
+        const site = document.createElement("td");
+        site.textContent = tickets.site;
+        site.setAttribute("data-label", "site");
+
+        const area = document.createElement("td");
+        area.textContent = tickets.area;
+        area.setAttribute("data-label", "area");
+
+        const state = document.createElement("td");
+        state.textContent = tickets.state;
+        state.setAttribute("data-label", "state");
+
+        const severity = document.createElement("td");
+        severity.textContent = tickets.severity;
+        severity.setAttribute("data-label", "severity");
+
+        const duration = document.createElement("td");
+        duration.textContent = tickets.duration;
+        duration.setAttribute("data-label", "duration");
+
+        const remaining = document.createElement("td");
+        remaining.textContent = tickets.remaining;
+        remaining.setAttribute("data-label", "remaining");
+
+        const alarm = document.createElement("td");
+        alarm.textContent = tickets.alarm;
+        alarm.setAttribute("data-label", "alarm");
+
+        row.appendChild(ticket);
+        row.appendChild(site);
+        row.appendChild(area);
+        row.appendChild(state);
+        row.appendChild(severity);
+        row.appendChild(duration);
+        row.appendChild(remaining);
+        row.appendChild(alarm);
+        tableBody.appendChild(row);
+    }
+  });
+}
+
+
+function UpdateLatestAlarmTable(data) {
+    // alert('latest')
+    // update suspend table
+    const tableBody = document.querySelector("#ticketsLatestTable tbody");
+    tableBody.innerHTML = ""; // clear old data
+
+    data.forEach(tickets => {
+
+    // alert(tickets.state.toLowerCase())
+    // if (tickets.state.toLowerCase() == "finished") {
+        // alert("finished")
+        const row = document.createElement("tr");
+
+        const ticket = document.createElement("td");
+
+        ticket.textContent = tickets.nft;
+        
+        ticket.setAttribute("data-label", "nft");
+
+        const created = document.createElement("td");
+        created.textContent = tickets.created;
+        created.setAttribute("data-label", "created");
+
+        const site = document.createElement("td");
+        site.textContent = tickets.site;
+        site.setAttribute("data-label", "site");
+
+        const area = document.createElement("td");
+        area.textContent = tickets.area;
+        area.setAttribute("data-label", "area");
+
+        const state = document.createElement("td");
+        state.textContent = tickets.state;
+        state.setAttribute("data-label", "state");
+
+        const severity = document.createElement("td");
+        severity.textContent = tickets.severity;
+        severity.setAttribute("data-label", "severity");
+
+        // const duration = document.createElement("td");
+        // duration.textContent = tickets.duration;
+        // duration.setAttribute("data-label", "duration");
+
+        // const remaining = document.createElement("td");
+        // remaining.textContent = tickets.remaining;
+        // remaining.setAttribute("data-label", "remaining");
+
+        const alarm = document.createElement("td");
+        alarm.textContent = tickets.alarm;
+        alarm.setAttribute("data-label", "alarm");
+
+        
+        row.appendChild(created);
+        row.appendChild(ticket);
+        row.appendChild(site);
+        row.appendChild(area);
+        row.appendChild(state);
+        row.appendChild(severity);
+        // row.appendChild(duration);
+        // row.appendChild(remaining);
+        row.appendChild(alarm);
+
+        tableBody.appendChild(row);
+
+    // }
+  });
+}
+
