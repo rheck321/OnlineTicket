@@ -27,8 +27,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Operating status of rectifier 19 commfail",
         "created": "13/10/2025 19:17:00"
     },
@@ -39,7 +39,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Battery Communication Fail",
         "created": "13/10/2025 19:03:00"
     },
@@ -47,10 +47,10 @@
         "nft": "NFT20251013000468",
         "site": "CO038",
         "area": "CEBU",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "7.0",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Device Offline",
         "created": "13/10/2025 18:33:00"
     },
