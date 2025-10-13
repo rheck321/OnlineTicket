@@ -1,5 +1,16 @@
 {"nftlist":[
     {
+        "nft": "NFT20251013000483",
+        "site": "CO037s",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Operating status of rectifier 19 commfail",
+        "created": "13/10/2025 19:17:00"
+    },
+    {
         "nft": "NFT20251013000479",
         "site": "PH0600652",
         "area": "NEGROS",
@@ -115,7 +126,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.3",
+        "duration": "3.4",
         "remaining": "4.7",
         "alarm": "Physical Port Down",
         "created": "13/10/2025 16:01:00"
