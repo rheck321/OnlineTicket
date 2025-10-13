@@ -38,8 +38,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.6",
-        "remaining": "6.4",
+        "duration": "1.7",
+        "remaining": "6.3",
         "alarm": "Battery Communication Fail",
         "created": "13/10/2025 16:36:00"
     },
@@ -148,8 +148,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.1",
-        "remaining": "2.9",
+        "duration": "5.2",
+        "remaining": "2.8",
         "alarm": "Battery Communication Fail",
         "created": "13/10/2025 13:06:00"
     },
