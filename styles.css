@@ -48,7 +48,7 @@ body {
     justify-content: center;
     flex-wrap: wrap;
     border-radius: 3px;
-    margin-left: 30px;
+    margin-left: 20px;
     margin-right: 20px;
     height: 480px;
     padding-top: 10px;
@@ -56,9 +56,6 @@ body {
 
 .dboard-container {
     background: #1e293b;
-    /* border: 1px solid #334155; */
-    /* display: flex; */
-    /* align-items: center; */
 }
 
 .chart-container {
@@ -124,7 +121,7 @@ body {
     display: flex;
     background-color: black;
     border: 1px solid white;
-    margin-left: 30px;
+    margin-left: 20px;
     margin-right: 20px;
     height: 480px;
     padding-top: 10px;
