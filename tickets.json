@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "Cell out of service",
         "created": "14/10/2025 16:25:01",
         "hour": "16"
@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "Modem part unlock",
         "created": "14/10/2025 16:25:01",
         "hour": "16"
@@ -65,8 +65,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "Low Liquid Level Alarm shutdown",
         "created": "14/10/2025 15:26:00",
         "hour": "15"
@@ -101,7 +101,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.6",
+        "duration": "3.7",
         "remaining": "4.3",
         "alarm": "GPS clock failure",
         "created": "14/10/2025 12:49:00",
