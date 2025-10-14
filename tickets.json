@@ -41,8 +41,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.9",
-        "remaining": "7.1",
+        "duration": "1.0",
+        "remaining": "7.0",
         "alarm": "Battery Communication Fail",
         "created": "14/10/2025 17:33:00",
         "hour": "17"
@@ -65,7 +65,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
+        "duration": "1.6",
         "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "14/10/2025 16:58:00",
@@ -149,8 +149,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "Low Liquid Level Alarm shutdown",
         "created": "14/10/2025 15:26:00",
         "hour": "15"
@@ -333,18 +333,6 @@
         "remaining": "-",
         "alarm": "Device Offline",
         "created": "14/10/2025 08:14:00",
-        "hour": "8"
-    },
-    {
-        "nft": "NFT20251014000152",
-        "site": "PH0800451",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Physical Port Down",
-        "created": "14/10/2025 08:10:01",
         "hour": "8"
     },
     {
