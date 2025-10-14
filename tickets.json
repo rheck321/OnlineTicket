@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251014000408",
+        "site": "PH0800144",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Modem part unlock",
+        "created": "14/10/2025 17:35:00",
+        "hour": "17"
+    },
+    {
         "nft": "NFT20251014000407",
         "site": "PH0600401",
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.0",
-        "remaining": "8.0",
+        "duration": "0.1",
+        "remaining": "7.9",
         "alarm": "Battery Communication Fail",
         "created": "14/10/2025 17:33:00",
         "hour": "17"
@@ -29,8 +41,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Battery Communication Fail",
         "created": "14/10/2025 16:58:00",
         "hour": "16"
@@ -45,6 +57,18 @@
         "remaining": "-",
         "alarm": "RRU interrupted",
         "created": "14/10/2025 16:34:00",
+        "hour": "16"
+    },
+    {
+        "nft": "NFT20251014000380",
+        "site": "PH0700015",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Cell out of service",
+        "created": "14/10/2025 16:25:01",
         "hour": "16"
     },
     {
@@ -77,8 +101,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Battery charger under voltage warning",
         "created": "14/10/2025 15:53:01",
         "hour": "15"
@@ -101,7 +125,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.1",
+        "duration": "2.2",
         "remaining": "5.8",
         "alarm": "Low Liquid Level Alarm shutdown",
         "created": "14/10/2025 15:26:00",
