@@ -149,8 +149,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.2",
-        "remaining": "1.8",
+        "duration": "6.3",
+        "remaining": "1.7",
         "alarm": "Cell out of service",
         "created": "14/10/2025 09:35:01",
         "hour": "9"
