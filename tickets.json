@@ -17,8 +17,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Battery Communication Fail",
         "created": "14/10/2025 16:58:00",
         "hour": "16"
@@ -65,8 +65,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.6",
-        "remaining": "6.4",
+        "duration": "1.7",
+        "remaining": "6.3",
         "alarm": "Battery charger under voltage warning",
         "created": "14/10/2025 15:53:01",
         "hour": "15"
