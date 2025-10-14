@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251014000371",
+        "site": "PH0700429",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Transmission unit link break",
+        "created": "14/10/2025 16:04:45",
+        "hour": "16"
+    },
+    {
         "nft": "NFT20251014000352",
         "site": "PH0600096",
         "area": "NEGROS",
@@ -29,8 +41,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Low Liquid Level Alarm shutdown",
         "created": "14/10/2025 15:26:00",
         "hour": "15"
@@ -65,8 +77,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "GPS clock failure",
         "created": "14/10/2025 12:49:00",
         "hour": "12"
