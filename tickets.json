@@ -1,5 +1,16 @@
 {"nftlist":[
     {
+        "nft": "NFT20251014000195",
+        "site": "PH0700015",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Cell out of service",
+        "created": "14/10/2025 09:35:01"
+    },
+    {
         "nft": "NFT20251014000194",
         "site": "PH0600455",
         "area": "NEGROS",
@@ -27,8 +38,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Device Offline",
         "created": "14/10/2025 08:35:00"
     },
@@ -50,7 +61,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "Physical Port Down",
         "created": "14/10/2025 08:10:01"
     },
@@ -61,7 +72,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "Physical Port Down",
         "created": "14/10/2025 08:10:01"
     },
@@ -83,7 +94,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "Battery Communication Fail",
         "created": "14/10/2025 07:49:00"
     },
@@ -225,8 +236,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.1",
-        "remaining": "1.9",
+        "duration": "6.2",
+        "remaining": "1.8",
         "alarm": "Standing wave warning",
         "created": "14/10/2025 03:35:01"
     },
@@ -1028,7 +1039,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.9",
+        "duration": "1.0",
         "remaining": "7.0",
         "alarm": "RRU interrupted",
         "created": "13/10/2025 07:31:00"
