@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Offline",
         "created": "14/10/2025 11:32:00",
         "hour": "11"
@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Modem part unlock",
         "created": "14/10/2025 10:22:00",
         "hour": "10"
@@ -29,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Physical Port Down",
         "created": "14/10/2025 10:20:01",
         "hour": "10"
@@ -101,8 +101,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "Device Offline",
         "created": "14/10/2025 08:14:00",
         "hour": "8"
@@ -114,7 +114,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.6",
-        "remaining": "4.4",
+        "remaining": "4.3",
         "alarm": "Physical Port Down",
         "created": "14/10/2025 08:10:01",
         "hour": "8"
@@ -126,7 +126,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.6",
-        "remaining": "4.4",
+        "remaining": "4.3",
         "alarm": "Physical Port Down",
         "created": "14/10/2025 08:10:01",
         "hour": "8"
@@ -161,8 +161,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.1",
-        "remaining": "3.9",
+        "duration": "4.2",
+        "remaining": "3.8",
         "alarm": "Device Offline",
         "created": "14/10/2025 07:39:00",
         "hour": "7"
