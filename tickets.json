@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "GPS clock failure",
         "created": "14/10/2025 12:49:00",
         "hour": "12"
@@ -77,8 +77,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "Device Offline",
         "created": "14/10/2025 11:32:00",
         "hour": "11"
@@ -126,7 +126,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "5.7",
-        "remaining": "2.4",
+        "remaining": "2.3",
         "alarm": "Cell out of service",
         "created": "14/10/2025 09:35:01",
         "hour": "9"
