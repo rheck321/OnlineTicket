@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "Device Offline",
         "created": "14/10/2025 14:41:00",
         "hour": "14"
@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.6",
-        "remaining": "6.4",
+        "duration": "1.7",
+        "remaining": "6.3",
         "alarm": "Operating status of rectifier 16 commfail",
         "created": "14/10/2025 13:06:00",
         "hour": "13"
@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.9",
-        "remaining": "6.1",
+        "duration": "2.0",
+        "remaining": "6.0",
         "alarm": "GPS clock failure",
         "created": "14/10/2025 12:49:00",
         "hour": "12"
@@ -53,8 +53,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "Battery charger under voltage warning",
         "created": "14/10/2025 11:50:00",
         "hour": "11"
@@ -126,7 +126,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "5.2",
-        "remaining": "2.9",
+        "remaining": "2.8",
         "alarm": "Cell out of service",
         "created": "14/10/2025 09:35:01",
         "hour": "9"
