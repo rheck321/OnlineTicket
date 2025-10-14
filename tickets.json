@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251014000428",
+        "site": "CO038",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.4",
+        "remaining": "7.6",
+        "alarm": "Device Offline",
+        "created": "14/10/2025 18:29:00",
+        "hour": "18"
+    },
+    {
         "nft": "NFT20251014000418",
         "site": "PH0700006",
         "area": "CEBU",
@@ -53,8 +65,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Battery Communication Fail",
         "created": "14/10/2025 17:19:00",
         "hour": "17"
@@ -149,8 +161,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "Low Liquid Level Alarm shutdown",
         "created": "14/10/2025 15:26:00",
         "hour": "15"
