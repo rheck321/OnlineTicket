@@ -16,8 +16,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Device Offline",
         "created": "14/10/2025 08:35:00"
     },
@@ -39,7 +39,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "Physical Port Down",
         "created": "14/10/2025 08:10:01"
     },
@@ -50,7 +50,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "Physical Port Down",
         "created": "14/10/2025 08:10:01"
     },
@@ -72,7 +72,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "14/10/2025 07:49:00"
     },
@@ -214,8 +214,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.6",
-        "remaining": "2.4",
+        "duration": "5.7",
+        "remaining": "2.3",
         "alarm": "Standing wave warning",
         "created": "14/10/2025 03:35:01"
     },
