@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Operating status of rectifier 16 commfail",
         "created": "14/10/2025 13:06:00",
         "hour": "13"
@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "GPS clock failure",
         "created": "14/10/2025 12:49:00",
         "hour": "12"
@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Standing wave warning",
         "created": "14/10/2025 11:59:00",
         "hour": "11"
@@ -366,7 +366,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-5.0",
-        "remaining": "13.1",
+        "remaining": "13.0",
         "alarm": "Standing wave warning",
         "created": "14/10/2025 03:35:01",
         "hour": "3"
