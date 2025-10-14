@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Device Offline",
         "created": "14/10/2025 14:41:00",
         "hour": "14"
@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "Operating status of rectifier 16 commfail",
         "created": "14/10/2025 13:06:00",
         "hour": "13"
@@ -125,8 +125,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.4",
-        "remaining": "2.6",
+        "duration": "5.5",
+        "remaining": "2.5",
         "alarm": "Cell out of service",
         "created": "14/10/2025 09:35:01",
         "hour": "9"
@@ -185,8 +185,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.8",
-        "remaining": "1.2",
+        "duration": "6.9",
+        "remaining": "1.1",
         "alarm": "Physical Port Down",
         "created": "14/10/2025 08:10:01",
         "hour": "8"
@@ -197,8 +197,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.8",
-        "remaining": "1.2",
+        "duration": "6.9",
+        "remaining": "1.1",
         "alarm": "Physical Port Down",
         "created": "14/10/2025 08:10:01",
         "hour": "8"
@@ -1253,8 +1253,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.2",
-        "remaining": "1.8",
+        "duration": "6.3",
+        "remaining": "1.7",
         "alarm": "RRU interrupted",
         "created": "13/10/2025 07:31:00",
         "hour": "7"
