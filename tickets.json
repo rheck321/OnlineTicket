@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251014000352",
+        "site": "PH0600096",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Battery charger under voltage warning",
+        "created": "14/10/2025 15:53:01",
+        "hour": "15"
+    },
+    {
         "nft": "NFT20251014000339",
         "site": "PH0600382",
         "area": "NEGROS",
@@ -54,7 +66,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.1",
-        "remaining": "4.9",
+        "remaining": "4.8",
         "alarm": "GPS clock failure",
         "created": "14/10/2025 12:49:00",
         "hour": "12"
@@ -149,8 +161,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.3",
-        "remaining": "1.7",
+        "duration": "6.4",
+        "remaining": "1.6",
         "alarm": "Cell out of service",
         "created": "14/10/2025 09:35:01",
         "hour": "9"
