@@ -3,6 +3,7 @@ var label_status = [];
 
 var area_count = [];
 var status_count = [];
+var hourly_count = [];
 
 var number_sla = 0;
 var number_of_not_sla = 0;
@@ -46,8 +47,6 @@ function readJson() {
             allData.filter(filterarea => filterarea.state.toLowerCase()== "finished").length
         ];
 
-        // filtered = allData.filter(filterarea => filterarea.area.toLowerCase() == "bohol").length
-        // alert(allData.filter(filterarea => filterarea.area.toLowerCase() == "bohol").length)
         document.getElementById('tickets_bohol').textContent = allData.filter(filterarea => filterarea.area.toLowerCase() == "bohol").length
         document.getElementById('tickets_cebu').textContent = allData.filter(filterarea => filterarea.area.toLowerCase() == "cebu").length
         document.getElementById('tickets_leyte').textContent = allData.filter(filterarea => filterarea.area.toLowerCase() == "leyte").length
@@ -85,6 +84,34 @@ function readJson() {
         document.getElementById('samar_other').textContent = allData.filter(filterarea => filterarea.area.toLowerCase() == "samar" && filterarea.duration == "-").length
         document.getElementById('samar_sla').textContent = allData.filter(filterarea => filterarea.area.toLowerCase() == "samar" && (filterarea.duration > 7.9 || filterarea.duration < 0)).length
 
+        hour_00 = allData.filter(filterarea => filterarea.hour == "00").length
+
+        hourly_count = [
+            allData.filter(filterarea => filterarea.hour == "0").length,
+            allData.filter(filterarea => filterarea.hour == "1").length,
+            allData.filter(filterarea => filterarea.hour == "2").length,
+            allData.filter(filterarea => filterarea.hour == "3").length,
+            allData.filter(filterarea => filterarea.hour == "4").length,
+            allData.filter(filterarea => filterarea.hour == "5").length,
+            allData.filter(filterarea => filterarea.hour == "6").length,
+            allData.filter(filterarea => filterarea.hour == "7").length,
+            allData.filter(filterarea => filterarea.hour == "8").length,
+            allData.filter(filterarea => filterarea.hour == "9").length,
+            allData.filter(filterarea => filterarea.hour == "10").length,
+            allData.filter(filterarea => filterarea.hour == "11").length,
+            allData.filter(filterarea => filterarea.hour == "12").length,
+            allData.filter(filterarea => filterarea.hour == "13").length,
+            allData.filter(filterarea => filterarea.hour == "14").length,
+            allData.filter(filterarea => filterarea.hour == "15").length,
+            allData.filter(filterarea => filterarea.hour == "16").length,
+            allData.filter(filterarea => filterarea.hour == "17").length,
+            allData.filter(filterarea => filterarea.hour == "18").length,
+            allData.filter(filterarea => filterarea.hour == "19").length,
+            allData.filter(filterarea => filterarea.hour == "20").length,
+            allData.filter(filterarea => filterarea.hour == "21").length,
+            allData.filter(filterarea => filterarea.hour == "22").length,
+            allData.filter(filterarea => filterarea.hour == "23").length
+        ];
         renderChart();
     })
     .catch(error => console.error("Error loading JSON:", error))
@@ -92,25 +119,30 @@ function readJson() {
 }
 
 function makeChart(ctx, cfg) {
-    // readJson();
     return new Chart(ctx, cfg);
 }
 
 function renderChart() {
-    const barColors = ['rgba(255, 99, 132, 0.5)', 'rgba(54, 162, 235, 0.5)', 'rgba(255, 206, 86, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(153, 102, 255, 0.5)'];
-    const borderColors = ['rgba(255, 99, 132, 1)', 'rgba(54, 162, 235, 1)', 'rgba(255, 206, 86, 1)', 'rgba(75, 192, 192, 1)', 'rgba(153, 102, 255, 1)'];
-
     // Line chart
     const lineCtx = document.getElementById('lineChart').getContext('2d');
     makeChart(lineCtx, {
             type: 'line',
             data: {
-            labels: ['Jan','Feb','Mar','Apr','May','Jun'],
-            datasets: [{ label: 'Sales', data: [10, 20, 15, 30, 25, 40], borderWidth: 2, fill: true }]
+            labels: ['0000H','0100H','0200H','0300H','0400H','0500H','0600H','0700H','0800H','0900H','1000H','1100H','1200H','1300H','1400H','1500H'
+                ,'1600H','1700H','1800H','1900H','2000H','2100H','2200H','2300H'],
+            datasets: [{ label: 'Hourly Tickets', data: hourly_count, backgroundColor: 'rgba(255, 99, 132, 0.2)',borderColor: 'rgba(156, 99, 255, 1)',borderWidth: 1, fill: false }]
         },
-            options: { responsive: true, maintainAspectRatio: false }
-    });
+            options: { responsive: true, maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'bottom',
+                        align: 'center',
+                        labels: {font: {family: 'Arial',size: 10,style: 'normal',weight: 'bold'}}
 
+                }
+            } }
+
+    });
 
     // Bar chart
     const barCtx = document.getElementById('barChart').getContext('2d');
@@ -118,22 +150,17 @@ function renderChart() {
             type: 'bar',
             data: {
             labels: label_area,
-            datasets: [{ label: 'NFT Tickets', data: area_count }],
-            fillColor: '#d2eb87ff',
-            // backgroundColor: [
-            //     'rgba(191, 209, 27, 0.2)',
-            //     'rgba(160, 235, 54, 0.2)',
-            //     'rgba(255, 86, 154, 0.2)'
-            //     ],
-            // borderColor: [
-            //     'rgba(240, 9, 59, 0.2)',
-            //     'rgba(160, 235, 54, 0.2)',
-            //     'rgba(255, 86, 154, 0.2)'
-            //     ],                
-            // borderColor: borderColors,
-            borderWidth: 1
+            datasets: [{ label: 'NFT Tickets', data: area_count, backgroundColor: 'rgba(233, 11, 59, 0.96)',borderColor: 'rgba(88, 7, 229, 1)'}]
         },
-            options: { responsive: true, maintainAspectRatio: false }
+            options: { responsive: true, maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'bottom',
+                        align: 'center',
+                        labels: {font: {family: 'Arial',size: 10,style: 'normal',weight: 'bold'}}
+
+                }
+            } }
     });
 
 
@@ -143,9 +170,19 @@ function renderChart() {
             type: 'pie',
             data: {
             labels: label_status,
-            datasets: [{ data: status_count }]
+            datasets: [{ data: status_count,borderWidth:1 }]
         },
-            options: { responsive: true, maintainAspectRatio: false }
+            options: { responsive: true, maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'left',
+                        align: 'center',
+                        // labels: {font: {family: 'Arial',size: 15,style: 'normal',color: 'black'}}
+                        labels: {font: {family: 'Calibri',size: 15,style: 'normal',weight: 'bold'}}
+
+                }
+            } 
+        }
     });
 
 
