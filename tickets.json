@@ -233,8 +233,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "8.0",
-        "remaining": "0.0",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Physical Port Down",
         "created": "14/10/2025 08:10:01",
         "hour": "8"
@@ -245,8 +245,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "8.0",
-        "remaining": "0.0",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Physical Port Down",
         "created": "14/10/2025 08:10:01",
         "hour": "8"
