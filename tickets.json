@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.0",
-        "remaining": "8.0",
+        "duration": "0.1",
+        "remaining": "7.9",
         "alarm": "Device Offline",
         "created": "14/10/2025 15:38:00",
         "hour": "15"
@@ -17,8 +17,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Low Liquid Level Alarm shutdown",
         "created": "14/10/2025 15:26:00",
         "hour": "15"
@@ -54,7 +54,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.9",
-        "remaining": "5.2",
+        "remaining": "5.1",
         "alarm": "GPS clock failure",
         "created": "14/10/2025 12:49:00",
         "hour": "12"
@@ -101,8 +101,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.1",
-        "remaining": "3.9",
+        "duration": "4.2",
+        "remaining": "3.8",
         "alarm": "Device Offline",
         "created": "14/10/2025 11:32:00",
         "hour": "11"
