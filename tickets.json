@@ -12,13 +12,25 @@
         "hour": "14"
     },
     {
+        "nft": "NFT20251014000288",
+        "site": "CO037s",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Operating status of rectifier 16 commfail",
+        "created": "14/10/2025 13:06:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20251014000283",
         "site": "PH0700438",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.3",
-        "remaining": "5.7",
+        "duration": "2.4",
+        "remaining": "5.6",
         "alarm": "GPS clock failure",
         "created": "14/10/2025 12:49:00",
         "hour": "12"
@@ -66,7 +78,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.6",
-        "remaining": "4.4",
+        "remaining": "4.3",
         "alarm": "Device Offline",
         "created": "14/10/2025 11:32:00",
         "hour": "11"
@@ -113,8 +125,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.5",
-        "remaining": "2.5",
+        "duration": "5.6",
+        "remaining": "2.4",
         "alarm": "Cell out of service",
         "created": "14/10/2025 09:35:01",
         "hour": "9"
