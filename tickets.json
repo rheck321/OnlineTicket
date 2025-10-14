@@ -1,5 +1,29 @@
 {"nftlist":[
     {
+        "nft": "NFT20251014000380",
+        "site": "PH0700015",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Cell out of service",
+        "created": "14/10/2025 16:25:01",
+        "hour": "16"
+    },
+    {
+        "nft": "NFT20251014000381",
+        "site": "PH0800144",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Modem part unlock",
+        "created": "14/10/2025 16:25:01",
+        "hour": "16"
+    },
+    {
         "nft": "NFT20251014000371",
         "site": "PH0700429",
         "area": "CEBU",
@@ -18,7 +42,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Battery charger under voltage warning",
         "created": "14/10/2025 15:53:01",
         "hour": "15"
@@ -78,7 +102,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.6",
-        "remaining": "4.4",
+        "remaining": "4.3",
         "alarm": "GPS clock failure",
         "created": "14/10/2025 12:49:00",
         "hour": "12"
