@@ -71,7 +71,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.3",
+        "duration": "2.4",
         "remaining": "5.7",
         "alarm": "Device Offline",
         "created": "14/10/2025 08:14:00"
@@ -104,8 +104,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "BBU interrupted",
         "created": "14/10/2025 07:50:01"
     },
