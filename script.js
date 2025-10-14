@@ -282,8 +282,8 @@ function UpdateClosedTable(data) {
         row.appendChild(area);
         row.appendChild(state);
         row.appendChild(severity);
-        row.appendChild(duration);
-        row.appendChild(remaining);
+        // row.appendChild(duration);
+        // row.appendChild(remaining);
         row.appendChild(alarm);
         tableBody.appendChild(row);
     }
@@ -292,7 +292,7 @@ function UpdateClosedTable(data) {
 
 
 function UpdateLatestAlarmTable(data) {
-    alert('latest')
+    // alert('latest')
     // update suspend table
     const tableBody = document.querySelector("#ticketsLatestTable tbody");
     tableBody.innerHTML = ""; // clear old data
@@ -358,5 +358,4 @@ function UpdateLatestAlarmTable(data) {
     // }
   });
 }
-
 
