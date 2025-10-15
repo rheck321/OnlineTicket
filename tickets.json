@@ -17,8 +17,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Generator status",
         "created": "15/10/2025 10:56:00",
         "hour": "10"
@@ -29,8 +29,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "S1 switch state",
         "created": "15/10/2025 10:54:00",
         "hour": "10"
@@ -77,8 +77,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "15/10/2025 10:07:00",
         "hour": "10"
@@ -489,6 +489,18 @@
         "remaining": "-",
         "alarm": "Device Offline",
         "created": "15/10/2025 00:24:00",
+        "hour": "0"
+    },
+    {
+        "nft": "NFT20251015000014",
+        "site": "PH0700049",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "BBU interrupted",
+        "created": "15/10/2025 00:20:01",
         "hour": "0"
     },
     {
