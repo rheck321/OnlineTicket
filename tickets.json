@@ -29,7 +29,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.0",
+        "duration": "1.1",
         "remaining": "7.0",
         "alarm": "Device Powered Off",
         "created": "15/10/2025 10:58:00",
@@ -41,8 +41,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "15/10/2025 10:57:00",
         "hour": "10"
@@ -90,7 +90,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Modem part unlock",
         "created": "15/10/2025 10:34:00",
         "hour": "10"
