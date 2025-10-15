@@ -45,7 +45,7 @@ body {
     display: flex;
     background-color: black;
     border: 1px solid white;
-    /* justify-content: center; */
+    justify-content: center;
     flex-wrap: wrap;
     border-radius: 3px;
     margin-left: 20px;
@@ -337,6 +337,7 @@ body {
         margin-right: 10px;
     }
 }
+
 
 
 
