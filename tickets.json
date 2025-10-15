@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "Device Offline",
         "created": "15/10/2025 18:22:00",
         "hour": "18"
@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.1",
-        "remaining": "7.9",
+        "remaining": "7.8",
         "alarm": "Cell out of service",
         "created": "15/10/2025 18:18:00",
         "hour": "18"
@@ -53,8 +53,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Compressor Fault",
         "created": "15/10/2025 17:17:00",
         "hour": "17"
@@ -178,6 +178,18 @@
         "alarm": "Device Offline",
         "created": "15/10/2025 15:17:00",
         "hour": "15"
+    },
+    {
+        "nft": "NFT20251015000380",
+        "site": "PH0700768",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Physical Port Down",
+        "created": "15/10/2025 14:47:00",
+        "hour": "14"
     },
     {
         "nft": "NFT20251015000379",
