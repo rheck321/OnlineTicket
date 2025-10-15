@@ -946,17 +946,5 @@
         "alarm": "BBU interrupted",
         "created": "15/10/2025 00:20:01",
         "hour": "0"
-    },
-    {
-        "nft": "NFT20251015000002",
-        "site": "PH0600652",
-        "area": "NEGROS",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Battery Communication Fail",
-        "created": "15/10/2025 00:15:00",
-        "hour": "0"
     }
 ]}
