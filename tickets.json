@@ -15,10 +15,10 @@
         "nft": "NFT20251015000453",
         "site": "PH0800144",
         "area": "LEYTE",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Modem part unlock",
         "created": "15/10/2025 17:59:00",
         "hour": "17"
@@ -54,7 +54,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Device Offline",
         "created": "15/10/2025 16:40:00",
         "hour": "16"
@@ -89,8 +89,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Optical Fail",
         "created": "15/10/2025 16:00:00",
         "hour": "16"
