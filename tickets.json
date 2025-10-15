@@ -5,8 +5,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Device Offline",
         "created": "15/10/2025 10:24:00",
         "hour": "10"
@@ -17,8 +17,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "15/10/2025 10:07:00",
         "hour": "10"
@@ -41,8 +41,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Cell out of service",
         "created": "15/10/2025 09:24:00",
         "hour": "9"
@@ -233,8 +233,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "The Device is offline",
         "created": "15/10/2025 07:20:00",
         "hour": "7"
@@ -245,8 +245,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.3",
-        "remaining": "4.7",
+        "duration": "3.4",
+        "remaining": "4.6",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 07:14:01",
         "hour": "7"
@@ -461,8 +461,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "BBU interrupted",
         "created": "15/10/2025 00:20:01",
         "hour": "0"
@@ -941,8 +941,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "Physical Port Down",
         "created": "14/10/2025 10:20:01",
         "hour": "10"
@@ -1198,17 +1198,5 @@
         "alarm": "Device Offline",
         "created": "14/10/2025 04:07:01",
         "hour": "4"
-    },
-    {
-        "nft": "NFT20251014000051",
-        "site": "CO075",
-        "area": "PANAY",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Device Offline",
-        "created": "14/10/2025 03:53:01",
-        "hour": "3"
     }
 ]}
