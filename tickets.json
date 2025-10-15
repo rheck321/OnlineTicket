@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251015000429",
+        "site": "PH0600824",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Offline",
+        "created": "15/10/2025 16:40:00",
+        "hour": "16"
+    },
+    {
         "nft": "NFT20251015000424",
         "site": "PH0800144",
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Modem part unlock",
         "created": "15/10/2025 16:36:00",
         "hour": "16"
@@ -29,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Optical Fail",
         "created": "15/10/2025 16:00:00",
         "hour": "16"
@@ -41,7 +53,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
+        "duration": "1.1",
         "remaining": "7.0",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 15:43:01",
@@ -245,8 +257,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "GPS clock failure",
         "created": "15/10/2025 12:42:00",
         "hour": "12"
