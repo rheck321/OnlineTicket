@@ -47,43 +47,27 @@ body {
     border: 1px solid white;
     justify-content: center;
     flex-wrap: wrap;
+    width: 1200px;              /* force horizontal scroll */
+    height: 600px;              /* force vertical scroll */
+    overflow: auto;             /* scroll */
     border-radius: 3px;
-    margin-left: 25px;
-    margin-right: 25px;
+    margin-left: 20px;
+    margin-right: 8px;
     height: 480px;
     padding-top: 10px;
+    row-gap: 0px;
+    /* padding-bottom: 0px; */
+
 }
 .chart-container {
-    flex: 1 1 1 4 4;
+    /* flex: 1 1 1 4 4; */
     width:300px;
-    height: 165px;
-    margin: 0 auto;
+    height: 160px;
+    /* margin: 0 auto; */
     background: #1e293b;
     border: 1px solid #334155;
     padding: 30px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-    display: flex;
-    /* align-items: center; */
-    flex-grow: 3;
-    flex-shrink: 3;
-    /* flex-direction: column; */
-    justify-content: center;
-    margin-left: 8px;
-    margin-right: 8px;
-    margin-bottom: 2px;
-    margin-top: 0px;
-}
-.dboard-container {
-    background: #1e293b;
-}
-.chart-container {
-    flex: 1 1 1 4 4;
-    width:300px;
-    height: 165px;
-    margin: 0 auto;
-    background: #1e293b;
-    border: 1px solid #334155;
-    padding: 30px;
+
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
     display: flex;
     /* align-items: center; */
@@ -93,10 +77,24 @@ body {
     justify-content: center;
     margin-left: 8px;
     margin-right: 8px;
-    margin-bottom: 2px;
-    margin-top: 0px;
-    overflow-y: auto; 
-    overflow-x: auto; 
+    /* margin-bottom: 2px; */
+    /* margin-top: 0px; */
+}
+.tabular-container {
+    display: flex;
+    flex-grow: 1;
+    /* gap: 50px; */
+    /* flex-shrink: 3; */
+        /* margin: 0; */
+    width: 1200px;
+    /* width: 300px; */
+    margin-left: 8px; 
+
+    /* margin-right: 8px; */
+    /* margin-bottom: 2px; */
+    /* margin-top: 0px; */
+    /* padding-top: 10px;   */
+
 }
 
 .container-home {
@@ -136,11 +134,11 @@ body {
 }
 
 /* Active Tab table settings */
-.other-tickets-table-header {
+.other-tickets-table{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
     /* font-size: clamp(1.8rem,10vw,5rem); */
-    font-size: 12px;
+    font-size: 5px;
 }
 .other-tickets-table {
     width: 99%;
@@ -169,10 +167,12 @@ body {
     background-color: #1e293b;
     color: white;
 }
+
 .other-tickets-table th {
     margin-top: 10px;
     background-color: #13145c;
-    color: rgb(229, 245, 7);
+    color: black;
+    /* color: rgb(229, 245, 7); */
 }
 .other-tickets-table tr:hover {
     background-color: #f1f1f1;
@@ -197,6 +197,9 @@ body {
     color: #e81616;
     text-align: center;
 }
+.other-tickets-table thead tr td {
+    color: yellow
+}
 
 .other-tickets-table1-header {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -204,6 +207,11 @@ body {
     /* font-size: clamp(1.8rem,10vw,5rem); */
     font-size: 12px;
 }
+
+.other-tickets-table1 thead tr td {
+    color: yellow
+}
+
 .other-tickets-table1 {
     width: 99%;
     border-collapse: collapse;
@@ -229,7 +237,7 @@ body {
 .other-tickets-table1 th {
     margin-top: 10px;
     background-color: #13145c;
-    color: rgb(229, 245, 7);
+    /* color: rgb(229, 245, 7); */
 }
 .other-tickets-table1 tr:hover {
     background-color: #f1f1f1;
@@ -251,36 +259,26 @@ body {
     border-radius: 12px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
-/* Home tab */
 
-/* .home-table1 {
-    width: 400px;
-    background: black;
-} */
+/* Home tab */
 .home-tickets-table {
     border-left: white;
     border-radius: 10px;
     border-collapse: collapse;
-    width: 570px;
+    width: 1180px;
     background: #1e293b;
     border-radius: 5px;
 }
-
 .home-tickets-table thead{
     border-bottom: 1px dashed grey;
     background-color: #119fc6;
 }
-
-/* .home-tickets-table tfoot{
-    border-top: 1px dashed grey;
-} */
 
 .home-tickets-table thead tr td{
     font-size: 12px;
     letter-spacing:  1px;
     text-align: center;
     color: black;
-    /* padding: 8px; */
 }
 .home-tickets-table thead tr td:nth-child(1){
     text-align: center;
@@ -293,9 +291,6 @@ body {
     font-weight: bold;
     padding: 8px;
 }
-/* .home-tickets-table tfoot tr td:nth-child(1){
-    text-align: right;
-} */
 .home-tickets-table tbody tr td{
     font-size: 12px;
     color: white;
@@ -308,7 +303,26 @@ body {
 }
 
 /* Responsive: turn table into grid on small devices */
-@media (max-width: 400px) {
+
+    /* Responsive widths:
+       - Desktop (>=1024px): 3 columns (33.333% each)
+       - Tablet (600px - 1023px): 2 columns (50% each)
+       - Mobile (<600px): 1 column (100%)
+    */
+
+    @media (max-width: 900px) {
+        .chart-container {
+            flex: 1 1 calc(50% - 16px); /* 2 columns on tablet */
+      }
+    }
+
+    @media (max-width: 600px) {
+      .chart-container {
+        flex: 1 1 100%; /* 1 column on mobile */
+      }
+    }
+
+@media (max-width: 600px) {
     table, thead, tbody, th, td, tr {
         display: block;
         width: 100%;
@@ -339,10 +353,3 @@ body {
         margin-right: 10px;
     }
 }
-
-
-
-
-
-
-
