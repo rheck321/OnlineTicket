@@ -1,12 +1,48 @@
 {"nftlist":[
     {
+        "nft": "NFT20251015000286",
+        "site": "PH0600382",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "15/10/2025 11:22:00",
+        "hour": "11"
+    },
+    {
+        "nft": "NFT20251015000277",
+        "site": "CO089",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Critical",
+        "duration": "0.4",
+        "remaining": "3.6",
+        "alarm": "Collect Failed",
+        "created": "15/10/2025 10:59:00",
+        "hour": "10"
+    },
+    {
+        "nft": "NFT20251015000276",
+        "site": "PH0600657",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.5",
+        "remaining": "7.5",
+        "alarm": "Device Powered Off",
+        "created": "15/10/2025 10:58:00",
+        "hour": "10"
+    },
+    {
         "nft": "NFT20251015000274",
         "site": "IBS0740021",
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "15/10/2025 10:57:00",
         "hour": "10"
@@ -17,8 +53,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Generator status",
         "created": "15/10/2025 10:56:00",
         "hour": "10"
@@ -60,6 +96,18 @@
         "hour": "10"
     },
     {
+        "nft": "NFT20251015000256",
+        "site": "PH0600255",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.9",
+        "remaining": "7.1",
+        "alarm": "Physical Port Down",
+        "created": "15/10/2025 10:29:00",
+        "hour": "10"
+    },
+    {
         "nft": "NFT20251015000254",
         "site": "PH0700218",
         "area": "BOHOL",
@@ -77,8 +125,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.2",
-        "remaining": "6.8",
+        "duration": "1.3",
+        "remaining": "6.7",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "15/10/2025 10:07:00",
         "hour": "10"
@@ -706,18 +754,6 @@
         "alarm": "Device Offline",
         "created": "14/10/2025 20:09:00",
         "hour": "20"
-    },
-    {
-        "nft": "NFT20251014000448",
-        "site": "PH0800144",
-        "area": "LEYTE",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Modem part unlock",
-        "created": "14/10/2025 19:28:00",
-        "hour": "19"
     },
     {
         "nft": "NFT20251014000448",
