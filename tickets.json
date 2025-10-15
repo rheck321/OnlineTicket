@@ -29,8 +29,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "Modem part unlock",
         "created": "15/10/2025 13:44:00",
         "hour": "13"
@@ -53,8 +53,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "15/10/2025 13:14:00",
         "hour": "13"
@@ -65,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "GPS clock failure",
         "created": "15/10/2025 12:42:00",
         "hour": "12"
@@ -696,6 +696,18 @@
         "hour": "0"
     },
     {
+        "nft": "NFT20251015000379",
+        "site": "PH0600824",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "15/10/2025 14:47:00",
+        "hour": "14"
+    },
+    {
         "nft": "NFT20251015000361",
         "site": "PH0700218",
         "area": "BOHOL",
@@ -713,7 +725,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
+        "duration": "1.1",
         "remaining": "7.0",
         "alarm": "Device Offline",
         "created": "15/10/2025 13:46:00",
@@ -725,8 +737,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "Modem part unlock",
         "created": "15/10/2025 13:44:00",
         "hour": "13"
@@ -749,8 +761,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "15/10/2025 13:14:00",
         "hour": "13"
