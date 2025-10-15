@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251015000437",
+        "site": "PH0800144",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Modem part unlock",
+        "created": "15/10/2025 17:13:00",
+        "hour": "17"
+    },
+    {
         "nft": "NFT20251015000429",
         "site": "PH0600824",
         "area": "NEGROS",
@@ -53,7 +65,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
+        "duration": "1.6",
         "remaining": "6.5",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 15:43:01",
@@ -257,8 +269,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.5",
-        "remaining": "3.5",
+        "duration": "4.6",
+        "remaining": "3.4",
         "alarm": "GPS clock failure",
         "created": "15/10/2025 12:42:00",
         "hour": "12"
