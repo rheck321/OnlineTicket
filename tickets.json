@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251015000379",
+        "site": "PH0600824",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Offline",
+        "created": "15/10/2025 14:47:00",
+        "hour": "14"
+    },
+    {
         "nft": "NFT20251015000361",
         "site": "PH0700218",
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Device Offline",
         "created": "15/10/2025 14:17:01",
         "hour": "14"
@@ -17,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "Device Offline",
         "created": "15/10/2025 13:46:00",
         "hour": "13"
@@ -66,7 +78,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.1",
-        "remaining": "5.9",
+        "remaining": "5.8",
         "alarm": "GPS clock failure",
         "created": "15/10/2025 12:42:00",
         "hour": "12"
@@ -209,8 +221,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.3",
-        "remaining": "3.7",
+        "duration": "4.4",
+        "remaining": "3.6",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 10:29:00",
         "hour": "10"
@@ -701,8 +713,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.0",
-        "remaining": "8.0",
+        "duration": "0.1",
+        "remaining": "7.9",
         "alarm": "Device Offline",
         "created": "15/10/2025 14:47:00",
         "hour": "14"
@@ -713,8 +725,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Device Offline",
         "created": "15/10/2025 14:17:01",
         "hour": "14"
@@ -726,7 +738,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "Device Offline",
         "created": "15/10/2025 13:46:00",
         "hour": "13"
@@ -773,8 +785,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.1",
-        "remaining": "5.9",
+        "duration": "2.2",
+        "remaining": "5.8",
         "alarm": "GPS clock failure",
         "created": "15/10/2025 12:42:00",
         "hour": "12"
@@ -917,8 +929,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.3",
-        "remaining": "3.7",
+        "duration": "4.4",
+        "remaining": "3.6",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 10:29:00",
         "hour": "10"
