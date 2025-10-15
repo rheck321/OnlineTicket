@@ -47,8 +47,8 @@ body {
     border: 1px solid white;
     justify-content: center;
     flex-wrap: wrap;
-    width: 1200px auto;              /* force horizontal scroll */
-    height: 600px auto;              /* force vertical scroll */
+    width: 1200px;             /* force horizontal scroll */
+    height: 600px;              /* force vertical scroll */
     overflow: auto;             /* scroll */
     border-radius: 3px;
     margin-left: 20px;
@@ -86,8 +86,8 @@ body {
     /* gap: 50px; */
     /* flex-shrink: 3; */
         /* margin: 0; */
-    /* width: 1200px; */
-    width: 300px;
+    width: 1200px;
+    /* width: 300px; */
     margin-left: 8px; 
 
     /* margin-right: 8px; */
@@ -309,6 +309,19 @@ body {
        - Tablet (600px - 1023px): 2 columns (50% each)
        - Mobile (<600px): 1 column (100%)
     */
+
+    @media (max-width: 900px) {
+        .chart-container {
+            flex: 1 1 calc(50% - 16px); /* 2 columns on tablet */
+      }
+    }
+
+    @media (max-width: 600px) {
+      .chart-container {
+        flex: 1 1 100%; /* 1 column on mobile */
+      }
+    }
+
 @media (max-width: 600px) {
     table, thead, tbody, th, td, tr {
         display: block;
@@ -340,8 +353,3 @@ body {
         margin-right: 10px;
     }
 }
-
-
-
-
-
