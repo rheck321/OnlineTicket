@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Device Offline",
         "created": "15/10/2025 15:18:00",
         "hour": "15"
@@ -17,7 +17,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
+        "duration": "0.2",
         "remaining": "7.8",
         "alarm": "Device Offline",
         "created": "15/10/2025 15:17:00",
@@ -137,8 +137,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Modem part unlock",
         "created": "15/10/2025 13:44:00",
         "hour": "13"
@@ -173,8 +173,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "GPS clock failure",
         "created": "15/10/2025 12:42:00",
         "hour": "12"
@@ -309,18 +309,6 @@
         "remaining": "-",
         "alarm": "Modem part unlock",
         "created": "15/10/2025 10:34:00",
-        "hour": "10"
-    },
-    {
-        "nft": "NFT20251015000256",
-        "site": "PH0600255",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "5.0",
-        "remaining": "3.0",
-        "alarm": "Physical Port Down",
-        "created": "15/10/2025 10:29:00",
         "hour": "10"
     },
     {
@@ -809,8 +797,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Device Offline",
         "created": "15/10/2025 15:18:00",
         "hour": "15"
@@ -821,7 +809,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
+        "duration": "0.2",
         "remaining": "7.8",
         "alarm": "Device Offline",
         "created": "15/10/2025 15:17:00",
@@ -941,8 +929,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Modem part unlock",
         "created": "15/10/2025 13:44:00",
         "hour": "13"
@@ -965,8 +953,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "15/10/2025 13:14:00",
         "hour": "13"
@@ -977,8 +965,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "GPS clock failure",
         "created": "15/10/2025 12:42:00",
         "hour": "12"
@@ -1113,18 +1101,6 @@
         "remaining": "-",
         "alarm": "Modem part unlock",
         "created": "15/10/2025 10:34:00",
-        "hour": "10"
-    },
-    {
-        "nft": "NFT20251015000256",
-        "site": "PH0600255",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "5.0",
-        "remaining": "3.0",
-        "alarm": "Physical Port Down",
-        "created": "15/10/2025 10:29:00",
         "hour": "10"
     },
     {
