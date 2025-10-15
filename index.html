@@ -23,7 +23,7 @@
   <div class="tab-content">
     <div id="home" data-tab-content class="active">
         <!-- <main class="flex-container-chart">   -->
-        <class="flex-container-chart">  
+        <div class="flex-container-chart">  
             <div class="chart-container">
                 <canvas id="lineChart"></canvas>
             </div>
@@ -33,7 +33,7 @@
             <div class="chart-container">
                 <canvas id="pieChart"></canvas>
             </div>
-            <div>
+            <div class="tabular-container">
                 <div>
                     <table class="home-tickets-table" id="gridTable">
                         <thead>
@@ -42,58 +42,6 @@
                                 <td>ACTIVE</td>
                                 <td>SUSPENDED</td>
                                 <td>FINISHED</td>
-                            </tr>
-                        </thead>
-                        <tbody>
-                        <tr>
-                            <td>BOHOL</td>
-                            <td id="boholactive">0</td>
-                            <td id="boholsuspend">0</td>
-                            <td id="boholclosed">0</td>
-                        </tr>
-                            <td>CEBU</td>
-                            <td id="cebuactive">0</td>
-                            <td id="cebususpend">0</td>
-                            <td id="cebuclosed">0</td>
-                        </tr>
-                            <td>LEYTE</td>
-                            <td id="leyteactive">0</td>
-                            <td id="leytesuspend">0 </td>
-                            <td id="leyteclosed">0</td>
-                        </tr>
-                            <td>NEGROS</td>
-                            <td id="negrosactive">0</td>
-                            <td id="negrossuspend">0</td>
-                            <td id="negrosclosed">0</td>
-                        </tr>
-                            <td>PANAY</td>
-                            <td id="panayactive">0</td>
-                            <td id="panaysuspend">0</td>
-                            <td id="panayclosed">0</td>
-                        </tr>
-                            <td>SAMAR</td>
-                            <td id="samaractive">0</td>
-                            <td id="samarsuspend">0</td>
-                            <td id="samarclosed">0</td>
-                        </tr>
-                        </tbody>
-                        <!-- <tfoot>
-                        <tr>
-                            <td>Total</td>
-                            <td id="totalactive">7</td>
-                            <td id="totalsuspend">8</td>
-                            <td id="totalclosed">0</td>
-                        </tr>
-                        </tfoot> -->
-                    </table>
-
-                </div>      
-            </div>
-            <div>
-                <div>
-                    <table class="home-tickets-table" id="gridTable">
-                        <thead>
-                            <tr>
                                 <td>TOTAL TICKETS</td>
                                 <td>0-3 HOURS</td>
                                 <td>3-7 HOURS</td>
@@ -103,36 +51,60 @@
                         </thead>
                         <tbody>
                         <tr>
+                            <td>BOHOL</td>
+                            <td id="boholactive">0</td>
+                            <td id="boholsuspend">0</td>
+                            <td id="boholclosed">0</td>
                             <td id="tickets_bohol"></td>
                             <td id="bohol_00_03">0</td>
                             <td id="bohol_03_05">0</td>
                             <td id="bohol_other">0</td>
-                            <td id="bohol_sla">0</td>
+                            <td id="bohol_sla">0</td>                            
                         </tr>
+                            <td>CEBU</td>
+                            <td id="cebuactive">0</td>
+                            <td id="cebususpend">0</td>
+                            <td id="cebuclosed">0</td>
                             <td id="tickets_cebu"></td>
                             <td id="cebu_00_03">0</td>
                             <td id="cebu_03_05">0</td>
                             <td id="cebu_other">0</td>
                             <td id="cebu_sla">0</td>
                         </tr>
+                            <td>LEYTE</td>
+                            <td id="leyteactive">0</td>
+                            <td id="leytesuspend">0 </td>
+                            <td id="leyteclosed">0</td>
                             <td id="tickets_leyte"></td>
                             <td id="leyte_00_03">0</td>
                             <td id="leyte_03_05">0</td>
                             <td id="leyte_other">0</td>
                             <td id="leyte_sla">0</td>
                         </tr>
+                            <td>NEGROS</td>
+                            <td id="negrosactive">0</td>
+                            <td id="negrossuspend">0</td>
+                            <td id="negrosclosed">0</td>
                             <td id="tickets_negros"></td>
                             <td id="negros_00_03">0</td>
                             <td id="negros_03_05">0</td>
                             <td id="negros_other">0</td>
                             <td id="negros_sla">0</td>
                         </tr>
+                            <td>PANAY</td>
+                            <td id="panayactive">0</td>
+                            <td id="panaysuspend">0</td>
+                            <td id="panayclosed">0</td>
                             <td id="tickets_panay"></td>
                             <td id="panay_00_03">0</td>
                             <td id="panay_03_05">0</td>
                             <td id="panay_other">0</td>
                             <td id="panay_sla">0</td>
                         </tr>
+                            <td>SAMAR</td>
+                            <td id="samaractive">0</td>
+                            <td id="samarsuspend">0</td>
+                            <td id="samarclosed">0</td>
                             <td id="tickets_samar"></td>
                             <td id="samar_00_03">0</td>
                             <td id="samar_03_05">0</td>
@@ -140,19 +112,11 @@
                             <td id="samar_sla">0</td>
                         </tr>
                         </tbody>
-                        <!-- <tfoot>
-                        <tr>
-                            <td>Total</td>
-                            <td id="totalactive">7</td>
-                            <td id="totalsuspend">8</td>
-                            <td id="totalclosed">0</td>
-                        </tr>
-                        </tfoot> -->
                     </table>
                 </div>      
             </div>
-        <!-- </main> -->
         </div>
+        <!-- </main> -->
     </div>
 
     <div id="active" data-tab-content>
@@ -271,4 +235,3 @@
   </div>
 </body>
 </html>
-
