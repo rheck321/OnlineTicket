@@ -17,7 +17,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "7.5",
         "alarm": "Optical Fail",
         "created": "15/10/2025 16:00:00",
@@ -108,6 +108,18 @@
         "hour": "14"
     },
     {
+        "nft": "NFT20251015000373",
+        "site": "CO038",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Physical Port Down",
+        "created": "15/10/2025 14:46:00",
+        "hour": "14"
+    },
+    {
         "nft": "NFT20251015000361",
         "site": "PH0700218",
         "area": "BOHOL",
@@ -173,7 +185,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.8",
+        "duration": "3.9",
         "remaining": "4.2",
         "alarm": "GPS clock failure",
         "created": "15/10/2025 12:42:00",
