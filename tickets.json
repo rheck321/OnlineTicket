@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Device Offline",
         "created": "15/10/2025 16:27:00",
         "hour": "16"
@@ -120,6 +120,18 @@
         "hour": "14"
     },
     {
+        "nft": "NFT20251015000375",
+        "site": "CO038",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Physical Port Down",
+        "created": "15/10/2025 14:46:00",
+        "hour": "14"
+    },
+    {
         "nft": "NFT20251015000374",
         "site": "CO077",
         "area": "NEGROS",
@@ -186,7 +198,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.4",
-        "remaining": "4.7",
+        "remaining": "4.6",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "15/10/2025 13:14:00",
         "hour": "13"
