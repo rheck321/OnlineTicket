@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.5",
-        "remaining": "3.5",
+        "duration": "0.6",
+        "remaining": "3.4",
         "alarm": "DG. Communication Fail",
         "created": "15/10/2025 11:32:00",
         "hour": "11"
@@ -42,7 +42,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.1",
-        "remaining": "6.9",
+        "remaining": "6.8",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "15/10/2025 10:57:00",
         "hour": "10"
@@ -125,7 +125,7 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.9",
+        "duration": "2.0",
         "remaining": "6.0",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "15/10/2025 10:07:00",
