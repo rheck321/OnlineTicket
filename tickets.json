@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Device Offline",
         "created": "15/10/2025 16:40:00",
         "hour": "16"
