@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251015000267",
+        "site": "PH0700256",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Offline",
+        "created": "15/10/2025 10:47:00",
+        "hour": "10"
+    },
+    {
         "nft": "NFT20251015000258",
         "site": "PH0800095",
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Modem part unlock",
         "created": "15/10/2025 10:34:00",
         "hour": "10"
@@ -17,8 +29,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "15/10/2025 10:24:00",
         "hour": "10"
@@ -54,7 +66,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Cell out of service",
         "created": "15/10/2025 09:24:00",
         "hour": "9"
@@ -941,8 +953,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.5",
-        "remaining": "3.5",
+        "duration": "4.6",
+        "remaining": "3.4",
         "alarm": "Physical Port Down",
         "created": "14/10/2025 10:20:01",
         "hour": "10"
