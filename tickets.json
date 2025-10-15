@@ -5,23 +5,11 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Optical Fail",
         "created": "15/10/2025 08:01:00",
         "hour": "8"
-    },
-    {
-        "nft": "NFT20251015000156",
-        "site": "PH0700145",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
-        "alarm": "Device Powered Off",
-        "created": "15/10/2025 07:46:01",
-        "hour": "7"
     },
     {
         "nft": "NFT20251015000147",
@@ -137,8 +125,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "The Device is offline",
         "created": "15/10/2025 07:20:00",
         "hour": "7"
@@ -149,8 +137,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 07:14:01",
         "hour": "7"
@@ -233,8 +221,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.4",
-        "remaining": "1.6",
+        "duration": "6.5",
+        "remaining": "1.5",
         "alarm": "Battery Communication Fail",
         "created": "15/10/2025 01:55:01",
         "hour": "1"
@@ -260,6 +248,18 @@
         "duration": "-",
         "remaining": "-",
         "alarm": "Device Offline",
+        "created": "15/10/2025 01:19:01",
+        "hour": "1"
+    },
+    {
+        "nft": "NFT20251015000040",
+        "site": "PH0700554",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Critical",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "The link between the server and the NE is broken",
         "created": "15/10/2025 01:19:01",
         "hour": "1"
     },
