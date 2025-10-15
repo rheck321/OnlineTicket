@@ -96,18 +96,6 @@
         "hour": "14"
     },
     {
-        "nft": "NFT20251015000377",
-        "site": "CO037s",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "1.6",
-        "remaining": "6.4",
-        "alarm": "Physical Port Down",
-        "created": "15/10/2025 14:46:00",
-        "hour": "14"
-    },
-    {
         "nft": "NFT20251015000361",
         "site": "PH0700218",
         "area": "BOHOL",
@@ -161,8 +149,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.1",
-        "remaining": "4.9",
+        "duration": "3.2",
+        "remaining": "4.8",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "15/10/2025 13:14:00",
         "hour": "13"
