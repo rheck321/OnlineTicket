@@ -5,8 +5,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "15/10/2025 10:07:00",
         "hour": "10"
@@ -29,8 +29,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "Cell out of service",
         "created": "15/10/2025 09:24:00",
         "hour": "9"
@@ -222,7 +222,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.1",
-        "remaining": "4.9",
+        "remaining": "4.8",
         "alarm": "The Device is offline",
         "created": "15/10/2025 07:20:00",
         "hour": "7"
@@ -420,6 +420,18 @@
         "hour": "0"
     },
     {
+        "nft": "NFT20251015000023",
+        "site": "CO075",
+        "area": "PANAY",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "ATS S1 Voltage State",
+        "created": "15/10/2025 00:47:01",
+        "hour": "0"
+    },
+    {
         "nft": "NFT20251015000022",
         "site": "CO075",
         "area": "PANAY",
@@ -449,8 +461,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.9",
-        "remaining": "6.1",
+        "duration": "2.0",
+        "remaining": "6.0",
         "alarm": "BBU interrupted",
         "created": "15/10/2025 00:20:01",
         "hour": "0"
@@ -930,7 +942,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.2",
-        "remaining": "3.9",
+        "remaining": "3.8",
         "alarm": "Physical Port Down",
         "created": "14/10/2025 10:20:01",
         "hour": "10"
@@ -1197,18 +1209,6 @@
         "remaining": "-",
         "alarm": "Device Offline",
         "created": "14/10/2025 03:53:01",
-        "hour": "3"
-    },
-    {
-        "nft": "NFT20251014000048",
-        "site": "PH0700828",
-        "area": "CEBU",
-        "state": "Suspend",
-        "severity": "Minor",
-        "duration": "-7.7",
-        "remaining": "15.7",
-        "alarm": "Standing wave warning",
-        "created": "14/10/2025 03:35:01",
         "hour": "3"
     }
 ]}
