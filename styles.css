@@ -198,7 +198,7 @@ body {
     text-align: center;
 }
 .other-tickets-table thead tr td {
-    color: yellow
+    color: yellow;
 }
 
 .other-tickets-table1-header {
@@ -209,7 +209,7 @@ body {
 }
 
 .other-tickets-table1 thead tr td {
-    color: yellow
+    color: yellow;
 }
 
 .other-tickets-table1 {
@@ -340,5 +340,6 @@ body {
         margin-right: 10px;
     }
 }
+
 
 
