@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251015000419",
+        "site": "PH0700405",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Offline",
+        "created": "15/10/2025 16:27:00",
+        "hour": "16"
+    },
+    {
         "nft": "NFT20251015000408",
         "site": "PH0700768",
         "area": "CEBU",
@@ -149,8 +161,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "15/10/2025 13:14:00",
         "hour": "13"
