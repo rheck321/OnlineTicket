@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "Modem part unlock",
         "created": "15/10/2025 17:13:00",
         "hour": "17"
@@ -66,7 +66,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 15:43:01",
         "hour": "15"
@@ -257,8 +257,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "15/10/2025 13:14:00",
         "hour": "13"
