@@ -95,6 +95,8 @@ body {
     margin-right: 8px;
     margin-bottom: 2px;
     margin-top: 0px;
+    overflow-y: auto; 
+    overflow-x: auto; 
 }
 
 .container-home {
@@ -337,6 +339,7 @@ body {
         margin-right: 10px;
     }
 }
+
 
 
 
