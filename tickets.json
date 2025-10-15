@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251015000333",
+        "site": "PH0700631",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Air Conditioner Outer Fan Fault",
+        "created": "15/10/2025 13:14:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20251015000322",
         "site": "PH0700438",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "GPS clock failure",
         "created": "15/10/2025 12:42:00",
         "hour": "12"
@@ -41,8 +53,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.7",
-        "remaining": "2.3",
+        "duration": "1.8",
+        "remaining": "2.2",
         "alarm": "DG. Communication Fail",
         "created": "15/10/2025 11:32:00",
         "hour": "11"
@@ -173,8 +185,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.1",
-        "remaining": "4.9",
+        "duration": "3.2",
+        "remaining": "4.8",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "15/10/2025 10:07:00",
         "hour": "10"
@@ -198,7 +210,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.9",
-        "remaining": "4.2",
+        "remaining": "4.1",
         "alarm": "Cell out of service",
         "created": "15/10/2025 09:24:00",
         "hour": "9"
@@ -636,13 +648,25 @@
         "hour": "0"
     },
     {
+        "nft": "NFT20251015000333",
+        "site": "PH0700631",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Air Conditioner Outer Fan Fault",
+        "created": "15/10/2025 13:14:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20251015000322",
         "site": "PH0700438",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "GPS clock failure",
         "created": "15/10/2025 12:42:00",
         "hour": "12"
@@ -677,8 +701,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.7",
-        "remaining": "2.3",
+        "duration": "1.8",
+        "remaining": "2.2",
         "alarm": "DG. Communication Fail",
         "created": "15/10/2025 11:32:00",
         "hour": "11"
@@ -725,7 +749,7 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.3",
+        "duration": "2.4",
         "remaining": "5.7",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "15/10/2025 10:57:00",
@@ -809,8 +833,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.1",
-        "remaining": "4.9",
+        "duration": "3.2",
+        "remaining": "4.8",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "15/10/2025 10:07:00",
         "hour": "10"
@@ -834,7 +858,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.9",
-        "remaining": "4.2",
+        "remaining": "4.1",
         "alarm": "Cell out of service",
         "created": "15/10/2025 09:24:00",
         "hour": "9"
