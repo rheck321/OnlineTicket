@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Device Offline",
         "created": "15/10/2025 10:47:00",
         "hour": "10"
@@ -17,8 +17,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Modem part unlock",
         "created": "15/10/2025 10:34:00",
         "hour": "10"
@@ -29,7 +29,7 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "15/10/2025 10:24:00",
@@ -65,7 +65,7 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.5",
+        "duration": "1.6",
         "remaining": "6.5",
         "alarm": "Cell out of service",
         "created": "15/10/2025 09:24:00",
@@ -180,9 +180,9 @@
         "hour": "7"
     },
     {
-        "nft": "NFT20251015000146",
-        "site": "IBS0710029",
-        "area": "CEBU",
+        "nft": "NFT20251015000144",
+        "site": "IBS0610012",
+        "area": "NEGROS",
         "state": "Suspend",
         "severity": "Critical",
         "duration": "0.4",
@@ -192,15 +192,15 @@
         "hour": "7"
     },
     {
-        "nft": "NFT20251015000133",
-        "site": "IBS0710030",
+        "nft": "NFT20251015000146",
+        "site": "IBS0710029",
         "area": "CEBU",
         "state": "Suspend",
         "severity": "Critical",
         "duration": "0.4",
         "remaining": "3.6",
         "alarm": "Pico RRU not connected",
-        "created": "15/10/2025 07:31:00",
+        "created": "15/10/2025 07:31:01",
         "hour": "7"
     },
     {
@@ -965,8 +965,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.6",
-        "remaining": "3.4",
+        "duration": "4.7",
+        "remaining": "3.3",
         "alarm": "Physical Port Down",
         "created": "14/10/2025 10:20:01",
         "hour": "10"
@@ -1174,29 +1174,5 @@
         "alarm": "Pico RRU not connected",
         "created": "14/10/2025 07:31:00",
         "hour": "7"
-    },
-    {
-        "nft": "NFT20251014000104",
-        "site": "PH0700679",
-        "area": "CEBU",
-        "state": "Suspend",
-        "severity": "Minor",
-        "duration": "0.1",
-        "remaining": "7.8",
-        "alarm": "Air Conditioner Communication Lost",
-        "created": "14/10/2025 06:18:01",
-        "hour": "6"
-    },
-    {
-        "nft": "NFT20251014000098",
-        "site": "CO038",
-        "area": "CEBU",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Device Offline",
-        "created": "14/10/2025 05:57:00",
-        "hour": "5"
     }
 ]}
