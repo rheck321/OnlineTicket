@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "GPS clock failure",
         "created": "15/10/2025 12:42:00",
         "hour": "12"
@@ -54,7 +54,7 @@
         "state": "Processing",
         "severity": "Critical",
         "duration": "2.0",
-        "remaining": "2.0",
+        "remaining": "1.9",
         "alarm": "DG. Communication Fail",
         "created": "15/10/2025 11:32:00",
         "hour": "11"
@@ -185,8 +185,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "15/10/2025 10:07:00",
         "hour": "10"
@@ -210,7 +210,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.2",
-        "remaining": "3.9",
+        "remaining": "3.8",
         "alarm": "Cell out of service",
         "created": "15/10/2025 09:24:00",
         "hour": "9"
@@ -653,8 +653,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "15/10/2025 13:14:00",
         "hour": "13"
@@ -665,8 +665,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "GPS clock failure",
         "created": "15/10/2025 12:42:00",
         "hour": "12"
@@ -701,8 +701,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "2.0",
-        "remaining": "2.0",
+        "duration": "2.1",
+        "remaining": "1.9",
         "alarm": "DG. Communication Fail",
         "created": "15/10/2025 11:32:00",
         "hour": "11"
@@ -750,7 +750,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.6",
-        "remaining": "5.4",
+        "remaining": "5.3",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "15/10/2025 10:57:00",
         "hour": "10"
@@ -833,8 +833,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "15/10/2025 10:07:00",
         "hour": "10"
@@ -858,7 +858,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.2",
-        "remaining": "3.9",
+        "remaining": "3.8",
         "alarm": "Cell out of service",
         "created": "15/10/2025 09:24:00",
         "hour": "9"
