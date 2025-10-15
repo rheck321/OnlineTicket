@@ -15,10 +15,10 @@
         "nft": "NFT20251015000437",
         "site": "PH0800144",
         "area": "LEYTE",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Modem part unlock",
         "created": "15/10/2025 17:13:00",
         "hour": "17"
@@ -77,8 +77,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.8",
-        "remaining": "6.2",
+        "duration": "1.9",
+        "remaining": "6.1",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 15:43:01",
         "hour": "15"
@@ -270,7 +270,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.3",
-        "remaining": "3.7",
+        "remaining": "3.6",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "15/10/2025 13:14:00",
         "hour": "13"
