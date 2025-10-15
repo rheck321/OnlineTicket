@@ -113,8 +113,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "15/10/2025 07:29:00",
         "hour": "7"
@@ -173,8 +173,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Battery charger under voltage warning",
         "created": "15/10/2025 06:29:00",
         "hour": "6"
@@ -202,18 +202,6 @@
         "alarm": "Device Offline",
         "created": "15/10/2025 03:09:00",
         "hour": "3"
-    },
-    {
-        "nft": "NFT20251015000059",
-        "site": "PH0600345",
-        "area": "NEGROS",
-        "state": "Suspend",
-        "severity": "Minor",
-        "duration": "1.2",
-        "remaining": "6.8",
-        "alarm": "Cell out of service",
-        "created": "15/10/2025 02:54:00",
-        "hour": "2"
     },
     {
         "nft": "NFT20251015000057",
