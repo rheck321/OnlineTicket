@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "The Device is offline",
         "created": "15/10/2025 18:45:00",
         "hour": "18"
@@ -42,7 +42,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Transmission unit link break",
         "created": "15/10/2025 18:44:00",
         "hour": "18"
@@ -54,7 +54,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.9",
-        "remaining": "7.1",
+        "remaining": "7.0",
         "alarm": "Device Offline",
         "created": "15/10/2025 18:22:00",
         "hour": "18"
