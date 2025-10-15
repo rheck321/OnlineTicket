@@ -309,19 +309,6 @@ body {
        - Tablet (600px - 1023px): 2 columns (50% each)
        - Mobile (<600px): 1 column (100%)
     */
-
-    @media (max-width: 900px) {
-        .chart-container {
-            flex: 1 1 calc(50% - 16px); /* 2 columns on tablet */
-      }
-    }
-
-    @media (max-width: 600px) {
-      .chart-container {
-        flex: 1 1 100%; /* 1 column on mobile */
-      }
-    }
-
 @media (max-width: 600px) {
     table, thead, tbody, th, td, tr {
         display: block;
@@ -353,4 +340,5 @@ body {
         margin-right: 10px;
     }
 }
+
 
