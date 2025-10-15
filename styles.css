@@ -47,8 +47,8 @@ body {
     border: 1px solid white;
     justify-content: center;
     flex-wrap: wrap;
-    width: 1200px;              /* force horizontal scroll */
-    height: 600px;              /* force vertical scroll */
+    width: 1200px auto;              /* force horizontal scroll */
+    height: 600px auto;              /* force vertical scroll */
     overflow: auto;             /* scroll */
     border-radius: 3px;
     margin-left: 20px;
@@ -340,6 +340,7 @@ body {
         margin-right: 10px;
     }
 }
+
 
 
 
