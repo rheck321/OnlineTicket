@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251015000389",
+        "site": "PH0700314",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Offline",
+        "created": "15/10/2025 15:18:00",
+        "hour": "15"
+    },
+    {
         "nft": "NFT20251015000388",
         "site": "CO074",
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.0",
-        "remaining": "8.0",
+        "duration": "0.1",
+        "remaining": "7.9",
         "alarm": "Device Offline",
         "created": "15/10/2025 15:17:00",
         "hour": "15"
@@ -17,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 14:47:00",
         "hour": "14"
@@ -29,8 +41,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Device Offline",
         "created": "15/10/2025 14:47:00",
         "hour": "14"
@@ -42,7 +54,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 14:46:00",
         "hour": "14"
@@ -54,7 +66,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 14:46:00",
         "hour": "14"
@@ -66,7 +78,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 14:46:00",
         "hour": "14"
@@ -78,7 +90,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 14:46:00",
         "hour": "14"
@@ -90,7 +102,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 14:46:00",
         "hour": "14"
@@ -161,8 +173,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.6",
-        "remaining": "5.4",
+        "duration": "2.7",
+        "remaining": "5.3",
         "alarm": "GPS clock failure",
         "created": "15/10/2025 12:42:00",
         "hour": "12"
@@ -305,8 +317,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.8",
-        "remaining": "3.2",
+        "duration": "4.9",
+        "remaining": "3.1",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 10:29:00",
         "hour": "10"
@@ -797,8 +809,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.0",
-        "remaining": "8.0",
+        "duration": "0.1",
+        "remaining": "7.9",
         "alarm": "Device Offline",
         "created": "15/10/2025 15:18:00",
         "hour": "15"
@@ -809,8 +821,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.0",
-        "remaining": "8.0",
+        "duration": "0.1",
+        "remaining": "7.9",
         "alarm": "Device Offline",
         "created": "15/10/2025 15:17:00",
         "hour": "15"
@@ -821,8 +833,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 14:47:00",
         "hour": "14"
@@ -833,8 +845,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Device Offline",
         "created": "15/10/2025 14:47:00",
         "hour": "14"
@@ -846,7 +858,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 14:46:00",
         "hour": "14"
@@ -858,7 +870,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 14:46:00",
         "hour": "14"
@@ -870,7 +882,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 14:46:00",
         "hour": "14"
@@ -882,7 +894,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 14:46:00",
         "hour": "14"
@@ -894,7 +906,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 14:46:00",
         "hour": "14"
@@ -930,7 +942,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Modem part unlock",
         "created": "15/10/2025 13:44:00",
         "hour": "13"
@@ -954,7 +966,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.1",
-        "remaining": "5.9",
+        "remaining": "5.8",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "15/10/2025 13:14:00",
         "hour": "13"
@@ -965,8 +977,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.6",
-        "remaining": "5.4",
+        "duration": "2.7",
+        "remaining": "5.3",
         "alarm": "GPS clock failure",
         "created": "15/10/2025 12:42:00",
         "hour": "12"
@@ -1109,8 +1121,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.8",
-        "remaining": "3.2",
+        "duration": "4.9",
+        "remaining": "3.1",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 10:29:00",
         "hour": "10"
