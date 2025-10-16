@@ -1,12 +1,48 @@
 {"nftlist":[
     {
+        "nft": "NFT20251016000337",
+        "site": "PH0700273",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Low oil pressure shutdown alarm",
+        "created": "16/10/2025 13:54:01",
+        "hour": "13"
+    },
+    {
+        "nft": "NFT20251016000336",
+        "site": "PH0700321",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Low oil pressure shutdown alarm",
+        "created": "16/10/2025 13:54:00",
+        "hour": "13"
+    },
+    {
+        "nft": "NFT20251016000335",
+        "site": "PH0700284",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Low oil pressure shutdown alarm",
+        "created": "16/10/2025 13:54:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20251016000334",
         "site": "PH0800144",
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "Modem part unlock",
         "created": "16/10/2025 13:52:00",
         "hour": "13"
@@ -93,18 +129,6 @@
         "remaining": "-",
         "alarm": "Device Offline",
         "created": "16/10/2025 09:59:00",
-        "hour": "9"
-    },
-    {
-        "nft": "NFT20251016000221",
-        "site": "PH0700433",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "4.2",
-        "remaining": "3.9",
-        "alarm": "Cell out of service",
-        "created": "16/10/2025 09:46:00",
         "hour": "9"
     },
     {
