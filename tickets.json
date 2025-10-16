@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Cell out of service",
         "created": "16/10/2025 09:46:00",
         "hour": "9"
@@ -65,8 +65,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Transmission unit link break",
         "created": "16/10/2025 07:46:00",
         "hour": "7"
@@ -77,8 +77,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Transmission unit link break",
         "created": "16/10/2025 07:46:00",
         "hour": "7"
@@ -153,6 +153,18 @@
         "remaining": "3.7",
         "alarm": "Pico RRU not connected",
         "created": "16/10/2025 07:31:00",
+        "hour": "7"
+    },
+    {
+        "nft": "NFT20251016000110",
+        "site": "PH0800410",
+        "area": "LEYTE",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "BBU interrupted",
+        "created": "16/10/2025 07:01:00",
         "hour": "7"
     },
     {
@@ -492,18 +504,6 @@
         "hour": "18"
     },
     {
-        "nft": "NFT20251015000462",
-        "site": "PH0600548",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "4.4",
-        "remaining": "3.6",
-        "alarm": "Cell out of service",
-        "created": "15/10/2025 18:18:00",
-        "hour": "18"
-    },
-    {
         "nft": "NFT20251015000458",
         "site": "PH0700546",
         "area": "BOHOL",
@@ -605,8 +605,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 15:43:01",
         "hour": "15"
