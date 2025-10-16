@@ -53,8 +53,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "Optical Fail",
         "created": "16/10/2025 08:01:00",
         "hour": "8"
@@ -156,18 +156,6 @@
         "hour": "7"
     },
     {
-        "nft": "NFT20251016000110",
-        "site": "PH0800410",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "3.4",
-        "remaining": "4.6",
-        "alarm": "BBU interrupted",
-        "created": "16/10/2025 07:01:00",
-        "hour": "7"
-    },
-    {
         "nft": "NFT20251016000097",
         "site": "PH0600263",
         "area": "NEGROS",
@@ -209,7 +197,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.3",
+        "duration": "5.4",
         "remaining": "2.6",
         "alarm": "Battery Communication Fail",
         "created": "16/10/2025 05:05:00",
