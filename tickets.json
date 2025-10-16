@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Device Offline",
         "created": "16/10/2025 18:18:01",
         "hour": "18"
@@ -17,8 +17,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Offline",
         "created": "16/10/2025 18:07:00",
         "hour": "18"
@@ -29,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "16/10/2025 17:56:00",
         "hour": "17"
@@ -41,8 +41,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Physical Port Down",
         "created": "16/10/2025 17:43:00",
         "hour": "17"
@@ -54,7 +54,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.7",
+        "remaining": "6.5",
         "alarm": "Modem part unlock",
         "created": "16/10/2025 17:01:00",
         "hour": "17"
