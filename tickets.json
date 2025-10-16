@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251016000480",
+        "site": "PH0700626",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Optical Fail",
+        "created": "16/10/2025 18:31:00",
+        "hour": "18"
+    },
+    {
         "nft": "NFT20251016000474",
         "site": "CO038",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Offline",
         "created": "16/10/2025 18:18:01",
         "hour": "18"
@@ -17,8 +29,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "16/10/2025 18:07:00",
         "hour": "18"
@@ -29,8 +41,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Device Offline",
         "created": "16/10/2025 17:56:00",
         "hour": "17"
@@ -53,7 +65,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
+        "duration": "1.6",
         "remaining": "6.5",
         "alarm": "Modem part unlock",
         "created": "16/10/2025 17:01:00",
