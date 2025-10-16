@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.4",
-        "remaining": "6.7",
+        "remaining": "6.6",
         "alarm": "Optical Fail",
         "created": "16/10/2025 08:01:00",
         "hour": "8"
@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Transmission unit link break",
         "created": "16/10/2025 07:46:00",
         "hour": "7"
@@ -30,7 +30,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Transmission unit link break",
         "created": "16/10/2025 07:46:00",
         "hour": "7"
@@ -114,7 +114,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "BBU interrupted",
         "created": "16/10/2025 07:01:00",
         "hour": "7"
@@ -461,8 +461,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.3",
-        "remaining": "4.7",
+        "duration": "3.4",
+        "remaining": "4.6",
         "alarm": "Cell out of service",
         "created": "15/10/2025 18:18:00",
         "hour": "18"
@@ -569,7 +569,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.1",
+        "duration": "3.2",
         "remaining": "4.8",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 15:43:01",
