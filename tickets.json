@@ -17,8 +17,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Optical Fail",
         "created": "16/10/2025 09:23:00",
         "hour": "9"
@@ -29,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Optical Fail",
         "created": "16/10/2025 08:01:00",
         "hour": "8"
@@ -137,8 +137,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "BBU interrupted",
         "created": "16/10/2025 07:01:00",
         "hour": "7"
@@ -186,7 +186,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.7",
-        "remaining": "3.4",
+        "remaining": "3.3",
         "alarm": "Battery Communication Fail",
         "created": "16/10/2025 05:05:00",
         "hour": "5"
@@ -485,8 +485,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "Cell out of service",
         "created": "15/10/2025 18:18:00",
         "hour": "18"
@@ -593,8 +593,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 15:43:01",
         "hour": "15"
