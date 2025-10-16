@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251016000287",
+        "site": "IBS0710029",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "RRU hardware failure",
+        "created": "16/10/2025 12:16:00",
+        "hour": "12"
+    },
+    {
         "nft": "NFT20251016000226",
         "site": "PH0600481",
         "area": "NEGROS",
@@ -53,8 +65,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "Optical Fail",
         "created": "16/10/2025 08:01:00",
         "hour": "8"
@@ -207,10 +219,10 @@
         "nft": "NFT20251016000082",
         "site": "PH0700537",
         "area": "CEBU",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "7.2",
-        "remaining": "0.8",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Battery Communication Fail",
         "created": "16/10/2025 05:05:00",
         "hour": "5"
@@ -617,8 +629,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.0",
-        "remaining": "2.0",
+        "duration": "6.1",
+        "remaining": "1.9",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 15:43:01",
         "hour": "15"
