@@ -53,8 +53,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.6",
-        "remaining": "5.4",
+        "duration": "2.7",
+        "remaining": "5.3",
         "alarm": "Optical Fail",
         "created": "16/10/2025 08:01:00",
         "hour": "8"
@@ -605,8 +605,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.4",
-        "remaining": "3.6",
+        "duration": "4.5",
+        "remaining": "3.5",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 15:43:01",
         "hour": "15"
