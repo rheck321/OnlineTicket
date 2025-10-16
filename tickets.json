@@ -17,8 +17,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Physical Port Down",
         "created": "16/10/2025 15:12:00",
         "hour": "15"
@@ -53,8 +53,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Device Offline",
         "created": "16/10/2025 14:29:00",
         "hour": "14"
@@ -77,8 +77,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "16/10/2025 13:54:01",
         "hour": "13"
@@ -101,8 +101,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "16/10/2025 13:54:00",
         "hour": "13"
@@ -1053,6 +1053,18 @@
         "remaining": "-",
         "alarm": "DG. Communication Fail",
         "created": "15/10/2025 11:32:00",
+        "hour": "11"
+    },
+    {
+        "nft": "NFT20251015000286",
+        "site": "PH0600382",
+        "area": "NEGROS",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Device Offline",
+        "created": "15/10/2025 11:22:00",
         "hour": "11"
     },
     {
