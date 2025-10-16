@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251016000221",
+        "site": "PH0700433",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Cell out of service",
+        "created": "16/10/2025 09:46:00",
+        "hour": "9"
+    },
+    {
         "nft": "NFT20251016000218",
         "site": "CO103",
         "area": "BOHOL",
@@ -17,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Optical Fail",
         "created": "16/10/2025 09:23:00",
         "hour": "9"
@@ -41,7 +53,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.1",
+        "duration": "2.2",
         "remaining": "5.8",
         "alarm": "Transmission unit link break",
         "created": "16/10/2025 07:46:00",
@@ -53,7 +65,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.1",
+        "duration": "2.2",
         "remaining": "5.8",
         "alarm": "Transmission unit link break",
         "created": "16/10/2025 07:46:00",
@@ -185,8 +197,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.8",
-        "remaining": "3.2",
+        "duration": "4.9",
+        "remaining": "3.1",
         "alarm": "Battery Communication Fail",
         "created": "16/10/2025 05:05:00",
         "hour": "5"
