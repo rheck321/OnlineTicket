@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251016000207",
+        "site": "CO081",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Physical Port Down",
+        "created": "16/10/2025 09:27:00",
+        "hour": "9"
+    },
+    {
         "nft": "NFT20251016000206",
         "site": "PH0700747",
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Optical Fail",
         "created": "16/10/2025 09:23:00",
         "hour": "9"
@@ -30,7 +42,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.9",
-        "remaining": "6.2",
+        "remaining": "6.1",
         "alarm": "Transmission unit link break",
         "created": "16/10/2025 07:46:00",
         "hour": "7"
@@ -42,7 +54,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.9",
-        "remaining": "6.2",
+        "remaining": "6.1",
         "alarm": "Transmission unit link break",
         "created": "16/10/2025 07:46:00",
         "hour": "7"
@@ -173,8 +185,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.5",
-        "remaining": "3.5",
+        "duration": "4.6",
+        "remaining": "3.4",
         "alarm": "Battery Communication Fail",
         "created": "16/10/2025 05:05:00",
         "hour": "5"
@@ -1071,6 +1083,18 @@
         "nft": "NFT20251015000140",
         "site": "IBS0610001",
         "area": "PANAY",
+        "state": "Finished",
+        "severity": "Critical",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Pico RRU not connected",
+        "created": "15/10/2025 07:31:01",
+        "hour": "7"
+    },
+    {
+        "nft": "NFT20251015000144",
+        "site": "IBS0610012",
+        "area": "NEGROS",
         "state": "Finished",
         "severity": "Critical",
         "duration": "-",
