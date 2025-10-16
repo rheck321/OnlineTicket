@@ -72,18 +72,6 @@
         "hour": "17"
     },
     {
-        "nft": "NFT20251016000445",
-        "site": "PH0600866",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.6",
-        "alarm": "Physical Port Down",
-        "created": "16/10/2025 17:43:00",
-        "hour": "17"
-    },
-    {
         "nft": "NFT20251016000429",
         "site": "PH0800144",
         "area": "LEYTE",
