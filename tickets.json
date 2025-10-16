@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251016000509",
+        "site": "PH0700109",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Charge Circuit Switch Failure alarm",
+        "created": "16/10/2025 19:12:00",
+        "hour": "19"
+    },
+    {
         "nft": "NFT20251016000485",
         "site": "PH0600305",
         "area": "NEGROS",
