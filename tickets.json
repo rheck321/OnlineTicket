@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251016000315",
+        "site": "PH0700198",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Gen communication status alarm",
+        "created": "16/10/2025 13:21:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20251016000311",
         "site": "CO084",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "Device Offline",
         "created": "16/10/2025 13:16:00",
         "hour": "13"
@@ -77,8 +89,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "Cell out of service",
         "created": "16/10/2025 09:46:00",
         "hour": "9"
