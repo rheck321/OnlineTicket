@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.2",
-        "remaining": "6.8",
+        "duration": "1.3",
+        "remaining": "6.7",
         "alarm": "Optical Fail",
         "created": "16/10/2025 08:01:00",
         "hour": "8"
@@ -113,8 +113,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "BBU interrupted",
         "created": "16/10/2025 07:01:00",
         "hour": "7"
@@ -569,8 +569,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "Physical Port Down",
         "created": "15/10/2025 15:43:01",
         "hour": "15"
