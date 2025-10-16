@@ -5,8 +5,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Modem part unlock",
         "created": "16/10/2025 17:01:00",
         "hour": "17"
@@ -17,8 +17,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Device Offline",
         "created": "16/10/2025 16:47:00",
         "hour": "16"
@@ -48,6 +48,18 @@
         "hour": "16"
     },
     {
+        "nft": "NFT20251016000405",
+        "site": "PH0700554",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "The Device is offline",
+        "created": "16/10/2025 16:21:00",
+        "hour": "16"
+    },
+    {
         "nft": "NFT20251016000404",
         "site": "PH0700504",
         "area": "CEBU",
@@ -65,8 +77,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Gen communication status alarm",
         "created": "16/10/2025 15:59:00",
         "hour": "15"
@@ -77,8 +89,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Gen under frequency shutdown",
         "created": "16/10/2025 15:53:00",
         "hour": "15"
@@ -89,8 +101,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Low voltage shutdown alarm",
         "created": "16/10/2025 15:53:00",
         "hour": "15"
@@ -113,8 +125,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Physical Port Down",
         "created": "16/10/2025 15:12:00",
         "hour": "15"
@@ -221,8 +233,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "Gen communication status alarm",
         "created": "16/10/2025 13:21:00",
         "hour": "13"
@@ -245,8 +257,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.3",
-        "remaining": "3.7",
+        "duration": "4.4",
+        "remaining": "3.6",
         "alarm": "GPS clock failure",
         "created": "16/10/2025 13:03:00",
         "hour": "13"
