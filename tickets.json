@@ -29,8 +29,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.9",
-        "remaining": "7.1",
+        "duration": "1.0",
+        "remaining": "7.0",
         "alarm": "Transmission unit link break",
         "created": "17/10/2025 09:02:00",
         "hour": "9"
@@ -41,8 +41,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.9",
-        "remaining": "7.1",
+        "duration": "1.0",
+        "remaining": "7.0",
         "alarm": "Transmission unit link break",
         "created": "17/10/2025 09:02:00",
         "hour": "9"
@@ -534,7 +534,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.4",
-        "remaining": "4.7",
+        "remaining": "4.6",
         "alarm": "Optical Fail",
         "created": "16/10/2025 18:31:00",
         "hour": "18"
@@ -581,7 +581,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.3",
+        "duration": "2.4",
         "remaining": "5.7",
         "alarm": "Physical Port Down",
         "created": "16/10/2025 17:43:00",
@@ -1102,17 +1102,5 @@
         "alarm": "Battery Communication Fail",
         "created": "16/10/2025 05:05:00",
         "hour": "5"
-    },
-    {
-        "nft": "NFT20251016000075",
-        "site": "PH0700071",
-        "area": "CEBU",
-        "state": "Suspend",
-        "severity": "Major",
-        "duration": "3.9",
-        "remaining": "4.1",
-        "alarm": "Charge Circuit Switch Failure alarm",
-        "created": "16/10/2025 04:39:00",
-        "hour": "4"
     }
 ]}
