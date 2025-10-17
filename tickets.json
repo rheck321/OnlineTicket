@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251017000678",
+        "site": "PH0800095",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "The received optical power of the optical module is abnormal",
+        "created": "17/10/2025 19:45:00",
+        "hour": "19"
+    },
+    {
         "nft": "NFT20251017000664",
         "site": "PH0700218",
         "area": "BOHOL",
