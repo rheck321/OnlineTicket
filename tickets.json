@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251017000584",
+        "site": "CO084",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Offline",
+        "created": "17/10/2025 15:19:00",
+        "hour": "15"
+    },
+    {
         "nft": "NFT20251017000579",
         "site": "IBS0740020",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "RRU interrupted",
         "created": "17/10/2025 14:58:01",
         "hour": "14"
@@ -65,8 +77,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.9",
-        "remaining": "7.1",
+        "duration": "1.0",
+        "remaining": "7.0",
         "alarm": "Optical Fail",
         "created": "17/10/2025 14:25:00",
         "hour": "14"
@@ -137,8 +149,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Physical Port Down",
         "created": "17/10/2025 13:38:00",
         "hour": "13"
@@ -161,8 +173,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "GPS clock failure",
         "created": "17/10/2025 12:49:00",
         "hour": "12"
@@ -185,8 +197,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "17/10/2025 12:23:00",
         "hour": "12"
@@ -197,8 +209,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "Physical Port Down",
         "created": "17/10/2025 12:06:00",
         "hour": "12"
@@ -881,7 +893,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.6",
+        "duration": "6.7",
         "remaining": "1.4",
         "alarm": "Physical Port Down",
         "created": "16/10/2025 17:43:00",
@@ -1150,18 +1162,6 @@
         "alarm": "GPS clock failure",
         "created": "16/10/2025 13:03:00",
         "hour": "13"
-    },
-    {
-        "nft": "NFT20251016000302",
-        "site": "PH0800144",
-        "area": "LEYTE",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Modem part unlock",
-        "created": "16/10/2025 12:50:00",
-        "hour": "12"
     },
     {
         "nft": "NFT20251016000302",
