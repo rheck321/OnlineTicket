@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "Device Offline",
         "created": "17/10/2025 18:14:00",
         "hour": "18"
@@ -197,8 +197,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.9",
-        "remaining": "4.1",
+        "duration": "4.0",
+        "remaining": "4.0",
         "alarm": "Cell out of service",
         "created": "17/10/2025 14:21:00",
         "hour": "14"
