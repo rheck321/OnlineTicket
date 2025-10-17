@@ -41,8 +41,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Physical Port Down",
         "created": "17/10/2025 13:38:00",
         "hour": "13"
@@ -66,7 +66,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "GPS clock failure",
         "created": "17/10/2025 12:49:00",
         "hour": "12"
@@ -785,8 +785,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.7",
-        "remaining": "1.3",
+        "duration": "6.8",
+        "remaining": "1.2",
         "alarm": "Physical Port Down",
         "created": "16/10/2025 17:43:00",
         "hour": "17"
