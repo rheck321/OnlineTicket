@@ -150,7 +150,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.9",
-        "remaining": "5.2",
+        "remaining": "5.1",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "17/10/2025 07:59:00",
         "hour": "7"
@@ -413,8 +413,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "Cell out of service",
         "created": "16/10/2025 22:45:00",
         "hour": "22"
