@@ -3,10 +3,10 @@
         "nft": "NFT20251017000595",
         "site": "PH0700688",
         "area": "CEBU",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Minor",
-        "duration": "0.1",
-        "remaining": "7.8",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Cell out of service",
         "created": "17/10/2025 15:55:00",
         "hour": "15"
@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "RRU interrupted",
         "created": "17/10/2025 14:58:01",
         "hour": "14"
@@ -101,8 +101,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Cell out of service",
         "created": "17/10/2025 14:21:00",
         "hour": "14"
@@ -185,8 +185,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "GPS clock failure",
         "created": "17/10/2025 12:49:00",
         "hour": "12"
@@ -209,8 +209,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "17/10/2025 12:23:00",
         "hour": "12"
@@ -1137,18 +1137,6 @@
         "remaining": "-",
         "alarm": "Modem part unlock",
         "created": "16/10/2025 13:52:00",
-        "hour": "13"
-    },
-    {
-        "nft": "NFT20251016000315",
-        "site": "PH0700198",
-        "area": "CEBU",
-        "state": "Finished",
-        "severity": "Minor",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Gen communication status alarm",
-        "created": "16/10/2025 13:21:00",
         "hour": "13"
     },
     {
