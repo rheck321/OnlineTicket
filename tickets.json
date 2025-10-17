@@ -1,5 +1,29 @@
 {"nftlist":[
     {
+        "nft": "NFT20251017000567",
+        "site": "CO085",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Critical",
+        "duration": "0.1",
+        "remaining": "4.0",
+        "alarm": "Fire Alarm(fault)",
+        "created": "17/10/2025 14:30:00",
+        "hour": "14"
+    },
+    {
+        "nft": "NFT20251017000566",
+        "site": "PH0800021",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Air Conditioner Outer Fan Fault",
+        "created": "17/10/2025 14:28:00",
+        "hour": "14"
+    },
+    {
         "nft": "NFT20251017000564",
         "site": "PH0700625",
         "area": "BOHOL",
@@ -29,8 +53,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Device Offline",
         "created": "17/10/2025 13:59:00",
         "hour": "13"
@@ -41,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Device Offline",
         "created": "17/10/2025 13:59:00",
         "hour": "13"
@@ -113,8 +137,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.1",
-        "remaining": "5.9",
+        "duration": "2.2",
+        "remaining": "5.8",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "17/10/2025 12:23:00",
         "hour": "12"
@@ -125,8 +149,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "Physical Port Down",
         "created": "17/10/2025 12:06:00",
         "hour": "12"
@@ -521,8 +545,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.9",
-        "remaining": "2.1",
+        "duration": "6.0",
+        "remaining": "2.0",
         "alarm": "Cell out of service",
         "created": "17/10/2025 03:29:02",
         "hour": "3"
@@ -809,7 +833,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.8",
+        "duration": "6.9",
         "remaining": "1.1",
         "alarm": "Physical Port Down",
         "created": "16/10/2025 17:43:00",
