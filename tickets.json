@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Device Offline",
         "created": "17/10/2025 12:42:00",
         "hour": "12"
@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.9",
-        "remaining": "7.1",
+        "duration": "1.0",
+        "remaining": "7.0",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "17/10/2025 12:23:00",
         "hour": "12"
@@ -437,8 +437,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.7",
-        "remaining": "3.3",
+        "duration": "4.8",
+        "remaining": "3.2",
         "alarm": "Cell out of service",
         "created": "17/10/2025 03:29:02",
         "hour": "3"
@@ -726,7 +726,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "5.7",
-        "remaining": "2.4",
+        "remaining": "2.3",
         "alarm": "Physical Port Down",
         "created": "16/10/2025 17:43:00",
         "hour": "17"
