@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251017000368",
+        "site": "CO084",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "17/10/2025 09:51:00",
+        "hour": "9"
+    },
+    {
         "nft": "NFT20251017000349",
         "site": "PH0600596",
         "area": "PANAY",
@@ -353,8 +365,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Cell out of service",
         "created": "16/10/2025 22:45:00",
         "hour": "22"
@@ -521,8 +533,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "Optical Fail",
         "created": "16/10/2025 18:31:00",
         "hour": "18"
@@ -1102,17 +1114,5 @@
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "16/10/2025 04:39:00",
         "hour": "4"
-    },
-    {
-        "nft": "NFT20251016000067",
-        "site": "CO085",
-        "area": "LEYTE",
-        "state": "Finished",
-        "severity": "Critical",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Fire Alarm(fault)",
-        "created": "16/10/2025 03:42:01",
-        "hour": "3"
     }
 ]}
