@@ -29,8 +29,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.5",
-        "remaining": "2.5",
+        "duration": "1.6",
+        "remaining": "2.4",
         "alarm": "Fire Alarm(fault)",
         "created": "17/10/2025 16:19:00",
         "hour": "16"
