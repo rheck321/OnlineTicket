@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Offline",
         "created": "17/10/2025 13:59:00",
         "hour": "13"
@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Offline",
         "created": "17/10/2025 13:59:00",
         "hour": "13"
@@ -66,7 +66,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "GPS clock failure",
         "created": "17/10/2025 12:49:00",
         "hour": "12"
@@ -89,8 +89,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.8",
-        "remaining": "6.2",
+        "duration": "1.9",
+        "remaining": "6.1",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "17/10/2025 12:23:00",
         "hour": "12"
@@ -101,8 +101,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.1",
-        "remaining": "5.9",
+        "duration": "2.2",
+        "remaining": "5.8",
         "alarm": "Physical Port Down",
         "created": "17/10/2025 12:06:00",
         "hour": "12"
@@ -498,7 +498,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "5.7",
-        "remaining": "2.4",
+        "remaining": "2.3",
         "alarm": "Cell out of service",
         "created": "17/10/2025 03:29:02",
         "hour": "3"
