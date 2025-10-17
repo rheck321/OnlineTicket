@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251017000546",
+        "site": "PH0700626",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Physical Port Down",
+        "created": "17/10/2025 13:38:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20251017000522",
         "site": "PH0600382",
         "area": "NEGROS",
@@ -17,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "GPS clock failure",
         "created": "17/10/2025 12:49:00",
         "hour": "12"
