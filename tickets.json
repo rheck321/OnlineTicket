@@ -29,8 +29,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.1",
-        "remaining": "2.9",
+        "duration": "1.2",
+        "remaining": "2.8",
         "alarm": "Fire Alarm(fault)",
         "created": "17/10/2025 16:19:00",
         "hour": "16"
@@ -174,7 +174,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.1",
-        "remaining": "4.9",
+        "remaining": "4.8",
         "alarm": "Cell out of service",
         "created": "17/10/2025 14:21:00",
         "hour": "14"
