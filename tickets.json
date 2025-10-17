@@ -5,8 +5,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "17/10/2025 19:01:00",
         "hour": "19"
@@ -21,6 +21,30 @@
         "remaining": "7.8",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "17/10/2025 18:54:00",
+        "hour": "18"
+    },
+    {
+        "nft": "NFT20251017000651",
+        "site": "PH0600021",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "1.2",
+        "remaining": "6.8",
+        "alarm": "Cell out of service",
+        "created": "17/10/2025 18:15:01",
+        "hour": "18"
+    },
+    {
+        "nft": "NFT20251017000649",
+        "site": "PH0600040",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "1.2",
+        "remaining": "6.8",
+        "alarm": "Cell out of service",
+        "created": "17/10/2025 18:15:01",
         "hour": "18"
     },
     {
