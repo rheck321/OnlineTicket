@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251017000349",
+        "site": "PH0600596",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "17/10/2025 09:22:00",
+        "hour": "9"
+    },
+    {
         "nft": "NFT20251017000333",
         "site": "PH0800095",
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Transmission unit link break",
         "created": "17/10/2025 09:02:00",
         "hour": "9"
@@ -17,8 +29,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Transmission unit link break",
         "created": "17/10/2025 09:02:00",
         "hour": "9"
@@ -29,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Battery Communication Fail",
         "created": "17/10/2025 08:40:00",
         "hour": "8"
@@ -66,7 +78,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "ATS S1 Voltage State",
         "created": "17/10/2025 08:20:00",
         "hour": "8"
@@ -81,6 +93,18 @@
         "remaining": "6.6",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "17/10/2025 07:59:00",
+        "hour": "7"
+    },
+    {
+        "nft": "NFT20251017000296",
+        "site": "PH0700256",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Device Powered Off",
+        "created": "17/10/2025 07:55:00",
         "hour": "7"
     },
     {
@@ -401,8 +425,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Standing wave warning",
         "created": "16/10/2025 21:21:00",
         "hour": "21"
@@ -450,7 +474,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.8",
-        "remaining": "3.2",
+        "remaining": "3.1",
         "alarm": "Physical Port Down",
         "created": "16/10/2025 19:21:00",
         "hour": "19"
@@ -461,8 +485,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "16/10/2025 19:12:00",
         "hour": "19"
@@ -545,8 +569,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Physical Port Down",
         "created": "16/10/2025 17:43:00",
         "hour": "17"
