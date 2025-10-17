@@ -618,7 +618,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "5.8",
-        "remaining": "2.2",
+        "remaining": "2.1",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "16/10/2025 19:12:00",
         "hour": "19"
@@ -701,7 +701,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.1",
+        "duration": "5.2",
         "remaining": "2.9",
         "alarm": "Physical Port Down",
         "created": "16/10/2025 17:43:00",
