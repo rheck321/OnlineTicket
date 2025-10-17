@@ -377,8 +377,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.1",
-        "remaining": "4.9",
+        "duration": "3.2",
+        "remaining": "4.8",
         "alarm": "Cell out of service",
         "created": "16/10/2025 22:45:00",
         "hour": "22"
@@ -545,7 +545,7 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.8",
+        "duration": "3.9",
         "remaining": "4.2",
         "alarm": "Optical Fail",
         "created": "16/10/2025 18:31:00",
@@ -1101,18 +1101,6 @@
         "remaining": "-",
         "alarm": "Device Offline",
         "created": "16/10/2025 05:19:01",
-        "hour": "5"
-    },
-    {
-        "nft": "NFT20251016000082",
-        "site": "PH0700537",
-        "area": "CEBU",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Battery Communication Fail",
-        "created": "16/10/2025 05:05:00",
         "hour": "5"
     }
 ]}
