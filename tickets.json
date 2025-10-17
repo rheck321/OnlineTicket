@@ -53,8 +53,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Physical Port Down",
         "created": "17/10/2025 16:41:00",
         "hour": "16"
@@ -221,8 +221,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.0",
-        "remaining": "3.0",
+        "duration": "5.1",
+        "remaining": "2.9",
         "alarm": "Cell out of service",
         "created": "17/10/2025 14:21:00",
         "hour": "14"
