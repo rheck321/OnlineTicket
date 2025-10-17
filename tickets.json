@@ -12,6 +12,18 @@
         "hour": "19"
     },
     {
+        "nft": "NFT20251017000659",
+        "site": "PH0700109",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Major",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Charge Circuit Switch Failure alarm",
+        "created": "17/10/2025 18:54:00",
+        "hour": "18"
+    },
+    {
         "nft": "NFT20251017000647",
         "site": "CO038",
         "area": "CEBU",
@@ -41,7 +53,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.6",
+        "duration": "2.7",
         "remaining": "5.3",
         "alarm": "Physical Port Down",
         "created": "17/10/2025 16:41:00",
@@ -318,7 +330,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "7.0",
-        "remaining": "1.1",
+        "remaining": "1.0",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "17/10/2025 12:23:00",
         "hour": "12"
