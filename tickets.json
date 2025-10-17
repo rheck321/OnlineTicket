@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251017000510",
+        "site": "PH0700167",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Low oil pressure shutdown alarm",
+        "created": "17/10/2025 12:23:00",
+        "hour": "12"
+    },
+    {
         "nft": "NFT20251017000505",
         "site": "PH0700523",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Physical Port Down",
         "created": "17/10/2025 12:06:00",
         "hour": "12"
@@ -46,6 +58,18 @@
         "alarm": "Battery Communication Fail",
         "created": "17/10/2025 11:00:00",
         "hour": "11"
+    },
+    {
+        "nft": "NFT20251017000401",
+        "site": "PH0700016",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Cell out of service",
+        "created": "17/10/2025 10:45:00",
+        "hour": "10"
     },
     {
         "nft": "NFT20251017000400",
@@ -456,6 +480,18 @@
         "hour": "23"
     },
     {
+        "nft": "NFT20251016000586",
+        "site": "PH0600384",
+        "area": "NEGROS",
+        "state": "Finished",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Cell out of service",
+        "created": "16/10/2025 22:45:00",
+        "hour": "22"
+    },
+    {
         "nft": "NFT20251016000578",
         "site": "PH0600398",
         "area": "NEGROS",
@@ -562,6 +598,18 @@
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "16/10/2025 20:18:00",
         "hour": "20"
+    },
+    {
+        "nft": "NFT20251016000520",
+        "site": "PH0600082",
+        "area": "PANAY",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Physical Port Down",
+        "created": "16/10/2025 19:21:00",
+        "hour": "19"
     },
     {
         "nft": "NFT20251016000509",
