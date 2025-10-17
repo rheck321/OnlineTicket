@@ -1,5 +1,29 @@
 {"nftlist":[
     {
+        "nft": "NFT20251017000597",
+        "site": "CO085",
+        "area": "LEYTE",
+        "state": "Finished",
+        "severity": "Critical",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Fire Alarm(fault)",
+        "created": "17/10/2025 16:04:00",
+        "hour": "16"
+    },
+    {
+        "nft": "NFT20251017000596",
+        "site": "PH0600297",
+        "area": "NEGROS",
+        "state": "Finished",
+        "severity": "Critical",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "The Device is offline",
+        "created": "17/10/2025 16:03:00",
+        "hour": "16"
+    },
+    {
         "nft": "NFT20251017000595",
         "site": "PH0700688",
         "area": "CEBU",
@@ -17,7 +41,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.9",
+        "duration": "1.0",
         "remaining": "7.0",
         "alarm": "Device Offline",
         "created": "17/10/2025 15:19:00",
@@ -29,7 +53,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.3",
+        "duration": "1.4",
         "remaining": "6.7",
         "alarm": "RRU interrupted",
         "created": "17/10/2025 14:58:01",
@@ -101,8 +125,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.9",
-        "remaining": "6.1",
+        "duration": "2.0",
+        "remaining": "6.0",
         "alarm": "Cell out of service",
         "created": "17/10/2025 14:21:00",
         "hour": "14"
@@ -1106,6 +1130,18 @@
     {
         "nft": "NFT20251016000336",
         "site": "PH0700321",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Low oil pressure shutdown alarm",
+        "created": "16/10/2025 13:54:00",
+        "hour": "13"
+    },
+    {
+        "nft": "NFT20251016000335",
+        "site": "PH0700284",
         "area": "CEBU",
         "state": "Finished",
         "severity": "Major",
