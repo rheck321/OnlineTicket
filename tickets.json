@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251017000692",
+        "site": "PH0800025",
+        "area": "SAMAR",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Intruder Alarm",
+        "created": "17/10/2025 20:30:00",
+        "hour": "20"
+    },
+    {
         "nft": "NFT20251017000684",
         "site": "PH0800144",
         "area": "LEYTE",
