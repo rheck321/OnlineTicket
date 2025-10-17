@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Physical Port Down",
         "created": "17/10/2025 16:41:00",
         "hour": "16"
@@ -17,8 +17,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Modem part unlock",
         "created": "17/10/2025 16:40:00",
         "hour": "16"
@@ -30,7 +30,7 @@
         "state": "Processing",
         "severity": "Critical",
         "duration": "0.6",
-        "remaining": "3.5",
+        "remaining": "3.4",
         "alarm": "Fire Alarm(fault)",
         "created": "17/10/2025 16:19:00",
         "hour": "16"
@@ -41,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "RRU hardware failure",
         "created": "17/10/2025 16:16:00",
         "hour": "16"
@@ -173,8 +173,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Cell out of service",
         "created": "17/10/2025 14:21:00",
         "hour": "14"
@@ -257,8 +257,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "GPS clock failure",
         "created": "17/10/2025 12:49:00",
         "hour": "12"
@@ -281,8 +281,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.5",
-        "remaining": "3.5",
+        "duration": "4.6",
+        "remaining": "3.4",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "17/10/2025 12:23:00",
         "hour": "12"
@@ -294,7 +294,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.8",
-        "remaining": "3.2",
+        "remaining": "3.1",
         "alarm": "Physical Port Down",
         "created": "17/10/2025 12:06:00",
         "hour": "12"
