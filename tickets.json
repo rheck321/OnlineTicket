@@ -15,10 +15,10 @@
         "nft": "NFT20251017000664",
         "site": "PH0700218",
         "area": "BOHOL",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Device Offline",
         "created": "17/10/2025 19:01:00",
         "hour": "19"
