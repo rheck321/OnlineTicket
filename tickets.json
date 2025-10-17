@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Device Offline",
         "created": "17/10/2025 11:40:00",
         "hour": "11"
@@ -377,8 +377,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.6",
-        "remaining": "4.4",
+        "duration": "3.7",
+        "remaining": "4.3",
         "alarm": "Cell out of service",
         "created": "17/10/2025 03:29:02",
         "hour": "3"
@@ -557,8 +557,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.2",
-        "remaining": "2.8",
+        "duration": "5.3",
+        "remaining": "2.7",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "16/10/2025 19:12:00",
         "hour": "19"
@@ -641,8 +641,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.5",
-        "remaining": "3.5",
+        "duration": "4.6",
+        "remaining": "3.4",
         "alarm": "Physical Port Down",
         "created": "16/10/2025 17:43:00",
         "hour": "17"
