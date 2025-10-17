@@ -5,7 +5,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.1",
+        "duration": "0.2",
         "remaining": "7.8",
         "alarm": "GPS clock failure",
         "created": "17/10/2025 12:49:00",
@@ -726,7 +726,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "5.3",
-        "remaining": "2.7",
+        "remaining": "2.6",
         "alarm": "Physical Port Down",
         "created": "16/10/2025 17:43:00",
         "hour": "17"
