@@ -54,7 +54,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "RRU hardware failure",
         "created": "17/10/2025 16:16:00",
         "hour": "16"
@@ -185,8 +185,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.8",
-        "remaining": "4.2",
+        "duration": "3.9",
+        "remaining": "4.1",
         "alarm": "Cell out of service",
         "created": "17/10/2025 14:21:00",
         "hour": "14"
