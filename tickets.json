@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251017000401",
+        "site": "PH0700016",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Cell out of service",
+        "created": "17/10/2025 10:45:00",
+        "hour": "10"
+    },
+    {
         "nft": "NFT20251017000400",
         "site": "CO085",
         "area": "LEYTE",
@@ -17,7 +29,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "17/10/2025 10:26:00",
@@ -78,7 +90,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "Transmission unit link break",
         "created": "17/10/2025 09:02:00",
         "hour": "9"
@@ -90,7 +102,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "Transmission unit link break",
         "created": "17/10/2025 09:02:00",
         "hour": "9"
@@ -413,7 +425,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.6",
+        "duration": "3.7",
         "remaining": "4.3",
         "alarm": "Cell out of service",
         "created": "16/10/2025 22:45:00",
@@ -581,8 +593,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.3",
-        "remaining": "3.7",
+        "duration": "4.4",
+        "remaining": "3.6",
         "alarm": "Optical Fail",
         "created": "16/10/2025 18:31:00",
         "hour": "18"
