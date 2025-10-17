@@ -1,11 +1,23 @@
 {"nftlist":[
     {
+        "nft": "NFT20251017000643",
+        "site": "PH0600647",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Offline",
+        "created": "17/10/2025 18:06:00",
+        "hour": "18"
+    },
+    {
         "nft": "NFT20251017000613",
         "site": "PH0700029",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "Physical Port Down",
         "created": "17/10/2025 16:41:00",
@@ -29,8 +41,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.8",
-        "remaining": "2.2",
+        "duration": "1.9",
+        "remaining": "2.1",
         "alarm": "Fire Alarm(fault)",
         "created": "17/10/2025 16:19:00",
         "hour": "16"
@@ -293,8 +305,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.0",
-        "remaining": "2.0",
+        "duration": "6.1",
+        "remaining": "1.9",
         "alarm": "Physical Port Down",
         "created": "17/10/2025 12:06:00",
         "hour": "12"
