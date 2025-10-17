@@ -65,7 +65,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
+        "duration": "1.1",
         "remaining": "7.0",
         "alarm": "ATS S1 Voltage State",
         "created": "17/10/2025 08:20:00",
@@ -81,18 +81,6 @@
         "remaining": "6.6",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "17/10/2025 07:59:00",
-        "hour": "7"
-    },
-    {
-        "nft": "NFT20251017000296",
-        "site": "PH0700256",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "1.4",
-        "remaining": "6.6",
-        "alarm": "Device Powered Off",
-        "created": "17/10/2025 07:55:00",
         "hour": "7"
     },
     {
@@ -341,8 +329,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Cell out of service",
         "created": "16/10/2025 22:45:00",
         "hour": "22"
@@ -509,8 +497,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Optical Fail",
         "created": "16/10/2025 18:31:00",
         "hour": "18"
@@ -1101,18 +1089,6 @@
         "remaining": "-",
         "alarm": "Fire Alarm(fault)",
         "created": "16/10/2025 03:42:01",
-        "hour": "3"
-    },
-    {
-        "nft": "NFT20251016000065",
-        "site": "CO085",
-        "area": "LEYTE",
-        "state": "Finished",
-        "severity": "Critical",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Fire Alarm(fault)",
-        "created": "16/10/2025 03:38:01",
         "hour": "3"
     }
 ]}
