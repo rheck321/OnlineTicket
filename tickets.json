@@ -17,8 +17,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Modem part unlock",
         "created": "18/10/2025 12:21:00",
         "hour": "12"
@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Physical Port Down",
         "created": "18/10/2025 12:02:00",
         "hour": "12"
@@ -54,7 +54,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "Device Offline",
         "created": "18/10/2025 11:43:00",
         "hour": "11"
@@ -90,7 +90,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Device Powered Off",
         "created": "18/10/2025 11:21:00",
         "hour": "11"
