@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251018000206",
+        "site": "CO089",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Critical",
+        "duration": "0.0",
+        "remaining": "4.0",
+        "alarm": "Comm Status",
+        "created": "18/10/2025 09:27:00",
+        "hour": "9"
+    },
+    {
         "nft": "NFT20251018000189",
         "site": "PH0700247",
         "area": "CEBU",
@@ -113,7 +125,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.3",
+        "duration": "2.4",
         "remaining": "5.7",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "18/10/2025 07:08:00",
@@ -197,8 +209,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.9",
-        "remaining": "4.1",
+        "duration": "4.0",
+        "remaining": "4.0",
         "alarm": "Cell out of service",
         "created": "18/10/2025 05:31:00",
         "hour": "5"
@@ -557,7 +569,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "2.4",
+        "duration": "2.5",
         "remaining": "1.6",
         "alarm": "Fire Alarm(fault)",
         "created": "17/10/2025 16:19:00",
@@ -702,7 +714,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.3",
-        "remaining": "1.7",
+        "remaining": "1.6",
         "alarm": "Cell out of service",
         "created": "17/10/2025 14:21:00",
         "hour": "14"
