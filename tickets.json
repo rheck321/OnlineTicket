@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Cell out of service",
         "created": "18/10/2025 15:05:00",
         "hour": "15"
@@ -17,8 +17,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Modem part unlock",
         "created": "18/10/2025 14:54:00",
         "hour": "14"
@@ -53,8 +53,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.9",
-        "remaining": "7.1",
+        "duration": "1.0",
+        "remaining": "7.0",
         "alarm": "Battery Communication Fail",
         "created": "18/10/2025 14:29:00",
         "hour": "14"
