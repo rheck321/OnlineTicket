@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "ATS  Communication Fail",
         "created": "18/10/2025 11:05:00",
         "hour": "11"
@@ -29,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Device Powered Off",
         "created": "18/10/2025 10:41:00",
         "hour": "10"
@@ -77,7 +77,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.5",
+        "duration": "1.6",
         "remaining": "6.5",
         "alarm": "RRU interrupted",
         "created": "18/10/2025 09:49:01",
@@ -125,7 +125,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.6",
+        "duration": "3.7",
         "remaining": "4.3",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "18/10/2025 07:40:00",
@@ -294,7 +294,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "5.8",
-        "remaining": "2.2",
+        "remaining": "2.1",
         "alarm": "Cell out of service",
         "created": "18/10/2025 05:31:00",
         "hour": "5"
@@ -437,8 +437,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "The Device is offline",
         "created": "18/10/2025 00:25:01",
         "hour": "0"
@@ -2206,17 +2206,5 @@
         "alarm": "Device Offline",
         "created": "16/10/2025 03:06:01",
         "hour": "3"
-    },
-    {
-        "nft": "NFT20251016000031",
-        "site": "PH0700256",
-        "area": "CEBU",
-        "state": "Finished",
-        "severity": "Minor",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Device Powered Off",
-        "created": "16/10/2025 02:06:01",
-        "hour": "2"
     }
 ]}
