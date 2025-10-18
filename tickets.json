@@ -17,8 +17,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "ATS S1 Voltage State",
         "created": "18/10/2025 10:17:00",
         "hour": "10"
@@ -77,8 +77,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.9",
-        "remaining": "6.1",
+        "duration": "2.0",
+        "remaining": "6.0",
         "alarm": "ATS S1 Voltage State",
         "created": "18/10/2025 08:41:00",
         "hour": "8"
@@ -89,8 +89,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "18/10/2025 07:40:00",
         "hour": "7"
@@ -401,8 +401,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "The Device is offline",
         "created": "18/10/2025 00:25:01",
         "hour": "0"
@@ -1113,18 +1113,6 @@
         "remaining": "-",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "17/10/2025 07:59:00",
-        "hour": "7"
-    },
-    {
-        "nft": "NFT20251017000296",
-        "site": "PH0700256",
-        "area": "CEBU",
-        "state": "Finished",
-        "severity": "Minor",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Device Powered Off",
-        "created": "17/10/2025 07:55:00",
         "hour": "7"
     },
     {
