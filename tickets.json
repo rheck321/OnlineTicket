@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Powered Off",
         "created": "18/10/2025 15:49:00",
         "hour": "15"
@@ -29,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Cell out of service",
         "created": "18/10/2025 15:19:00",
         "hour": "15"
@@ -41,7 +41,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.9",
+        "duration": "1.0",
         "remaining": "7.0",
         "alarm": "Cell out of service",
         "created": "18/10/2025 15:05:00",
@@ -53,8 +53,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Modem part unlock",
         "created": "18/10/2025 14:54:00",
         "hour": "14"
@@ -90,7 +90,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "Battery Communication Fail",
         "created": "18/10/2025 14:29:00",
         "hour": "14"
@@ -150,7 +150,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.6",
-        "remaining": "5.4",
+        "remaining": "5.3",
         "alarm": "Cell out of service",
         "created": "18/10/2025 13:25:01",
         "hour": "13"
@@ -161,7 +161,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.8",
+        "duration": "2.9",
         "remaining": "5.2",
         "alarm": "Cell out of service",
         "created": "18/10/2025 13:14:00",
@@ -261,6 +261,18 @@
         "remaining": "-",
         "alarm": "Comm Status",
         "created": "18/10/2025 11:30:00",
+        "hour": "11"
+    },
+    {
+        "nft": "NFT20251018000279",
+        "site": "PH0700274",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Device Powered Off",
+        "created": "18/10/2025 11:21:00",
         "hour": "11"
     },
     {
@@ -729,6 +741,18 @@
         "remaining": "-",
         "alarm": "Device Offline",
         "created": "18/10/2025 00:36:01",
+        "hour": "0"
+    },
+    {
+        "nft": "NFT20251018000005",
+        "site": "PH0700307",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "The Device is offline",
+        "created": "18/10/2025 00:25:01",
         "hour": "0"
     }
 ]}
