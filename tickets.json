@@ -1,5 +1,29 @@
 {"nftlist":[
     {
+        "nft": "NFT20251018000335",
+        "site": "PH0600360",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Cell out of service",
+        "created": "18/10/2025 13:25:01",
+        "hour": "13"
+    },
+    {
+        "nft": "NFT20251018000331",
+        "site": "PH0700151",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.3",
+        "remaining": "7.7",
+        "alarm": "Cell out of service",
+        "created": "18/10/2025 13:14:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20251018000323",
         "site": "PH0700588",
         "area": "BOHOL",
@@ -90,7 +114,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.9",
-        "remaining": "6.2",
+        "remaining": "6.1",
         "alarm": "Cell out of service",
         "created": "18/10/2025 11:40:00",
         "hour": "11"
@@ -281,7 +305,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.8",
+        "duration": "5.9",
         "remaining": "2.1",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "18/10/2025 07:40:00",
