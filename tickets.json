@@ -39,10 +39,10 @@
         "nft": "NFT20251018000189",
         "site": "PH0700247",
         "area": "CEBU",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "7.0",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Device Offline",
         "created": "18/10/2025 08:59:00",
         "hour": "8"
@@ -54,7 +54,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.7",
+        "remaining": "6.6",
         "alarm": "ATS S1 Voltage State",
         "created": "18/10/2025 08:41:00",
         "hour": "8"
@@ -414,7 +414,7 @@
         "state": "Processing",
         "severity": "Critical",
         "duration": "1.6",
-        "remaining": "2.5",
+        "remaining": "2.4",
         "alarm": "Comm Status",
         "created": "17/10/2025 22:01:00",
         "hour": "22"
