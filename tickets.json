@@ -65,8 +65,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Cell out of service",
         "created": "18/10/2025 13:25:01",
         "hour": "13"
@@ -78,7 +78,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Cell out of service",
         "created": "18/10/2025 13:14:00",
         "hour": "13"
