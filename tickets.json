@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251018000249",
+        "site": "PH0700145",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Device Powered Off",
+        "created": "18/10/2025 10:41:00",
+        "hour": "10"
+    },
+    {
         "nft": "NFT20251018000246",
         "site": "CO089",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.2",
-        "remaining": "3.8",
+        "duration": "0.3",
+        "remaining": "3.7",
         "alarm": "Comm Status",
         "created": "18/10/2025 10:36:00",
         "hour": "10"
@@ -17,7 +29,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.3",
+        "duration": "0.4",
         "remaining": "3.6",
         "alarm": "Comm Status",
         "created": "18/10/2025 10:29:00",
@@ -42,7 +54,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "ATS S1 Voltage State",
         "created": "18/10/2025 10:17:00",
         "hour": "10"
@@ -65,8 +77,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "RRU interrupted",
         "created": "18/10/2025 09:49:01",
         "hour": "9"
@@ -101,7 +113,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.1",
+        "duration": "2.2",
         "remaining": "5.8",
         "alarm": "ATS S1 Voltage State",
         "created": "18/10/2025 08:41:00",
@@ -281,8 +293,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.3",
-        "remaining": "2.7",
+        "duration": "5.4",
+        "remaining": "2.6",
         "alarm": "Cell out of service",
         "created": "18/10/2025 05:31:00",
         "hour": "5"
@@ -2229,6 +2241,18 @@
         "remaining": "-",
         "alarm": "Fire Alarm(fault)",
         "created": "16/10/2025 00:40:00",
+        "hour": "0"
+    },
+    {
+        "nft": "NFT20251016000008",
+        "site": "PH0700529",
+        "area": "NEGROS",
+        "state": "Finished",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Cabinet Smog Alarm",
+        "created": "16/10/2025 00:27:00",
         "hour": "0"
     }
 ]}
