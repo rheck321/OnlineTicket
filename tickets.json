@@ -30,7 +30,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "18/10/2025 07:40:00",
         "hour": "7"
@@ -113,7 +113,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.1",
+        "duration": "2.2",
         "remaining": "5.8",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "18/10/2025 07:08:00",
@@ -318,7 +318,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "6.9",
+        "remaining": "6.8",
         "alarm": "BBU interrupted",
         "created": "18/10/2025 01:07:01",
         "hour": "1"
@@ -581,8 +581,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "2.2",
-        "remaining": "1.8",
+        "duration": "2.3",
+        "remaining": "1.7",
         "alarm": "Fire Alarm(fault)",
         "created": "17/10/2025 16:19:00",
         "hour": "16"
@@ -726,7 +726,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.2",
-        "remaining": "1.9",
+        "remaining": "1.8",
         "alarm": "Cell out of service",
         "created": "17/10/2025 14:21:00",
         "hour": "14"
