@@ -1,12 +1,60 @@
 {"nftlist":[
     {
+        "nft": "NFT20251018000414",
+        "site": "CO084",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Device Offline",
+        "created": "18/10/2025 16:14:00",
+        "hour": "16"
+    },
+    {
+        "nft": "NFT20251018000412",
+        "site": "PH0600040",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Transmission unit link break",
+        "created": "18/10/2025 16:13:00",
+        "hour": "16"
+    },
+    {
+        "nft": "NFT20251018000413",
+        "site": "PH0600040",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Transmission unit link break",
+        "created": "18/10/2025 16:13:00",
+        "hour": "16"
+    },
+    {
+        "nft": "NFT20251018000409",
+        "site": "PH0600047",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "The Equipment is offline(DATA)",
+        "created": "18/10/2025 16:09:00",
+        "hour": "16"
+    },
+    {
         "nft": "NFT20251018000403",
         "site": "PH0700287",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Device Powered Off",
         "created": "18/10/2025 15:49:00",
         "hour": "15"
@@ -30,7 +78,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "Cell out of service",
         "created": "18/10/2025 15:19:00",
         "hour": "15"
@@ -161,8 +209,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.1",
-        "remaining": "4.9",
+        "duration": "3.2",
+        "remaining": "4.8",
         "alarm": "Cell out of service",
         "created": "18/10/2025 13:14:00",
         "hour": "13"
