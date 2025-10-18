@@ -360,6 +360,18 @@
         "hour": "11"
     },
     {
+        "nft": "NFT20251018000291",
+        "site": "PH0700256",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Cell out of service",
+        "created": "18/10/2025 11:40:00",
+        "hour": "11"
+    },
+    {
         "nft": "NFT20251018000284",
         "site": "CO089",
         "area": "CEBU",
