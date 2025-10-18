@@ -89,8 +89,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Cell out of service",
         "created": "18/10/2025 11:40:00",
         "hour": "11"
@@ -113,8 +113,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Device Powered Off",
         "created": "18/10/2025 11:21:00",
         "hour": "11"
@@ -281,8 +281,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.7",
-        "remaining": "2.3",
+        "duration": "5.8",
+        "remaining": "2.2",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "18/10/2025 07:40:00",
         "hour": "7"
@@ -593,8 +593,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.3",
-        "remaining": "2.7",
+        "duration": "5.4",
+        "remaining": "2.6",
         "alarm": "The Device is offline",
         "created": "18/10/2025 00:25:01",
         "hour": "0"
