@@ -1,5 +1,41 @@
 {"nftlist":[
     {
+        "nft": "NFT20251018000390",
+        "site": "PH0800144",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Modem part unlock",
+        "created": "18/10/2025 14:54:00",
+        "hour": "14"
+    },
+    {
+        "nft": "NFT20251018000389",
+        "site": "CO077",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Multi-point Flooding Alarm",
+        "created": "18/10/2025 14:52:00",
+        "hour": "14"
+    },
+    {
+        "nft": "NFT20251018000387",
+        "site": "IBS0710030",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "BBU optical module RX and TX abnormal",
+        "created": "18/10/2025 14:47:00",
+        "hour": "14"
+    },
+    {
         "nft": "NFT20251018000377",
         "site": "PH0700250",
         "area": "CEBU",
@@ -65,8 +101,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Cell out of service",
         "created": "18/10/2025 13:25:01",
         "hour": "13"
@@ -77,8 +113,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Cell out of service",
         "created": "18/10/2025 13:14:00",
         "hour": "13"
