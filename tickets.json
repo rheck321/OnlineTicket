@@ -41,8 +41,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "The Equipment is offline(DATA)",
         "created": "18/10/2025 16:09:00",
         "hour": "16"
