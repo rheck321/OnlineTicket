@@ -53,8 +53,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "ATS S1 Voltage State",
         "created": "18/10/2025 08:41:00",
         "hour": "8"
@@ -377,8 +377,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "The Device is offline",
         "created": "18/10/2025 00:25:01",
         "hour": "0"
@@ -413,8 +413,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.6",
-        "remaining": "2.4",
+        "duration": "1.7",
+        "remaining": "2.3",
         "alarm": "Comm Status",
         "created": "17/10/2025 22:01:00",
         "hour": "22"
