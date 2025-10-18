@@ -5,8 +5,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Modem part unlock",
         "created": "18/10/2025 14:54:00",
         "hour": "14"
@@ -27,10 +27,10 @@
         "nft": "NFT20251018000387",
         "site": "IBS0710030",
         "area": "CEBU",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Minor",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "18/10/2025 14:47:00",
         "hour": "14"
@@ -42,7 +42,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Battery Communication Fail",
         "created": "18/10/2025 14:29:00",
         "hour": "14"
@@ -102,7 +102,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Cell out of service",
         "created": "18/10/2025 13:25:01",
         "hour": "13"
