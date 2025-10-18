@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Device Offline",
         "created": "18/10/2025 09:57:00",
         "hour": "9"
@@ -257,8 +257,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.0",
-        "remaining": "3.0",
+        "duration": "5.1",
+        "remaining": "2.9",
         "alarm": "Cell out of service",
         "created": "18/10/2025 05:31:00",
         "hour": "5"
@@ -1113,6 +1113,18 @@
         "remaining": "-",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "17/10/2025 07:59:00",
+        "hour": "7"
+    },
+    {
+        "nft": "NFT20251017000296",
+        "site": "PH0700256",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Device Powered Off",
+        "created": "17/10/2025 07:55:00",
         "hour": "7"
     },
     {
