@@ -41,7 +41,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "3.5",
         "alarm": "Comm Status",
         "created": "18/10/2025 10:29:00",
@@ -77,8 +77,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "Device Offline",
         "created": "18/10/2025 09:57:00",
         "hour": "9"
@@ -137,8 +137,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.3",
-        "remaining": "4.7",
+        "duration": "3.4",
+        "remaining": "4.6",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "18/10/2025 07:40:00",
         "hour": "7"
@@ -449,8 +449,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "The Device is offline",
         "created": "18/10/2025 00:25:01",
         "hour": "0"
@@ -2242,17 +2242,5 @@
         "alarm": "Device Offline",
         "created": "16/10/2025 01:47:01",
         "hour": "1"
-    },
-    {
-        "nft": "NFT20251016000012",
-        "site": "CO085",
-        "area": "LEYTE",
-        "state": "Finished",
-        "severity": "Critical",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Fire Alarm(fault)",
-        "created": "16/10/2025 00:40:00",
-        "hour": "0"
     }
 ]}
