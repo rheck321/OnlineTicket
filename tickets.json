@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251018000272",
+        "site": "CO089",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "ATS  Communication Fail",
+        "created": "18/10/2025 11:05:00",
+        "hour": "11"
+    },
+    {
         "nft": "NFT20251018000263",
         "site": "CO074",
         "area": "PANAY",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Multi-point Flooding Alarm",
         "created": "18/10/2025 10:55:00",
         "hour": "10"
@@ -21,30 +33,6 @@
         "remaining": "7.6",
         "alarm": "Device Powered Off",
         "created": "18/10/2025 10:41:00",
-        "hour": "10"
-    },
-    {
-        "nft": "NFT20251018000246",
-        "site": "CO089",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Critical",
-        "duration": "0.5",
-        "remaining": "3.5",
-        "alarm": "Comm Status",
-        "created": "18/10/2025 10:36:00",
-        "hour": "10"
-    },
-    {
-        "nft": "NFT20251018000238",
-        "site": "CO089",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Critical",
-        "duration": "0.6",
-        "remaining": "3.4",
-        "alarm": "Comm Status",
-        "created": "18/10/2025 10:29:00",
         "hour": "10"
     },
     {
@@ -77,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Device Offline",
         "created": "18/10/2025 09:57:00",
         "hour": "9"
@@ -137,8 +125,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "18/10/2025 07:40:00",
         "hour": "7"
@@ -2230,17 +2218,5 @@
         "alarm": "Device Powered Off",
         "created": "16/10/2025 02:06:01",
         "hour": "2"
-    },
-    {
-        "nft": "NFT20251016000024",
-        "site": "PH0600263",
-        "area": "NEGROS",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Device Offline",
-        "created": "16/10/2025 01:47:01",
-        "hour": "1"
     }
 ]}
