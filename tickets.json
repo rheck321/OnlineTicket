@@ -1,5 +1,29 @@
 {"nftlist":[
     {
+        "nft": "NFT20251018000371",
+        "site": "CO103",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Generator status",
+        "created": "18/10/2025 14:17:00",
+        "hour": "14"
+    },
+    {
+        "nft": "NFT20251018000368",
+        "site": "CO103",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "S1 switch state",
+        "created": "18/10/2025 14:15:00",
+        "hour": "14"
+    },
+    {
         "nft": "NFT20251018000347",
         "site": "CO038",
         "area": "CEBU",
@@ -125,8 +149,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.6",
-        "remaining": "5.4",
+        "duration": "2.7",
+        "remaining": "5.3",
         "alarm": "Cell out of service",
         "created": "18/10/2025 11:40:00",
         "hour": "11"
