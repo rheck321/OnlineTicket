@@ -126,7 +126,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.6",
-        "remaining": "5.4",
+        "remaining": "5.3",
         "alarm": "Cell out of service",
         "created": "20/10/2025 06:32:00",
         "hour": "6"
@@ -161,8 +161,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "Cell out of service",
         "created": "20/10/2025 05:26:01",
         "hour": "5"
