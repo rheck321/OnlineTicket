@@ -12,6 +12,18 @@
         "hour": "17"
     },
     {
+        "nft": "NFT20251020000429",
+        "site": "CO101",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Non automatic state",
+        "created": "20/10/2025 17:08:00",
+        "hour": "17"
+    },
+    {
         "nft": "NFT20251020000428",
         "site": "PH0700290",
         "area": "CEBU",
@@ -41,8 +53,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "BBU interrupted",
         "created": "20/10/2025 16:39:00",
         "hour": "16"
@@ -78,7 +90,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "Cell out of service",
         "created": "20/10/2025 15:22:00",
         "hour": "15"
@@ -101,8 +113,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Device Offline",
         "created": "20/10/2025 14:44:00",
         "hour": "14"
@@ -125,8 +137,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "Cell out of service",
         "created": "20/10/2025 14:21:00",
         "hour": "14"
@@ -281,8 +293,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.5",
-        "remaining": "2.5",
+        "duration": "5.6",
+        "remaining": "2.4",
         "alarm": "Physical Port Down",
         "created": "20/10/2025 11:45:00",
         "hour": "11"
@@ -365,8 +377,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.0",
-        "remaining": "1.0",
+        "duration": "7.1",
+        "remaining": "0.9",
         "alarm": "Physical Port Down",
         "created": "20/10/2025 10:15:03",
         "hour": "10"
@@ -377,8 +389,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.0",
-        "remaining": "1.0",
+        "duration": "7.1",
+        "remaining": "0.9",
         "alarm": "Physical Port Down",
         "created": "20/10/2025 10:15:00",
         "hour": "10"
