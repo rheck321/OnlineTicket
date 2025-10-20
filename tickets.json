@@ -90,7 +90,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.1",
-        "remaining": "6.9",
+        "remaining": "6.8",
         "alarm": "Low Liquid Level Alarm shutdown",
         "created": "20/10/2025 09:38:00",
         "hour": "9"
@@ -102,7 +102,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.1",
-        "remaining": "6.9",
+        "remaining": "6.8",
         "alarm": "Low fuel level alarm",
         "created": "20/10/2025 09:38:00",
         "hour": "9"
@@ -330,7 +330,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "RRU interrupted",
         "created": "19/10/2025 23:29:00",
         "hour": "23"
@@ -521,8 +521,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.5",
-        "remaining": "0.5",
+        "duration": "7.6",
+        "remaining": "0.4",
         "alarm": "Cell out of service",
         "created": "19/10/2025 18:24:00",
         "hour": "18"
@@ -762,7 +762,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.6",
-        "remaining": "4.4",
+        "remaining": "4.3",
         "alarm": "RRU interrupted",
         "created": "19/10/2025 13:05:00",
         "hour": "13"
@@ -1050,7 +1050,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Low Liquid Level Alarm shutdown",
         "created": "19/10/2025 08:11:00",
         "hour": "8"
