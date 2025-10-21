@@ -1,12 +1,48 @@
 {"nftlist":[
     {
+        "nft": "NFT20251021000416",
+        "site": "PH0700033",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.3",
+        "remaining": "7.7",
+        "alarm": "Cell out of service",
+        "created": "21/10/2025 10:48:00",
+        "hour": "10"
+    },
+    {
+        "nft": "NFT20251021000414",
+        "site": "PH0700039",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.3",
+        "remaining": "7.7",
+        "alarm": "Cell out of service",
+        "created": "21/10/2025 10:48:00",
+        "hour": "10"
+    },
+    {
+        "nft": "NFT20251021000415",
+        "site": "PH0700096",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.3",
+        "remaining": "7.7",
+        "alarm": "Cell out of service",
+        "created": "21/10/2025 10:48:00",
+        "hour": "10"
+    },
+    {
         "nft": "NFT20251021000408",
         "site": "PH0600299",
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "21/10/2025 10:36:00",
         "hour": "10"
@@ -17,10 +53,22 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "21/10/2025 10:36:00",
+        "hour": "10"
+    },
+    {
+        "nft": "NFT20251021000407",
+        "site": "IBS0640001",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.5",
+        "remaining": "7.5",
+        "alarm": "The Device is offline",
+        "created": "21/10/2025 10:35:01",
         "hour": "10"
     },
     {
@@ -41,8 +89,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "21/10/2025 10:18:00",
         "hour": "10"
@@ -498,7 +546,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.9",
-        "remaining": "5.2",
+        "remaining": "5.1",
         "alarm": "Gen communication status alarm",
         "created": "20/10/2025 20:38:00",
         "hour": "20"
