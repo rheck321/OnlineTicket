@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Cell out of service",
         "created": "21/10/2025 10:48:00",
         "hour": "10"
@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Cell out of service",
         "created": "21/10/2025 10:48:00",
         "hour": "10"
@@ -30,7 +30,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Cell out of service",
         "created": "21/10/2025 10:48:00",
         "hour": "10"
@@ -90,7 +90,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "21/10/2025 10:18:00",
         "hour": "10"
@@ -690,7 +690,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.6",
-        "remaining": "5.4",
+        "remaining": "5.3",
         "alarm": "Standing wave warning",
         "created": "20/10/2025 18:31:00",
         "hour": "18"
@@ -1017,6 +1017,18 @@
         "remaining": "-",
         "alarm": "Physical Port Down",
         "created": "20/10/2025 11:45:00",
+        "hour": "11"
+    },
+    {
+        "nft": "NFT20251020000264",
+        "site": "PH0700806",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Device Offline",
+        "created": "20/10/2025 11:42:00",
         "hour": "11"
     },
     {
