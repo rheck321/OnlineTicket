@@ -1,17 +1,5 @@
 {"nftlist":[
     {
-        "nft": "NFT20251021000428",
-        "site": "PH0700669",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
-        "alarm": "MUT_LOS",
-        "created": "21/10/2025 11:23:00",
-        "hour": "11"
-    },
-    {
         "nft": "NFT20251021000416",
         "site": "PH0700033",
         "area": "CEBU",
@@ -41,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "Cell out of service",
         "created": "21/10/2025 10:48:00",
         "hour": "10"
@@ -53,8 +41,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "Device Offline",
         "created": "21/10/2025 10:36:00",
         "hour": "10"
@@ -65,8 +53,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "Device Offline",
         "created": "21/10/2025 10:36:00",
         "hour": "10"
@@ -78,7 +66,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "The Device is offline",
         "created": "21/10/2025 10:35:01",
         "hour": "10"
@@ -90,7 +78,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "6.9",
+        "remaining": "6.8",
         "alarm": "Battery Communication Fail",
         "created": "21/10/2025 10:32:00",
         "hour": "10"
@@ -101,8 +89,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.3",
-        "remaining": "6.7",
+        "duration": "1.4",
+        "remaining": "6.6",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "21/10/2025 10:18:00",
         "hour": "10"
@@ -689,8 +677,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "Standing wave warning",
         "created": "20/10/2025 18:31:00",
         "hour": "18"
