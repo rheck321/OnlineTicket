@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251021000322",
+        "site": "PH0700037",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Air Conditioner Outer Fan Fault",
+        "created": "21/10/2025 09:22:00",
+        "hour": "9"
+    },
+    {
         "nft": "NFT20251021000306",
         "site": "PH0700278",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Device Offline",
         "created": "21/10/2025 09:01:00",
         "hour": "9"
@@ -545,8 +557,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Standing wave warning",
         "created": "20/10/2025 18:31:00",
         "hour": "18"
@@ -953,8 +965,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.8",
-        "remaining": "0.2",
+        "duration": "7.9",
+        "remaining": "0.1",
         "alarm": "Physical Port Down",
         "created": "20/10/2025 10:15:03",
         "hour": "10"
@@ -965,8 +977,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.8",
-        "remaining": "0.2",
+        "duration": "7.9",
+        "remaining": "0.1",
         "alarm": "Physical Port Down",
         "created": "20/10/2025 10:15:00",
         "hour": "10"
