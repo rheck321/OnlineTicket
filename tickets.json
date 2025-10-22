@@ -617,8 +617,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.6",
-        "remaining": "0.4",
+        "duration": "7.7",
+        "remaining": "0.3",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "22/10/2025 10:09:00",
         "hour": "10"
