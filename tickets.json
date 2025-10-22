@@ -1,11 +1,35 @@
 {"nftlist":[
     {
+        "nft": "NFT20251022000303",
+        "site": "PH0700836",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "RRU interrupted",
+        "created": "22/10/2025 12:54:00",
+        "hour": "12"
+    },
+    {
+        "nft": "NFT20251022000295",
+        "site": "CO079",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "OSC_LOS",
+        "created": "22/10/2025 12:45:00",
+        "hour": "12"
+    },
+    {
         "nft": "NFT20251022000286",
         "site": "PH0700265",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "22/10/2025 12:24:00",
@@ -17,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Device Offline",
         "created": "22/10/2025 12:17:00",
         "hour": "12"
@@ -125,8 +149,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.2",
-        "remaining": "6.8",
+        "duration": "1.3",
+        "remaining": "6.7",
         "alarm": "Physical Port Down",
         "created": "22/10/2025 11:41:00",
         "hour": "11"
@@ -378,7 +402,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.7",
-        "remaining": "3.4",
+        "remaining": "3.3",
         "alarm": "Air Conditioner Communication Lost",
         "created": "22/10/2025 08:16:00",
         "hour": "8"
@@ -390,7 +414,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.7",
-        "remaining": "3.4",
+        "remaining": "3.3",
         "alarm": "Air Conditioner Communication Lost",
         "created": "22/10/2025 08:16:00",
         "hour": "8"
