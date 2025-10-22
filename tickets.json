@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "The Device is offline",
         "created": "22/10/2025 10:55:00",
         "hour": "10"
@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "22/10/2025 10:42:01",
         "hour": "10"
@@ -161,8 +161,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.8",
-        "remaining": "5.2",
+        "duration": "2.9",
+        "remaining": "5.1",
         "alarm": "Battery Communication Fail",
         "created": "22/10/2025 08:42:00",
         "hour": "8"
@@ -233,8 +233,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "Air Conditioner Communication Lost",
         "created": "22/10/2025 08:16:00",
         "hour": "8"
@@ -245,8 +245,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "Air Conditioner Communication Lost",
         "created": "22/10/2025 08:16:00",
         "hour": "8"
@@ -956,18 +956,6 @@
         "duration": "-",
         "remaining": "-",
         "alarm": "Device Offline",
-        "created": "21/10/2025 13:33:00",
-        "hour": "13"
-    },
-    {
-        "nft": "NFT20251021000486",
-        "site": "PH0600438",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "6.0",
-        "remaining": "2.0",
-        "alarm": "Device Powered Off",
         "created": "21/10/2025 13:33:00",
         "hour": "13"
     },
