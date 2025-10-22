@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251022000182",
+        "site": "CO083",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Critical",
+        "duration": "0.2",
+        "remaining": "3.8",
+        "alarm": "Break Off",
+        "created": "22/10/2025 09:17:00",
+        "hour": "9"
+    },
+    {
         "nft": "NFT20251022000176",
         "site": "CO085",
         "area": "LEYTE",
@@ -125,8 +137,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Optical Invalid",
         "created": "22/10/2025 08:01:01",
         "hour": "8"
@@ -270,7 +282,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "22/10/2025 05:23:01",
         "hour": "5"
@@ -317,7 +329,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.8",
+        "duration": "4.9",
         "remaining": "3.1",
         "alarm": "Air Conditioner Internal Fan1 Failure",
         "created": "22/10/2025 04:36:00",
@@ -401,8 +413,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.3",
-        "remaining": "4.7",
+        "duration": "3.4",
+        "remaining": "4.6",
         "alarm": "Cell out of service",
         "created": "22/10/2025 01:58:00",
         "hour": "1"
@@ -509,8 +521,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "Cell out of service",
         "created": "21/10/2025 21:18:00",
         "hour": "21"
@@ -833,8 +845,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.9",
-        "remaining": "4.1",
+        "duration": "4.0",
+        "remaining": "4.0",
         "alarm": "Device Powered Off",
         "created": "21/10/2025 13:33:00",
         "hour": "13"
