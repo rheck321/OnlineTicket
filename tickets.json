@@ -1,12 +1,36 @@
 {"nftlist":[
     {
-        "nft": "NFT20251022000303",
-        "site": "PH0700836",
+        "nft": "NFT20251022000309",
+        "site": "PH0700265",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "22/10/2025 13:02:00",
+        "hour": "13"
+    },
+    {
+        "nft": "NFT20251022000306",
+        "site": "PH0700043",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.1",
         "remaining": "7.9",
+        "alarm": "Cell out of service",
+        "created": "22/10/2025 12:59:00",
+        "hour": "12"
+    },
+    {
+        "nft": "NFT20251022000303",
+        "site": "PH0700836",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "RRU interrupted",
         "created": "22/10/2025 12:54:00",
         "hour": "12"
@@ -29,8 +53,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Device Offline",
         "created": "22/10/2025 12:24:00",
         "hour": "12"
@@ -150,7 +174,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.7",
+        "remaining": "6.6",
         "alarm": "Physical Port Down",
         "created": "22/10/2025 11:41:00",
         "hour": "11"
@@ -162,7 +186,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Input power-off",
         "created": "22/10/2025 11:37:00",
         "hour": "11"
@@ -186,7 +210,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.1",
-        "remaining": "5.9",
+        "remaining": "5.8",
         "alarm": "The Device is offline",
         "created": "22/10/2025 10:55:00",
         "hour": "10"
@@ -197,8 +221,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.3",
-        "remaining": "5.7",
+        "duration": "2.4",
+        "remaining": "5.6",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "22/10/2025 10:42:01",
         "hour": "10"
@@ -1082,6 +1106,18 @@
     {
         "nft": "NFT20251021000516",
         "site": "PH0700084",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Physical Port Down",
+        "created": "21/10/2025 14:30:00",
+        "hour": "14"
+    },
+    {
+        "nft": "NFT20251021000517",
+        "site": "CO037s",
         "area": "CEBU",
         "state": "Finished",
         "severity": "Major",
