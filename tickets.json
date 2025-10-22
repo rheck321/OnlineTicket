@@ -17,8 +17,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Optical Invalid",
         "created": "22/10/2025 13:04:00",
         "hour": "13"
@@ -41,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Cell out of service",
         "created": "22/10/2025 12:59:00",
         "hour": "12"
@@ -53,8 +53,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "RRU interrupted",
         "created": "22/10/2025 12:54:00",
         "hour": "12"
@@ -197,8 +197,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.6",
-        "remaining": "6.4",
+        "duration": "1.7",
+        "remaining": "6.3",
         "alarm": "Physical Port Down",
         "created": "22/10/2025 11:41:00",
         "hour": "11"
@@ -246,7 +246,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.6",
-        "remaining": "5.4",
+        "remaining": "5.3",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "22/10/2025 10:42:01",
         "hour": "10"
@@ -449,8 +449,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.0",
-        "remaining": "3.0",
+        "duration": "5.1",
+        "remaining": "2.9",
         "alarm": "Air Conditioner Communication Lost",
         "created": "22/10/2025 08:16:00",
         "hour": "8"
@@ -461,8 +461,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.0",
-        "remaining": "3.0",
+        "duration": "5.1",
+        "remaining": "2.9",
         "alarm": "Air Conditioner Communication Lost",
         "created": "22/10/2025 08:16:00",
         "hour": "8"
@@ -1113,6 +1113,18 @@
         "remaining": "-",
         "alarm": "Cell out of service",
         "created": "21/10/2025 14:54:00",
+        "hour": "14"
+    },
+    {
+        "nft": "NFT20251021000529",
+        "site": "PH0600285",
+        "area": "NEGROS",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Device Offline",
+        "created": "21/10/2025 14:43:00",
         "hour": "14"
     },
     {
