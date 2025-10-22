@@ -29,8 +29,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "22/10/2025 10:09:00",
         "hour": "10"
@@ -53,8 +53,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "22/10/2025 10:09:00",
         "hour": "10"
@@ -90,7 +90,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "Air Conditioner Communication Lost",
         "created": "22/10/2025 09:44:00",
         "hour": "9"
@@ -102,7 +102,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "Air Conditioner Communication Lost",
         "created": "22/10/2025 09:44:00",
         "hour": "9"
@@ -209,8 +209,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Air Conditioner Communication Lost",
         "created": "22/10/2025 08:16:00",
         "hour": "8"
@@ -221,8 +221,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Air Conditioner Communication Lost",
         "created": "22/10/2025 08:16:00",
         "hour": "8"
@@ -510,7 +510,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.7",
-        "remaining": "3.4",
+        "remaining": "3.3",
         "alarm": "Cell out of service",
         "created": "22/10/2025 01:58:00",
         "hour": "1"
@@ -618,7 +618,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "Cell out of service",
         "created": "21/10/2025 21:18:00",
         "hour": "21"
@@ -941,8 +941,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.2",
-        "remaining": "2.8",
+        "duration": "5.3",
+        "remaining": "2.7",
         "alarm": "Device Powered Off",
         "created": "21/10/2025 13:33:00",
         "hour": "13"
