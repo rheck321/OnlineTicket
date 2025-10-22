@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251022000451",
+        "site": "PH0800144",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Modem part unlock",
+        "created": "22/10/2025 16:51:00",
+        "hour": "16"
+    },
+    {
         "nft": "NFT20251022000442",
         "site": "PH0700429",
         "area": "CEBU",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Transmission unit link break",
         "created": "22/10/2025 16:37:33",
         "hour": "16"
@@ -102,7 +114,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "22/10/2025 15:27:00",
         "hour": "15"
@@ -125,8 +137,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.9",
-        "remaining": "6.1",
+        "duration": "2.0",
+        "remaining": "6.0",
         "alarm": "Battery Communication Fail",
         "created": "22/10/2025 14:55:00",
         "hour": "14"
@@ -197,8 +209,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Battery Communication Fail",
         "created": "22/10/2025 14:07:00",
         "hour": "14"
@@ -437,8 +449,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.9",
-        "remaining": "3.1",
+        "duration": "5.0",
+        "remaining": "3.0",
         "alarm": "Optical Fail",
         "created": "22/10/2025 11:57:00",
         "hour": "11"
@@ -497,8 +509,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.2",
-        "remaining": "2.8",
+        "duration": "5.3",
+        "remaining": "2.7",
         "alarm": "Input power-off",
         "created": "22/10/2025 11:37:00",
         "hour": "11"
@@ -557,8 +569,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.7",
-        "remaining": "1.3",
+        "duration": "6.8",
+        "remaining": "1.2",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "22/10/2025 10:09:00",
         "hour": "10"
@@ -581,8 +593,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.7",
-        "remaining": "1.3",
+        "duration": "6.8",
+        "remaining": "1.2",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "22/10/2025 10:09:00",
         "hour": "10"
@@ -633,6 +645,18 @@
         "remaining": "-",
         "alarm": "Air Conditioner Communication Lost",
         "created": "22/10/2025 09:44:00",
+        "hour": "9"
+    },
+    {
+        "nft": "NFT20251022000176",
+        "site": "CO085",
+        "area": "LEYTE",
+        "state": "Finished",
+        "severity": "Critical",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Fire Alarm(fault)",
+        "created": "22/10/2025 09:11:00",
         "hour": "9"
     },
     {
@@ -1037,8 +1061,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.5",
-        "remaining": "0.5",
+        "duration": "7.6",
+        "remaining": "0.4",
         "alarm": "Cell out of service",
         "created": "22/10/2025 01:58:00",
         "hour": "1"
@@ -1104,18 +1128,6 @@
         "hour": "22"
     },
     {
-        "nft": "NFT20251021000758",
-        "site": "PH0800144",
-        "area": "LEYTE",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Modem part unlock",
-        "created": "21/10/2025 22:37:00",
-        "hour": "22"
-    },
-    {
         "nft": "NFT20251021000753",
         "site": "PH0600394",
         "area": "PANAY",
@@ -1157,8 +1169,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-7.6",
-        "remaining": "15.6",
+        "duration": "-7.5",
+        "remaining": "15.5",
         "alarm": "Cell out of service",
         "created": "21/10/2025 21:18:00",
         "hour": "21"
@@ -1941,18 +1953,6 @@
         "remaining": "-",
         "alarm": "Generator status",
         "created": "21/10/2025 01:48:01",
-        "hour": "1"
-    },
-    {
-        "nft": "NFT20251021000141",
-        "site": "PH0800144",
-        "area": "LEYTE",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Modem part unlock",
-        "created": "21/10/2025 01:47:01",
         "hour": "1"
     }
 ]}
