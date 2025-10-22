@@ -389,8 +389,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.7",
-        "remaining": "3.3",
+        "duration": "4.8",
+        "remaining": "3.2",
         "alarm": "Cell out of service",
         "created": "22/10/2025 12:59:00",
         "hour": "12"
@@ -1090,17 +1090,5 @@
         "alarm": "Device Offline",
         "created": "22/10/2025 02:35:01",
         "hour": "2"
-    },
-    {
-        "nft": "NFT20251022000030",
-        "site": "PH0600743",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "-7.6",
-        "remaining": "15.6",
-        "alarm": "Cell out of service",
-        "created": "22/10/2025 01:58:00",
-        "hour": "1"
     }
 ]}
