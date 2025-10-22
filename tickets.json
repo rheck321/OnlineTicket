@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251022000455",
+        "site": "PH0600543",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Offline",
+        "created": "22/10/2025 16:54:00",
+        "hour": "16"
+    },
+    {
         "nft": "NFT20251022000451",
         "site": "PH0800144",
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "Modem part unlock",
         "created": "22/10/2025 16:51:00",
         "hour": "16"
@@ -41,8 +53,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "Device Offline",
         "created": "22/10/2025 15:53:00",
         "hour": "15"
@@ -113,7 +125,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "22/10/2025 15:27:00",
@@ -209,7 +221,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.8",
+        "duration": "2.9",
         "remaining": "5.2",
         "alarm": "Battery Communication Fail",
         "created": "22/10/2025 14:07:00",
@@ -260,6 +272,18 @@
         "duration": "-",
         "remaining": "-",
         "alarm": "Device communication status",
+        "created": "22/10/2025 13:40:00",
+        "hour": "13"
+    },
+    {
+        "nft": "NFT20251022000333",
+        "site": "PH0700003",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Physical Port Down",
         "created": "22/10/2025 13:40:00",
         "hour": "13"
     },
@@ -341,8 +365,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.9",
-        "remaining": "4.1",
+        "duration": "4.0",
+        "remaining": "4.0",
         "alarm": "Cell out of service",
         "created": "22/10/2025 12:59:00",
         "hour": "12"
@@ -510,7 +534,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "5.3",
-        "remaining": "2.7",
+        "remaining": "2.6",
         "alarm": "Input power-off",
         "created": "22/10/2025 11:37:00",
         "hour": "11"
@@ -645,18 +669,6 @@
         "remaining": "-",
         "alarm": "Air Conditioner Communication Lost",
         "created": "22/10/2025 09:44:00",
-        "hour": "9"
-    },
-    {
-        "nft": "NFT20251022000176",
-        "site": "CO085",
-        "area": "LEYTE",
-        "state": "Finished",
-        "severity": "Critical",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Fire Alarm(fault)",
-        "created": "22/10/2025 09:11:00",
         "hour": "9"
     },
     {
@@ -1061,8 +1073,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.6",
-        "remaining": "0.4",
+        "duration": "7.7",
+        "remaining": "0.3",
         "alarm": "Cell out of service",
         "created": "22/10/2025 01:58:00",
         "hour": "1"
@@ -1572,6 +1584,18 @@
         "hour": "11"
     },
     {
+        "nft": "NFT20251021000438",
+        "site": "PH0700287",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Battery Communication Fail",
+        "created": "21/10/2025 11:42:00",
+        "hour": "11"
+    },
+    {
         "nft": "NFT20251021000428",
         "site": "PH0700669",
         "area": "CEBU",
@@ -1942,17 +1966,5 @@
         "alarm": "Device Offline",
         "created": "21/10/2025 02:03:00",
         "hour": "2"
-    },
-    {
-        "nft": "NFT20251021000143",
-        "site": "CO103",
-        "area": "BOHOL",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Generator status",
-        "created": "21/10/2025 01:48:01",
-        "hour": "1"
     }
 ]}
