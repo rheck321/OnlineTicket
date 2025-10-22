@@ -89,8 +89,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Battery Communication Fail",
         "created": "22/10/2025 15:27:00",
         "hour": "15"
@@ -113,7 +113,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.6",
+        "duration": "1.7",
         "remaining": "6.3",
         "alarm": "Battery Communication Fail",
         "created": "22/10/2025 14:55:00",
@@ -245,8 +245,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "Physical Port Down",
         "created": "22/10/2025 13:40:00",
         "hour": "13"
@@ -339,10 +339,10 @@
         "nft": "NFT20251022000303",
         "site": "PH0700836",
         "area": "CEBU",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Minor",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "RRU interrupted",
         "created": "22/10/2025 12:54:00",
         "hour": "12"
@@ -437,8 +437,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.6",
-        "remaining": "3.4",
+        "duration": "4.7",
+        "remaining": "3.3",
         "alarm": "Optical Fail",
         "created": "22/10/2025 11:57:00",
         "hour": "11"
@@ -557,8 +557,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.4",
-        "remaining": "1.6",
+        "duration": "6.5",
+        "remaining": "1.5",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "22/10/2025 10:09:00",
         "hour": "10"
@@ -581,8 +581,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.4",
-        "remaining": "1.6",
+        "duration": "6.5",
+        "remaining": "1.5",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "22/10/2025 10:09:00",
         "hour": "10"
@@ -1037,8 +1037,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.2",
-        "remaining": "0.8",
+        "duration": "7.3",
+        "remaining": "0.7",
         "alarm": "Cell out of service",
         "created": "22/10/2025 01:58:00",
         "hour": "1"
@@ -1145,8 +1145,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-7.9",
-        "remaining": "15.9",
+        "duration": "-7.8",
+        "remaining": "15.8",
         "alarm": "Cell out of service",
         "created": "21/10/2025 21:18:00",
         "hour": "21"
@@ -1330,6 +1330,18 @@
         "alarm": "Modem part unlock",
         "created": "21/10/2025 16:31:00",
         "hour": "16"
+    },
+    {
+        "nft": "NFT20251021000555",
+        "site": "CO037s",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "The exhaust temperature of the 1# system is locked. alarm",
+        "created": "21/10/2025 15:34:00",
+        "hour": "15"
     },
     {
         "nft": "NFT20251021000555",
@@ -1954,17 +1966,5 @@
         "alarm": "Device Offline",
         "created": "21/10/2025 01:36:01",
         "hour": "1"
-    },
-    {
-        "nft": "NFT20251021000004",
-        "site": "PH0700596",
-        "area": "BOHOL",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Charge Circuit Switch Failure alarm",
-        "created": "21/10/2025 00:15:00",
-        "hour": "0"
     }
 ]}
