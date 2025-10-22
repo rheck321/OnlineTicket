@@ -1,5 +1,29 @@
 {"nftlist":[
     {
+        "nft": "NFT20251022000412",
+        "site": "PH0800095",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Transmission unit link break",
+        "created": "22/10/2025 15:32:00",
+        "hour": "15"
+    },
+    {
+        "nft": "NFT20251022000411",
+        "site": "PH0800219",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Transmission unit link break",
+        "created": "22/10/2025 15:31:00",
+        "hour": "15"
+    },
+    {
         "nft": "NFT20251022000407",
         "site": "PH0700262",
         "area": "CEBU",
@@ -29,8 +53,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Battery Communication Fail",
         "created": "22/10/2025 14:55:00",
         "hour": "14"
@@ -102,7 +126,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "22/10/2025 14:07:00",
         "hour": "14"
@@ -162,7 +186,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.9",
-        "remaining": "6.2",
+        "remaining": "6.1",
         "alarm": "Physical Port Down",
         "created": "22/10/2025 13:40:00",
         "hour": "13"
@@ -173,8 +197,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.9",
-        "remaining": "6.1",
+        "duration": "2.0",
+        "remaining": "6.0",
         "alarm": "Battery Communication Fail",
         "created": "22/10/2025 13:35:00",
         "hour": "13"
@@ -192,6 +216,18 @@
         "hour": "13"
     },
     {
+        "nft": "NFT20251022000322",
+        "site": "PH0600372",
+        "area": "PANAY",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Physical Port Down",
+        "created": "22/10/2025 13:21:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20251022000311",
         "site": "PH0600243",
         "area": "NEGROS",
@@ -201,6 +237,18 @@
         "remaining": "-",
         "alarm": "Device Offline",
         "created": "22/10/2025 13:06:00",
+        "hour": "13"
+    },
+    {
+        "nft": "NFT20251022000310",
+        "site": "PH0600056",
+        "area": "PANAY",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Optical Invalid",
+        "created": "22/10/2025 13:04:00",
         "hour": "13"
     },
     {
@@ -221,8 +269,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Cell out of service",
         "created": "22/10/2025 12:59:00",
         "hour": "12"
@@ -233,8 +281,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.6",
-        "remaining": "5.4",
+        "duration": "2.7",
+        "remaining": "5.3",
         "alarm": "RRU interrupted",
         "created": "22/10/2025 12:54:00",
         "hour": "12"
@@ -365,8 +413,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "Optical Invalid",
         "created": "22/10/2025 11:49:00",
         "hour": "11"
@@ -389,8 +437,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.9",
-        "remaining": "4.1",
+        "duration": "4.0",
+        "remaining": "4.0",
         "alarm": "Input power-off",
         "created": "22/10/2025 11:37:00",
         "hour": "11"
@@ -405,6 +453,18 @@
         "remaining": "-",
         "alarm": "Device Offline",
         "created": "22/10/2025 10:56:00",
+        "hour": "10"
+    },
+    {
+        "nft": "NFT20251022000234",
+        "site": "PH0700404",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "The Device is offline",
+        "created": "22/10/2025 10:55:00",
         "hour": "10"
     },
     {
@@ -1065,18 +1125,6 @@
         "remaining": "-",
         "alarm": "Device Offline",
         "created": "21/10/2025 20:09:00",
-        "hour": "20"
-    },
-    {
-        "nft": "NFT20251021000710",
-        "site": "PH0600018",
-        "area": "PANAY",
-        "state": "Finished",
-        "severity": "Minor",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Intruder Alarm",
-        "created": "21/10/2025 20:01:00",
         "hour": "20"
     },
     {
