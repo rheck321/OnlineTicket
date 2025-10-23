@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "23/10/2025 12:56:00",
         "hour": "12"
@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Cell out of service",
         "created": "23/10/2025 12:46:00",
         "hour": "12"
@@ -41,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "Device Offline",
         "created": "23/10/2025 12:41:00",
         "hour": "12"
@@ -65,8 +65,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "BBU interrupted",
         "created": "23/10/2025 12:29:00",
         "hour": "12"
@@ -78,7 +78,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "6.9",
+        "remaining": "6.8",
         "alarm": "Device Offline",
         "created": "23/10/2025 12:24:00",
         "hour": "12"
@@ -102,7 +102,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "Cell out of service",
         "created": "23/10/2025 11:56:00",
         "hour": "11"
@@ -138,7 +138,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.1",
-        "remaining": "5.9",
+        "remaining": "5.8",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "23/10/2025 11:24:00",
         "hour": "11"
@@ -234,7 +234,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.6",
-        "remaining": "4.4",
+        "remaining": "4.3",
         "alarm": "Physical Port Down",
         "created": "23/10/2025 09:54:00",
         "hour": "9"
@@ -821,8 +821,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.9",
-        "remaining": "2.1",
+        "duration": "6.0",
+        "remaining": "2.0",
         "alarm": "Cell out of service",
         "created": "23/10/2025 00:21:01",
         "hour": "0"
@@ -869,8 +869,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.2",
-        "remaining": "2.8",
+        "duration": "5.3",
+        "remaining": "2.7",
         "alarm": "Physical Port Down",
         "created": "22/10/2025 22:36:00",
         "hour": "22"
