@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "Device Offline",
         "created": "23/10/2025 10:22:00",
         "hour": "10"
@@ -53,7 +53,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "7.5",
         "alarm": "Physical Port Down",
         "created": "23/10/2025 09:54:00",
@@ -78,7 +78,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.9",
-        "remaining": "7.1",
+        "remaining": "7.0",
         "alarm": "The Device is offline",
         "created": "23/10/2025 09:30:00",
         "hour": "9"
@@ -125,7 +125,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.8",
+        "duration": "1.9",
         "remaining": "6.2",
         "alarm": "RRU hardware failure",
         "created": "23/10/2025 08:36:00",
@@ -665,8 +665,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "Cabinet Smog Alarm",
         "created": "22/10/2025 23:45:00",
         "hour": "23"
@@ -689,7 +689,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.1",
+        "duration": "2.2",
         "remaining": "5.8",
         "alarm": "Physical Port Down",
         "created": "22/10/2025 22:36:00",
@@ -941,7 +941,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.3",
+        "duration": "3.4",
         "remaining": "4.7",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "22/10/2025 18:45:00",
@@ -1637,8 +1637,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.8",
-        "remaining": "2.2",
+        "duration": "5.9",
+        "remaining": "2.1",
         "alarm": "Input power-off",
         "created": "22/10/2025 11:37:00",
         "hour": "11"
@@ -2170,5 +2170,17 @@
         "alarm": "Device Offline",
         "created": "22/10/2025 02:35:01",
         "hour": "2"
+    },
+    {
+        "nft": "NFT20251022000030",
+        "site": "PH0600743",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "-7.0",
+        "remaining": "15.0",
+        "alarm": "Cell out of service",
+        "created": "22/10/2025 01:58:00",
+        "hour": "1"
     }
 ]}
