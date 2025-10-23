@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251023000325",
+        "site": "PH0600328",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Device Powered Off",
+        "created": "23/10/2025 11:44:00",
+        "hour": "11"
+    },
+    {
         "nft": "NFT20251023000317",
         "site": "PH0600280",
         "area": "NEGROS",
@@ -17,8 +29,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "23/10/2025 11:24:00",
         "hour": "11"
@@ -29,8 +41,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "BBU interrupted",
         "created": "23/10/2025 11:10:00",
         "hour": "11"
@@ -42,7 +54,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.9",
-        "remaining": "7.1",
+        "remaining": "7.0",
         "alarm": "Device Offline",
         "created": "23/10/2025 11:01:00",
         "hour": "11"
@@ -53,8 +65,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.2",
-        "remaining": "6.8",
+        "duration": "1.3",
+        "remaining": "6.7",
         "alarm": "Device Offline",
         "created": "23/10/2025 10:39:00",
         "hour": "10"
@@ -102,7 +114,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "Physical Port Down",
         "created": "23/10/2025 10:01:00",
         "hour": "10"
@@ -113,8 +125,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Physical Port Down",
         "created": "23/10/2025 09:54:00",
         "hour": "9"
@@ -125,7 +137,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.3",
+        "duration": "2.4",
         "remaining": "5.7",
         "alarm": "Physical Port Down",
         "created": "23/10/2025 09:37:00",
@@ -185,8 +197,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.3",
-        "remaining": "4.7",
+        "duration": "3.4",
+        "remaining": "4.6",
         "alarm": "RRU hardware failure",
         "created": "23/10/2025 08:36:00",
         "hour": "8"
@@ -245,8 +257,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.9",
-        "remaining": "4.1",
+        "duration": "4.0",
+        "remaining": "4.0",
         "alarm": "Compressor Fault",
         "created": "23/10/2025 08:01:01",
         "hour": "8"
@@ -701,7 +713,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.3",
+        "duration": "4.4",
         "remaining": "3.6",
         "alarm": "Cell out of service",
         "created": "23/10/2025 00:21:01",
@@ -725,8 +737,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.0",
-        "remaining": "3.0",
+        "duration": "5.1",
+        "remaining": "2.9",
         "alarm": "Cabinet Smog Alarm",
         "created": "22/10/2025 23:45:00",
         "hour": "23"
@@ -749,8 +761,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.6",
-        "remaining": "4.4",
+        "duration": "3.7",
+        "remaining": "4.3",
         "alarm": "Physical Port Down",
         "created": "22/10/2025 22:36:00",
         "hour": "22"
@@ -1053,30 +1065,6 @@
         "remaining": "-",
         "alarm": "Physical Port Down",
         "created": "22/10/2025 18:24:00",
-        "hour": "18"
-    },
-    {
-        "nft": "NFT20251022000499",
-        "site": "CO086",
-        "area": "NEGROS",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Physical Port Down",
-        "created": "22/10/2025 18:22:00",
-        "hour": "18"
-    },
-    {
-        "nft": "NFT20251022000492",
-        "site": "CO038",
-        "area": "CEBU",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Device Offline",
-        "created": "22/10/2025 18:09:00",
         "hour": "18"
     },
     {
@@ -1697,8 +1685,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.3",
-        "remaining": "0.7",
+        "duration": "7.4",
+        "remaining": "0.6",
         "alarm": "Input power-off",
         "created": "22/10/2025 11:37:00",
         "hour": "11"
@@ -2193,6 +2181,18 @@
         "remaining": "-",
         "alarm": "Device Offline",
         "created": "22/10/2025 03:49:01",
+        "hour": "3"
+    },
+    {
+        "nft": "NFT20251022000041",
+        "site": "CO080",
+        "area": "NEGROS",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Device Offline",
+        "created": "22/10/2025 03:38:00",
         "hour": "3"
     }
 ]}
