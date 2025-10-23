@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "23/10/2025 15:17:00",
         "hour": "15"
@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Device Offline",
         "created": "23/10/2025 14:54:00",
         "hour": "14"
@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.9",
-        "remaining": "7.1",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "Device Offline",
         "created": "23/10/2025 14:39:00",
         "hour": "14"
@@ -41,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "RRU interrupted",
         "created": "23/10/2025 14:34:00",
         "hour": "14"
@@ -53,8 +53,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Fan Failure",
         "created": "23/10/2025 14:31:00",
         "hour": "14"
@@ -96,13 +96,25 @@
         "hour": "13"
     },
     {
+        "nft": "NFT20251023000416",
+        "site": "PH0700720",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Optical Invalid",
+        "created": "23/10/2025 13:43:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20251023000414",
         "site": "IBS0740022",
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.9",
-        "remaining": "6.1",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "RRU interrupted",
         "created": "23/10/2025 13:40:00",
         "hour": "13"
@@ -137,8 +149,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.9",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Pico RRU not connected",
         "created": "23/10/2025 13:38:00",
         "hour": "13"
@@ -245,8 +257,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.6",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "Cell out of service",
         "created": "23/10/2025 11:56:00",
         "hour": "11"
@@ -269,8 +281,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "Device Powered Off",
         "created": "23/10/2025 11:37:00",
         "hour": "11"
@@ -377,8 +389,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.7",
-        "remaining": "2.3",
+        "duration": "5.8",
+        "remaining": "2.1",
         "alarm": "Physical Port Down",
         "created": "23/10/2025 09:54:00",
         "hour": "9"
@@ -389,8 +401,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.0",
-        "remaining": "2.0",
+        "duration": "6.1",
+        "remaining": "1.9",
         "alarm": "Physical Port Down",
         "created": "23/10/2025 09:37:00",
         "hour": "9"
@@ -965,8 +977,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-8.0",
-        "remaining": "16.0",
+        "duration": "-7.8",
+        "remaining": "15.8",
         "alarm": "Cell out of service",
         "created": "23/10/2025 00:21:01",
         "hour": "0"
@@ -1013,8 +1025,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.3",
-        "remaining": "0.7",
+        "duration": "7.5",
+        "remaining": "0.5",
         "alarm": "Physical Port Down",
         "created": "22/10/2025 22:36:00",
         "hour": "22"
@@ -1089,6 +1101,18 @@
         "remaining": "-",
         "alarm": "Modem part unlock",
         "created": "22/10/2025 20:52:00",
+        "hour": "20"
+    },
+    {
+        "nft": "NFT20251022000593",
+        "site": "PH0700193",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Critical",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "The link between the server and the NE is broken",
+        "created": "22/10/2025 20:45:00",
         "hour": "20"
     },
     {
@@ -2193,18 +2217,6 @@
         "remaining": "-",
         "alarm": "Transmission unit link break",
         "created": "22/10/2025 08:26:00",
-        "hour": "8"
-    },
-    {
-        "nft": "NFT20251022000143",
-        "site": "PH0700013",
-        "area": "CEBU",
-        "state": "Finished",
-        "severity": "Minor",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Air Conditioner Communication Lost",
-        "created": "22/10/2025 08:16:00",
         "hour": "8"
     }
 ]}
