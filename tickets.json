@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251023000453",
+        "site": "PH0700278",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "23/10/2025 14:54:00",
+        "hour": "14"
+    },
+    {
         "nft": "NFT20251023000448",
         "site": "CO101",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Offline",
         "created": "23/10/2025 14:39:00",
         "hour": "14"
@@ -17,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "RRU interrupted",
         "created": "23/10/2025 14:34:00",
         "hour": "14"
@@ -89,8 +101,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.2",
-        "remaining": "6.8",
+        "duration": "1.3",
+        "remaining": "6.7",
         "alarm": "RRU interrupted",
         "created": "23/10/2025 13:40:00",
         "hour": "13"
@@ -125,8 +137,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.2",
-        "remaining": "6.8",
+        "duration": "1.3",
+        "remaining": "6.7",
         "alarm": "Pico RRU not connected",
         "created": "23/10/2025 13:38:00",
         "hour": "13"
@@ -149,7 +161,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.9",
+        "duration": "2.0",
         "remaining": "6.0",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "23/10/2025 12:56:00",
@@ -197,8 +209,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "BBU interrupted",
         "created": "23/10/2025 12:29:00",
         "hour": "12"
@@ -351,10 +363,10 @@
         "nft": "NFT20251023000260",
         "site": "PH0600239",
         "area": "PANAY",
-        "state": "Suspend",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Physical Port Down",
         "created": "23/10/2025 10:01:00",
         "hour": "10"
@@ -953,8 +965,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.3",
-        "remaining": "0.7",
+        "duration": "7.4",
+        "remaining": "0.6",
         "alarm": "Cell out of service",
         "created": "23/10/2025 00:21:01",
         "hour": "0"
@@ -1001,8 +1013,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.6",
-        "remaining": "1.4",
+        "duration": "6.7",
+        "remaining": "1.3",
         "alarm": "Physical Port Down",
         "created": "22/10/2025 22:36:00",
         "hour": "22"
@@ -2205,18 +2217,6 @@
         "remaining": "-",
         "alarm": "Air Conditioner Communication Lost",
         "created": "22/10/2025 08:16:00",
-        "hour": "8"
-    },
-    {
-        "nft": "NFT20251022000137",
-        "site": "PH0600239",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Optical Invalid",
-        "created": "22/10/2025 08:01:01",
         "hour": "8"
     }
 ]}
