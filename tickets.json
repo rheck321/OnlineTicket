@@ -17,8 +17,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.9",
-        "remaining": "7.1",
+        "duration": "1.0",
+        "remaining": "7.0",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "23/10/2025 15:57:00",
         "hour": "15"
@@ -77,8 +77,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Device Offline",
         "created": "23/10/2025 14:39:00",
         "hour": "14"
@@ -197,8 +197,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "Pico RRU not connected",
         "created": "23/10/2025 13:38:00",
         "hour": "13"
@@ -1025,8 +1025,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-6.7",
-        "remaining": "14.7",
+        "duration": "-6.6",
+        "remaining": "14.6",
         "alarm": "Cell out of service",
         "created": "23/10/2025 00:21:01",
         "hour": "0"
