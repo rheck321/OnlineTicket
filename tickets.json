@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251023000430",
+        "site": "PH0700323",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Offline",
+        "created": "23/10/2025 14:23:00",
+        "hour": "14"
+    },
+    {
         "nft": "NFT20251023000421",
         "site": "PH0600743",
         "area": "NEGROS",
@@ -29,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Optical Invalid",
         "created": "23/10/2025 13:43:00",
         "hour": "13"
@@ -77,8 +89,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "Pico RRU not connected",
         "created": "23/10/2025 13:38:00",
         "hour": "13"
@@ -101,8 +113,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "23/10/2025 12:56:00",
         "hour": "12"
@@ -149,7 +161,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.9",
+        "duration": "2.0",
         "remaining": "6.0",
         "alarm": "BBU interrupted",
         "created": "23/10/2025 12:29:00",
@@ -185,8 +197,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Cell out of service",
         "created": "23/10/2025 11:56:00",
         "hour": "11"
@@ -209,8 +221,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.8",
-        "remaining": "5.2",
+        "duration": "2.9",
+        "remaining": "5.1",
         "alarm": "Device Powered Off",
         "created": "23/10/2025 11:37:00",
         "hour": "11"
@@ -221,8 +233,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "23/10/2025 11:24:00",
         "hour": "11"
@@ -317,8 +329,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.5",
-        "remaining": "3.5",
+        "duration": "4.6",
+        "remaining": "3.4",
         "alarm": "Physical Port Down",
         "created": "23/10/2025 09:54:00",
         "hour": "9"
@@ -329,8 +341,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.8",
-        "remaining": "3.2",
+        "duration": "4.9",
+        "remaining": "3.1",
         "alarm": "Physical Port Down",
         "created": "23/10/2025 09:37:00",
         "hour": "9"
@@ -449,8 +461,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.4",
-        "remaining": "1.6",
+        "duration": "6.5",
+        "remaining": "1.5",
         "alarm": "Compressor Fault",
         "created": "23/10/2025 08:01:01",
         "hour": "8"
@@ -905,7 +917,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.9",
+        "duration": "7.0",
         "remaining": "1.1",
         "alarm": "Cell out of service",
         "created": "23/10/2025 00:21:01",
@@ -1089,6 +1101,18 @@
         "remaining": "-",
         "alarm": "MUT_LOS",
         "created": "22/10/2025 20:37:00",
+        "hour": "20"
+    },
+    {
+        "nft": "NFT20251022000577",
+        "site": "PH0700404",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "The Device is offline",
+        "created": "22/10/2025 20:35:00",
         "hour": "20"
     },
     {
@@ -2181,18 +2205,6 @@
         "remaining": "-",
         "alarm": "Device Offline",
         "created": "22/10/2025 07:59:00",
-        "hour": "7"
-    },
-    {
-        "nft": "NFT20251022000116",
-        "site": "PH0700013",
-        "area": "CEBU",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "BBU interrupted",
-        "created": "22/10/2025 07:35:00",
         "hour": "7"
     }
 ]}
