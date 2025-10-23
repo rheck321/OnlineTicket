@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251023000529",
+        "site": "PH0600461",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Offline",
+        "created": "23/10/2025 17:20:00",
+        "hour": "17"
+    },
+    {
         "nft": "NFT20251023000528",
         "site": "CO086",
         "area": "NEGROS",
@@ -12,13 +24,25 @@
         "hour": "17"
     },
     {
+        "nft": "NFT20251023000526",
+        "site": "PH0800370",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Device Powered Off",
+        "created": "23/10/2025 17:14:00",
+        "hour": "17"
+    },
+    {
         "nft": "NFT20251023000522",
         "site": "PH0700013",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Battery Communication Fail",
         "created": "23/10/2025 17:09:00",
         "hour": "17"
@@ -65,8 +89,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "23/10/2025 15:57:00",
         "hour": "15"
@@ -209,8 +233,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "RRU interrupted",
         "created": "23/10/2025 13:40:00",
         "hour": "13"
@@ -1073,8 +1097,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-6.2",
-        "remaining": "14.2",
+        "duration": "-6.1",
+        "remaining": "14.1",
         "alarm": "Cell out of service",
         "created": "23/10/2025 00:21:01",
         "hour": "0"
