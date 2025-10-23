@@ -437,8 +437,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.2",
-        "remaining": "0.8",
+        "duration": "7.3",
+        "remaining": "0.7",
         "alarm": "Physical Port Down",
         "created": "23/10/2025 09:54:00",
         "hour": "9"
