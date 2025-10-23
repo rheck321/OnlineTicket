@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251023000528",
+        "site": "CO086",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "ATS S1 Voltage State",
+        "created": "23/10/2025 17:18:00",
+        "hour": "17"
+    },
+    {
         "nft": "NFT20251023000522",
         "site": "PH0700013",
         "area": "CEBU",
@@ -197,7 +209,7 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.6",
+        "duration": "3.7",
         "remaining": "4.3",
         "alarm": "RRU interrupted",
         "created": "23/10/2025 13:40:00",
@@ -473,7 +485,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.4",
+        "duration": "7.5",
         "remaining": "0.6",
         "alarm": "Physical Port Down",
         "created": "23/10/2025 09:54:00",
