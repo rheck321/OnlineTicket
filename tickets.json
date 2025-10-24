@@ -30,7 +30,7 @@
         "state": "Processing",
         "severity": "Network Fault",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "24/10/2025 09:55:00",
         "hour": "9"
@@ -41,8 +41,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Network Fault",
-        "duration": "0.9",
-        "remaining": "7.1",
+        "duration": "1.0",
+        "remaining": "7.0",
         "alarm": "Battery Communication Fail",
         "created": "24/10/2025 09:32:00",
         "hour": "9"
@@ -89,8 +89,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Network Fault",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Physical Port Down",
         "created": "24/10/2025 08:45:00",
         "hour": "8"
@@ -113,8 +113,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Network Fault",
-        "duration": "-14.1",
-        "remaining": "22.1",
+        "duration": "-14.0",
+        "remaining": "22.0",
         "alarm": "Cell out of service",
         "created": "24/10/2025 08:32:00",
         "hour": "8"
@@ -329,8 +329,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Network Fault",
-        "duration": "-11.1",
-        "remaining": "19.1",
+        "duration": "-11.0",
+        "remaining": "19.0",
         "alarm": "Cell out of service",
         "created": "24/10/2025 05:32:01",
         "hour": "5"
@@ -450,7 +450,7 @@
         "state": "Processing",
         "severity": "Network Fault",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "Transmission unit link break",
         "created": "24/10/2025 00:37:01",
         "hour": "0"
@@ -1973,8 +1973,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Network Fault",
-        "duration": "4.6",
-        "remaining": "3.4",
+        "duration": "4.7",
+        "remaining": "3.3",
         "alarm": "Cell out of service",
         "created": "23/10/2025 00:21:01",
         "hour": "0"
