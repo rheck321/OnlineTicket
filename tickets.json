@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Battery Communication Fail",
         "created": "24/10/2025 12:22:00",
         "hour": "12"
@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.3",
-        "remaining": "6.7",
+        "duration": "1.4",
+        "remaining": "6.6",
         "alarm": "Device Offline",
         "created": "24/10/2025 11:22:00",
         "hour": "11"
@@ -53,8 +53,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.1",
-        "remaining": "5.9",
+        "duration": "2.2",
+        "remaining": "5.8",
         "alarm": "Cell out of service",
         "created": "24/10/2025 10:35:00",
         "hour": "10"
@@ -147,10 +147,10 @@
         "nft": "NFT20251024000359",
         "site": "PH0700720",
         "area": "CEBU",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Physical Port Down",
         "created": "24/10/2025 08:45:00",
         "hour": "8"
@@ -497,8 +497,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.3",
-        "remaining": "3.7",
+        "duration": "4.4",
+        "remaining": "3.6",
         "alarm": "The Device is offline",
         "created": "24/10/2025 00:38:01",
         "hour": "0"
@@ -533,8 +533,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "BBU interrupted",
         "created": "23/10/2025 23:57:01",
         "hour": "23"
@@ -705,6 +705,18 @@
         "remaining": "-",
         "alarm": "Device Offline",
         "created": "23/10/2025 21:28:00",
+        "hour": "21"
+    },
+    {
+        "nft": "NFT20251023000627",
+        "site": "CO086",
+        "area": "NEGROS",
+        "state": "Finished",
+        "severity": "Critical",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Break Off",
+        "created": "23/10/2025 21:21:00",
         "hour": "21"
     },
     {
