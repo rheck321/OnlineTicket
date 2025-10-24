@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251024000435",
+        "site": "CO088",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Network Fault",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Over temperature",
+        "created": "24/10/2025 10:44:00",
+        "hour": "10"
+    },
+    {
         "nft": "NFT20251024000422",
         "site": "PH0600794",
         "area": "NEGROS",
@@ -18,7 +30,7 @@
         "state": "Processing",
         "severity": "Network Fault",
         "duration": "-15.3",
-        "remaining": "23.4",
+        "remaining": "23.3",
         "alarm": "Standing wave warning",
         "created": "24/10/2025 10:25:00",
         "hour": "10"
@@ -41,7 +53,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Network Fault",
-        "duration": "1.1",
+        "duration": "1.2",
         "remaining": "6.8",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "24/10/2025 09:55:00",
@@ -53,8 +65,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Network Fault",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Battery Communication Fail",
         "created": "24/10/2025 09:32:00",
         "hour": "9"
@@ -101,7 +113,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Network Fault",
-        "duration": "2.3",
+        "duration": "2.4",
         "remaining": "5.7",
         "alarm": "Physical Port Down",
         "created": "24/10/2025 08:45:00",
@@ -125,8 +137,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Network Fault",
-        "duration": "-13.5",
-        "remaining": "21.5",
+        "duration": "-13.4",
+        "remaining": "21.4",
         "alarm": "Cell out of service",
         "created": "24/10/2025 08:32:00",
         "hour": "8"
@@ -341,8 +353,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Network Fault",
-        "duration": "-10.5",
-        "remaining": "18.5",
+        "duration": "-10.4",
+        "remaining": "18.4",
         "alarm": "Cell out of service",
         "created": "24/10/2025 05:32:01",
         "hour": "5"
@@ -1985,8 +1997,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Network Fault",
-        "duration": "5.2",
-        "remaining": "2.8",
+        "duration": "5.3",
+        "remaining": "2.7",
         "alarm": "Cell out of service",
         "created": "23/10/2025 00:21:01",
         "hour": "0"
