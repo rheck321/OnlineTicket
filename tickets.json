@@ -438,7 +438,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-7.5",
-        "remaining": "15.5",
+        "remaining": "15.4",
         "alarm": "Cell out of service",
         "created": "24/10/2025 05:32:01",
         "hour": "5"
@@ -725,8 +725,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.5",
-        "remaining": "3.5",
+        "duration": "4.6",
+        "remaining": "3.4",
         "alarm": "Battery Communication Fail",
         "created": "24/10/2025 09:32:00",
         "hour": "9"
@@ -797,8 +797,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.5",
-        "remaining": "2.5",
+        "duration": "5.6",
+        "remaining": "2.4",
         "alarm": "Cell out of service",
         "created": "24/10/2025 08:32:00",
         "hour": "8"
@@ -1013,8 +1013,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-7.5",
-        "remaining": "15.5",
+        "duration": "-7.4",
+        "remaining": "15.4",
         "alarm": "Cell out of service",
         "created": "24/10/2025 05:32:01",
         "hour": "5"
