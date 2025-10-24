@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Network Fault",
-        "duration": "-14.8",
-        "remaining": "22.8",
+        "duration": "-14.7",
+        "remaining": "22.7",
         "alarm": "Cell out of service",
         "created": "24/10/2025 10:35:00",
         "hour": "10"
