@@ -114,7 +114,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Device Offline",
         "created": "25/10/2025 13:32:00",
         "hour": "13"
