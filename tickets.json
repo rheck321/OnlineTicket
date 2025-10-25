@@ -65,8 +65,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Gen communication status alarm",
         "created": "25/10/2025 08:35:00",
         "hour": "8"
@@ -293,8 +293,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "25/10/2025 06:23:00",
         "hour": "6"
@@ -305,8 +305,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.2",
-        "remaining": "2.8",
+        "duration": "5.3",
+        "remaining": "2.7",
         "alarm": "Low fuel level alarm",
         "created": "25/10/2025 05:24:00",
         "hour": "5"
@@ -317,8 +317,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.2",
-        "remaining": "2.8",
+        "duration": "5.3",
+        "remaining": "2.7",
         "alarm": "Low Liquid Level Alarm shutdown",
         "created": "25/10/2025 05:23:00",
         "hour": "5"
