@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Offline",
         "created": "25/10/2025 09:58:00",
         "hour": "9"
@@ -42,7 +42,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Gen communication status alarm",
         "created": "25/10/2025 08:35:00",
         "hour": "8"
@@ -270,7 +270,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.6",
-        "remaining": "4.4",
+        "remaining": "4.3",
         "alarm": "Heating exchange fan fault",
         "created": "25/10/2025 06:36:01",
         "hour": "6"
@@ -281,8 +281,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.8",
-        "remaining": "4.2",
+        "duration": "3.9",
+        "remaining": "4.1",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "25/10/2025 06:23:00",
         "hour": "6"
@@ -294,7 +294,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.8",
-        "remaining": "3.2",
+        "remaining": "3.1",
         "alarm": "Low fuel level alarm",
         "created": "25/10/2025 05:24:00",
         "hour": "5"
@@ -305,8 +305,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.8",
-        "remaining": "3.2",
+        "duration": "4.9",
+        "remaining": "3.1",
         "alarm": "Low Liquid Level Alarm shutdown",
         "created": "25/10/2025 05:23:00",
         "hour": "5"
@@ -329,7 +329,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.1",
+        "duration": "4.2",
         "remaining": "3.9",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "24/10/2025 21:22:00",
