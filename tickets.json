@@ -5,34 +5,10 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "BBU interrupted",
         "created": "25/10/2025 10:43:00",
-        "hour": "10"
-    },
-    {
-        "nft": "NFT20251025000280",
-        "site": "PH0700298",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
-        "alarm": "Device Offline",
-        "created": "25/10/2025 10:33:00",
-        "hour": "10"
-    },
-    {
-        "nft": "NFT20251025000274",
-        "site": "CO076",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
-        "alarm": "ATS S1 Voltage State",
-        "created": "25/10/2025 10:15:00",
         "hour": "10"
     },
     {
@@ -53,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "RRU interrupted",
         "created": "25/10/2025 09:25:00",
         "hour": "9"
@@ -65,8 +41,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Gen communication status alarm",
         "created": "25/10/2025 08:37:00",
         "hour": "8"
@@ -89,7 +65,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.3",
+        "duration": "2.4",
         "remaining": "5.7",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "25/10/2025 08:32:00",
@@ -113,8 +89,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Battery Communication Fail",
         "created": "25/10/2025 08:08:00",
         "hour": "8"
@@ -264,6 +240,18 @@
         "hour": "7"
     },
     {
+        "nft": "NFT20251025000135",
+        "site": "IBS0610001",
+        "area": "PANAY",
+        "state": "Suspend",
+        "severity": "Major",
+        "duration": "0.7",
+        "remaining": "7.3",
+        "alarm": "Pico RRU not connected",
+        "created": "25/10/2025 07:31:01",
+        "hour": "7"
+    },
+    {
         "nft": "NFT20251025000126",
         "site": "IBS0710030",
         "area": "CEBU",
@@ -341,8 +329,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "Cell out of service",
         "created": "25/10/2025 02:48:00",
         "hour": "2"
@@ -358,6 +346,18 @@
         "alarm": "EngineIs Not In Automatic Position Alarm",
         "created": "24/10/2025 18:12:00",
         "hour": "18"
+    },
+    {
+        "nft": "NFT20251024000355",
+        "site": "IBS0710051",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Cell out of service",
+        "created": "24/10/2025 08:32:00",
+        "hour": "8"
     },
     {
         "nft": "NFT20251024000277",
