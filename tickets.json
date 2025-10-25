@@ -113,8 +113,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Device Offline",
         "created": "25/10/2025 13:32:00",
         "hour": "13"
@@ -1013,8 +1013,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.6",
-        "remaining": "0.4",
+        "duration": "7.7",
+        "remaining": "0.3",
         "alarm": "Cell out of service",
         "created": "25/10/2025 02:48:00",
         "hour": "2"
