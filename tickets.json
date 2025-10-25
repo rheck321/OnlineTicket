@@ -17,8 +17,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Offline",
         "created": "25/10/2025 13:32:00",
         "hour": "13"
@@ -34,18 +34,6 @@
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "25/10/2025 13:18:00",
         "hour": "13"
-    },
-    {
-        "nft": "NFT20251025000355",
-        "site": "PH0700725",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.9",
-        "remaining": "7.1",
-        "alarm": "Physical Port Down",
-        "created": "25/10/2025 12:50:00",
-        "hour": "12"
     },
     {
         "nft": "NFT20251025000351",
@@ -65,7 +53,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
+        "duration": "1.2",
         "remaining": "6.8",
         "alarm": "Modem part unlock",
         "created": "25/10/2025 12:37:00",
@@ -102,7 +90,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "ATS S1 Voltage State",
         "created": "25/10/2025 11:51:00",
         "hour": "11"
@@ -377,8 +365,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.6",
-        "remaining": "2.4",
+        "duration": "5.7",
+        "remaining": "2.3",
         "alarm": "Battery Communication Fail",
         "created": "25/10/2025 08:08:00",
         "hour": "8"
@@ -917,8 +905,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.3",
-        "remaining": "1.7",
+        "duration": "6.4",
+        "remaining": "1.6",
         "alarm": "Cell out of service",
         "created": "25/10/2025 02:48:00",
         "hour": "2"
