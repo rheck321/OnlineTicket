@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Low fuel level alarm",
         "created": "25/10/2025 11:58:00",
         "hour": "11"
@@ -17,8 +17,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Offline",
         "created": "25/10/2025 11:57:00",
         "hour": "11"
@@ -29,8 +29,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "ATS S1 Voltage State",
         "created": "25/10/2025 11:51:00",
         "hour": "11"
@@ -41,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.9",
-        "remaining": "7.1",
+        "duration": "1.0",
+        "remaining": "7.0",
         "alarm": "Physical Port Down",
         "created": "25/10/2025 11:16:01",
         "hour": "11"
@@ -66,7 +66,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.6",
-        "remaining": "4.4",
+        "remaining": "4.3",
         "alarm": "Gen communication status alarm",
         "created": "25/10/2025 08:35:00",
         "hour": "8"
@@ -89,8 +89,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "Battery Communication Fail",
         "created": "25/10/2025 08:08:00",
         "hour": "8"
@@ -294,7 +294,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.8",
-        "remaining": "1.2",
+        "remaining": "1.1",
         "alarm": "Low Liquid Level Alarm shutdown",
         "created": "25/10/2025 05:23:00",
         "hour": "5"
@@ -414,7 +414,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.8",
-        "remaining": "1.2",
+        "remaining": "1.1",
         "alarm": "Low Liquid Level Alarm shutdown",
         "created": "25/10/2025 05:23:00",
         "hour": "5"
