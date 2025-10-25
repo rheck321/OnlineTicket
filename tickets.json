@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "Device Offline",
         "created": "25/10/2025 09:58:00",
         "hour": "9"
@@ -17,8 +17,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Modem part unlock",
         "created": "25/10/2025 09:41:00",
         "hour": "9"
@@ -42,7 +42,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Device Offline",
         "created": "25/10/2025 09:28:00",
         "hour": "9"
@@ -53,22 +53,10 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "RRU interrupted",
         "created": "25/10/2025 09:25:00",
-        "hour": "9"
-    },
-    {
-        "nft": "NFT20251025000232",
-        "site": "PH0800289",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.8",
-        "remaining": "7.2",
-        "alarm": "Cell out of service",
-        "created": "25/10/2025 09:14:00",
         "hour": "9"
     },
     {
@@ -78,7 +66,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Gen communication status alarm",
         "created": "25/10/2025 08:37:00",
         "hour": "8"
@@ -89,8 +77,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Gen communication status alarm",
         "created": "25/10/2025 08:35:00",
         "hour": "8"
@@ -113,8 +101,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.8",
-        "remaining": "6.2",
+        "duration": "1.9",
+        "remaining": "6.1",
         "alarm": "ATS S1 Voltage State",
         "created": "25/10/2025 08:11:00",
         "hour": "8"
@@ -130,18 +118,6 @@
         "alarm": "Battery Communication Fail",
         "created": "25/10/2025 08:08:00",
         "hour": "8"
-    },
-    {
-        "nft": "NFT20251025000154",
-        "site": "PH0600305",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "2.5",
-        "remaining": "5.5",
-        "alarm": "Standing wave warning",
-        "created": "25/10/2025 07:32:00",
-        "hour": "7"
     },
     {
         "nft": "NFT20251025000148",
@@ -329,8 +305,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "Heating exchange fan fault",
         "created": "25/10/2025 06:36:01",
         "hour": "6"
@@ -341,7 +317,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.6",
+        "duration": "3.7",
         "remaining": "4.3",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "25/10/2025 06:23:00",
@@ -353,8 +329,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.6",
-        "remaining": "3.4",
+        "duration": "4.7",
+        "remaining": "3.3",
         "alarm": "Low fuel level alarm",
         "created": "25/10/2025 05:24:00",
         "hour": "5"
@@ -366,7 +342,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.7",
-        "remaining": "3.4",
+        "remaining": "3.3",
         "alarm": "Low Liquid Level Alarm shutdown",
         "created": "25/10/2025 05:23:00",
         "hour": "5"
@@ -389,8 +365,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.9",
-        "remaining": "4.1",
+        "duration": "4.0",
+        "remaining": "4.0",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "24/10/2025 21:22:00",
         "hour": "21"
