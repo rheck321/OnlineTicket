@@ -12,36 +12,12 @@
         "hour": "14"
     },
     {
-        "nft": "NFT20251025000397",
-        "site": "PH0600208",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Critical",
-        "duration": "0.5",
-        "remaining": "3.5",
-        "alarm": "The link between the server and the NE is broken",
-        "created": "25/10/2025 14:13:00",
-        "hour": "14"
-    },
-    {
-        "nft": "NFT20251025000395",
-        "site": "PH0600208",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.5",
-        "remaining": "7.5",
-        "alarm": "Device Powered Off",
-        "created": "25/10/2025 14:12:01",
-        "hour": "14"
-    },
-    {
         "nft": "NFT20251025000394",
         "site": "CO037s",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "7.5",
         "alarm": "Physical Port Down",
         "created": "25/10/2025 14:11:00",
@@ -102,7 +78,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "6.9",
+        "remaining": "6.8",
         "alarm": "Battery Communication Fail",
         "created": "25/10/2025 13:35:00",
         "hour": "13"
@@ -173,8 +149,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Low fuel level alarm",
         "created": "25/10/2025 11:58:00",
         "hour": "11"
@@ -209,8 +185,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "Physical Port Down",
         "created": "25/10/2025 11:16:01",
         "hour": "11"
