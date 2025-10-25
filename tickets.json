@@ -29,8 +29,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Modem part unlock",
         "created": "25/10/2025 15:03:00",
         "hour": "15"
@@ -1049,7 +1049,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.8",
+        "duration": "7.9",
         "remaining": "0.1",
         "alarm": "Cell out of service",
         "created": "25/10/2025 02:48:00",
@@ -1101,6 +1101,18 @@
         "remaining": "-",
         "alarm": "BBU interrupted",
         "created": "25/10/2025 01:41:00",
+        "hour": "1"
+    },
+    {
+        "nft": "NFT20251025000015",
+        "site": "PH0700242",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Device Offline",
+        "created": "25/10/2025 01:39:00",
         "hour": "1"
     }
 ]}
