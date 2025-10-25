@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251025000376",
+        "site": "PH0600093",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Gen under frequency warning",
+        "created": "25/10/2025 13:48:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20251025000373",
         "site": "PH0700262",
         "area": "CEBU",
@@ -51,10 +63,10 @@
         "nft": "NFT20251025000352",
         "site": "PH0800144",
         "area": "LEYTE",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "1.2",
-        "remaining": "6.8",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Modem part unlock",
         "created": "25/10/2025 12:37:00",
         "hour": "12"
@@ -65,8 +77,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.8",
-        "remaining": "6.2",
+        "duration": "1.9",
+        "remaining": "6.1",
         "alarm": "Low fuel level alarm",
         "created": "25/10/2025 11:58:00",
         "hour": "11"
@@ -87,10 +99,10 @@
         "nft": "NFT20251025000329",
         "site": "CO076",
         "area": "LEYTE",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "1.9",
-        "remaining": "6.0",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "ATS S1 Voltage State",
         "created": "25/10/2025 11:51:00",
         "hour": "11"
@@ -101,8 +113,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Physical Port Down",
         "created": "25/10/2025 11:16:01",
         "hour": "11"
