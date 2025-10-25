@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251025000355",
+        "site": "PH0700725",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Physical Port Down",
+        "created": "25/10/2025 12:50:00",
+        "hour": "12"
+    },
+    {
         "nft": "NFT20251025000352",
         "site": "PH0800144",
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Modem part unlock",
         "created": "25/10/2025 12:37:00",
         "hour": "12"
@@ -29,7 +41,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
+        "duration": "1.1",
         "remaining": "7.0",
         "alarm": "Device Offline",
         "created": "25/10/2025 11:57:00",
@@ -42,7 +54,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "6.9",
+        "remaining": "6.8",
         "alarm": "ATS S1 Voltage State",
         "created": "25/10/2025 11:51:00",
         "hour": "11"
@@ -65,7 +77,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.3",
+        "duration": "4.4",
         "remaining": "3.6",
         "alarm": "Gen communication status alarm",
         "created": "25/10/2025 08:37:00",
@@ -101,8 +113,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.8",
-        "remaining": "3.2",
+        "duration": "4.9",
+        "remaining": "3.1",
         "alarm": "Battery Communication Fail",
         "created": "25/10/2025 08:08:00",
         "hour": "8"
@@ -216,18 +228,6 @@
         "hour": "7"
     },
     {
-        "nft": "NFT20251025000134",
-        "site": "IBS0610001",
-        "area": "PANAY",
-        "state": "Suspend",
-        "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
-        "alarm": "Pico RRU not connected",
-        "created": "25/10/2025 07:31:01",
-        "hour": "7"
-    },
-    {
         "nft": "NFT20251025000138",
         "site": "IBS0710033",
         "area": "CEBU",
@@ -317,8 +317,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.5",
-        "remaining": "2.5",
+        "duration": "5.6",
+        "remaining": "2.4",
         "alarm": "Cell out of service",
         "created": "25/10/2025 02:48:00",
         "hour": "2"
