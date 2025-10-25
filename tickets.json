@@ -29,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Device Offline",
         "created": "25/10/2025 13:32:00",
         "hour": "13"
@@ -46,6 +46,18 @@
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "25/10/2025 13:18:00",
         "hour": "13"
+    },
+    {
+        "nft": "NFT20251025000355",
+        "site": "PH0700725",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Physical Port Down",
+        "created": "25/10/2025 12:50:00",
+        "hour": "12"
     },
     {
         "nft": "NFT20251025000351",
@@ -78,7 +90,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "Low fuel level alarm",
         "created": "25/10/2025 11:58:00",
         "hour": "11"
@@ -114,7 +126,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.6",
-        "remaining": "5.4",
+        "remaining": "5.3",
         "alarm": "Physical Port Down",
         "created": "25/10/2025 11:16:01",
         "hour": "11"
@@ -377,8 +389,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.7",
-        "remaining": "2.3",
+        "duration": "5.8",
+        "remaining": "2.2",
         "alarm": "Battery Communication Fail",
         "created": "25/10/2025 08:08:00",
         "hour": "8"
@@ -917,8 +929,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.4",
-        "remaining": "1.6",
+        "duration": "6.5",
+        "remaining": "1.5",
         "alarm": "Cell out of service",
         "created": "25/10/2025 02:48:00",
         "hour": "2"
