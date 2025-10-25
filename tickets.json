@@ -5,8 +5,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.0",
-        "remaining": "8.0",
+        "duration": "0.1",
+        "remaining": "7.9",
         "alarm": "Transmission unit link break",
         "created": "25/10/2025 15:12:00",
         "hour": "15"
@@ -34,6 +34,18 @@
         "alarm": "Modem part unlock",
         "created": "25/10/2025 15:03:00",
         "hour": "15"
+    },
+    {
+        "nft": "NFT20251025000400",
+        "site": "PH0600256",
+        "area": "NEGROS",
+        "state": "Finished",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Device Powered Off",
+        "created": "25/10/2025 14:18:00",
+        "hour": "14"
     },
     {
         "nft": "NFT20251025000397",
@@ -66,7 +78,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "Physical Port Down",
         "created": "25/10/2025 14:11:00",
         "hour": "14"
@@ -125,7 +137,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.6",
+        "duration": "1.7",
         "remaining": "6.3",
         "alarm": "Battery Communication Fail",
         "created": "25/10/2025 13:35:00",
@@ -137,8 +149,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Device Offline",
         "created": "25/10/2025 13:32:00",
         "hour": "13"
@@ -1038,7 +1050,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "7.8",
-        "remaining": "0.2",
+        "remaining": "0.1",
         "alarm": "Cell out of service",
         "created": "25/10/2025 02:48:00",
         "hour": "2"
