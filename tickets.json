@@ -65,8 +65,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Transmission unit link break",
         "created": "25/10/2025 14:02:00",
         "hour": "14"
@@ -113,8 +113,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Device Offline",
         "created": "25/10/2025 13:32:00",
         "hour": "13"
@@ -1013,8 +1013,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.2",
-        "remaining": "0.8",
+        "duration": "7.3",
+        "remaining": "0.7",
         "alarm": "Cell out of service",
         "created": "25/10/2025 02:48:00",
         "hour": "2"
