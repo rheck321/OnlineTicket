@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251027000216",
+        "site": "PH0600259",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "27/10/2025 10:11:00",
+        "hour": "10"
+    },
+    {
         "nft": "NFT20251027000214",
         "site": "PH0700746",
         "area": "NEGROS",
@@ -18,10 +30,22 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "7.9",
+        "remaining": "7.8",
         "alarm": "ATS S1 Voltage State",
         "created": "27/10/2025 10:05:00",
         "hour": "10"
+    },
+    {
+        "nft": "NFT20251027000206",
+        "site": "PH0700015",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.4",
+        "remaining": "7.6",
+        "alarm": "Cell out of service",
+        "created": "27/10/2025 09:51:00",
+        "hour": "9"
     },
     {
         "nft": "NFT20251027000202",
@@ -29,8 +53,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.5",
-        "remaining": "3.5",
+        "duration": "0.6",
+        "remaining": "3.4",
         "alarm": "The Device is offline",
         "created": "27/10/2025 09:40:01",
         "hour": "9"
@@ -41,7 +65,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "Transmission unit link break",
         "created": "27/10/2025 08:45:00",
@@ -161,7 +185,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.3",
+        "duration": "5.4",
         "remaining": "2.6",
         "alarm": "Battery Communication Fail",
         "created": "27/10/2025 04:51:01",
@@ -413,7 +437,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.8",
+        "duration": "1.9",
         "remaining": "6.2",
         "alarm": "RRU interrupted",
         "created": "26/10/2025 18:43:00",
@@ -426,7 +450,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.9",
-        "remaining": "6.2",
+        "remaining": "6.1",
         "alarm": "RRU interrupted",
         "created": "26/10/2025 18:42:00",
         "hour": "18"
@@ -437,8 +461,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.8",
-        "remaining": "6.2",
+        "duration": "1.9",
+        "remaining": "6.1",
         "alarm": "RRU interrupted",
         "created": "26/10/2025 18:42:00",
         "hour": "18"
@@ -594,7 +618,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.9",
-        "remaining": "4.2",
+        "remaining": "4.1",
         "alarm": "Cell out of service",
         "created": "26/10/2025 14:16:00",
         "hour": "14"
