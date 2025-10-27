@@ -41,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Device Offline",
         "created": "27/10/2025 10:20:01",
         "hour": "10"
@@ -113,7 +113,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.3",
+        "duration": "3.4",
         "remaining": "4.7",
         "alarm": "Transmission unit link break",
         "created": "27/10/2025 08:45:00",
@@ -125,8 +125,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.3",
-        "remaining": "4.7",
+        "duration": "3.4",
+        "remaining": "4.6",
         "alarm": "Transmission unit link break",
         "created": "27/10/2025 08:44:00",
         "hour": "8"
@@ -497,8 +497,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "RRU interrupted",
         "created": "26/10/2025 18:42:00",
         "hour": "18"
@@ -533,8 +533,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.0",
-        "remaining": "3.0",
+        "duration": "5.1",
+        "remaining": "2.9",
         "alarm": "The Device is offline",
         "created": "26/10/2025 18:09:00",
         "hour": "18"
@@ -665,8 +665,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.7",
-        "remaining": "2.3",
+        "duration": "5.8",
+        "remaining": "2.2",
         "alarm": "Cell out of service",
         "created": "26/10/2025 14:16:00",
         "hour": "14"
@@ -1126,17 +1126,5 @@
         "alarm": "Device Offline",
         "created": "26/10/2025 02:09:00",
         "hour": "2"
-    },
-    {
-        "nft": "NFT20251026000002",
-        "site": "PH0700337",
-        "area": "CEBU",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Device Offline",
-        "created": "26/10/2025 00:28:00",
-        "hour": "0"
     }
 ]}
