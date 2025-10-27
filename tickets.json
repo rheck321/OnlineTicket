@@ -1150,29 +1150,5 @@
         "alarm": "ATS S1 Voltage State",
         "created": "26/10/2025 05:41:00",
         "hour": "5"
-    },
-    {
-        "nft": "NFT20251026000079",
-        "site": "PH0800018",
-        "area": "LEYTE",
-        "state": "Finished",
-        "severity": "Minor",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Cell out of service",
-        "created": "26/10/2025 05:22:00",
-        "hour": "5"
-    },
-    {
-        "nft": "NFT20251026000074",
-        "site": "CO076",
-        "area": "LEYTE",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "ATS S1 Voltage State",
-        "created": "26/10/2025 05:17:01",
-        "hour": "5"
     }
 ]}
