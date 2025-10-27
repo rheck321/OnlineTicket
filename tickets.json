@@ -5,10 +5,22 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "27/10/2025 16:13:00",
+        "hour": "16"
+    },
+    {
+        "nft": "NFT20251027000408",
+        "site": "PH0800044",
+        "area": "LEYTE",
+        "state": "Finished",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Cell out of service",
+        "created": "27/10/2025 16:04:00",
         "hour": "16"
     },
     {
@@ -41,8 +53,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Modem part unlock",
         "created": "27/10/2025 15:55:00",
         "hour": "15"
@@ -53,8 +65,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Under speed shutdown alarm",
         "created": "27/10/2025 15:28:00",
         "hour": "15"
@@ -1150,17 +1162,5 @@
         "alarm": "Transmission unit link break",
         "created": "26/10/2025 06:10:02",
         "hour": "6"
-    },
-    {
-        "nft": "NFT20251026000092",
-        "site": "PH0700217",
-        "area": "CEBU",
-        "state": "Suspend",
-        "severity": "Minor",
-        "duration": "1.8",
-        "remaining": "6.2",
-        "alarm": "Cell out of service",
-        "created": "26/10/2025 05:50:01",
-        "hour": "5"
     }
 ]}
