@@ -5,8 +5,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Transmission unit link break",
         "created": "27/10/2025 08:19:00",
         "hour": "8"
@@ -41,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.2",
-        "remaining": "2.8",
+        "duration": "5.3",
+        "remaining": "2.7",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "27/10/2025 03:30:00",
         "hour": "3"
@@ -178,18 +178,6 @@
         "alarm": "Cell out of service",
         "created": "26/10/2025 14:16:00",
         "hour": "14"
-    },
-    {
-        "nft": "NFT20251026000257",
-        "site": "PH0600438",
-        "area": "NEGROS",
-        "state": "Suspend",
-        "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
-        "alarm": "Cell out of service",
-        "created": "26/10/2025 12:21:00",
-        "hour": "12"
     },
     {
         "nft": "NFT20251026000161",
