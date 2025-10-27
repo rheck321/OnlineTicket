@@ -149,8 +149,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.2",
-        "remaining": "2.8",
+        "duration": "5.3",
+        "remaining": "2.7",
         "alarm": "Transmission unit link break",
         "created": "27/10/2025 08:45:00",
         "hour": "8"
@@ -521,8 +521,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.6",
-        "remaining": "2.4",
+        "duration": "5.7",
+        "remaining": "2.3",
         "alarm": "RRU interrupted",
         "created": "26/10/2025 18:43:00",
         "hour": "18"
@@ -534,7 +534,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "5.7",
-        "remaining": "2.4",
+        "remaining": "2.3",
         "alarm": "RRU interrupted",
         "created": "26/10/2025 18:42:00",
         "hour": "18"
@@ -545,8 +545,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.6",
-        "remaining": "2.4",
+        "duration": "5.7",
+        "remaining": "2.3",
         "alarm": "RRU interrupted",
         "created": "26/10/2025 18:42:00",
         "hour": "18"
@@ -558,7 +558,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "5.8",
-        "remaining": "2.2",
+        "remaining": "2.1",
         "alarm": "Cell out of service",
         "created": "26/10/2025 18:33:00",
         "hour": "18"
