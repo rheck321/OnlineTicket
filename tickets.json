@@ -1,5 +1,41 @@
 {"nftlist":[
     {
+        "nft": "NFT20251027000412",
+        "site": "PH0600350",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "27/10/2025 16:13:00",
+        "hour": "16"
+    },
+    {
+        "nft": "NFT20251027000408",
+        "site": "PH0800044",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Cell out of service",
+        "created": "27/10/2025 16:04:00",
+        "hour": "16"
+    },
+    {
+        "nft": "NFT20251027000406",
+        "site": "PH0700015",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Cell out of service",
+        "created": "27/10/2025 16:02:00",
+        "hour": "16"
+    },
+    {
         "nft": "NFT20251027000402",
         "site": "CO076",
         "area": "LEYTE",
@@ -1137,18 +1173,6 @@
         "remaining": "6.2",
         "alarm": "Cell out of service",
         "created": "26/10/2025 05:50:01",
-        "hour": "5"
-    },
-    {
-        "nft": "NFT20251026000090",
-        "site": "PH0600195",
-        "area": "PANAY",
-        "state": "Finished",
-        "severity": "Critical",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "The Device is offline",
-        "created": "26/10/2025 05:48:00",
         "hour": "5"
     }
 ]}
