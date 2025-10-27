@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251027000235",
+        "site": "PH0600774",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Air Conditioner Outer Fan Fault",
+        "created": "27/10/2025 10:44:49",
+        "hour": "10"
+    },
+    {
         "nft": "NFT20251027000224",
         "site": "PH0700037",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "27/10/2025 10:20:01",
         "hour": "10"
@@ -18,7 +30,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Device Offline",
         "created": "27/10/2025 10:11:00",
         "hour": "10"
@@ -101,8 +113,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "Transmission unit link break",
         "created": "27/10/2025 08:19:00",
         "hour": "8"
@@ -401,7 +413,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.8",
+        "duration": "1.9",
         "remaining": "6.2",
         "alarm": "Cell out of service",
         "created": "26/10/2025 19:44:00",
@@ -450,7 +462,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "RRU interrupted",
         "created": "26/10/2025 18:43:00",
         "hour": "18"
@@ -485,8 +497,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Cell out of service",
         "created": "26/10/2025 18:33:00",
         "hour": "18"
@@ -497,8 +509,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "The Device is offline",
         "created": "26/10/2025 18:09:00",
         "hour": "18"
@@ -521,8 +533,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "Transmission unit link break",
         "created": "26/10/2025 18:08:00",
         "hour": "18"
