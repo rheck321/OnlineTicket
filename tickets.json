@@ -30,7 +30,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.9",
-        "remaining": "7.1",
+        "remaining": "7.0",
         "alarm": "Device Offline",
         "created": "27/10/2025 10:20:01",
         "hour": "10"
@@ -125,8 +125,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "Transmission unit link break",
         "created": "27/10/2025 08:19:00",
         "hour": "8"
@@ -509,8 +509,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "Cell out of service",
         "created": "26/10/2025 18:33:00",
         "hour": "18"
@@ -521,8 +521,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "The Device is offline",
         "created": "26/10/2025 18:09:00",
         "hour": "18"
@@ -545,8 +545,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "Transmission unit link break",
         "created": "26/10/2025 18:08:00",
         "hour": "18"
