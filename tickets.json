@@ -5,8 +5,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "27/10/2025 11:40:00",
         "hour": "11"
@@ -54,7 +54,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "Device Offline",
         "created": "27/10/2025 10:11:00",
         "hour": "10"
@@ -89,8 +89,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Cell out of service",
         "created": "27/10/2025 09:51:00",
         "hour": "9"
@@ -114,7 +114,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.4",
-        "remaining": "4.7",
+        "remaining": "4.6",
         "alarm": "Transmission unit link break",
         "created": "27/10/2025 08:45:00",
         "hour": "8"
@@ -485,8 +485,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "RRU interrupted",
         "created": "26/10/2025 18:43:00",
         "hour": "18"
@@ -509,8 +509,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "RRU interrupted",
         "created": "26/10/2025 18:42:00",
         "hour": "18"
@@ -545,7 +545,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.1",
+        "duration": "5.2",
         "remaining": "2.9",
         "alarm": "Transmission unit link break",
         "created": "26/10/2025 18:08:00",
@@ -1113,18 +1113,6 @@
         "remaining": "-",
         "alarm": "Battery 13 Voltage Exceeds the Lower Limit Alarm",
         "created": "26/10/2025 02:22:00",
-        "hour": "2"
-    },
-    {
-        "nft": "NFT20251026000018",
-        "site": "PH0700516",
-        "area": "NEGROS",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Device Offline",
-        "created": "26/10/2025 02:09:00",
         "hour": "2"
     }
 ]}
