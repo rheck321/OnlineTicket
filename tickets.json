@@ -17,8 +17,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Air Conditioner Inner Fan Fault",
         "created": "27/10/2025 17:28:00",
         "hour": "17"
@@ -137,8 +137,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "Under speed shutdown alarm",
         "created": "27/10/2025 15:28:00",
         "hour": "15"
