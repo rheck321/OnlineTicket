@@ -102,7 +102,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Cell out of service",
         "created": "27/10/2025 16:02:00",
         "hour": "16"
