@@ -3,10 +3,10 @@
         "nft": "NFT20251027000402",
         "site": "CO076",
         "area": "LEYTE",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Critical",
-        "duration": "0.1",
-        "remaining": "3.9",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Perimeter Alarm",
         "created": "27/10/2025 15:55:00",
         "hour": "15"
@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "7.9",
+        "remaining": "7.8",
         "alarm": "Modem part unlock",
         "created": "27/10/2025 15:55:00",
         "hour": "15"
@@ -30,7 +30,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Under speed shutdown alarm",
         "created": "27/10/2025 15:28:00",
         "hour": "15"
@@ -1161,18 +1161,6 @@
         "remaining": "-",
         "alarm": "Device Offline",
         "created": "26/10/2025 05:42:00",
-        "hour": "5"
-    },
-    {
-        "nft": "NFT20251026000086",
-        "site": "CO074",
-        "area": "PANAY",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "ATS S1 Voltage State",
-        "created": "26/10/2025 05:41:00",
         "hour": "5"
     }
 ]}
