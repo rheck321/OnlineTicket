@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251027000378",
+        "site": "PH0800047",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.3",
+        "remaining": "7.7",
+        "alarm": "Under speed shutdown alarm",
+        "created": "27/10/2025 15:28:00",
+        "hour": "15"
+    },
+    {
         "nft": "NFT20251027000375",
         "site": "PH0600729",
         "area": "PANAY",
