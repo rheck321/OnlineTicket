@@ -36,18 +36,6 @@
         "hour": "12"
     },
     {
-        "nft": "NFT20251027000272",
-        "site": "PH0700433",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "1.7",
-        "remaining": "6.3",
-        "alarm": "Cell out of service",
-        "created": "27/10/2025 12:03:00",
-        "hour": "12"
-    },
-    {
         "nft": "NFT20251027000259",
         "site": "PH0600186",
         "area": "PANAY",
@@ -173,8 +161,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.0",
-        "remaining": "3.0",
+        "duration": "5.1",
+        "remaining": "2.9",
         "alarm": "Transmission unit link break",
         "created": "27/10/2025 08:44:00",
         "hour": "8"
@@ -545,8 +533,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.4",
-        "remaining": "2.6",
+        "duration": "5.5",
+        "remaining": "2.5",
         "alarm": "RRU interrupted",
         "created": "26/10/2025 18:42:00",
         "hour": "18"
@@ -713,7 +701,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.4",
+        "duration": "7.5",
         "remaining": "0.6",
         "alarm": "Cell out of service",
         "created": "26/10/2025 14:16:00",
@@ -1150,17 +1138,5 @@
         "alarm": "Standing wave warning",
         "created": "26/10/2025 03:08:00",
         "hour": "3"
-    },
-    {
-        "nft": "NFT20251026000021",
-        "site": "CO088",
-        "area": "CEBU",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Battery 13 Voltage Exceeds the Lower Limit Alarm",
-        "created": "26/10/2025 02:22:00",
-        "hour": "2"
     }
 ]}
