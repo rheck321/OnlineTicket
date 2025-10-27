@@ -1,11 +1,35 @@
 {"nftlist":[
     {
+        "nft": "NFT20251027000402",
+        "site": "CO076",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Critical",
+        "duration": "0.1",
+        "remaining": "3.9",
+        "alarm": "Perimeter Alarm",
+        "created": "27/10/2025 15:55:00",
+        "hour": "15"
+    },
+    {
+        "nft": "NFT20251027000401",
+        "site": "PH0800095",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Modem part unlock",
+        "created": "27/10/2025 15:55:00",
+        "hour": "15"
+    },
+    {
         "nft": "NFT20251027000378",
         "site": "PH0800047",
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "7.5",
         "alarm": "Under speed shutdown alarm",
         "created": "27/10/2025 15:28:00",
