@@ -569,8 +569,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.9",
-        "remaining": "2.1",
+        "duration": "6.0",
+        "remaining": "2.0",
         "alarm": "The Device is offline",
         "created": "26/10/2025 18:09:00",
         "hour": "18"
