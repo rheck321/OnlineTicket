@@ -1,5 +1,29 @@
 {"nftlist":[
     {
+        "nft": "NFT20251027000165",
+        "site": "PH0800095",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Transmission unit link break",
+        "created": "27/10/2025 08:45:00",
+        "hour": "8"
+    },
+    {
+        "nft": "NFT20251027000164",
+        "site": "PH0800219",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Transmission unit link break",
+        "created": "27/10/2025 08:44:00",
+        "hour": "8"
+    },
+    {
         "nft": "NFT20251027000154",
         "site": "PH0800093",
         "area": "LEYTE",
@@ -29,8 +53,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.9",
-        "remaining": "4.1",
+        "duration": "4.0",
+        "remaining": "4.0",
         "alarm": "Battery Communication Fail",
         "created": "27/10/2025 04:51:01",
         "hour": "4"
