@@ -1162,17 +1162,5 @@
         "alarm": "ATS S1 Voltage State",
         "created": "26/10/2025 05:17:01",
         "hour": "5"
-    },
-    {
-        "nft": "NFT20251026000072",
-        "site": "PH0600825",
-        "area": "NEGROS",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Battery Communication Fail",
-        "created": "26/10/2025 05:10:02",
-        "hour": "5"
     }
 ]}
