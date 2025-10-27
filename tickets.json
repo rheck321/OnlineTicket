@@ -48,18 +48,6 @@
         "hour": "3"
     },
     {
-        "nft": "NFT20251027000051",
-        "site": "PH0600093",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "6.0",
-        "remaining": "2.0",
-        "alarm": "Air Conditioner Outer Fan Fault",
-        "created": "27/10/2025 02:34:00",
-        "hour": "2"
-    },
-    {
         "nft": "NFT20251026000446",
         "site": "PH0700746",
         "area": "NEGROS",
