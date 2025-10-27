@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251027000442",
+        "site": "PH0600093",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Cell out of service",
+        "created": "27/10/2025 17:35:00",
+        "hour": "17"
+    },
+    {
         "nft": "NFT20251027000436",
         "site": "PH0600506",
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Air Conditioner Inner Fan Fault",
         "created": "27/10/2025 17:28:00",
         "hour": "17"
@@ -125,8 +137,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.1",
-        "remaining": "5.9",
+        "duration": "2.2",
+        "remaining": "5.8",
         "alarm": "Under speed shutdown alarm",
         "created": "27/10/2025 15:28:00",
         "hour": "15"
