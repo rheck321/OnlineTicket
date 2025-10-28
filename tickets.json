@@ -29,8 +29,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Transmission unit link break",
         "created": "28/10/2025 08:24:00",
         "hour": "8"
@@ -90,7 +90,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "Device Powered Off",
         "created": "28/10/2025 07:29:00",
         "hour": "7"
@@ -293,7 +293,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.9",
+        "duration": "7.0",
         "remaining": "1.1",
         "alarm": "Cell out of service",
         "created": "28/10/2025 02:55:01",
@@ -341,8 +341,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Cell out of service",
         "created": "28/10/2025 00:47:00",
         "hour": "0"
@@ -366,7 +366,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.9",
-        "remaining": "6.2",
+        "remaining": "6.1",
         "alarm": "Cell out of service",
         "created": "28/10/2025 00:04:00",
         "hour": "0"
@@ -438,7 +438,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "Cell out of service",
         "created": "27/10/2025 22:11:00",
         "hour": "22"
