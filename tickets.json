@@ -41,8 +41,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "28/10/2025 11:32:00",
         "hour": "11"
@@ -77,8 +77,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "28/10/2025 11:02:00",
         "hour": "11"
@@ -173,8 +173,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "Device Offline",
         "created": "28/10/2025 08:09:00",
         "hour": "8"
@@ -209,7 +209,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.6",
+        "duration": "4.7",
         "remaining": "3.4",
         "alarm": "Intruder Alarm",
         "created": "28/10/2025 07:16:00",
@@ -317,8 +317,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.5",
-        "remaining": "1.5",
+        "duration": "6.6",
+        "remaining": "1.4",
         "alarm": "Device Powered Off",
         "created": "28/10/2025 05:21:00",
         "hour": "5"
@@ -522,7 +522,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.1",
-        "remaining": "4.9",
+        "remaining": "4.8",
         "alarm": "Low Liquid Level Alarm shutdown",
         "created": "27/10/2025 22:16:00",
         "hour": "22"
@@ -534,7 +534,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.1",
-        "remaining": "4.9",
+        "remaining": "4.8",
         "alarm": "Low fuel level alarm",
         "created": "27/10/2025 22:16:00",
         "hour": "22"
@@ -1066,42 +1066,6 @@
         "alarm": "The Device is offline",
         "created": "27/10/2025 09:40:01",
         "hour": "9"
-    },
-    {
-        "nft": "NFT20251027000165",
-        "site": "PH0800095",
-        "area": "LEYTE",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Transmission unit link break",
-        "created": "27/10/2025 08:45:00",
-        "hour": "8"
-    },
-    {
-        "nft": "NFT20251027000164",
-        "site": "PH0800219",
-        "area": "LEYTE",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Transmission unit link break",
-        "created": "27/10/2025 08:44:00",
-        "hour": "8"
-    },
-    {
-        "nft": "NFT20251027000154",
-        "site": "PH0800093",
-        "area": "LEYTE",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Transmission unit link break",
-        "created": "27/10/2025 08:19:00",
-        "hour": "8"
     },
     {
         "nft": "NFT20251027000153",
