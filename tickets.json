@@ -210,7 +210,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.8",
-        "remaining": "3.2",
+        "remaining": "3.1",
         "alarm": "Device Powered Off",
         "created": "28/10/2025 05:21:00",
         "hour": "5"
@@ -437,8 +437,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Cell out of service",
         "created": "27/10/2025 22:11:00",
         "hour": "22"
