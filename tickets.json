@@ -41,8 +41,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Transmission unit link break",
         "created": "28/10/2025 08:24:00",
         "hour": "8"
