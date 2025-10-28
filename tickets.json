@@ -17,8 +17,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.0",
-        "remaining": "3.0",
+        "duration": "1.1",
+        "remaining": "2.9",
         "alarm": "Over temperature",
         "created": "28/10/2025 14:03:02",
         "hour": "14"
@@ -53,8 +53,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Battery Communication Fail",
         "created": "28/10/2025 12:53:00",
         "hour": "12"
@@ -65,8 +65,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Battery Communication Fail",
         "created": "28/10/2025 12:53:00",
         "hour": "12"
@@ -77,8 +77,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.6",
-        "remaining": "5.4",
+        "duration": "2.7",
+        "remaining": "5.3",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "28/10/2025 12:29:00",
         "hour": "12"
@@ -425,8 +425,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-6.3",
-        "remaining": "14.3",
+        "duration": "-6.2",
+        "remaining": "14.2",
         "alarm": "Device Powered Off",
         "created": "28/10/2025 05:21:00",
         "hour": "5"
@@ -629,8 +629,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.3",
-        "remaining": "1.7",
+        "duration": "6.4",
+        "remaining": "1.6",
         "alarm": "Low Liquid Level Alarm shutdown",
         "created": "27/10/2025 22:16:00",
         "hour": "22"
@@ -641,8 +641,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.3",
-        "remaining": "1.7",
+        "duration": "6.4",
+        "remaining": "1.6",
         "alarm": "Low fuel level alarm",
         "created": "27/10/2025 22:16:00",
         "hour": "22"
@@ -1101,18 +1101,6 @@
         "remaining": "-",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "27/10/2025 10:44:49",
-        "hour": "10"
-    },
-    {
-        "nft": "NFT20251027000224",
-        "site": "PH0700037",
-        "area": "CEBU",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Device Offline",
-        "created": "27/10/2025 10:20:01",
         "hour": "10"
     },
     {
