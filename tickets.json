@@ -29,22 +29,10 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Device Offline",
         "created": "29/10/2025 14:43:00",
-        "hour": "14"
-    },
-    {
-        "nft": "NFT20251029000488",
-        "site": "PH0600651",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "1.2",
-        "remaining": "6.8",
-        "alarm": "Air Conditioner Outer Fan Fault",
-        "created": "29/10/2025 14:16:00",
         "hour": "14"
     },
     {
