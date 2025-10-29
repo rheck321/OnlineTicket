@@ -17,8 +17,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.3",
-        "remaining": "6.7",
+        "duration": "1.4",
+        "remaining": "6.6",
         "alarm": "Modem part unlock",
         "created": "29/10/2025 07:22:00",
         "hour": "7"
@@ -53,8 +53,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "Battery Communication Fail",
         "created": "29/10/2025 06:17:00",
         "hour": "6"
@@ -65,7 +65,7 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.6",
+        "duration": "2.7",
         "remaining": "5.3",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "29/10/2025 06:02:01",
@@ -108,18 +108,6 @@
         "hour": "4"
     },
     {
-        "nft": "NFT20251029000159",
-        "site": "PH0600825",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "5.5",
-        "remaining": "2.5",
-        "alarm": "Battery Communication Fail",
-        "created": "29/10/2025 03:13:00",
-        "hour": "3"
-    },
-    {
         "nft": "NFT20251029000153",
         "site": "PH0600596",
         "area": "PANAY",
@@ -137,8 +125,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.7",
-        "remaining": "1.3",
+        "duration": "6.8",
+        "remaining": "1.2",
         "alarm": "The Device is offline",
         "created": "29/10/2025 01:59:00",
         "hour": "1"
