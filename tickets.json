@@ -17,8 +17,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.6",
-        "remaining": "2.4",
+        "duration": "5.7",
+        "remaining": "2.3",
         "alarm": "Battery Communication Fail",
         "created": "29/10/2025 07:01:00",
         "hour": "7"
