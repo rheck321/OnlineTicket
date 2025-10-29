@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.0",
-        "remaining": "8.0",
+        "duration": "0.1",
+        "remaining": "7.9",
         "alarm": "Device Offline",
         "created": "29/10/2025 12:43:00",
         "hour": "12"
@@ -17,8 +17,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.0",
-        "remaining": "8.0",
+        "duration": "0.1",
+        "remaining": "7.9",
         "alarm": "Air Conditioner Communication Lost",
         "created": "29/10/2025 12:43:00",
         "hour": "12"
@@ -29,23 +29,11 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.0",
-        "remaining": "8.0",
+        "duration": "0.1",
+        "remaining": "7.9",
         "alarm": "Air Conditioner Communication Lost",
         "created": "29/10/2025 12:43:00",
         "hour": "12"
-    },
-    {
-        "nft": "NFT20251029000404",
-        "site": "CO038",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "1.2",
-        "remaining": "6.8",
-        "alarm": "Device Offline",
-        "created": "29/10/2025 11:35:00",
-        "hour": "11"
     },
     {
         "nft": "NFT20251029000225",
@@ -53,8 +41,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.7",
-        "remaining": "2.3",
+        "duration": "5.8",
+        "remaining": "2.2",
         "alarm": "Battery Communication Fail",
         "created": "29/10/2025 07:01:00",
         "hour": "7"
