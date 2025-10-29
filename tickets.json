@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Cell out of service",
         "created": "29/10/2025 18:17:00",
         "hour": "18"
@@ -30,7 +30,7 @@
         "state": "Processing",
         "severity": "Critical",
         "duration": "1.4",
-        "remaining": "2.6",
+        "remaining": "2.5",
         "alarm": "Incoming Communication Fail",
         "created": "29/10/2025 17:00:00",
         "hour": "17"
@@ -41,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.3",
-        "remaining": "4.7",
+        "duration": "3.4",
+        "remaining": "4.6",
         "alarm": "Physical Port Down",
         "created": "29/10/2025 15:05:00",
         "hour": "15"
@@ -53,8 +53,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "EngineIs Not In Automatic Position Alarm",
         "created": "29/10/2025 15:00:00",
         "hour": "15"
