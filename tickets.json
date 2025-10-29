@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251029000530",
+        "site": "CO037s",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "The exhaust temperature of the 1# system is locked. alarm",
+        "created": "29/10/2025 15:40:01",
+        "hour": "15"
+    },
+    {
         "nft": "NFT20251029000511",
         "site": "CO037s",
         "area": "CEBU",
@@ -17,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "EngineIs Not In Automatic Position Alarm",
         "created": "29/10/2025 15:00:00",
         "hour": "15"
@@ -29,7 +41,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
+        "duration": "1.1",
         "remaining": "7.0",
         "alarm": "Device Offline",
         "created": "29/10/2025 14:43:00",
