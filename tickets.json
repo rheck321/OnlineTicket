@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251029000488",
+        "site": "PH0600651",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Air Conditioner Outer Fan Fault",
+        "created": "29/10/2025 14:16:00",
+        "hour": "14"
+    },
+    {
         "nft": "NFT20251029000471",
         "site": "PH0700195",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "The Device is offline",
         "created": "29/10/2025 13:45:00",
         "hour": "13"
@@ -29,7 +41,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.5",
+        "duration": "1.6",
         "remaining": "6.5",
         "alarm": "Cell out of service",
         "created": "29/10/2025 12:46:00",
@@ -42,7 +54,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "Device Offline",
         "created": "29/10/2025 12:43:00",
         "hour": "12"
