@@ -17,8 +17,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Modem part unlock",
         "created": "29/10/2025 07:22:00",
         "hour": "7"
@@ -54,7 +54,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.6",
-        "remaining": "5.4",
+        "remaining": "5.3",
         "alarm": "Battery Communication Fail",
         "created": "29/10/2025 06:17:00",
         "hour": "6"
