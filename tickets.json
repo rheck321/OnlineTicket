@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Optical Fail",
         "created": "29/10/2025 19:00:00",
         "hour": "19"
@@ -41,7 +41,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "2.5",
+        "duration": "2.6",
         "remaining": "1.4",
         "alarm": "Incoming Communication Fail",
         "created": "29/10/2025 17:00:00",
