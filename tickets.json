@@ -5,7 +5,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.3",
+        "duration": "0.4",
         "remaining": "3.6",
         "alarm": "Incoming Communication Fail",
         "created": "29/10/2025 17:00:00",
@@ -30,7 +30,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "EngineIs Not In Automatic Position Alarm",
         "created": "29/10/2025 15:00:00",
         "hour": "15"
@@ -41,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.6",
-        "remaining": "5.4",
+        "duration": "2.7",
+        "remaining": "5.3",
         "alarm": "Device Offline",
         "created": "29/10/2025 14:43:00",
         "hour": "14"
