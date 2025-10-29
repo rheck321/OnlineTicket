@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251029000645",
+        "site": "PH0600457",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Cell out of service",
+        "created": "29/10/2025 18:17:00",
+        "hour": "18"
+    },
+    {
         "nft": "NFT20251029000636",
         "site": "PH0700255",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Device Offline",
         "created": "29/10/2025 17:49:00",
         "hour": "17"
