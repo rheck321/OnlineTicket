@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251029000499",
+        "site": "CO101",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "29/10/2025 14:43:00",
+        "hour": "14"
+    },
+    {
         "nft": "NFT20251029000488",
         "site": "PH0600651",
         "area": "PANAY",
@@ -29,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Device Offline",
         "created": "29/10/2025 13:36:00",
         "hour": "13"
