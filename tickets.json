@@ -54,7 +54,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.4",
-        "remaining": "4.7",
+        "remaining": "4.6",
         "alarm": "The Device is offline",
         "created": "29/10/2025 13:45:00",
         "hour": "13"
@@ -135,7 +135,7 @@
         "nft": "NFT20251027000529",
         "site": "PH0600093",
         "area": "PANAY",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Minor",
         "duration": "-",
         "remaining": "-",
