@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Device Offline",
         "created": "29/10/2025 17:49:00",
         "hour": "17"
@@ -17,7 +17,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.9",
+        "duration": "1.0",
         "remaining": "3.0",
         "alarm": "Incoming Communication Fail",
         "created": "29/10/2025 17:00:00",
@@ -46,18 +46,6 @@
         "alarm": "EngineIs Not In Automatic Position Alarm",
         "created": "29/10/2025 15:00:00",
         "hour": "15"
-    },
-    {
-        "nft": "NFT20251029000471",
-        "site": "PH0700195",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "4.2",
-        "remaining": "3.8",
-        "alarm": "The Device is offline",
-        "created": "29/10/2025 13:45:00",
-        "hour": "13"
     },
     {
         "nft": "NFT20251029000205",
