@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251029000338",
+        "site": "PH0700205",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "29/10/2025 09:47:00",
+        "hour": "9"
+    },
+    {
         "nft": "NFT20251029000313",
         "site": "PH0700198",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Device Offline",
         "created": "29/10/2025 09:10:00",
         "hour": "9"
@@ -72,30 +84,6 @@
         "hour": "6"
     },
     {
-        "nft": "NFT20251029000193",
-        "site": "PH0600662",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "4.3",
-        "remaining": "3.7",
-        "alarm": "Transmission unit link break",
-        "created": "29/10/2025 05:30:03",
-        "hour": "5"
-    },
-    {
-        "nft": "NFT20251029000192",
-        "site": "PH0600662",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "4.3",
-        "remaining": "3.7",
-        "alarm": "Transmission unit link break",
-        "created": "29/10/2025 05:30:02",
-        "hour": "5"
-    },
-    {
         "nft": "NFT20251029000135",
         "site": "PH0700303",
         "area": "CEBU",
@@ -125,8 +113,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Transmission unit link break",
         "created": "28/10/2025 19:12:00",
         "hour": "19"
