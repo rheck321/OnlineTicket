@@ -17,8 +17,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.2",
-        "remaining": "6.8",
+        "duration": "1.3",
+        "remaining": "6.7",
         "alarm": "Device Offline",
         "created": "29/10/2025 08:31:00",
         "hour": "8"
@@ -96,18 +96,6 @@
         "hour": "5"
     },
     {
-        "nft": "NFT20251029000181",
-        "site": "PH0600049",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Critical",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "The Device is offline",
-        "created": "29/10/2025 04:31:01",
-        "hour": "4"
-    },
-    {
         "nft": "NFT20251029000135",
         "site": "PH0700303",
         "area": "CEBU",
@@ -125,8 +113,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "The Device is offline",
         "created": "28/10/2025 19:15:00",
         "hour": "19"
