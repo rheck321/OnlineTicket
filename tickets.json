@@ -48,18 +48,6 @@
         "hour": "12"
     },
     {
-        "nft": "NFT20251029000225",
-        "site": "PH0700134",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "6.0",
-        "remaining": "2.0",
-        "alarm": "Battery Communication Fail",
-        "created": "29/10/2025 07:01:00",
-        "hour": "7"
-    },
-    {
         "nft": "NFT20251029000205",
         "site": "PH0700226",
         "area": "BOHOL",
