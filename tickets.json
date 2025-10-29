@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Critical",
         "duration": "0.3",
-        "remaining": "3.7",
+        "remaining": "3.6",
         "alarm": "batlogging Comm Status",
         "created": "29/10/2025 18:57:00",
         "hour": "18"
@@ -53,7 +53,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "Device Offline",
         "created": "29/10/2025 17:49:00",
