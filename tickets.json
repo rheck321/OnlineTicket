@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.4",
-        "remaining": "3.6",
+        "duration": "0.5",
+        "remaining": "3.5",
         "alarm": "batlogging Comm Status",
         "created": "29/10/2025 18:57:00",
         "hour": "18"
