@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "7.9",
+        "remaining": "7.8",
         "alarm": "Modem part unlock",
         "created": "29/10/2025 10:24:00",
         "hour": "10"
@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Battpack1 charging current too high",
         "created": "29/10/2025 10:16:00",
         "hour": "10"
@@ -41,8 +41,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "Battery Communication Fail",
         "created": "29/10/2025 06:17:00",
         "hour": "6"
@@ -89,8 +89,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Transmission unit link break",
         "created": "28/10/2025 19:12:00",
         "hour": "19"
