@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251029000313",
+        "site": "PH0700198",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "29/10/2025 09:10:00",
+        "hour": "9"
+    },
+    {
         "nft": "NFT20251029000299",
         "site": "PH0600259",
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Device Offline",
         "created": "29/10/2025 08:31:00",
         "hour": "8"
@@ -29,8 +41,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.1",
-        "remaining": "5.9",
+        "duration": "2.2",
+        "remaining": "5.8",
         "alarm": "Battery Communication Fail",
         "created": "29/10/2025 07:01:00",
         "hour": "7"
@@ -113,7 +125,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.6",
+        "duration": "3.7",
         "remaining": "4.3",
         "alarm": "Transmission unit link break",
         "created": "29/10/2025 05:30:03",
@@ -125,7 +137,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.6",
+        "duration": "3.7",
         "remaining": "4.3",
         "alarm": "Transmission unit link break",
         "created": "29/10/2025 05:30:02",
@@ -185,8 +197,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.5",
-        "remaining": "1.5",
+        "duration": "6.6",
+        "remaining": "1.4",
         "alarm": "Battery Communication Fail",
         "created": "29/10/2025 02:37:00",
         "hour": "2"
@@ -1018,17 +1030,5 @@
         "alarm": "Air Conditioner Inner Fan Fault",
         "created": "28/10/2025 02:14:00",
         "hour": "2"
-    },
-    {
-        "nft": "NFT20251028000019",
-        "site": "CO038",
-        "area": "CEBU",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Device Offline",
-        "created": "28/10/2025 01:08:00",
-        "hour": "1"
     }
 ]}
