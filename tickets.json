@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251029000511",
+        "site": "CO037s",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Physical Port Down",
+        "created": "29/10/2025 15:05:00",
+        "hour": "15"
+    },
+    {
         "nft": "NFT20251029000509",
         "site": "CO083",
         "area": "CEBU",
@@ -42,7 +54,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "The Device is offline",
         "created": "29/10/2025 13:45:00",
         "hour": "13"
