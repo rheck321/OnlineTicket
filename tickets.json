@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251029000353",
+        "site": "PH0800144",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Modem part unlock",
+        "created": "29/10/2025 10:24:00",
+        "hour": "10"
+    },
+    {
         "nft": "NFT20251029000348",
         "site": "CO083",
         "area": "CEBU",
@@ -12,64 +24,16 @@
         "hour": "10"
     },
     {
-        "nft": "NFT20251029000338",
-        "site": "PH0700205",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
-        "alarm": "Device Offline",
-        "created": "29/10/2025 09:47:00",
-        "hour": "9"
-    },
-    {
-        "nft": "NFT20251029000313",
-        "site": "PH0700198",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "1.3",
-        "remaining": "6.7",
-        "alarm": "Device Offline",
-        "created": "29/10/2025 09:10:00",
-        "hour": "9"
-    },
-    {
-        "nft": "NFT20251029000299",
-        "site": "PH0600259",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "1.9",
-        "remaining": "6.1",
-        "alarm": "Device Offline",
-        "created": "29/10/2025 08:31:00",
-        "hour": "8"
-    },
-    {
         "nft": "NFT20251029000225",
         "site": "PH0700134",
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "Battery Communication Fail",
         "created": "29/10/2025 07:01:00",
         "hour": "7"
-    },
-    {
-        "nft": "NFT20251029000211",
-        "site": "PH0700408",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "4.0",
-        "remaining": "4.0",
-        "alarm": "Air Conditioner Communication Lost",
-        "created": "29/10/2025 06:24:00",
-        "hour": "6"
     },
     {
         "nft": "NFT20251029000209",
@@ -78,7 +42,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.2",
-        "remaining": "3.9",
+        "remaining": "3.8",
         "alarm": "Battery Communication Fail",
         "created": "29/10/2025 06:17:00",
         "hour": "6"
