@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.2",
-        "remaining": "6.8",
+        "duration": "1.3",
+        "remaining": "6.7",
         "alarm": "Standing wave warning",
         "created": "30/10/2025 11:15:00",
         "hour": "11"
@@ -113,7 +113,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.6",
+        "duration": "3.7",
         "remaining": "4.3",
         "alarm": "Battery Communication Fail",
         "created": "30/10/2025 08:51:00",
@@ -282,7 +282,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-7.5",
-        "remaining": "15.6",
+        "remaining": "15.5",
         "alarm": "Device Powered Off",
         "created": "30/10/2025 04:03:01",
         "hour": "4"
