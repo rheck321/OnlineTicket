@@ -65,7 +65,7 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.8",
+        "duration": "1.9",
         "remaining": "6.2",
         "alarm": "RRU interrupted",
         "created": "30/10/2025 10:56:00",
@@ -78,7 +78,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.9",
-        "remaining": "6.2",
+        "remaining": "6.1",
         "alarm": "Pico RRU not connected",
         "created": "30/10/2025 10:54:00",
         "hour": "10"
@@ -89,8 +89,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.3",
-        "remaining": "5.7",
+        "duration": "2.4",
+        "remaining": "5.6",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "30/10/2025 10:25:00",
         "hour": "10"
@@ -234,7 +234,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "6.2",
-        "remaining": "1.9",
+        "remaining": "1.8",
         "alarm": "Battery Communication Fail",
         "created": "30/10/2025 06:36:00",
         "hour": "6"
@@ -569,7 +569,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.3",
+        "duration": "6.4",
         "remaining": "1.6",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "29/10/2025 20:34:00",
@@ -1113,18 +1113,6 @@
         "remaining": "-",
         "alarm": "The Device is offline",
         "created": "29/10/2025 01:59:00",
-        "hour": "1"
-    },
-    {
-        "nft": "NFT20251029000131",
-        "site": "PH0800081",
-        "area": "LEYTE",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Device Offline",
-        "created": "29/10/2025 01:25:00",
         "hour": "1"
     }
 ]}
