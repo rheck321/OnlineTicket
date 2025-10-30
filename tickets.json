@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251030000333",
+        "site": "PH0600186",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Offline",
+        "created": "30/10/2025 12:41:00",
+        "hour": "12"
+    },
+    {
         "nft": "NFT20251030000298",
         "site": "PH0700193",
         "area": "CEBU",
@@ -65,7 +77,7 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.8",
+        "duration": "1.9",
         "remaining": "6.2",
         "alarm": "Pico RRU not connected",
         "created": "30/10/2025 10:54:00",
@@ -221,7 +233,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.1",
+        "duration": "6.2",
         "remaining": "1.9",
         "alarm": "Battery Communication Fail",
         "created": "30/10/2025 06:36:00",
@@ -558,7 +570,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.3",
-        "remaining": "1.7",
+        "remaining": "1.6",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "29/10/2025 20:34:00",
         "hour": "20"
