@@ -30,7 +30,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.7",
+        "remaining": "6.6",
         "alarm": "Device Offline",
         "created": "30/10/2025 09:23:00",
         "hour": "9"
@@ -149,8 +149,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.1",
-        "remaining": "3.9",
+        "duration": "4.2",
+        "remaining": "3.8",
         "alarm": "Battery Communication Fail",
         "created": "30/10/2025 06:36:00",
         "hour": "6"
@@ -485,8 +485,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.3",
-        "remaining": "3.7",
+        "duration": "4.4",
+        "remaining": "3.6",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "29/10/2025 20:34:00",
         "hour": "20"
