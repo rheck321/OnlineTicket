@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.0",
-        "remaining": "8.0",
+        "duration": "0.1",
+        "remaining": "7.9",
         "alarm": "Device Offline",
         "created": "30/10/2025 13:12:00",
         "hour": "13"
@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Physical Port Down",
         "created": "30/10/2025 13:07:00",
         "hour": "13"
@@ -42,7 +42,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Device Offline",
         "created": "30/10/2025 12:41:00",
         "hour": "12"
@@ -101,7 +101,7 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.3",
+        "duration": "2.4",
         "remaining": "5.7",
         "alarm": "RRU interrupted",
         "created": "30/10/2025 10:56:00",
@@ -113,8 +113,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.3",
-        "remaining": "5.7",
+        "duration": "2.4",
+        "remaining": "5.6",
         "alarm": "Pico RRU not connected",
         "created": "30/10/2025 10:54:00",
         "hour": "10"
@@ -125,8 +125,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.8",
-        "remaining": "5.2",
+        "duration": "2.9",
+        "remaining": "5.1",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "30/10/2025 10:25:00",
         "hour": "10"
@@ -267,10 +267,10 @@
         "nft": "NFT20251030000120",
         "site": "PH0600825",
         "area": "NEGROS",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "6.6",
-        "remaining": "1.4",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Battery Communication Fail",
         "created": "30/10/2025 06:36:00",
         "hour": "6"
@@ -605,8 +605,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.8",
-        "remaining": "1.2",
+        "duration": "6.9",
+        "remaining": "1.1",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "29/10/2025 20:34:00",
         "hour": "20"
@@ -1113,18 +1113,6 @@
         "remaining": "-",
         "alarm": "Device Offline",
         "created": "29/10/2025 03:40:01",
-        "hour": "3"
-    },
-    {
-        "nft": "NFT20251029000159",
-        "site": "PH0600825",
-        "area": "NEGROS",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Battery Communication Fail",
-        "created": "29/10/2025 03:13:00",
         "hour": "3"
     }
 ]}
