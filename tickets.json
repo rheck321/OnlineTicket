@@ -12,6 +12,18 @@
         "hour": "11"
     },
     {
+        "nft": "NFT20251030000296",
+        "site": "PH0700193",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "The Device is offline",
+        "created": "30/10/2025 11:20:00",
+        "hour": "11"
+    },
+    {
         "nft": "NFT20251030000294",
         "site": "PH0700847",
         "area": "CEBU",
@@ -102,7 +114,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.9",
-        "remaining": "5.2",
+        "remaining": "5.1",
         "alarm": "Battery Communication Fail",
         "created": "30/10/2025 08:51:00",
         "hour": "8"
