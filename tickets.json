@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Standing wave warning",
         "created": "30/10/2025 11:15:00",
         "hour": "11"
@@ -54,7 +54,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "RRU interrupted",
         "created": "30/10/2025 10:56:00",
         "hour": "10"
@@ -113,8 +113,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.1",
-        "remaining": "4.9",
+        "duration": "3.2",
+        "remaining": "4.8",
         "alarm": "Battery Communication Fail",
         "created": "30/10/2025 08:51:00",
         "hour": "8"
@@ -186,7 +186,7 @@
         "state": "Processing",
         "severity": "Critical",
         "duration": "4.0",
-        "remaining": "0.1",
+        "remaining": "0.0",
         "alarm": "The link between the server and the NE is broken",
         "created": "30/10/2025 08:02:00",
         "hour": "8"
@@ -281,8 +281,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.9",
-        "remaining": "0.1",
+        "duration": "8.0",
+        "remaining": "0.0",
         "alarm": "Device Powered Off",
         "created": "30/10/2025 04:03:01",
         "hour": "4"
