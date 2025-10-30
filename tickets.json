@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.1",
-        "remaining": "7.9",
+        "remaining": "7.8",
         "alarm": "RRU hardware failure",
         "created": "30/10/2025 12:45:00",
         "hour": "12"
@@ -54,7 +54,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Standing wave warning",
         "created": "30/10/2025 11:15:00",
         "hour": "11"
@@ -77,8 +77,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.9",
-        "remaining": "6.1",
+        "duration": "2.0",
+        "remaining": "6.0",
         "alarm": "RRU interrupted",
         "created": "30/10/2025 10:56:00",
         "hour": "10"
