@@ -53,8 +53,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Pico RRU not connected",
         "created": "30/10/2025 10:54:00",
         "hour": "10"
@@ -209,8 +209,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.0",
-        "remaining": "3.0",
+        "duration": "5.1",
+        "remaining": "2.9",
         "alarm": "Battery Communication Fail",
         "created": "30/10/2025 06:36:00",
         "hour": "6"
@@ -545,8 +545,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.2",
-        "remaining": "2.8",
+        "duration": "5.3",
+        "remaining": "2.7",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "29/10/2025 20:34:00",
         "hour": "20"
