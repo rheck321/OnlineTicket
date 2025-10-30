@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251030000334",
+        "site": "PH0700847",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "RRU hardware failure",
+        "created": "30/10/2025 12:45:00",
+        "hour": "12"
+    },
+    {
         "nft": "NFT20251030000333",
         "site": "PH0600186",
         "area": "PANAY",
@@ -41,8 +53,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Standing wave warning",
         "created": "30/10/2025 11:15:00",
         "hour": "11"
@@ -66,7 +78,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.9",
-        "remaining": "6.2",
+        "remaining": "6.1",
         "alarm": "RRU interrupted",
         "created": "30/10/2025 10:56:00",
         "hour": "10"
@@ -125,8 +137,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.9",
-        "remaining": "4.1",
+        "duration": "4.0",
+        "remaining": "4.0",
         "alarm": "Battery Communication Fail",
         "created": "30/10/2025 08:51:00",
         "hour": "8"
@@ -195,10 +207,10 @@
         "nft": "NFT20251030000171",
         "site": "PH0700193",
         "area": "CEBU",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Critical",
-        "duration": "-",
-        "remaining": "-",
+        "duration": "3.2",
+        "remaining": "0.8",
         "alarm": "The link between the server and the NE is broken",
         "created": "30/10/2025 08:02:00",
         "hour": "8"
@@ -293,8 +305,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-7.3",
-        "remaining": "15.3",
+        "duration": "-7.2",
+        "remaining": "15.2",
         "alarm": "Device Powered Off",
         "created": "30/10/2025 04:03:01",
         "hour": "4"
