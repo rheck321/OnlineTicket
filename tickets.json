@@ -41,7 +41,7 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "7.5",
         "alarm": "Pico RRU not connected",
         "created": "30/10/2025 10:54:00",
@@ -198,7 +198,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.8",
-        "remaining": "3.2",
+        "remaining": "3.1",
         "alarm": "Battery Communication Fail",
         "created": "30/10/2025 06:36:00",
         "hour": "6"
