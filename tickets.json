@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Standing wave warning",
         "created": "30/10/2025 11:15:00",
         "hour": "11"
@@ -269,8 +269,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.5",
-        "remaining": "0.5",
+        "duration": "7.6",
+        "remaining": "0.4",
         "alarm": "Device Powered Off",
         "created": "30/10/2025 04:03:01",
         "hour": "4"
