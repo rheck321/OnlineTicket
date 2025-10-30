@@ -29,7 +29,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.9",
+        "duration": "1.0",
         "remaining": "7.0",
         "alarm": "Standing wave warning",
         "created": "30/10/2025 11:15:00",
@@ -114,7 +114,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.4",
-        "remaining": "4.7",
+        "remaining": "4.6",
         "alarm": "Battery Communication Fail",
         "created": "30/10/2025 08:51:00",
         "hour": "8"
