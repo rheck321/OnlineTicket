@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Device Offline",
         "created": "31/10/2025 12:25:00",
         "hour": "12"
@@ -41,7 +41,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "31/10/2025 11:36:00",
@@ -147,10 +147,10 @@
         "nft": "NFT20251031000197",
         "site": "PH0700480",
         "area": "CEBU",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "4.7",
-        "remaining": "3.4",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Battery Communication Fail",
         "created": "31/10/2025 08:24:00",
         "hour": "8"
@@ -413,8 +413,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.9",
-        "remaining": "2.1",
+        "duration": "6.0",
+        "remaining": "2.0",
         "alarm": "Optical port link fault",
         "created": "31/10/2025 00:01:00",
         "hour": "0"
@@ -969,6 +969,18 @@
         "remaining": "-",
         "alarm": "Battery Communication Fail",
         "created": "30/10/2025 08:11:00",
+        "hour": "8"
+    },
+    {
+        "nft": "NFT20251030000171",
+        "site": "PH0700193",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Critical",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "The link between the server and the NE is broken",
+        "created": "30/10/2025 08:02:00",
         "hour": "8"
     },
     {
