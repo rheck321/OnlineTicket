@@ -389,8 +389,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.2",
-        "remaining": "2.8",
+        "duration": "5.3",
+        "remaining": "2.7",
         "alarm": "Optical port link fault",
         "created": "31/10/2025 00:01:00",
         "hour": "0"
