@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251031000316",
+        "site": "PH0700294",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "31/10/2025 12:25:00",
+        "hour": "12"
+    },
+    {
         "nft": "NFT20251031000305",
         "site": "PH0700193",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Device Offline",
         "created": "31/10/2025 11:46:01",
         "hour": "11"
@@ -29,8 +41,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "Device Offline",
         "created": "31/10/2025 11:34:00",
         "hour": "11"
@@ -41,8 +53,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "Device Offline",
         "created": "31/10/2025 11:22:00",
         "hour": "11"
@@ -65,8 +77,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Battery Communication Fail",
         "created": "31/10/2025 10:53:00",
         "hour": "10"
