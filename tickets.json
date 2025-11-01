@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251101000233",
+        "site": "PH0600885",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "RRU interrupted",
+        "created": "01/11/2025 10:23:00",
+        "hour": "10"
+    },
+    {
         "nft": "NFT20251101000224",
         "site": "PH0600355",
         "area": "NEGROS",
@@ -17,35 +29,11 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "01/11/2025 10:02:00",
         "hour": "10"
-    },
-    {
-        "nft": "NFT20251101000220",
-        "site": "PH0700280",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
-        "alarm": "Device Offline",
-        "created": "01/11/2025 09:56:00",
-        "hour": "9"
-    },
-    {
-        "nft": "NFT20251101000210",
-        "site": "PH0800144",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
-        "alarm": "Modem part unlock",
-        "created": "01/11/2025 09:28:00",
-        "hour": "9"
     },
     {
         "nft": "NFT20251101000192",
@@ -77,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "01/11/2025 09:07:00",
         "hour": "9"
@@ -89,7 +77,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "01/11/2025 09:06:00",
@@ -126,7 +114,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "Battery Communication Fail",
         "created": "01/11/2025 08:38:00",
         "hour": "8"
@@ -149,8 +137,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.6",
-        "remaining": "4.4",
+        "duration": "3.7",
+        "remaining": "4.3",
         "alarm": "Battery Communication Fail",
         "created": "01/11/2025 06:55:00",
         "hour": "6"
@@ -185,8 +173,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.6",
-        "remaining": "0.4",
+        "duration": "7.7",
+        "remaining": "0.3",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "31/10/2025 19:33:00",
         "hour": "19"
@@ -1089,6 +1077,30 @@
         "remaining": "7.6",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "06/10/2025 18:52:00",
+        "hour": "18"
+    },
+    {
+        "nft": "NFT20251004000032",
+        "site": "PH0700882",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Standing wave warning",
+        "created": "04/10/2025 02:08:01",
+        "hour": "2"
+    },
+    {
+        "nft": "NFT20251003000498",
+        "site": "PH0800165",
+        "area": "LEYTE",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.3",
+        "remaining": "7.7",
+        "alarm": "Air Conditioner Outer Fan Fault",
+        "created": "03/10/2025 18:47:00",
         "hour": "18"
     }
 ]}
