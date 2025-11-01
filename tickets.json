@@ -77,8 +77,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Battery Communication Fail",
         "created": "01/11/2025 09:17:00",
         "hour": "9"
@@ -149,8 +149,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Battery Communication Fail",
         "created": "01/11/2025 08:46:00",
         "hour": "8"
