@@ -41,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.9",
-        "remaining": "7.1",
+        "duration": "1.0",
+        "remaining": "7.0",
         "alarm": "Device Offline",
         "created": "01/11/2025 10:02:00",
         "hour": "10"
@@ -102,21 +102,9 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.9",
-        "remaining": "6.2",
-        "alarm": "Battery Communication Fail",
-        "created": "01/11/2025 09:07:00",
-        "hour": "9"
-    },
-    {
-        "nft": "NFT20251101000180",
-        "site": "PH0700480",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "1.9",
         "remaining": "6.1",
         "alarm": "Battery Communication Fail",
-        "created": "01/11/2025 09:06:00",
+        "created": "01/11/2025 09:07:00",
         "hour": "9"
     },
     {
@@ -173,8 +161,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.3",
-        "remaining": "5.7",
+        "duration": "2.4",
+        "remaining": "5.6",
         "alarm": "Battery Communication Fail",
         "created": "01/11/2025 08:38:00",
         "hour": "8"
@@ -209,8 +197,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "Battery Communication Fail",
         "created": "01/11/2025 06:55:00",
         "hour": "6"
@@ -389,8 +377,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-8.0",
-        "remaining": "16.0",
+        "duration": "-7.9",
+        "remaining": "15.9",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "31/10/2025 19:33:00",
         "hour": "19"
