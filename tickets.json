@@ -1,5 +1,29 @@
 {"nftlist":[
     {
+        "nft": "NFT20251103000312",
+        "site": "PH0700817",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.3",
+        "remaining": "7.7",
+        "alarm": "Charge Circuit Switch Failure alarm",
+        "created": "03/11/2025 14:54:00",
+        "hour": "14"
+    },
+    {
+        "nft": "NFT20251103000305",
+        "site": "PH0800149",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.6",
+        "remaining": "7.4",
+        "alarm": "Modem part unlock",
+        "created": "03/11/2025 14:35:00",
+        "hour": "14"
+    },
+    {
         "nft": "NFT20251103000301",
         "site": "PH0800149",
         "area": "LEYTE",
@@ -54,7 +78,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.9",
-        "remaining": "5.2",
+        "remaining": "5.1",
         "alarm": "Optical Fail",
         "created": "03/11/2025 12:18:00",
         "hour": "12"
@@ -66,7 +90,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.9",
-        "remaining": "5.2",
+        "remaining": "5.1",
         "alarm": "Heating exchange fan fault",
         "created": "03/11/2025 12:18:00",
         "hour": "12"
@@ -78,7 +102,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.9",
-        "remaining": "5.2",
+        "remaining": "5.1",
         "alarm": "Optical Fail",
         "created": "03/11/2025 12:18:00",
         "hour": "12"
@@ -161,8 +185,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.9",
-        "remaining": "4.1",
+        "duration": "4.0",
+        "remaining": "4.0",
         "alarm": "Cell01 Over Resistance Alarm",
         "created": "03/11/2025 11:14:00",
         "hour": "11"
@@ -209,8 +233,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.7",
-        "remaining": "3.3",
+        "duration": "4.8",
+        "remaining": "3.2",
         "alarm": "Device Offline",
         "created": "03/11/2025 10:25:00",
         "hour": "10"
