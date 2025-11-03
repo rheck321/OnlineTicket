@@ -209,8 +209,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.3",
-        "remaining": "3.7",
+        "duration": "4.4",
+        "remaining": "3.6",
         "alarm": "Device Offline",
         "created": "03/11/2025 10:25:00",
         "hour": "10"
@@ -305,8 +305,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.9",
-        "remaining": "0.1",
+        "duration": "8.0",
+        "remaining": "0.0",
         "alarm": "Cell18 Over Resistance Alarm",
         "created": "03/11/2025 06:49:00",
         "hour": "6"
