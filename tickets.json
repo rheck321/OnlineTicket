@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251103000338",
+        "site": "PH0700353",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "The Device is offline",
+        "created": "03/11/2025 15:35:00",
+        "hour": "15"
+    },
+    {
         "nft": "NFT20251103000334",
         "site": "PH0700340",
         "area": "CEBU",
@@ -102,7 +114,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.4",
-        "remaining": "4.7",
+        "remaining": "4.6",
         "alarm": "Optical Fail",
         "created": "03/11/2025 12:18:00",
         "hour": "12"
@@ -114,7 +126,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.4",
-        "remaining": "4.7",
+        "remaining": "4.6",
         "alarm": "Heating exchange fan fault",
         "created": "03/11/2025 12:18:00",
         "hour": "12"
@@ -126,7 +138,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.4",
-        "remaining": "4.7",
+        "remaining": "4.6",
         "alarm": "Optical Fail",
         "created": "03/11/2025 12:18:00",
         "hour": "12"
