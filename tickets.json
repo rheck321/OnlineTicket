@@ -41,8 +41,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "ATS S1 Voltage State",
         "created": "11/11/2025 08:48:01",
         "hour": "8"
@@ -89,8 +89,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "Physical Port Down",
         "created": "11/11/2025 08:01:00",
         "hour": "8"
@@ -108,37 +108,13 @@
         "hour": "7"
     },
     {
-        "nft": "NFT20251111000298",
-        "site": "PH0800218",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.6",
-        "alarm": "BBU interrupted",
-        "created": "11/11/2025 07:39:00",
-        "hour": "7"
-    },
-    {
-        "nft": "NFT20251111000296",
-        "site": "PH0800312",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "1.4",
-        "remaining": "6.6",
-        "alarm": "Device Powered Off",
-        "created": "11/11/2025 07:39:00",
-        "hour": "7"
-    },
-    {
         "nft": "NFT20251111000285",
         "site": "IBS0710026",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "11/11/2025 07:31:02",
         "hour": "7"
@@ -162,21 +138,9 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "11/11/2025 07:08:00",
-        "hour": "7"
-    },
-    {
-        "nft": "NFT20251111000259",
-        "site": "PH0600300",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "2.0",
-        "remaining": "6.0",
-        "alarm": "Cell out of service",
-        "created": "11/11/2025 07:05:00",
         "hour": "7"
     },
     {
@@ -185,8 +149,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Battery Communication Fail",
         "created": "11/11/2025 06:30:00",
         "hour": "6"
@@ -269,8 +233,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "8.0",
-        "remaining": "0.0",
+        "duration": "-8.0",
+        "remaining": "16.0",
         "alarm": "Device Powered Off",
         "created": "11/11/2025 01:04:01",
         "hour": "1"
@@ -360,18 +324,6 @@
         "hour": "21"
     },
     {
-        "nft": "NFT20251110002636",
-        "site": "PH0800195",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "-3.9",
-        "remaining": "11.9",
-        "alarm": "Cell out of service",
-        "created": "10/11/2025 20:55:00",
-        "hour": "20"
-    },
-    {
         "nft": "NFT20251110002588",
         "site": "PH0800128",
         "area": "LEYTE",
@@ -381,18 +333,6 @@
         "remaining": "-",
         "alarm": "BBU interrupted",
         "created": "10/11/2025 19:59:00",
-        "hour": "19"
-    },
-    {
-        "nft": "NFT20251110002533",
-        "site": "PH0600272",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "-2.2",
-        "remaining": "10.2",
-        "alarm": "Device Powered Off",
-        "created": "10/11/2025 19:15:00",
         "hour": "19"
     },
     {
@@ -449,8 +389,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "10/11/2025 16:13:00",
         "hour": "16"
@@ -461,8 +401,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.2",
-        "remaining": "6.8",
+        "duration": "1.3",
+        "remaining": "6.7",
         "alarm": "RRU interrupted",
         "created": "10/11/2025 15:49:00",
         "hour": "15"
@@ -509,7 +449,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "Standing wave warning",
         "created": "10/11/2025 15:36:00",
@@ -533,7 +473,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.6",
+        "duration": "1.7",
         "remaining": "6.3",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "10/11/2025 15:24:00",
@@ -569,8 +509,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.9",
-        "remaining": "6.1",
+        "duration": "2.0",
+        "remaining": "6.0",
         "alarm": "Optical Fail",
         "created": "10/11/2025 15:07:00",
         "hour": "15"
@@ -642,7 +582,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "RRU interrupted",
         "created": "10/11/2025 11:42:00",
         "hour": "11"
