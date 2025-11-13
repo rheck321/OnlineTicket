@@ -65,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Battery Communication Fail",
         "created": "13/11/2025 16:07:00",
         "hour": "16"
@@ -125,8 +125,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "Device Powered Off",
         "created": "13/11/2025 14:36:00",
         "hour": "14"
@@ -198,7 +198,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "7.8",
-        "remaining": "0.2",
+        "remaining": "0.1",
         "alarm": "Physical Port Down",
         "created": "13/11/2025 10:20:00",
         "hour": "10"
@@ -233,8 +233,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-1.9",
-        "remaining": "9.9",
+        "duration": "-1.8",
+        "remaining": "9.8",
         "alarm": "Device Powered Off",
         "created": "13/11/2025 04:01:00",
         "hour": "4"
@@ -269,8 +269,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.8",
-        "remaining": "6.2",
+        "duration": "1.9",
+        "remaining": "6.1",
         "alarm": "Device Powered Off",
         "created": "13/11/2025 00:19:01",
         "hour": "0"
@@ -317,8 +317,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.1",
-        "remaining": "0.9",
+        "duration": "7.2",
+        "remaining": "0.8",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "12/11/2025 19:01:00",
         "hour": "19"
