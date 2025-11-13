@@ -12,25 +12,13 @@
         "hour": "15"
     },
     {
-        "nft": "NFT20251113000549",
-        "site": "PH0600461",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
-        "alarm": "Device Offline",
-        "created": "13/11/2025 15:04:00",
-        "hour": "15"
-    },
-    {
         "nft": "NFT20251113000548",
         "site": "CO079",
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "ATS S1 Voltage State",
         "created": "13/11/2025 15:02:00",
         "hour": "15"
@@ -41,22 +29,10 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Transmission unit link break",
         "created": "13/11/2025 14:51:00",
-        "hour": "14"
-    },
-    {
-        "nft": "NFT20251113000514",
-        "site": "PH0600304",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
-        "alarm": "Device Offline",
-        "created": "13/11/2025 14:42:00",
         "hour": "14"
     },
     {
@@ -101,8 +77,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "2.6",
-        "remaining": "1.4",
+        "duration": "2.7",
+        "remaining": "1.3",
         "alarm": "The Device is offline",
         "created": "13/11/2025 12:38:00",
         "hour": "12"
@@ -113,8 +89,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "BBU interrupted",
         "created": "13/11/2025 12:33:00",
         "hour": "12"
@@ -161,8 +137,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.9",
-        "remaining": "3.1",
+        "duration": "5.0",
+        "remaining": "3.0",
         "alarm": "Physical Port Down",
         "created": "13/11/2025 10:20:00",
         "hour": "10"
@@ -269,8 +245,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-4.8",
-        "remaining": "12.8",
+        "duration": "-4.7",
+        "remaining": "12.7",
         "alarm": "Device Powered Off",
         "created": "13/11/2025 04:01:00",
         "hour": "4"
@@ -294,7 +270,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-2.5",
-        "remaining": "10.5",
+        "remaining": "10.4",
         "alarm": "Air Conditioner Communication Lost",
         "created": "13/11/2025 01:45:01",
         "hour": "1"
@@ -305,8 +281,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-1.1",
-        "remaining": "9.1",
+        "duration": "-1.0",
+        "remaining": "9.0",
         "alarm": "Device Powered Off",
         "created": "13/11/2025 00:19:01",
         "hour": "0"
@@ -353,8 +329,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "12/11/2025 19:01:00",
         "hour": "19"
