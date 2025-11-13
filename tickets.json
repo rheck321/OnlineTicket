@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "Device Offline",
         "created": "13/11/2025 18:32:00",
         "hour": "18"
@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Device Offline",
         "created": "13/11/2025 17:52:00",
         "hour": "17"
@@ -45,18 +45,6 @@
         "remaining": "6.3",
         "alarm": "Cell out of service",
         "created": "13/11/2025 16:53:00",
-        "hour": "16"
-    },
-    {
-        "nft": "NFT20251113000609",
-        "site": "PH0700431",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "1.8",
-        "remaining": "6.2",
-        "alarm": "Transmission unit link break",
-        "created": "13/11/2025 16:45:00",
         "hour": "16"
     },
     {
@@ -138,7 +126,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.3",
-        "remaining": "3.7",
+        "remaining": "3.6",
         "alarm": "Physical Port Down",
         "created": "13/11/2025 14:16:00",
         "hour": "14"
@@ -173,8 +161,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.0",
-        "remaining": "2.0",
+        "duration": "6.1",
+        "remaining": "1.9",
         "alarm": "BBU interrupted",
         "created": "13/11/2025 12:33:00",
         "hour": "12"
@@ -257,8 +245,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "Air Conditioner Communication Lost",
         "created": "13/11/2025 01:45:01",
         "hour": "1"
@@ -282,7 +270,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-3.4",
-        "remaining": "11.4",
+        "remaining": "11.3",
         "alarm": "Cell out of service",
         "created": "12/11/2025 20:45:00",
         "hour": "20"
@@ -293,8 +281,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.3",
-        "remaining": "1.7",
+        "duration": "6.4",
+        "remaining": "1.6",
         "alarm": "Air Conditioner Communication Lost",
         "created": "12/11/2025 20:15:00",
         "hour": "20"
