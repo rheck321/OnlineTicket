@@ -1,11 +1,23 @@
 {"nftlist":[
     {
+        "nft": "NFT20251118000478",
+        "site": "PH0600366",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "BBU interrupted",
+        "created": "18/11/2025 15:03:00",
+        "hour": "15"
+    },
+    {
         "nft": "NFT20251118000476",
         "site": "PH0600882",
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.1",
+        "duration": "0.2",
         "remaining": "7.8",
         "alarm": "Device Powered Off",
         "created": "18/11/2025 14:57:00",
@@ -48,18 +60,6 @@
         "hour": "14"
     },
     {
-        "nft": "NFT20251118000442",
-        "site": "PH0700072",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.9",
-        "remaining": "7.1",
-        "alarm": "Battery Communication Fail",
-        "created": "18/11/2025 14:12:00",
-        "hour": "14"
-    },
-    {
         "nft": "NFT20251118000440",
         "site": "PH0600235",
         "area": "PANAY",
@@ -69,18 +69,6 @@
         "remaining": "7.0",
         "alarm": "Device Powered Off",
         "created": "18/11/2025 14:08:00",
-        "hour": "14"
-    },
-    {
-        "nft": "NFT20251118000437",
-        "site": "PH0700239",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
-        "alarm": "Battery Communication Fail",
-        "created": "18/11/2025 14:02:00",
         "hour": "14"
     },
     {
@@ -113,8 +101,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "Gen communication status alarm",
         "created": "18/11/2025 12:03:00",
         "hour": "12"
@@ -149,8 +137,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "Cell out of service",
         "created": "18/11/2025 11:34:00",
         "hour": "11"
@@ -162,7 +150,7 @@
         "state": "Processing",
         "severity": "Critical",
         "duration": "3.6",
-        "remaining": "0.4",
+        "remaining": "0.3",
         "alarm": "The Device is offline",
         "created": "18/11/2025 11:29:00",
         "hour": "11"
@@ -173,7 +161,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.8",
+        "duration": "3.9",
         "remaining": "4.2",
         "alarm": "BBU interrupted",
         "created": "18/11/2025 11:17:02",
@@ -185,7 +173,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.3",
+        "duration": "4.4",
         "remaining": "3.6",
         "alarm": "RRU interrupted",
         "created": "18/11/2025 10:45:00",
@@ -197,8 +185,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-7.9",
-        "remaining": "15.9",
+        "duration": "-7.8",
+        "remaining": "15.8",
         "alarm": "Low Liquid Level Alarm shutdown",
         "created": "18/11/2025 06:58:00",
         "hour": "6"
@@ -221,8 +209,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.2",
-        "remaining": "1.8",
+        "duration": "6.3",
+        "remaining": "1.7",
         "alarm": "Cell out of service",
         "created": "17/11/2025 23:00:00",
         "hour": "23"
@@ -233,7 +221,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.9",
+        "duration": "8.0",
         "remaining": "0.1",
         "alarm": "Cell out of service",
         "created": "17/11/2025 19:31:00",
@@ -257,8 +245,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.7",
-        "remaining": "0.3",
+        "duration": "7.8",
+        "remaining": "0.2",
         "alarm": "Cell out of service",
         "created": "17/11/2025 15:23:00",
         "hour": "15"
