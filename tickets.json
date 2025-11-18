@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Device Powered Off",
         "created": "18/11/2025 14:57:00",
         "hour": "14"
@@ -53,8 +53,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "Cell out of service",
         "created": "18/11/2025 12:05:00",
         "hour": "12"
@@ -89,8 +89,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.9",
-        "remaining": "4.1",
+        "duration": "4.0",
+        "remaining": "4.0",
         "alarm": "Cell out of service",
         "created": "18/11/2025 11:34:00",
         "hour": "11"
@@ -101,8 +101,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "4.0",
-        "remaining": "0.0",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "The Device is offline",
         "created": "18/11/2025 11:29:00",
         "hour": "11"
@@ -137,8 +137,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-7.5",
-        "remaining": "15.5",
+        "duration": "-7.4",
+        "remaining": "15.4",
         "alarm": "Low Liquid Level Alarm shutdown",
         "created": "18/11/2025 06:58:00",
         "hour": "6"
@@ -162,7 +162,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.7",
-        "remaining": "1.4",
+        "remaining": "1.3",
         "alarm": "Cell out of service",
         "created": "17/11/2025 23:00:00",
         "hour": "23"
