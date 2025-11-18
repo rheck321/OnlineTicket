@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251118000505",
+        "site": "PH0700046",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Battery Communication Fail",
+        "created": "18/11/2025 15:44:00",
+        "hour": "15"
+    },
+    {
         "nft": "NFT20251118000500",
         "site": "PH0600107",
         "area": "NEGROS",
@@ -90,7 +102,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.9",
-        "remaining": "4.2",
+        "remaining": "4.1",
         "alarm": "Transmission unit link break",
         "created": "18/11/2025 11:54:00",
         "hour": "11"
@@ -197,8 +209,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.2",
-        "remaining": "1.8",
+        "duration": "6.3",
+        "remaining": "1.7",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "17/11/2025 17:31:00",
         "hour": "17"
