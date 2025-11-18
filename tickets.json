@@ -1,24 +1,12 @@
 {"nftlist":[
     {
-        "nft": "NFT20251118000446",
-        "site": "PH0700294",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
-        "alarm": "Device Offline",
-        "created": "18/11/2025 14:21:00",
-        "hour": "14"
-    },
-    {
         "nft": "NFT20251118000442",
         "site": "PH0700072",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Battery Communication Fail",
         "created": "18/11/2025 14:12:00",
         "hour": "14"
@@ -60,37 +48,13 @@
         "hour": "13"
     },
     {
-        "nft": "NFT20251118000376",
-        "site": "PH0700403",
-        "area": "BOHOL",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "1.9",
-        "remaining": "6.0",
-        "alarm": "Cell out of service",
-        "created": "18/11/2025 12:41:00",
-        "hour": "12"
-    },
-    {
-        "nft": "NFT20251118000372",
-        "site": "PH0600285",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "2.1",
-        "remaining": "5.9",
-        "alarm": "Device Offline",
-        "created": "18/11/2025 12:32:00",
-        "hour": "12"
-    },
-    {
         "nft": "NFT20251118000358",
         "site": "PH0700021",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Cell out of service",
         "created": "18/11/2025 12:05:00",
         "hour": "12"
@@ -114,7 +78,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.6",
-        "remaining": "5.4",
+        "remaining": "5.3",
         "alarm": "Air Conditioner Communication Lost",
         "created": "18/11/2025 12:01:00",
         "hour": "12"
@@ -125,8 +89,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Transmission unit link break",
         "created": "18/11/2025 11:54:00",
         "hour": "11"
@@ -149,7 +113,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "3.1",
+        "duration": "3.2",
         "remaining": "0.8",
         "alarm": "The Device is offline",
         "created": "18/11/2025 11:29:00",
@@ -162,7 +126,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.4",
-        "remaining": "4.7",
+        "remaining": "4.6",
         "alarm": "BBU interrupted",
         "created": "18/11/2025 11:17:02",
         "hour": "11"
@@ -246,7 +210,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "7.5",
-        "remaining": "0.6",
+        "remaining": "0.5",
         "alarm": "Cell out of service",
         "created": "17/11/2025 19:31:00",
         "hour": "19"
@@ -257,7 +221,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.1",
+        "duration": "5.2",
         "remaining": "2.9",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "17/11/2025 17:31:00",
@@ -269,8 +233,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.2",
-        "remaining": "0.8",
+        "duration": "7.3",
+        "remaining": "0.7",
         "alarm": "Cell out of service",
         "created": "17/11/2025 15:23:00",
         "hour": "15"
