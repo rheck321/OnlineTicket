@@ -17,8 +17,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Battery Communication Fail",
         "created": "18/11/2025 15:40:00",
         "hour": "15"
@@ -29,8 +29,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Battery Communication Fail",
         "created": "18/11/2025 15:29:00",
         "hour": "15"
@@ -72,18 +72,6 @@
         "hour": "13"
     },
     {
-        "nft": "NFT20251118000358",
-        "site": "PH0700021",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "3.8",
-        "remaining": "4.2",
-        "alarm": "Cell out of service",
-        "created": "18/11/2025 12:05:00",
-        "hour": "12"
-    },
-    {
         "nft": "NFT20251118000356",
         "site": "PH0700294",
         "area": "CEBU",
@@ -113,7 +101,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.3",
+        "duration": "4.4",
         "remaining": "3.6",
         "alarm": "Cell out of service",
         "created": "18/11/2025 11:34:00",
@@ -137,8 +125,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.6",
-        "remaining": "3.4",
+        "duration": "4.7",
+        "remaining": "3.3",
         "alarm": "BBU interrupted",
         "created": "18/11/2025 11:17:02",
         "hour": "11"
@@ -162,7 +150,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-7.0",
-        "remaining": "15.1",
+        "remaining": "15.0",
         "alarm": "Low Liquid Level Alarm shutdown",
         "created": "18/11/2025 06:58:00",
         "hour": "6"
@@ -197,8 +185,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-7.3",
-        "remaining": "15.3",
+        "duration": "-7.2",
+        "remaining": "15.2",
         "alarm": "Cell out of service",
         "created": "17/11/2025 19:31:00",
         "hour": "19"
