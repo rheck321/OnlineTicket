@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Battery Communication Fail",
         "created": "18/11/2025 14:02:00",
         "hour": "14"
@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Cell out of service",
         "created": "18/11/2025 13:32:00",
         "hour": "13"
@@ -53,8 +53,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.6",
-        "remaining": "6.4",
+        "duration": "1.7",
+        "remaining": "6.3",
         "alarm": "Device Offline",
         "created": "18/11/2025 12:32:00",
         "hour": "12"
@@ -78,7 +78,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.1",
-        "remaining": "5.9",
+        "remaining": "5.8",
         "alarm": "Gen communication status alarm",
         "created": "18/11/2025 12:03:00",
         "hour": "12"
@@ -89,7 +89,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.1",
+        "duration": "2.2",
         "remaining": "5.8",
         "alarm": "Air Conditioner Communication Lost",
         "created": "18/11/2025 12:01:00",
@@ -161,23 +161,11 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "RRU interrupted",
         "created": "18/11/2025 10:45:00",
         "hour": "10"
-    },
-    {
-        "nft": "NFT20251118000234",
-        "site": "PH0700345",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "5.2",
-        "remaining": "2.8",
-        "alarm": "Device Powered Off",
-        "created": "18/11/2025 08:56:00",
-        "hour": "8"
     },
     {
         "nft": "NFT20251118000213",
@@ -185,22 +173,10 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.7",
-        "remaining": "2.3",
+        "duration": "5.8",
+        "remaining": "2.2",
         "alarm": "Battery Communication Fail",
         "created": "18/11/2025 08:26:00",
-        "hour": "8"
-    },
-    {
-        "nft": "NFT20251118000209",
-        "site": "PH0700359",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "6.0",
-        "remaining": "2.0",
-        "alarm": "Air Conditioner Outer Fan Fault",
-        "created": "18/11/2025 08:09:00",
         "hour": "8"
     },
     {
@@ -210,7 +186,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.5",
-        "remaining": "1.5",
+        "remaining": "1.4",
         "alarm": "Air Conditioner Communication Lost",
         "created": "18/11/2025 07:39:00",
         "hour": "7"
@@ -222,7 +198,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.7",
-        "remaining": "1.4",
+        "remaining": "1.3",
         "alarm": "GPS clock failure",
         "created": "18/11/2025 07:31:00",
         "hour": "7"
@@ -270,7 +246,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "5.3",
-        "remaining": "2.7",
+        "remaining": "2.6",
         "alarm": "Cell out of service",
         "created": "17/11/2025 23:00:00",
         "hour": "23"
@@ -294,7 +270,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.7",
-        "remaining": "3.4",
+        "remaining": "3.3",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "17/11/2025 17:31:00",
         "hour": "17"
