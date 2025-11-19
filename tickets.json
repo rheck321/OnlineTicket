@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251119000350",
+        "site": "PH0700573",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Cell out of service",
+        "created": "19/11/2025 11:35:00",
+        "hour": "11"
+    },
+    {
         "nft": "NFT20251119000341",
         "site": "CO083",
         "area": "CEBU",
@@ -17,8 +29,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Device Offline",
         "created": "19/11/2025 11:23:00",
         "hour": "11"
@@ -41,7 +53,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "7.5",
         "alarm": "RRU interrupted",
         "created": "19/11/2025 11:12:00",
@@ -113,8 +125,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "RRU interrupted",
         "created": "19/11/2025 10:00:00",
         "hour": "10"
@@ -125,8 +137,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.7",
-        "remaining": "2.3",
+        "duration": "1.8",
+        "remaining": "2.2",
         "alarm": "The Device is offline",
         "created": "19/11/2025 10:00:00",
         "hour": "10"
@@ -173,8 +185,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "3.2",
-        "remaining": "0.8",
+        "duration": "3.3",
+        "remaining": "0.7",
         "alarm": "The Device is offline",
         "created": "19/11/2025 08:29:00",
         "hour": "8"
@@ -245,8 +257,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.1",
-        "remaining": "2.9",
+        "duration": "5.2",
+        "remaining": "2.8",
         "alarm": "Physical Port Down",
         "created": "19/11/2025 06:35:00",
         "hour": "6"
@@ -257,8 +269,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.1",
-        "remaining": "2.9",
+        "duration": "5.2",
+        "remaining": "2.8",
         "alarm": "Physical Port Down",
         "created": "19/11/2025 06:35:00",
         "hour": "6"
@@ -269,8 +281,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.1",
-        "remaining": "2.9",
+        "duration": "5.2",
+        "remaining": "2.8",
         "alarm": "Physical Port Down",
         "created": "19/11/2025 06:35:00",
         "hour": "6"
@@ -282,7 +294,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "7.8",
-        "remaining": "0.2",
+        "remaining": "0.1",
         "alarm": "Air Conditioner Communication Lost",
         "created": "19/11/2025 03:54:01",
         "hour": "3"
@@ -353,8 +365,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "GPS clock failure",
         "created": "18/11/2025 19:17:00",
         "hour": "19"
@@ -425,8 +437,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "18/11/2025 17:10:00",
         "hour": "17"
@@ -462,7 +474,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-0.1",
-        "remaining": "8.2",
+        "remaining": "8.1",
         "alarm": "RRU interrupted",
         "created": "18/11/2025 10:45:00",
         "hour": "10"
