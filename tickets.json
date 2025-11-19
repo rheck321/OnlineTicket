@@ -41,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Device Offline",
         "created": "19/11/2025 09:30:00",
         "hour": "9"
@@ -89,8 +89,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.7",
-        "remaining": "2.3",
+        "duration": "1.8",
+        "remaining": "2.2",
         "alarm": "The Device is offline",
         "created": "19/11/2025 08:29:00",
         "hour": "8"
@@ -161,8 +161,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.6",
-        "remaining": "4.4",
+        "duration": "3.7",
+        "remaining": "4.3",
         "alarm": "Physical Port Down",
         "created": "19/11/2025 06:35:00",
         "hour": "6"
@@ -173,8 +173,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.6",
-        "remaining": "4.4",
+        "duration": "3.7",
+        "remaining": "4.3",
         "alarm": "Physical Port Down",
         "created": "19/11/2025 06:35:00",
         "hour": "6"
@@ -185,8 +185,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.6",
-        "remaining": "4.4",
+        "duration": "3.7",
+        "remaining": "4.3",
         "alarm": "Physical Port Down",
         "created": "19/11/2025 06:35:00",
         "hour": "6"
@@ -222,7 +222,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.3",
-        "remaining": "1.7",
+        "remaining": "1.6",
         "alarm": "Air Conditioner Communication Lost",
         "created": "19/11/2025 03:54:01",
         "hour": "3"
@@ -305,8 +305,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-1.1",
-        "remaining": "9.1",
+        "duration": "-1.0",
+        "remaining": "9.0",
         "alarm": "GPS clock failure",
         "created": "18/11/2025 19:17:00",
         "hour": "19"
@@ -365,8 +365,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "RRU interrupted",
         "created": "18/11/2025 17:30:00",
         "hour": "17"
@@ -378,7 +378,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "18/11/2025 17:10:00",
         "hour": "17"
@@ -414,7 +414,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-1.6",
-        "remaining": "9.7",
+        "remaining": "9.6",
         "alarm": "RRU interrupted",
         "created": "18/11/2025 10:45:00",
         "hour": "10"
