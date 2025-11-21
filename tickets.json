@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Optical Fail",
         "created": "21/11/2025 10:52:00",
         "hour": "10"
@@ -65,8 +65,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "The Device is offline",
         "created": "21/11/2025 07:15:00",
         "hour": "7"
@@ -270,7 +270,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "5.8",
-        "remaining": "2.2",
+        "remaining": "2.1",
         "alarm": "Battery Communication Fail",
         "created": "20/11/2025 17:07:00",
         "hour": "17"
@@ -293,8 +293,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.2",
-        "remaining": "2.8",
+        "duration": "5.3",
+        "remaining": "2.7",
         "alarm": "Optical Fail",
         "created": "20/11/2025 14:03:00",
         "hour": "14"
