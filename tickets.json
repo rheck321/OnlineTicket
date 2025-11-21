@@ -41,8 +41,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Optical Fail",
         "created": "21/11/2025 11:14:00",
         "hour": "11"
@@ -77,8 +77,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "Pico RRU not connected",
         "created": "21/11/2025 07:31:00",
         "hour": "7"
@@ -89,8 +89,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "Physical Port Down",
         "created": "21/11/2025 07:19:00",
         "hour": "7"
@@ -114,7 +114,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.3",
-        "remaining": "3.7",
+        "remaining": "3.6",
         "alarm": "The Device is offline",
         "created": "21/11/2025 07:15:00",
         "hour": "7"
@@ -149,8 +149,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.0",
-        "remaining": "3.0",
+        "duration": "5.1",
+        "remaining": "2.9",
         "alarm": "Battery Communication Fail",
         "created": "21/11/2025 06:32:00",
         "hour": "6"
@@ -353,8 +353,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.0",
-        "remaining": "1.0",
+        "duration": "7.1",
+        "remaining": "0.9",
         "alarm": "Cell out of service",
         "created": "20/11/2025 12:32:00",
         "hour": "12"
