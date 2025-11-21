@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251121000344",
+        "site": "PH0700296",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Optical Fail",
+        "created": "21/11/2025 10:52:00",
+        "hour": "10"
+    },
+    {
         "nft": "NFT20251121000187",
         "site": "IBS0710064",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
         "duration": "3.4",
-        "remaining": "4.7",
+        "remaining": "4.6",
         "alarm": "Pico RRU not connected",
         "created": "21/11/2025 07:31:00",
         "hour": "7"
@@ -17,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "Physical Port Down",
         "created": "21/11/2025 07:19:00",
         "hour": "7"
@@ -42,7 +54,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.6",
-        "remaining": "4.4",
+        "remaining": "4.3",
         "alarm": "The Device is offline",
         "created": "21/11/2025 07:15:00",
         "hour": "7"
@@ -77,8 +89,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.3",
-        "remaining": "3.7",
+        "duration": "4.4",
+        "remaining": "3.6",
         "alarm": "Battery Communication Fail",
         "created": "21/11/2025 06:32:00",
         "hour": "6"
@@ -282,7 +294,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.8",
-        "remaining": "3.2",
+        "remaining": "3.1",
         "alarm": "Optical Fail",
         "created": "20/11/2025 14:03:00",
         "hour": "14"
@@ -293,8 +305,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.3",
-        "remaining": "1.7",
+        "duration": "6.4",
+        "remaining": "1.6",
         "alarm": "Cell out of service",
         "created": "20/11/2025 12:32:00",
         "hour": "12"
