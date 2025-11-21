@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "Transmission unit link break",
         "created": "21/11/2025 11:59:00",
         "hour": "11"
@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "7.9",
+        "remaining": "7.8",
         "alarm": "BBU interrupted",
         "created": "21/11/2025 11:55:00",
         "hour": "11"
@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Battery Communication Fail",
         "created": "21/11/2025 11:48:00",
         "hour": "11"
@@ -42,7 +42,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Air Conditioner Communication Lost",
         "created": "21/11/2025 11:29:00",
         "hour": "11"
@@ -54,7 +54,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Air Conditioner Communication Lost",
         "created": "21/11/2025 11:29:00",
         "hour": "11"
@@ -137,8 +137,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.7",
-        "remaining": "3.3",
+        "duration": "4.8",
+        "remaining": "3.2",
         "alarm": "Physical Port Down",
         "created": "21/11/2025 07:19:00",
         "hour": "7"
@@ -173,8 +173,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.2",
-        "remaining": "2.8",
+        "duration": "5.3",
+        "remaining": "2.7",
         "alarm": "Cell24 Over Resistance Alarm",
         "created": "21/11/2025 06:47:00",
         "hour": "6"
@@ -185,8 +185,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.3",
-        "remaining": "2.7",
+        "duration": "5.4",
+        "remaining": "2.6",
         "alarm": "Physical Port Down",
         "created": "21/11/2025 06:42:00",
         "hour": "6"
@@ -234,7 +234,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.4",
-        "remaining": "4.7",
+        "remaining": "4.6",
         "alarm": "BBU interrupted",
         "created": "20/11/2025 20:52:00",
         "hour": "20"
@@ -258,7 +258,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "7.5",
-        "remaining": "0.6",
+        "remaining": "0.5",
         "alarm": "Cell out of service",
         "created": "20/11/2025 19:59:00",
         "hour": "19"
@@ -269,8 +269,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.1",
-        "remaining": "3.9",
+        "duration": "4.2",
+        "remaining": "3.8",
         "alarm": "Cell out of service",
         "created": "20/11/2025 19:37:01",
         "hour": "19"
@@ -281,8 +281,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.8",
-        "remaining": "3.2",
+        "duration": "4.9",
+        "remaining": "3.1",
         "alarm": "Cell out of service",
         "created": "20/11/2025 18:53:00",
         "hour": "18"
@@ -293,8 +293,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.7",
-        "remaining": "2.3",
+        "duration": "5.8",
+        "remaining": "2.2",
         "alarm": "RRU interrupted",
         "created": "20/11/2025 17:51:00",
         "hour": "17"
