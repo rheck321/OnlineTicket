@@ -29,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.3",
-        "remaining": "4.7",
+        "duration": "3.4",
+        "remaining": "4.6",
         "alarm": "Physical Port Down",
         "created": "21/11/2025 07:17:00",
         "hour": "7"
@@ -53,8 +53,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.8",
-        "remaining": "4.2",
+        "duration": "3.9",
+        "remaining": "4.1",
         "alarm": "Cell24 Over Resistance Alarm",
         "created": "21/11/2025 06:47:00",
         "hour": "6"
@@ -65,8 +65,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.9",
-        "remaining": "4.1",
+        "duration": "4.0",
+        "remaining": "4.0",
         "alarm": "Physical Port Down",
         "created": "21/11/2025 06:42:00",
         "hour": "6"
@@ -89,8 +89,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.0",
-        "remaining": "3.0",
+        "duration": "5.1",
+        "remaining": "2.9",
         "alarm": "Cell out of service",
         "created": "21/11/2025 05:35:00",
         "hour": "5"
@@ -126,7 +126,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.9",
-        "remaining": "4.2",
+        "remaining": "4.1",
         "alarm": "Device Powered Off",
         "created": "21/11/2025 00:29:00",
         "hour": "0"
@@ -138,7 +138,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.9",
-        "remaining": "6.2",
+        "remaining": "6.1",
         "alarm": "The Device is offline",
         "created": "21/11/2025 00:20:00",
         "hour": "0"
@@ -150,7 +150,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "Transmission unit link break",
         "created": "21/11/2025 00:17:00",
         "hour": "0"
@@ -161,8 +161,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.9",
-        "remaining": "6.1",
+        "duration": "2.0",
+        "remaining": "6.0",
         "alarm": "BBU interrupted",
         "created": "20/11/2025 20:52:00",
         "hour": "20"
@@ -197,8 +197,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.0",
-        "remaining": "2.0",
+        "duration": "6.1",
+        "remaining": "1.9",
         "alarm": "Cell out of service",
         "created": "20/11/2025 19:59:00",
         "hour": "19"
@@ -209,8 +209,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Cell out of service",
         "created": "20/11/2025 19:37:01",
         "hour": "19"
@@ -221,8 +221,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "Cell out of service",
         "created": "20/11/2025 18:53:00",
         "hour": "18"
@@ -234,7 +234,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.3",
-        "remaining": "3.7",
+        "remaining": "3.6",
         "alarm": "RRU interrupted",
         "created": "20/11/2025 17:51:00",
         "hour": "17"
@@ -245,8 +245,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.4",
-        "remaining": "3.6",
+        "duration": "4.5",
+        "remaining": "3.5",
         "alarm": "Optical Fail",
         "created": "20/11/2025 17:45:00",
         "hour": "17"
@@ -258,7 +258,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "5.2",
-        "remaining": "2.9",
+        "remaining": "2.8",
         "alarm": "Battery Communication Fail",
         "created": "20/11/2025 17:07:00",
         "hour": "17"
