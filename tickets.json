@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251121000455",
+        "site": "PH0600554",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Optical Fail",
+        "created": "21/11/2025 13:42:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20251121000453",
         "site": "PH0700327",
         "area": "CEBU",
@@ -34,30 +46,6 @@
         "alarm": "The Device is offline",
         "created": "21/11/2025 13:02:00",
         "hour": "13"
-    },
-    {
-        "nft": "NFT20251121000433",
-        "site": "PH0700025",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.7",
-        "remaining": "7.3",
-        "alarm": "Low oil pressure shutdown",
-        "created": "21/11/2025 12:59:00",
-        "hour": "12"
-    },
-    {
-        "nft": "NFT20251121000432",
-        "site": "PH0700025",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.8",
-        "remaining": "7.2",
-        "alarm": "High coolant temperature shutdown alarm",
-        "created": "21/11/2025 12:58:00",
-        "hour": "12"
     },
     {
         "nft": "NFT20251121000428",
@@ -96,24 +84,12 @@
         "hour": "12"
     },
     {
-        "nft": "NFT20251121000418",
-        "site": "PH0800090",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "1.0",
-        "remaining": "7.0",
-        "alarm": "Transmission unit link break",
-        "created": "21/11/2025 12:44:00",
-        "hour": "12"
-    },
-    {
         "nft": "NFT20251121000410",
         "site": "PH0800092",
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.1",
+        "duration": "1.2",
         "remaining": "6.8",
         "alarm": "RRU interrupted",
         "created": "21/11/2025 12:34:00",
@@ -137,8 +113,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.3",
-        "remaining": "6.7",
+        "duration": "1.4",
+        "remaining": "6.6",
         "alarm": "Gen communication status alarm",
         "created": "21/11/2025 12:23:00",
         "hour": "12"
@@ -149,8 +125,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Cell out of service",
         "created": "21/11/2025 12:17:00",
         "hour": "12"
@@ -161,8 +137,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Transmission unit link break",
         "created": "21/11/2025 11:59:00",
         "hour": "11"
@@ -186,7 +162,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "Battery Communication Fail",
         "created": "21/11/2025 11:48:00",
         "hour": "11"
@@ -197,8 +173,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Air Conditioner Communication Lost",
         "created": "21/11/2025 11:29:00",
         "hour": "11"
@@ -209,8 +185,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Air Conditioner Communication Lost",
         "created": "21/11/2025 11:29:00",
         "hour": "11"
@@ -221,8 +197,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "Device Powered Off",
         "created": "21/11/2025 11:17:00",
         "hour": "11"
@@ -246,7 +222,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.9",
-        "remaining": "5.2",
+        "remaining": "5.1",
         "alarm": "Optical Fail",
         "created": "21/11/2025 10:52:00",
         "hour": "10"
@@ -281,8 +257,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.4",
-        "remaining": "1.6",
+        "duration": "6.5",
+        "remaining": "1.5",
         "alarm": "Physical Port Down",
         "created": "21/11/2025 07:17:00",
         "hour": "7"
@@ -306,7 +282,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "7.0",
-        "remaining": "1.0",
+        "remaining": "0.9",
         "alarm": "Physical Port Down",
         "created": "21/11/2025 06:42:00",
         "hour": "6"
@@ -330,7 +306,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "7.0",
-        "remaining": "1.1",
+        "remaining": "1.0",
         "alarm": "Device Powered Off",
         "created": "21/11/2025 00:29:00",
         "hour": "0"
@@ -341,7 +317,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.6",
+        "duration": "1.7",
         "remaining": "6.3",
         "alarm": "The Device is offline",
         "created": "21/11/2025 00:20:00",
@@ -353,8 +329,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.0",
-        "remaining": "3.0",
+        "duration": "5.1",
+        "remaining": "2.9",
         "alarm": "BBU interrupted",
         "created": "20/11/2025 20:52:00",
         "hour": "20"
@@ -377,8 +353,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-6.9",
-        "remaining": "14.9",
+        "duration": "-6.8",
+        "remaining": "14.8",
         "alarm": "Cell out of service",
         "created": "20/11/2025 19:59:00",
         "hour": "19"
@@ -390,7 +366,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.5",
-        "remaining": "1.5",
+        "remaining": "1.4",
         "alarm": "Cell out of service",
         "created": "20/11/2025 18:53:00",
         "hour": "18"
@@ -401,7 +377,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.4",
+        "duration": "7.5",
         "remaining": "0.6",
         "alarm": "RRU interrupted",
         "created": "20/11/2025 17:51:00",
