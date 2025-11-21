@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "Optical Fail",
         "created": "21/11/2025 13:42:00",
         "hour": "13"
@@ -30,7 +30,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.9",
-        "remaining": "6.2",
+        "remaining": "6.1",
         "alarm": "Battery Communication Fail",
         "created": "21/11/2025 12:54:00",
         "hour": "12"
@@ -65,8 +65,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Cell out of service",
         "created": "21/11/2025 12:30:00",
         "hour": "12"
@@ -113,8 +113,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.8",
-        "remaining": "5.2",
+        "duration": "2.9",
+        "remaining": "5.1",
         "alarm": "BBU interrupted",
         "created": "21/11/2025 11:55:00",
         "hour": "11"
@@ -173,8 +173,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.2",
-        "remaining": "0.8",
+        "duration": "7.3",
+        "remaining": "0.7",
         "alarm": "Pico RRU not connected",
         "created": "21/11/2025 07:31:00",
         "hour": "7"
@@ -185,8 +185,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.4",
-        "remaining": "0.6",
+        "duration": "7.5",
+        "remaining": "0.5",
         "alarm": "Physical Port Down",
         "created": "21/11/2025 07:19:00",
         "hour": "7"
@@ -281,8 +281,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.5",
-        "remaining": "0.5",
+        "duration": "7.6",
+        "remaining": "0.4",
         "alarm": "Cell out of service",
         "created": "20/11/2025 18:53:00",
         "hour": "18"
@@ -294,7 +294,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-7.5",
-        "remaining": "15.6",
+        "remaining": "15.5",
         "alarm": "RRU interrupted",
         "created": "20/11/2025 17:51:00",
         "hour": "17"
