@@ -29,7 +29,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "21/11/2025 12:54:00",
@@ -42,7 +42,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "21/11/2025 12:44:00",
         "hour": "12"
@@ -66,7 +66,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.9",
-        "remaining": "6.2",
+        "remaining": "6.1",
         "alarm": "Cell out of service",
         "created": "21/11/2025 12:30:00",
         "hour": "12"
@@ -113,8 +113,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "BBU interrupted",
         "created": "21/11/2025 11:55:00",
         "hour": "11"
@@ -125,8 +125,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Battery Communication Fail",
         "created": "21/11/2025 11:48:00",
         "hour": "11"
@@ -162,7 +162,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.1",
-        "remaining": "4.9",
+        "remaining": "4.8",
         "alarm": "Optical Fail",
         "created": "21/11/2025 11:14:00",
         "hour": "11"
@@ -185,8 +185,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.8",
-        "remaining": "1.2",
+        "duration": "6.9",
+        "remaining": "1.1",
         "alarm": "Pico RRU not connected",
         "created": "21/11/2025 07:31:00",
         "hour": "7"
@@ -197,8 +197,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.0",
-        "remaining": "1.0",
+        "duration": "7.1",
+        "remaining": "0.9",
         "alarm": "Physical Port Down",
         "created": "21/11/2025 07:19:00",
         "hour": "7"
@@ -238,18 +238,6 @@
         "alarm": "Modem part unlock",
         "created": "21/11/2025 01:50:11",
         "hour": "1"
-    },
-    {
-        "nft": "NFT20251121000023",
-        "site": "PH0800451",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "7.6",
-        "remaining": "0.4",
-        "alarm": "Device Powered Off",
-        "created": "21/11/2025 00:29:00",
-        "hour": "0"
     },
     {
         "nft": "NFT20251121000019",
@@ -317,7 +305,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-8.0",
+        "duration": "-7.9",
         "remaining": "15.9",
         "alarm": "RRU interrupted",
         "created": "20/11/2025 17:51:00",
