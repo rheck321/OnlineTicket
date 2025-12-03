@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Device Offline",
         "created": "03/12/2025 16:59:00",
         "hour": "16"
@@ -66,7 +66,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.4",
-        "remaining": "4.7",
+        "remaining": "4.6",
         "alarm": "RRU interrupted",
         "created": "03/12/2025 14:21:00",
         "hour": "14"
@@ -77,8 +77,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "Cell out of service",
         "created": "03/12/2025 14:17:00",
         "hour": "14"
@@ -113,8 +113,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.3",
-        "remaining": "0.7",
+        "duration": "7.4",
+        "remaining": "0.6",
         "alarm": "Physical Port Down",
         "created": "03/12/2025 10:21:00",
         "hour": "10"
@@ -149,8 +149,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-7.4",
-        "remaining": "15.4",
+        "duration": "-7.3",
+        "remaining": "15.3",
         "alarm": "RRU interrupted",
         "created": "03/12/2025 09:04:00",
         "hour": "9"
@@ -198,7 +198,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-6.0",
-        "remaining": "14.1",
+        "remaining": "14.0",
         "alarm": "Cell out of service",
         "created": "02/12/2025 22:19:00",
         "hour": "22"
@@ -209,8 +209,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-6.7",
-        "remaining": "14.7",
+        "duration": "-6.6",
+        "remaining": "14.6",
         "alarm": "Low fuel level alarm",
         "created": "02/12/2025 22:02:00",
         "hour": "22"
@@ -246,7 +246,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-2.6",
-        "remaining": "10.7",
+        "remaining": "10.6",
         "alarm": "Cell out of service",
         "created": "02/12/2025 18:11:01",
         "hour": "18"
@@ -305,8 +305,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.9",
-        "remaining": "6.1",
+        "duration": "2.0",
+        "remaining": "6.0",
         "alarm": "Gen communication status alarm",
         "created": "02/12/2025 13:29:00",
         "hour": "13"
