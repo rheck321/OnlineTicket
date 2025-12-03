@@ -12,6 +12,18 @@
         "hour": "15"
     },
     {
+        "nft": "NFT20251203000879",
+        "site": "PH0700671",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Offline",
+        "created": "03/12/2025 15:17:00",
+        "hour": "15"
+    },
+    {
         "nft": "NFT20251203000868",
         "site": "PH0700251",
         "area": "CEBU",
@@ -29,8 +41,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "RRU interrupted",
         "created": "03/12/2025 14:21:00",
         "hour": "14"
@@ -77,8 +89,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.0",
-        "remaining": "3.0",
+        "duration": "5.1",
+        "remaining": "2.9",
         "alarm": "Physical Port Down",
         "created": "03/12/2025 10:21:00",
         "hour": "10"
@@ -126,7 +138,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.3",
-        "remaining": "1.7",
+        "remaining": "1.6",
         "alarm": "RRU interrupted",
         "created": "03/12/2025 09:04:00",
         "hour": "9"
@@ -185,8 +197,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.6",
-        "remaining": "0.4",
+        "duration": "7.7",
+        "remaining": "0.3",
         "alarm": "Cell out of service",
         "created": "02/12/2025 22:19:00",
         "hour": "22"
@@ -198,7 +210,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "7.0",
-        "remaining": "1.0",
+        "remaining": "0.9",
         "alarm": "Low fuel level alarm",
         "created": "02/12/2025 22:02:00",
         "hour": "22"
@@ -233,8 +245,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-5.0",
-        "remaining": "13.0",
+        "duration": "-4.9",
+        "remaining": "12.9",
         "alarm": "Cell out of service",
         "created": "02/12/2025 18:11:01",
         "hour": "18"
@@ -245,8 +257,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.5",
-        "remaining": "0.5",
+        "duration": "7.6",
+        "remaining": "0.4",
         "alarm": "Optical Fail",
         "created": "02/12/2025 15:50:00",
         "hour": "15"
@@ -293,8 +305,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-0.4",
-        "remaining": "8.4",
+        "duration": "-0.3",
+        "remaining": "8.3",
         "alarm": "Gen communication status alarm",
         "created": "02/12/2025 13:29:00",
         "hour": "13"
@@ -305,8 +317,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-2.7",
-        "remaining": "10.7",
+        "duration": "-2.6",
+        "remaining": "10.6",
         "alarm": "Cell out of service",
         "created": "02/12/2025 10:47:00",
         "hour": "10"
