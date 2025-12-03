@@ -12,6 +12,18 @@
         "hour": "10"
     },
     {
+        "nft": "NFT20251203000731",
+        "site": "CO101",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Non automatic state",
+        "created": "03/12/2025 10:50:01",
+        "hour": "10"
+    },
+    {
         "nft": "NFT20251203000721",
         "site": "PH0700305",
         "area": "CEBU",
@@ -41,8 +53,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Physical Port Down",
         "created": "03/12/2025 10:18:00",
         "hour": "10"
@@ -54,7 +66,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.9",
-        "remaining": "7.1",
+        "remaining": "7.0",
         "alarm": "Cell out of service",
         "created": "03/12/2025 10:01:00",
         "hour": "10"
@@ -77,7 +89,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.0",
+        "duration": "1.1",
         "remaining": "7.0",
         "alarm": "Optical Fail",
         "created": "03/12/2025 09:55:00",
@@ -90,7 +102,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "6.9",
+        "remaining": "6.8",
         "alarm": "Physical Port Down",
         "created": "03/12/2025 09:49:01",
         "hour": "9"
@@ -101,8 +113,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.2",
-        "remaining": "6.8",
+        "duration": "1.3",
+        "remaining": "6.7",
         "alarm": "Cell out of service",
         "created": "03/12/2025 09:41:00",
         "hour": "9"
@@ -149,8 +161,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "03/12/2025 07:31:01",
         "hour": "7"
@@ -185,8 +197,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Comm. Lost",
         "created": "03/12/2025 03:46:04",
         "hour": "3"
@@ -197,8 +209,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Air Conditioner Communication Lost",
         "created": "03/12/2025 03:11:01",
         "hour": "3"
@@ -209,8 +221,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Air Conditioner Communication Lost",
         "created": "03/12/2025 03:11:00",
         "hour": "3"
@@ -245,8 +257,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.4",
-        "remaining": "2.6",
+        "duration": "5.5",
+        "remaining": "2.5",
         "alarm": "The Equipment is offline(DATA)",
         "created": "02/12/2025 20:55:00",
         "hour": "20"
