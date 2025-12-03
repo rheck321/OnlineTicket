@@ -29,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Device Offline",
         "created": "03/12/2025 15:41:00",
         "hour": "15"
@@ -77,8 +77,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Cell out of service",
         "created": "03/12/2025 14:17:00",
         "hour": "14"
@@ -210,7 +210,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-7.5",
-        "remaining": "15.6",
+        "remaining": "15.5",
         "alarm": "Low fuel level alarm",
         "created": "02/12/2025 22:02:00",
         "hour": "22"
@@ -306,7 +306,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "Gen communication status alarm",
         "created": "02/12/2025 13:29:00",
         "hour": "13"
