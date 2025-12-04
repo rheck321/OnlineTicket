@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251204000328",
+        "site": "PH0600298",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Critical",
+        "duration": "0.1",
+        "remaining": "3.9",
+        "alarm": "The Device is offline",
+        "created": "04/12/2025 13:38:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20251204000312",
         "site": "PH0700320",
         "area": "CEBU",
@@ -18,7 +30,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.9",
-        "remaining": "7.1",
+        "remaining": "7.0",
         "alarm": "Device Powered Off",
         "created": "04/12/2025 12:49:00",
         "hour": "12"
@@ -27,10 +39,10 @@
         "nft": "NFT20251204000295",
         "site": "PH0600666",
         "area": "NEGROS",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "1.2",
-        "remaining": "6.8",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Device Offline",
         "created": "04/12/2025 12:31:00",
         "hour": "12"
@@ -89,8 +101,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "The Equipment is offline(DATA)",
         "created": "04/12/2025 10:30:00",
         "hour": "10"
@@ -101,8 +113,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "Cell out of service",
         "created": "04/12/2025 10:28:00",
         "hour": "10"
@@ -257,8 +269,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.0",
-        "remaining": "3.0",
+        "duration": "5.1",
+        "remaining": "2.9",
         "alarm": "Transmission unit link break",
         "created": "04/12/2025 08:42:00",
         "hour": "8"
@@ -293,8 +305,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.1",
-        "remaining": "1.9",
+        "duration": "6.2",
+        "remaining": "1.8",
         "alarm": "Air Conditioner Communication Lost",
         "created": "04/12/2025 07:35:00",
         "hour": "7"
@@ -305,8 +317,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.1",
-        "remaining": "1.9",
+        "duration": "6.2",
+        "remaining": "1.8",
         "alarm": "Air Conditioner Communication Lost",
         "created": "04/12/2025 07:35:00",
         "hour": "7"
@@ -318,7 +330,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "6.3",
-        "remaining": "1.7",
+        "remaining": "1.6",
         "alarm": "The Device is offline",
         "created": "04/12/2025 07:25:00",
         "hour": "7"
@@ -353,8 +365,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.1",
-        "remaining": "0.9",
+        "duration": "7.2",
+        "remaining": "0.8",
         "alarm": "Standing wave warning",
         "created": "04/12/2025 06:37:00",
         "hour": "6"
@@ -653,8 +665,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.1",
-        "remaining": "2.9",
+        "duration": "5.2",
+        "remaining": "2.8",
         "alarm": "Transmission unit link break",
         "created": "03/12/2025 23:29:00",
         "hour": "23"
@@ -857,8 +869,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "Air Conditioner Inner Fan Fault",
         "created": "03/12/2025 18:11:00",
         "hour": "18"
@@ -882,7 +894,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-7.0",
-        "remaining": "15.0",
+        "remaining": "14.9",
         "alarm": "Cell out of service",
         "created": "03/12/2025 18:05:01",
         "hour": "18"
@@ -1073,8 +1085,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-3.8",
-        "remaining": "11.8",
+        "duration": "-3.7",
+        "remaining": "11.7",
         "alarm": "Cell out of service",
         "created": "03/12/2025 14:17:00",
         "hour": "14"
