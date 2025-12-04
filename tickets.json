@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251204000307",
+        "site": "PH0600526",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Powered Off",
+        "created": "04/12/2025 12:49:00",
+        "hour": "12"
+    },
+    {
         "nft": "NFT20251204000295",
         "site": "PH0600666",
         "area": "NEGROS",
@@ -54,7 +66,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "Comm. Lost",
         "created": "04/12/2025 10:33:01",
         "hour": "10"
@@ -77,8 +89,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "Cell out of service",
         "created": "04/12/2025 10:28:00",
         "hour": "10"
@@ -258,7 +270,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.7",
-        "remaining": "3.4",
+        "remaining": "3.3",
         "alarm": "Battery Communication Fail",
         "created": "04/12/2025 08:15:00",
         "hour": "8"
@@ -270,7 +282,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "5.3",
-        "remaining": "2.7",
+        "remaining": "2.6",
         "alarm": "Air Conditioner Communication Lost",
         "created": "04/12/2025 07:35:00",
         "hour": "7"
@@ -282,7 +294,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "5.3",
-        "remaining": "2.7",
+        "remaining": "2.6",
         "alarm": "Air Conditioner Communication Lost",
         "created": "04/12/2025 07:35:00",
         "hour": "7"
@@ -773,7 +785,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.1",
+        "duration": "6.2",
         "remaining": "1.9",
         "alarm": "Low Liquid Level Alarm shutdown",
         "created": "03/12/2025 19:38:00",
@@ -833,8 +845,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Air Conditioner Inner Fan Fault",
         "created": "03/12/2025 18:11:00",
         "hour": "18"
@@ -1026,7 +1038,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-5.0",
-        "remaining": "13.1",
+        "remaining": "13.0",
         "alarm": "Optical port link fault",
         "created": "03/12/2025 14:38:00",
         "hour": "14"
@@ -1253,7 +1265,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-0.5",
+        "duration": "-0.4",
         "remaining": "8.4",
         "alarm": "Cell out of service",
         "created": "03/12/2025 10:01:00",
