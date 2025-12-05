@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251205000946",
+        "site": "PH0600508",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Cell out of service",
+        "created": "05/12/2025 12:38:00",
+        "hour": "12"
+    },
+    {
         "nft": "NFT20251205000940",
         "site": "PH0700236",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Battery Communication Fail",
         "created": "05/12/2025 12:22:00",
         "hour": "12"
@@ -18,7 +30,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Temperature",
         "created": "05/12/2025 12:09:00",
         "hour": "12"
@@ -53,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Cell out of service",
         "created": "05/12/2025 10:40:02",
         "hour": "10"
@@ -89,8 +101,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "05/12/2025 09:47:00",
         "hour": "9"
@@ -941,8 +953,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.6",
-        "remaining": "0.4",
+        "duration": "7.7",
+        "remaining": "0.3",
         "alarm": "Device Powered Off",
         "created": "04/12/2025 18:07:00",
         "hour": "18"
@@ -989,8 +1001,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.7",
-        "remaining": "0.3",
+        "duration": "7.8",
+        "remaining": "0.2",
         "alarm": "Physical Port Down",
         "created": "04/12/2025 18:01:00",
         "hour": "18"
@@ -1065,18 +1077,6 @@
         "remaining": "-",
         "alarm": "Optical Fail",
         "created": "04/12/2025 17:30:00",
-        "hour": "17"
-    },
-    {
-        "nft": "NFT20251204000444",
-        "site": "CO101",
-        "area": "CEBU",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "S1 switch state",
-        "created": "04/12/2025 17:29:00",
         "hour": "17"
     }
 ]}
