@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251205000959",
+        "site": "PH0700679",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Air Conditioner Outer Fan Fault",
+        "created": "05/12/2025 12:57:00",
+        "hour": "12"
+    },
+    {
         "nft": "NFT20251205000950",
         "site": "PH0600285",
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Cabinet Flood Alarm",
         "created": "05/12/2025 12:43:00",
         "hour": "12"
@@ -17,8 +29,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Cell out of service",
         "created": "05/12/2025 12:38:00",
         "hour": "12"
@@ -101,8 +113,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.3",
-        "remaining": "5.7",
+        "duration": "2.4",
+        "remaining": "5.6",
         "alarm": "Device Powered Off",
         "created": "05/12/2025 10:38:00",
         "hour": "10"
@@ -197,8 +209,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.0",
-        "remaining": "3.0",
+        "duration": "5.1",
+        "remaining": "2.9",
         "alarm": "BBU interrupted",
         "created": "05/12/2025 07:55:00",
         "hour": "7"
@@ -797,8 +809,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.3",
-        "remaining": "3.7",
+        "duration": "4.4",
+        "remaining": "3.6",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "04/12/2025 21:45:00",
         "hour": "21"
@@ -965,8 +977,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.1",
-        "remaining": "0.9",
+        "duration": "7.2",
+        "remaining": "0.8",
         "alarm": "Battery Communication Fail",
         "created": "04/12/2025 18:53:00",
         "hour": "18"
@@ -1089,18 +1101,6 @@
         "remaining": "-",
         "alarm": "Generator status",
         "created": "04/12/2025 17:31:00",
-        "hour": "17"
-    },
-    {
-        "nft": "NFT20251204000446",
-        "site": "PH0700371",
-        "area": "NEGROS",
-        "state": "Finished",
-        "severity": "Minor",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Optical Fail",
-        "created": "04/12/2025 17:30:00",
         "hour": "17"
     }
 ]}
