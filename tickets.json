@@ -1,17 +1,5 @@
 {"nftlist":[
     {
-        "nft": "NFT20251205000907",
-        "site": "PH0600312",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.8",
-        "remaining": "7.2",
-        "alarm": "Cell out of service",
-        "created": "05/12/2025 11:17:00",
-        "hour": "11"
-    },
-    {
         "nft": "NFT20251205000902",
         "site": "PH0600285",
         "area": "NEGROS",
@@ -54,7 +42,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Device Powered Off",
         "created": "05/12/2025 10:38:00",
         "hour": "10"
@@ -65,8 +53,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "05/12/2025 09:47:00",
         "hour": "9"
@@ -149,8 +137,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.1",
-        "remaining": "3.9",
+        "duration": "4.2",
+        "remaining": "3.8",
         "alarm": "BBU interrupted",
         "created": "05/12/2025 07:55:00",
         "hour": "7"
@@ -449,7 +437,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "3.9",
+        "duration": "4.0",
         "remaining": "0.1",
         "alarm": "The Device is offline",
         "created": "05/12/2025 01:32:01",
