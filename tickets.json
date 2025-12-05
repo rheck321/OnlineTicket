@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251205000973",
+        "site": "PH0600708",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.3",
+        "remaining": "7.7",
+        "alarm": "Battery Communication Fail",
+        "created": "05/12/2025 13:17:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20251205000959",
         "site": "PH0700679",
         "area": "CEBU",
@@ -17,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "Cabinet Flood Alarm",
         "created": "05/12/2025 12:43:00",
         "hour": "12"
@@ -30,7 +42,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.9",
-        "remaining": "7.1",
+        "remaining": "7.0",
         "alarm": "Cell out of service",
         "created": "05/12/2025 12:38:00",
         "hour": "12"
@@ -113,8 +125,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "Device Powered Off",
         "created": "05/12/2025 10:38:00",
         "hour": "10"
@@ -809,8 +821,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.9",
-        "remaining": "3.1",
+        "duration": "5.0",
+        "remaining": "3.0",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "04/12/2025 21:45:00",
         "hour": "21"
