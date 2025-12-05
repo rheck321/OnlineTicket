@@ -1,5 +1,29 @@
 {"nftlist":[
     {
+        "nft": "NFT20251205000982",
+        "site": "PH0700277",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "BBU interrupted",
+        "created": "05/12/2025 13:55:00",
+        "hour": "13"
+    },
+    {
+        "nft": "NFT20251205000979",
+        "site": "PH0700053",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.3",
+        "remaining": "7.7",
+        "alarm": "Board communication link failure",
+        "created": "05/12/2025 13:51:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20251205000973",
         "site": "PH0600708",
         "area": "PANAY",
@@ -17,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "05/12/2025 12:57:00",
         "hour": "12"
@@ -41,7 +65,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "Cell out of service",
         "created": "05/12/2025 12:38:00",
@@ -53,8 +77,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Battery Communication Fail",
         "created": "05/12/2025 12:22:00",
         "hour": "12"
@@ -65,8 +89,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.9",
-        "remaining": "6.1",
+        "duration": "2.0",
+        "remaining": "6.0",
         "alarm": "Temperature",
         "created": "05/12/2025 12:09:00",
         "hour": "12"
@@ -101,8 +125,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "Cell out of service",
         "created": "05/12/2025 10:40:02",
         "hour": "10"
@@ -209,8 +233,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.1",
-        "remaining": "1.9",
+        "duration": "6.2",
+        "remaining": "1.8",
         "alarm": "Battery Communication Fail",
         "created": "05/12/2025 07:57:00",
         "hour": "7"
@@ -1002,7 +1026,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-7.0",
-        "remaining": "15.0",
+        "remaining": "14.9",
         "alarm": "Device Powered Off",
         "created": "04/12/2025 18:07:00",
         "hour": "18"
