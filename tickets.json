@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Cell out of service",
         "created": "05/12/2025 10:40:02",
         "hour": "10"
@@ -53,8 +53,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "05/12/2025 09:47:00",
         "hour": "9"
@@ -89,7 +89,7 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "2.5",
+        "duration": "2.6",
         "remaining": "1.4",
         "alarm": "The Device is offline",
         "created": "05/12/2025 08:40:00",
