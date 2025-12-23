@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "Battery Communication Fail",
         "created": "23/12/2025 08:55:00",
         "hour": "8"
@@ -65,8 +65,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.2",
-        "remaining": "0.8",
+        "duration": "7.3",
+        "remaining": "0.7",
         "alarm": "Battery Communication Fail",
         "created": "23/12/2025 03:14:00",
         "hour": "3"
@@ -78,7 +78,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "The Device is offline",
         "created": "23/12/2025 00:35:01",
         "hour": "0"
@@ -101,7 +101,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.6",
+        "duration": "1.7",
         "remaining": "6.3",
         "alarm": "BBU interrupted",
         "created": "23/12/2025 00:05:00",
