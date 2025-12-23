@@ -54,7 +54,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.9",
-        "remaining": "5.2",
+        "remaining": "5.1",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "23/12/2025 15:38:00",
         "hour": "15"
