@@ -29,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.1",
-        "remaining": "5.9",
+        "duration": "2.2",
+        "remaining": "5.8",
         "alarm": "Physical Port Down",
         "created": "23/12/2025 15:05:00",
         "hour": "15"
@@ -53,8 +53,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.3",
-        "remaining": "3.7",
+        "duration": "4.4",
+        "remaining": "3.6",
         "alarm": "Physical Port Down",
         "created": "23/12/2025 12:54:00",
         "hour": "12"
@@ -65,8 +65,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.4",
-        "remaining": "3.6",
+        "duration": "4.5",
+        "remaining": "3.5",
         "alarm": "Cell out of service",
         "created": "23/12/2025 12:49:00",
         "hour": "12"
