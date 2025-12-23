@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "7.9",
+        "remaining": "7.8",
         "alarm": "Battery Communication Fail",
         "created": "23/12/2025 08:55:00",
         "hour": "8"
@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "Battery Communication Fail",
         "created": "23/12/2025 08:11:00",
         "hour": "8"
@@ -41,8 +41,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.5",
-        "remaining": "3.5",
+        "duration": "4.6",
+        "remaining": "3.4",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "23/12/2025 04:29:01",
         "hour": "4"
@@ -72,25 +72,13 @@
         "hour": "3"
     },
     {
-        "nft": "NFT20251223000048",
-        "site": "PH0600298",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "6.1",
-        "remaining": "1.9",
-        "alarm": "Low Liquid Level Alarm shutdown",
-        "created": "23/12/2025 02:58:01",
-        "hour": "2"
-    },
-    {
         "nft": "NFT20251223000010",
         "site": "PH0600427",
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "7.9",
+        "remaining": "7.8",
         "alarm": "The Device is offline",
         "created": "23/12/2025 00:35:01",
         "hour": "0"
@@ -113,7 +101,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.1",
+        "duration": "0.2",
         "remaining": "7.8",
         "alarm": "Device Powered Off",
         "created": "23/12/2025 00:21:00",
