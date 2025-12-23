@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Low Liquid Level Alarm shutdown",
         "created": "23/12/2025 13:55:00",
         "hour": "13"
@@ -29,7 +29,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.9",
+        "duration": "1.0",
         "remaining": "7.0",
         "alarm": "Battery Communication Fail",
         "created": "23/12/2025 13:13:00",
@@ -54,7 +54,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.4",
-        "remaining": "6.7",
+        "remaining": "6.6",
         "alarm": "Cell out of service",
         "created": "23/12/2025 12:49:00",
         "hour": "12"
