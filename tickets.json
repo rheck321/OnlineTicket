@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251223000334",
+        "site": "PH0600298",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Low Liquid Level Alarm shutdown",
+        "created": "23/12/2025 13:55:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20251223000317",
         "site": "PH0600470",
         "area": "NEGROS",
