@@ -1,17 +1,5 @@
 {"nftlist":[
     {
-        "nft": "NFT20251223000411",
-        "site": "PH0700015",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.9",
-        "remaining": "7.1",
-        "alarm": "Cell out of service",
-        "created": "23/12/2025 16:50:05",
-        "hour": "16"
-    },
-    {
         "nft": "NFT20251223000385",
         "site": "PH0700164",
         "area": "CEBU",
@@ -29,8 +17,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.6",
-        "remaining": "5.4",
+        "duration": "2.7",
+        "remaining": "5.3",
         "alarm": "Physical Port Down",
         "created": "23/12/2025 15:05:00",
         "hour": "15"
@@ -54,7 +42,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.8",
-        "remaining": "3.2",
+        "remaining": "3.1",
         "alarm": "Physical Port Down",
         "created": "23/12/2025 12:54:00",
         "hour": "12"
