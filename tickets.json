@@ -17,8 +17,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Battery Communication Fail",
         "created": "23/12/2025 13:13:00",
         "hour": "13"
@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.9",
-        "remaining": "7.1",
+        "duration": "1.0",
+        "remaining": "7.0",
         "alarm": "Physical Port Down",
         "created": "23/12/2025 12:54:00",
         "hour": "12"
@@ -41,7 +41,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.0",
+        "duration": "1.1",
         "remaining": "7.0",
         "alarm": "Cell out of service",
         "created": "23/12/2025 12:49:00",
@@ -70,5 +70,29 @@
         "alarm": "Battery Communication Fail",
         "created": "23/12/2025 03:55:00",
         "hour": "3"
+    },
+    {
+        "nft": "NFT20251222000512",
+        "site": "PH0700175",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.7",
+        "remaining": "7.3",
+        "alarm": "Air Conditioner Inner Fan Fault",
+        "created": "22/12/2025 19:07:00",
+        "hour": "19"
+    },
+    {
+        "nft": "NFT20251222000349",
+        "site": "PH0700273",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "5.6",
+        "remaining": "2.4",
+        "alarm": "Air Conditioner Inner Fan Fault",
+        "created": "22/12/2025 14:07:00",
+        "hour": "14"
     }
 ]}
