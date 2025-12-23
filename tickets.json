@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251223000182",
+        "site": "PH0700024",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Battery Communication Fail",
+        "created": "23/12/2025 08:55:00",
+        "hour": "8"
+    },
+    {
         "nft": "NFT20251223000154",
         "site": "PH0700480",
         "area": "CEBU",
@@ -53,8 +65,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.7",
-        "remaining": "2.3",
+        "duration": "5.8",
+        "remaining": "2.2",
         "alarm": "Battery Communication Fail",
         "created": "23/12/2025 03:14:00",
         "hour": "3"
