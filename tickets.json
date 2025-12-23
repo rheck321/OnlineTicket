@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251223000196",
+        "site": "PH0700153",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "23/12/2025 09:34:00",
+        "hour": "9"
+    },
+    {
         "nft": "NFT20251223000187",
         "site": "CO101",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "23/12/2025 09:09:00",
         "hour": "9"
@@ -54,7 +66,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Cell out of service",
         "created": "23/12/2025 07:58:00",
         "hour": "7"
@@ -89,7 +101,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.3",
+        "duration": "6.4",
         "remaining": "1.6",
         "alarm": "Battery Communication Fail",
         "created": "23/12/2025 03:14:00",
@@ -113,8 +125,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Transmission unit link break",
         "created": "23/12/2025 00:35:00",
         "hour": "0"
@@ -138,7 +150,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Device Powered Off",
         "created": "22/12/2025 20:18:00",
         "hour": "20"
@@ -154,18 +166,6 @@
         "alarm": "Air Conditioner Inner Fan Fault",
         "created": "22/12/2025 19:07:00",
         "hour": "19"
-    },
-    {
-        "nft": "NFT20251222000457",
-        "site": "PH0600627",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "3.6",
-        "remaining": "4.4",
-        "alarm": "BBU interrupted",
-        "created": "22/12/2025 16:43:00",
-        "hour": "16"
     },
     {
         "nft": "NFT20251222000349",
