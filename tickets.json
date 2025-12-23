@@ -190,17 +190,5 @@
         "alarm": "Device Offline",
         "created": "23/12/2025 09:09:00",
         "hour": "9"
-    },
-    {
-        "nft": "NFT20251223000186",
-        "site": "PH0700037",
-        "area": "CEBU",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Device Offline",
-        "created": "23/12/2025 09:07:00",
-        "hour": "9"
     }
 ]}
