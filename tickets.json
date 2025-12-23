@@ -1,27 +1,75 @@
 {"nftlist":[
     {
-        "nft": "NFT20251223000249",
-        "site": "PH0600348",
+        "nft": "NFT20251223000321",
+        "site": "PH0800229",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Offline",
+        "created": "23/12/2025 13:34:00",
+        "hour": "13"
+    },
+    {
+        "nft": "NFT20251223000317",
+        "site": "PH0600470",
+        "area": "NEGROS",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "RRU interrupted",
+        "created": "23/12/2025 13:21:00",
+        "hour": "13"
+    },
+    {
+        "nft": "NFT20251223000311",
+        "site": "PH0600041",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.5",
+        "remaining": "7.5",
+        "alarm": "Battery Communication Fail",
+        "created": "23/12/2025 13:13:00",
+        "hour": "13"
+    },
+    {
+        "nft": "NFT20251223000298",
+        "site": "PH0600546",
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.3",
-        "remaining": "6.7",
-        "alarm": "Battery Communication Fail",
-        "created": "23/12/2025 11:25:00",
-        "hour": "11"
+        "duration": "0.8",
+        "remaining": "7.2",
+        "alarm": "Device Offline",
+        "created": "23/12/2025 12:56:00",
+        "hour": "12"
     },
     {
-        "nft": "NFT20251223000198",
-        "site": "CO088",
+        "nft": "NFT20251223000296",
+        "site": "PH0700109",
         "area": "CEBU",
         "state": "Processing",
-        "severity": "Critical",
-        "duration": "3.0",
-        "remaining": "1.0",
-        "alarm": "Break Off",
-        "created": "23/12/2025 09:43:00",
-        "hour": "9"
+        "severity": "Major",
+        "duration": "0.8",
+        "remaining": "7.2",
+        "alarm": "Physical Port Down",
+        "created": "23/12/2025 12:54:00",
+        "hour": "12"
+    },
+    {
+        "nft": "NFT20251223000292",
+        "site": "PH0600794",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.9",
+        "remaining": "7.1",
+        "alarm": "Cell out of service",
+        "created": "23/12/2025 12:49:00",
+        "hour": "12"
     },
     {
         "nft": "NFT20251223000154",
@@ -46,41 +94,5 @@
         "alarm": "Battery Communication Fail",
         "created": "23/12/2025 03:55:00",
         "hour": "3"
-    },
-    {
-        "nft": "NFT20251223000053",
-        "site": "PH0800197",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Battery Communication Fail",
-        "created": "23/12/2025 03:14:00",
-        "hour": "3"
-    },
-    {
-        "nft": "NFT20251222000512",
-        "site": "PH0700175",
-        "area": "CEBU",
-        "state": "Suspend",
-        "severity": "Minor",
-        "duration": "0.7",
-        "remaining": "7.3",
-        "alarm": "Air Conditioner Inner Fan Fault",
-        "created": "22/12/2025 19:07:00",
-        "hour": "19"
-    },
-    {
-        "nft": "NFT20251222000349",
-        "site": "PH0700273",
-        "area": "CEBU",
-        "state": "Suspend",
-        "severity": "Minor",
-        "duration": "5.6",
-        "remaining": "2.4",
-        "alarm": "Air Conditioner Inner Fan Fault",
-        "created": "22/12/2025 14:07:00",
-        "hour": "14"
     }
 ]}
