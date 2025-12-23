@@ -72,39 +72,15 @@
         "hour": "3"
     },
     {
-        "nft": "NFT20251223000010",
-        "site": "PH0600427",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "2.7",
-        "remaining": "5.3",
-        "alarm": "The Device is offline",
-        "created": "23/12/2025 00:35:01",
-        "hour": "0"
-    },
-    {
         "nft": "NFT20251223000007",
         "site": "PH0600420",
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
         "duration": "2.6",
-        "remaining": "5.4",
+        "remaining": "5.3",
         "alarm": "Transmission unit link break",
         "created": "23/12/2025 00:35:00",
-        "hour": "0"
-    },
-    {
-        "nft": "NFT20251223000001",
-        "site": "PH0600427",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "2.8",
-        "remaining": "5.2",
-        "alarm": "BBU interrupted",
-        "created": "23/12/2025 00:05:00",
         "hour": "0"
     },
     {
@@ -114,7 +90,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.6",
-        "remaining": "4.4",
+        "remaining": "4.3",
         "alarm": "Device Powered Off",
         "created": "22/12/2025 20:18:00",
         "hour": "20"
