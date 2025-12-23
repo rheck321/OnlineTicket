@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "23/12/2025 15:38:00",
         "hour": "15"
@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Physical Port Down",
         "created": "23/12/2025 15:05:00",
         "hour": "15"
