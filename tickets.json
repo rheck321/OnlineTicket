@@ -42,7 +42,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "6.0",
-        "remaining": "2.0",
+        "remaining": "1.9",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "23/12/2025 04:29:01",
         "hour": "4"
@@ -89,8 +89,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Transmission unit link break",
         "created": "23/12/2025 00:35:00",
         "hour": "0"
@@ -113,8 +113,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Device Powered Off",
         "created": "22/12/2025 20:18:00",
         "hour": "20"
