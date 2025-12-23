@@ -5,22 +5,10 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "7.5",
         "alarm": "Battery Communication Fail",
         "created": "23/12/2025 11:25:00",
-        "hour": "11"
-    },
-    {
-        "nft": "NFT20251223000247",
-        "site": "PH0600546",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
-        "alarm": "Device Offline",
-        "created": "23/12/2025 11:16:00",
         "hour": "11"
     },
     {
