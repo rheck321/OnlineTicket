@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251223000443",
+        "site": "PH0600208",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.8",
+        "alarm": "Device Offline",
+        "created": "23/12/2025 18:18:00",
+        "hour": "18"
+    },
+    {
         "nft": "NFT20251223000438",
         "site": "PH0700037",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Offline",
         "created": "23/12/2025 18:10:00",
         "hour": "18"
@@ -53,8 +65,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.3",
-        "remaining": "4.7",
+        "duration": "3.4",
+        "remaining": "4.6",
         "alarm": "Physical Port Down",
         "created": "23/12/2025 15:05:00",
         "hour": "15"
