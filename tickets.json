@@ -17,8 +17,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "Physical Port Down",
         "created": "23/12/2025 15:05:00",
         "hour": "15"
@@ -42,7 +42,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "5.8",
-        "remaining": "2.2",
+        "remaining": "2.1",
         "alarm": "Cell out of service",
         "created": "23/12/2025 12:49:00",
         "hour": "12"
