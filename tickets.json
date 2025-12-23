@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Battery Communication Fail",
         "created": "23/12/2025 08:11:00",
         "hour": "8"
@@ -41,8 +41,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.2",
-        "remaining": "2.8",
+        "duration": "5.3",
+        "remaining": "2.7",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "23/12/2025 04:29:01",
         "hour": "4"
