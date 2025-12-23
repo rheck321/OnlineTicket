@@ -1,17 +1,5 @@
 {"nftlist":[
     {
-        "nft": "NFT20251223000321",
-        "site": "PH0800229",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
-        "alarm": "Device Offline",
-        "created": "23/12/2025 13:34:00",
-        "hour": "13"
-    },
-    {
         "nft": "NFT20251223000317",
         "site": "PH0600470",
         "area": "NEGROS",
@@ -34,18 +22,6 @@
         "alarm": "Battery Communication Fail",
         "created": "23/12/2025 13:13:00",
         "hour": "13"
-    },
-    {
-        "nft": "NFT20251223000298",
-        "site": "PH0600546",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.8",
-        "remaining": "7.2",
-        "alarm": "Device Offline",
-        "created": "23/12/2025 12:56:00",
-        "hour": "12"
     },
     {
         "nft": "NFT20251223000296",
