@@ -60,18 +60,6 @@
         "hour": "3"
     },
     {
-        "nft": "NFT20251222000523",
-        "site": "PH0600470",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "4.7",
-        "remaining": "3.4",
-        "alarm": "Device Powered Off",
-        "created": "22/12/2025 20:18:00",
-        "hour": "20"
-    },
-    {
         "nft": "NFT20251222000512",
         "site": "PH0700175",
         "area": "CEBU",
