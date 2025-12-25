@@ -1,5 +1,41 @@
 {"nftlist":[
     {
+        "nft": "NFT20251225000296",
+        "site": "CO077",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Critical",
+        "duration": "0.1",
+        "remaining": "3.9",
+        "alarm": "Over temperature",
+        "created": "25/12/2025 14:24:00",
+        "hour": "14"
+    },
+    {
+        "nft": "NFT20251225000295",
+        "site": "PH0600340",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Cell out of service",
+        "created": "25/12/2025 14:21:00",
+        "hour": "14"
+    },
+    {
+        "nft": "NFT20251225000293",
+        "site": "PH0600301",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Offline",
+        "created": "25/12/2025 14:20:01",
+        "hour": "14"
+    },
+    {
         "nft": "NFT20251225000283",
         "site": "PH0710009",
         "area": "CEBU",
@@ -17,7 +53,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "7.5",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "25/12/2025 13:55:00",
@@ -41,8 +77,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "Device Offline",
         "created": "25/12/2025 13:24:00",
         "hour": "13"
@@ -54,7 +90,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "Device Offline",
         "created": "25/12/2025 13:23:00",
         "hour": "13"
