@@ -30,7 +30,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "BBU interrupted",
         "created": "25/12/2025 04:44:01",
         "hour": "4"
@@ -77,7 +77,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.9",
+        "duration": "1.0",
         "remaining": "7.0",
         "alarm": "The Device is offline",
         "created": "24/12/2025 20:59:00",
