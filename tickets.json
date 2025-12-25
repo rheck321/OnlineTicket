@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "RRU interrupted",
         "created": "25/12/2025 17:52:00",
         "hour": "17"
@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Air Conditioner Inner Fan Fault",
         "created": "25/12/2025 16:48:00",
         "hour": "16"
