@@ -27,10 +27,10 @@
         "nft": "NFT20251226000220",
         "site": "PH0700204",
         "area": "CEBU",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Device Offline",
         "created": "26/12/2025 11:27:00",
         "hour": "11"
