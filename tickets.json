@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Device Offline",
         "created": "26/12/2025 12:26:00",
         "hour": "12"
@@ -17,8 +17,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Battery Communication Fail",
         "created": "26/12/2025 11:56:00",
         "hour": "11"
