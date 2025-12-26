@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.4",
-        "remaining": "3.6",
+        "duration": "0.5",
+        "remaining": "3.5",
         "alarm": "Over temperature",
         "created": "26/12/2025 12:29:00",
         "hour": "12"
@@ -149,8 +149,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "26/12/2025 09:58:00",
         "hour": "9"
@@ -210,7 +210,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.9",
-        "remaining": "4.2",
+        "remaining": "4.1",
         "alarm": "Battery Communication Fail",
         "created": "26/12/2025 09:03:00",
         "hour": "9"
