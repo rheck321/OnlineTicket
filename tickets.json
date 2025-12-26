@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Critical",
         "duration": "0.6",
-        "remaining": "3.5",
+        "remaining": "3.4",
         "alarm": "Over temperature",
         "created": "26/12/2025 12:29:00",
         "hour": "12"
@@ -214,17 +214,5 @@
         "alarm": "Battery Communication Fail",
         "created": "26/12/2025 09:03:00",
         "hour": "9"
-    },
-    {
-        "nft": "NFT20251226000122",
-        "site": "PH0600375",
-        "area": "PANAY",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Device Offline",
-        "created": "26/12/2025 08:00:00",
-        "hour": "8"
     }
 ]}
