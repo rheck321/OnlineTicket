@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20251226000239",
+        "site": "CO077",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Critical",
+        "duration": "0.1",
+        "remaining": "3.9",
+        "alarm": "Over temperature",
+        "created": "26/12/2025 12:29:00",
+        "hour": "12"
+    },
+    {
         "nft": "NFT20251226000236",
         "site": "PH0600301",
         "area": "NEGROS",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Device Offline",
         "created": "26/12/2025 12:26:00",
         "hour": "12"
@@ -137,8 +149,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.6",
-        "remaining": "5.4",
+        "duration": "2.7",
+        "remaining": "5.3",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "26/12/2025 09:58:00",
         "hour": "9"
@@ -197,8 +209,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "Battery Communication Fail",
         "created": "26/12/2025 09:03:00",
         "hour": "9"
