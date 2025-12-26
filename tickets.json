@@ -5,8 +5,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Battery Communication Fail",
         "created": "26/12/2025 11:56:00",
         "hour": "11"
