@@ -214,17 +214,5 @@
         "alarm": "Battery Communication Fail",
         "created": "26/12/2025 06:21:00",
         "hour": "6"
-    },
-    {
-        "nft": "NFT20251226000087",
-        "site": "PH0700247",
-        "area": "CEBU",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Device Offline",
-        "created": "26/12/2025 06:17:00",
-        "hour": "6"
     }
 ]}
