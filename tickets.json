@@ -1,17 +1,5 @@
 {"nftlist":[
     {
-        "nft": "NFT20251231000238",
-        "site": "PH0800072",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
-        "alarm": "Device Offline",
-        "created": "31/12/2025 12:28:00",
-        "hour": "12"
-    },
-    {
         "nft": "NFT20251231000234",
         "site": "PH0800143",
         "area": "LEYTE",
@@ -30,7 +18,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "6.9",
+        "remaining": "6.8",
         "alarm": "Device Offline",
         "created": "31/12/2025 11:38:00",
         "hour": "11"
