@@ -5,7 +5,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
+        "duration": "0.2",
         "remaining": "7.8",
         "alarm": "The Device is offline",
         "created": "31/12/2025 10:35:00",
@@ -84,18 +84,6 @@
         "hour": "7"
     },
     {
-        "nft": "NFT20251231000064",
-        "site": "PH0600420",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "2.5",
-        "remaining": "5.5",
-        "alarm": "Transmission unit link break",
-        "created": "31/12/2025 05:32:00",
-        "hour": "5"
-    },
-    {
         "nft": "NFT20251231000063",
         "site": "PH0700175",
         "area": "CEBU",
@@ -106,18 +94,6 @@
         "alarm": "Air Conditioner Inner Fan Fault",
         "created": "31/12/2025 05:30:00",
         "hour": "5"
-    },
-    {
-        "nft": "NFT20251231000052",
-        "site": "PH0600427",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "2.0",
-        "remaining": "6.0",
-        "alarm": "BBU interrupted",
-        "created": "31/12/2025 04:35:01",
-        "hour": "4"
     },
     {
         "nft": "NFT20251230000418",
