@@ -5,7 +5,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
+        "duration": "0.2",
         "remaining": "7.8",
         "alarm": "The Device is offline",
         "created": "31/12/2025 08:59:00",
@@ -30,7 +30,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.4",
-        "remaining": "6.7",
+        "remaining": "6.6",
         "alarm": "Cabinet Smog Alarm",
         "created": "31/12/2025 07:47:00",
         "hour": "7"
@@ -42,7 +42,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.4",
-        "remaining": "6.7",
+        "remaining": "6.6",
         "alarm": "Cabinet Smog Alarm",
         "created": "31/12/2025 07:47:00",
         "hour": "7"
