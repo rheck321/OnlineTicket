@@ -42,7 +42,7 @@
         "state": "Processing",
         "severity": "Critical",
         "duration": "2.5",
-        "remaining": "1.5",
+        "remaining": "1.4",
         "alarm": "The link between the server and the NE is broken",
         "created": "31/12/2025 10:33:00",
         "hour": "10"
