@@ -5,23 +5,11 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Battery Communication Fail",
         "created": "31/12/2025 12:04:00",
         "hour": "12"
-    },
-    {
-        "nft": "NFT20251231000215",
-        "site": "CO083",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.8",
-        "alarm": "Device Offline",
-        "created": "31/12/2025 11:38:00",
-        "hour": "11"
     },
     {
         "nft": "NFT20251231000207",
@@ -30,22 +18,10 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Device Powered Off",
         "created": "31/12/2025 11:10:00",
         "hour": "11"
-    },
-    {
-        "nft": "NFT20251231000202",
-        "site": "CO085",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "1.8",
-        "remaining": "6.2",
-        "alarm": "ATS S1 Voltage State",
-        "created": "31/12/2025 10:59:00",
-        "hour": "10"
     },
     {
         "nft": "NFT20251231000194",
@@ -65,8 +41,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "2.2",
-        "remaining": "1.8",
+        "duration": "2.3",
+        "remaining": "1.7",
         "alarm": "The link between the server and the NE is broken",
         "created": "31/12/2025 10:33:00",
         "hour": "10"
@@ -77,8 +53,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Transmission unit link break",
         "created": "31/12/2025 10:33:00",
         "hour": "10"
@@ -89,8 +65,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Air Conditioner Communication Lost",
         "created": "31/12/2025 10:04:00",
         "hour": "10"
