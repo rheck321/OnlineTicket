@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20251231000192",
+        "site": "PH0600530",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Critical",
+        "duration": "0.1",
+        "remaining": "3.9",
+        "alarm": "The link between the server and the NE is broken",
+        "created": "31/12/2025 10:33:00",
+        "hour": "10"
+    },
+    {
         "nft": "NFT20251231000191",
         "site": "PH0600473",
         "area": "NEGROS",
@@ -9,18 +21,6 @@
         "remaining": "7.9",
         "alarm": "Transmission unit link break",
         "created": "31/12/2025 10:33:00",
-        "hour": "10"
-    },
-    {
-        "nft": "NFT20251231000188",
-        "site": "PH0800072",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
-        "alarm": "Device Offline",
-        "created": "31/12/2025 10:27:00",
         "hour": "10"
     },
     {
@@ -77,8 +77,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "Transmission unit link break",
         "created": "31/12/2025 05:32:00",
         "hour": "5"
@@ -114,7 +114,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.3",
-        "remaining": "3.7",
+        "remaining": "3.6",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "30/12/2025 22:43:00",
         "hour": "22"
