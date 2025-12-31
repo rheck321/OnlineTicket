@@ -1,26 +1,26 @@
 {"nftlist":[
     {
+        "nft": "NFT20251231000179",
+        "site": "PH0800143",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.4",
+        "remaining": "7.6",
+        "alarm": "Air Conditioner Communication Lost",
+        "created": "31/12/2025 10:04:00",
+        "hour": "10"
+    },
+    {
         "nft": "NFT20251231000155",
         "site": "PH0600259",
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "The Device is offline",
         "created": "31/12/2025 08:59:00",
-        "hour": "8"
-    },
-    {
-        "nft": "NFT20251231000145",
-        "site": "PH0700037",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
-        "alarm": "Device Offline",
-        "created": "31/12/2025 08:40:01",
         "hour": "8"
     },
     {
@@ -29,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.7",
+        "remaining": "5.3",
         "alarm": "Cabinet Smog Alarm",
         "created": "31/12/2025 07:47:00",
         "hour": "7"
@@ -41,23 +41,11 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.7",
+        "remaining": "5.3",
         "alarm": "Cabinet Smog Alarm",
         "created": "31/12/2025 07:47:00",
         "hour": "7"
-    },
-    {
-        "nft": "NFT20251231000087",
-        "site": "PH0700209",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "3.1",
-        "remaining": "4.9",
-        "alarm": "Battery Communication Fail",
-        "created": "31/12/2025 06:40:00",
-        "hour": "6"
     },
     {
         "nft": "NFT20251231000064",
@@ -65,8 +53,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.6",
-        "remaining": "6.5",
+        "duration": "2.2",
+        "remaining": "5.8",
         "alarm": "Transmission unit link break",
         "created": "31/12/2025 05:32:00",
         "hour": "5"
@@ -89,8 +77,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "BBU interrupted",
         "created": "31/12/2025 04:35:01",
         "hour": "4"
@@ -101,8 +89,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "30/12/2025 22:43:00",
         "hour": "22"
