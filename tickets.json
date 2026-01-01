@@ -1,12 +1,48 @@
 {"nftlist":[
     {
+        "nft": "NFT20260101000210",
+        "site": "CO038",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "01/01/2026 10:18:00",
+        "hour": "10"
+    },
+    {
+        "nft": "NFT20260101000204",
+        "site": "PH0600455",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Device Offline",
+        "created": "01/01/2026 10:06:00",
+        "hour": "10"
+    },
+    {
+        "nft": "NFT20260101000199",
+        "site": "PH0600278",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.5",
+        "remaining": "7.5",
+        "alarm": "Device Offline",
+        "created": "01/01/2026 09:51:00",
+        "hour": "9"
+    },
+    {
         "nft": "NFT20260101000183",
         "site": "PH0600176",
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "Device Powered Off",
         "created": "01/01/2026 09:16:00",
         "hour": "9"
@@ -17,8 +53,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Battery Communication Fail",
         "created": "01/01/2026 08:04:00",
         "hour": "8"
@@ -53,8 +89,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.0",
-        "remaining": "3.0",
+        "duration": "5.1",
+        "remaining": "2.9",
         "alarm": "Battery Communication Fail",
         "created": "01/01/2026 05:16:00",
         "hour": "5"
@@ -65,8 +101,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.1",
-        "remaining": "4.9",
+        "duration": "3.2",
+        "remaining": "4.8",
         "alarm": "Battery charger under voltage warning",
         "created": "01/01/2026 03:29:00",
         "hour": "3"
@@ -90,7 +126,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Transmission unit link break",
         "created": "01/01/2026 01:40:00",
         "hour": "1"
@@ -114,7 +150,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Transmission unit link break",
         "created": "01/01/2026 00:45:00",
         "hour": "0"
@@ -137,8 +173,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "BBU interrupted",
         "created": "31/12/2025 23:50:00",
         "hour": "23"
