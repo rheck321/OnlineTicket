@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.1",
-        "remaining": "6.9",
+        "remaining": "6.8",
         "alarm": "RRU interrupted",
         "created": "01/01/2026 07:31:00",
         "hour": "7"
@@ -142,5 +142,41 @@
         "alarm": "Low Liquid Level Alarm shutdown",
         "created": "01/01/2026 00:26:01",
         "hour": "0"
+    },
+    {
+        "nft": "NFT20251231000425",
+        "site": "PH0600427",
+        "area": "NEGROS",
+        "state": "Suspend",
+        "severity": "Major",
+        "duration": "0.4",
+        "remaining": "7.6",
+        "alarm": "BBU interrupted",
+        "created": "31/12/2025 23:50:00",
+        "hour": "23"
+    },
+    {
+        "nft": "NFT20251231000357",
+        "site": "PH0600670",
+        "area": "PANAY",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Cell out of service",
+        "created": "31/12/2025 19:09:00",
+        "hour": "19"
+    },
+    {
+        "nft": "NFT20251231000063",
+        "site": "PH0700175",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "1.2",
+        "remaining": "6.8",
+        "alarm": "Air Conditioner Inner Fan Fault",
+        "created": "31/12/2025 05:30:00",
+        "hour": "5"
     }
 ]}
