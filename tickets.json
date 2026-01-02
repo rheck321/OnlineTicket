@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260102000359",
+        "site": "PH0600210",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Low oil pressure shutdown alarm",
+        "created": "02/01/2026 16:23:00",
+        "hour": "16"
+    },
+    {
         "nft": "NFT20260102000357",
         "site": "PH0600092",
         "area": "PANAY",
@@ -17,8 +29,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "ATS S1 Voltage State",
         "created": "02/01/2026 16:05:00",
         "hour": "16"
@@ -29,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Optical Fail",
         "created": "02/01/2026 15:48:00",
         "hour": "15"
@@ -41,8 +53,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.6",
-        "remaining": "3.4",
+        "duration": "0.7",
+        "remaining": "3.3",
         "alarm": "The link between the server and the NE is broken",
         "created": "02/01/2026 15:47:00",
         "hour": "15"
@@ -77,8 +89,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Transmission unit link break",
         "created": "02/01/2026 15:42:00",
         "hour": "15"
@@ -89,8 +101,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Transmission unit link break",
         "created": "02/01/2026 15:42:00",
         "hour": "15"
@@ -195,10 +207,10 @@
         "nft": "NFT20260101000134",
         "site": "IBS0710029",
         "area": "CEBU",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Minor",
-        "duration": "4.4",
-        "remaining": "3.6",
+        "duration": "2.2",
+        "remaining": "5.8",
         "alarm": "RRU interrupted",
         "created": "01/01/2026 07:31:00",
         "hour": "7"
