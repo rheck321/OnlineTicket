@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260102000158",
+        "site": "PH0600298",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Low Liquid Level Alarm shutdown",
+        "created": "02/01/2026 08:17:00",
+        "hour": "8"
+    },
+    {
         "nft": "NFT20260102000074",
         "site": "PH0600470",
         "area": "NEGROS",
@@ -10,18 +22,6 @@
         "alarm": "Device Powered Off",
         "created": "02/01/2026 05:15:01",
         "hour": "5"
-    },
-    {
-        "nft": "NFT20260102000047",
-        "site": "PH0600107",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "5.2",
-        "remaining": "2.8",
-        "alarm": "Battery Communication Fail",
-        "created": "02/01/2026 03:10:00",
-        "hour": "3"
     },
     {
         "nft": "NFT20260102000031",
