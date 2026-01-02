@@ -5,8 +5,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "02/01/2026 16:23:00",
         "hour": "16"
@@ -24,6 +24,66 @@
         "hour": "16"
     },
     {
+        "nft": "NFT20260102000354",
+        "site": "CO078",
+        "area": "PANAY",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "ATS S1 Voltage State",
+        "created": "02/01/2026 16:05:00",
+        "hour": "16"
+    },
+    {
+        "nft": "NFT20260102000353",
+        "site": "CO037s",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Low voltage of the 1# system alarm",
+        "created": "02/01/2026 16:02:00",
+        "hour": "16"
+    },
+    {
+        "nft": "NFT20260102000346",
+        "site": "PH0700694",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Optical Fail",
+        "created": "02/01/2026 15:48:00",
+        "hour": "15"
+    },
+    {
+        "nft": "NFT20260102000345",
+        "site": "PH0600059",
+        "area": "PANAY",
+        "state": "Finished",
+        "severity": "Critical",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "The link between the server and the NE is broken",
+        "created": "02/01/2026 15:47:00",
+        "hour": "15"
+    },
+    {
+        "nft": "NFT20260102000343",
+        "site": "PH0600062",
+        "area": "PANAY",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Transmission unit link break",
+        "created": "02/01/2026 15:45:00",
+        "hour": "15"
+    },
+    {
         "nft": "NFT20260102000344",
         "site": "PH0600059",
         "area": "PANAY",
@@ -33,6 +93,42 @@
         "remaining": "6.8",
         "alarm": "Transmission unit link break",
         "created": "02/01/2026 15:45:00",
+        "hour": "15"
+    },
+    {
+        "nft": "NFT20260102000341",
+        "site": "PH0600062",
+        "area": "PANAY",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Transmission unit link break",
+        "created": "02/01/2026 15:42:00",
+        "hour": "15"
+    },
+    {
+        "nft": "NFT20260102000342",
+        "site": "PH0600059",
+        "area": "PANAY",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Transmission unit link break",
+        "created": "02/01/2026 15:42:00",
+        "hour": "15"
+    },
+    {
+        "nft": "NFT20260102000335",
+        "site": "CO038",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Device Offline",
+        "created": "02/01/2026 15:17:00",
         "hour": "15"
     },
     {
@@ -48,6 +144,30 @@
         "hour": "15"
     },
     {
+        "nft": "NFT20260102000324",
+        "site": "CO103",
+        "area": "BOHOL",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Generator status",
+        "created": "02/01/2026 14:54:00",
+        "hour": "14"
+    },
+    {
+        "nft": "NFT20260102000322",
+        "site": "PH0700270",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Device Offline",
+        "created": "02/01/2026 14:44:00",
+        "hour": "14"
+    },
+    {
         "nft": "NFT20260102000317",
         "site": "PH0600670",
         "area": "PANAY",
@@ -58,6 +178,30 @@
         "alarm": "Cell out of service",
         "created": "02/01/2026 14:05:00",
         "hour": "14"
+    },
+    {
+        "nft": "NFT20260102000316",
+        "site": "PH0700172",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Device Powered Off",
+        "created": "02/01/2026 14:04:00",
+        "hour": "14"
+    },
+    {
+        "nft": "NFT20260102000313",
+        "site": "CO087",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "ATS S1 Voltage State",
+        "created": "02/01/2026 13:58:00",
+        "hour": "13"
     },
     {
         "nft": "NFT20260102000302",
@@ -94,53 +238,5 @@
         "alarm": "Physical Port Down",
         "created": "02/01/2026 13:37:00",
         "hour": "13"
-    },
-    {
-        "nft": "NFT20260102000240",
-        "site": "PH0600710",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "5.8",
-        "remaining": "2.2",
-        "alarm": "Battery Communication Fail",
-        "created": "02/01/2026 11:08:00",
-        "hour": "11"
-    },
-    {
-        "nft": "NFT20260102000183",
-        "site": "PH0600212",
-        "area": "PANAY",
-        "state": "Suspend",
-        "severity": "Major",
-        "duration": "6.2",
-        "remaining": "1.8",
-        "alarm": "Physical Port Down",
-        "created": "02/01/2026 09:05:00",
-        "hour": "9"
-    },
-    {
-        "nft": "NFT20260101000509",
-        "site": "PH0600340",
-        "area": "PANAY",
-        "state": "Suspend",
-        "severity": "Minor",
-        "duration": "1.6",
-        "remaining": "6.4",
-        "alarm": "Cell out of service",
-        "created": "01/01/2026 23:34:00",
-        "hour": "23"
-    },
-    {
-        "nft": "NFT20260101000134",
-        "site": "IBS0710029",
-        "area": "CEBU",
-        "state": "Suspend",
-        "severity": "Minor",
-        "duration": "2.2",
-        "remaining": "5.8",
-        "alarm": "RRU interrupted",
-        "created": "01/01/2026 07:31:00",
-        "hour": "7"
     }
 ]}
