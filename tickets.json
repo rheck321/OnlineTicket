@@ -5,8 +5,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "02/01/2026 16:23:00",
         "hour": "16"
@@ -30,7 +30,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "ATS S1 Voltage State",
         "created": "02/01/2026 16:05:00",
         "hour": "16"
