@@ -17,8 +17,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "02/01/2026 16:19:00",
         "hour": "16"
@@ -34,18 +34,6 @@
         "alarm": "ATS S1 Voltage State",
         "created": "02/01/2026 16:05:00",
         "hour": "16"
-    },
-    {
-        "nft": "NFT20260102000345",
-        "site": "PH0600059",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Critical",
-        "duration": "0.8",
-        "remaining": "3.2",
-        "alarm": "The link between the server and the NE is broken",
-        "created": "02/01/2026 15:47:00",
-        "hour": "15"
     },
     {
         "nft": "NFT20260102000344",
@@ -125,8 +113,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.4",
-        "remaining": "2.6",
+        "duration": "5.5",
+        "remaining": "2.5",
         "alarm": "Battery Communication Fail",
         "created": "02/01/2026 11:08:00",
         "hour": "11"
