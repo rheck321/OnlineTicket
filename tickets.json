@@ -87,10 +87,10 @@
         "nft": "NFT20260102000344",
         "site": "PH0600059",
         "area": "PANAY",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "1.2",
-        "remaining": "6.8",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Transmission unit link break",
         "created": "02/01/2026 15:45:00",
         "hour": "15"
