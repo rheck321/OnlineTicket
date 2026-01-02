@@ -53,8 +53,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Transmission unit link break",
         "created": "02/01/2026 15:45:00",
         "hour": "15"
@@ -65,8 +65,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Transmission unit link break",
         "created": "02/01/2026 15:45:00",
         "hour": "15"
@@ -161,8 +161,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.2",
-        "remaining": "2.8",
+        "duration": "5.3",
+        "remaining": "2.7",
         "alarm": "Battery Communication Fail",
         "created": "02/01/2026 11:08:00",
         "hour": "11"
