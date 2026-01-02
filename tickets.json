@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20260102000166",
+        "site": "PH0700037",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "02/01/2026 08:31:00",
+        "hour": "8"
+    },
+    {
         "nft": "NFT20260102000163",
         "site": "PH0600415",
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Optical Fail",
         "created": "02/01/2026 08:24:00",
         "hour": "8"
@@ -17,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Low Liquid Level Alarm shutdown",
         "created": "02/01/2026 08:17:00",
         "hour": "8"
@@ -197,8 +209,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-3.5",
-        "remaining": "11.5",
+        "duration": "-3.4",
+        "remaining": "11.4",
         "alarm": "RRU interrupted",
         "created": "01/01/2026 07:31:00",
         "hour": "7"
