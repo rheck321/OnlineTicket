@@ -17,22 +17,10 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "02/01/2026 16:19:00",
-        "hour": "16"
-    },
-    {
-        "nft": "NFT20260102000354",
-        "site": "CO078",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
-        "alarm": "ATS S1 Voltage State",
-        "created": "02/01/2026 16:05:00",
         "hour": "16"
     },
     {
@@ -42,7 +30,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.9",
-        "remaining": "7.1",
+        "remaining": "7.0",
         "alarm": "Transmission unit link break",
         "created": "02/01/2026 15:45:00",
         "hour": "15"
@@ -89,8 +77,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "Physical Port Down",
         "created": "02/01/2026 13:37:00",
         "hour": "13"
@@ -101,8 +89,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "Physical Port Down",
         "created": "02/01/2026 13:37:00",
         "hour": "13"
@@ -113,8 +101,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.5",
-        "remaining": "2.5",
+        "duration": "5.6",
+        "remaining": "2.4",
         "alarm": "Battery Communication Fail",
         "created": "02/01/2026 11:08:00",
         "hour": "11"
