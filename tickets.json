@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Offline",
         "created": "03/01/2026 08:18:00",
         "hour": "8"
@@ -125,8 +125,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-3.3",
-        "remaining": "11.3",
+        "duration": "-3.2",
+        "remaining": "11.2",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "02/01/2026 19:50:00",
         "hour": "19"
