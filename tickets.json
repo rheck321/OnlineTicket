@@ -1,17 +1,5 @@
 {"nftlist":[
     {
-        "nft": "NFT20260103000397",
-        "site": "PH0700275",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.1",
-        "remaining": "8.0",
-        "alarm": "Modem part unlock",
-        "created": "03/01/2026 16:00:24",
-        "hour": "16"
-    },
-    {
         "nft": "NFT20260103000371",
         "site": "PH0700275",
         "area": "CEBU",
