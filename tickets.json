@@ -1,17 +1,5 @@
 {"nftlist":[
     {
-        "nft": "NFT20260103000391",
-        "site": "PH0700611",
-        "area": "BOHOL",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
-        "alarm": "Transmission unit link break",
-        "created": "03/01/2026 15:49:05",
-        "hour": "15"
-    },
-    {
         "nft": "NFT20260103000371",
         "site": "PH0700275",
         "area": "CEBU",
