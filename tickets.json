@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260103000347",
+        "site": "PH0710009",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.8",
+        "alarm": "RRU interrupted",
+        "created": "03/01/2026 14:06:00",
+        "hour": "14"
+    },
+    {
         "nft": "NFT20260103000340",
         "site": "PH0700247",
         "area": "CEBU",
