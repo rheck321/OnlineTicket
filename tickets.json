@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260103000334",
+        "site": "PH0700276",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Transmission unit link break",
+        "created": "03/01/2026 13:46:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20260103000329",
         "site": "PH0600278",
         "area": "NEGROS",
@@ -18,7 +30,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "Battery Communication Fail",
         "created": "03/01/2026 11:26:00",
         "hour": "11"
