@@ -41,7 +41,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.9",
+        "duration": "2.0",
         "remaining": "6.0",
         "alarm": "Low Liquid Level Alarm shutdown",
         "created": "03/01/2026 10:29:00",
@@ -66,7 +66,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "5.3",
-        "remaining": "2.7",
+        "remaining": "2.6",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 01:01:00",
         "hour": "1"
