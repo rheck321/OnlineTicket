@@ -1,29 +1,5 @@
 {"nftlist":[
     {
-        "nft": "NFT20260103000387",
-        "site": "PH0600780",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.1",
-        "remaining": "8.0",
-        "alarm": "Modem part unlock",
-        "created": "03/01/2026 15:45:00",
-        "hour": "15"
-    },
-    {
-        "nft": "NFT20260103000380",
-        "site": "PH0600780",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
-        "alarm": "Rf unit communication is interrupted",
-        "created": "03/01/2026 15:23:00",
-        "hour": "15"
-    },
-    {
         "nft": "NFT20260103000371",
         "site": "PH0700275",
         "area": "CEBU",
@@ -41,7 +17,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "Physical Port Down",
         "created": "03/01/2026 14:21:00",
