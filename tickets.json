@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260103000269",
+        "site": "PH0700134",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Battery Communication Fail",
+        "created": "03/01/2026 11:26:00",
+        "hour": "11"
+    },
+    {
         "nft": "NFT20260103000247",
         "site": "PH0600066",
         "area": "PANAY",
@@ -17,8 +29,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 01:04:00",
         "hour": "1"
@@ -41,8 +53,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.1",
-        "remaining": "4.9",
+        "duration": "3.2",
+        "remaining": "4.8",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 00:18:00",
         "hour": "0"
@@ -53,8 +65,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.5",
-        "remaining": "3.5",
+        "duration": "4.6",
+        "remaining": "3.4",
         "alarm": "Battery Communication Fail",
         "created": "02/01/2026 19:25:00",
         "hour": "19"
