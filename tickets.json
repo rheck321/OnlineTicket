@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "Device Offline",
         "created": "03/01/2026 15:09:00",
         "hour": "15"
@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.9",
-        "remaining": "6.2",
+        "remaining": "6.1",
         "alarm": "Physical Port Down",
         "created": "03/01/2026 14:21:00",
         "hour": "14"
