@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260103000287",
+        "site": "PH0700003",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Cabinet Flood Alarm",
+        "created": "03/01/2026 12:08:00",
+        "hour": "12"
+    },
+    {
         "nft": "NFT20260103000275",
         "site": "PH0700276",
         "area": "CEBU",
@@ -18,7 +30,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "The Device is offline",
         "created": "03/01/2026 11:36:00",
         "hour": "11"
@@ -29,8 +41,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Battery Communication Fail",
         "created": "03/01/2026 11:26:00",
         "hour": "11"
@@ -65,8 +77,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.0",
-        "remaining": "3.0",
+        "duration": "5.1",
+        "remaining": "2.9",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 01:01:00",
         "hour": "1"
