@@ -5,7 +5,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.0",
+        "duration": "0.1",
         "remaining": "8.0",
         "alarm": "Modem part unlock",
         "created": "03/01/2026 15:45:00",
@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Device Offline",
         "created": "03/01/2026 15:09:00",
         "hour": "15"
@@ -42,7 +42,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Physical Port Down",
         "created": "03/01/2026 14:21:00",
         "hour": "14"
