@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260103000354",
+        "site": "PH0700668",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.8",
+        "alarm": "Physical Port Down",
+        "created": "03/01/2026 14:21:00",
+        "hour": "14"
+    },
+    {
         "nft": "NFT20260103000022",
         "site": "PH0700565",
         "area": "BOHOL",
