@@ -101,8 +101,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "Optical Fail",
         "created": "06/01/2026 11:27:00",
         "hour": "11"
