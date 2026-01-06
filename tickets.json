@@ -41,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Device Offline",
         "created": "06/01/2026 08:02:00",
         "hour": "8"
@@ -101,7 +101,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.8",
+        "duration": "5.9",
         "remaining": "2.1",
         "alarm": "Cell out of service",
         "created": "06/01/2026 03:43:00",
@@ -166,6 +166,18 @@
         "alarm": "ATS S1 Voltage State",
         "created": "05/01/2026 21:00:00",
         "hour": "21"
+    },
+    {
+        "nft": "NFT20260105000491",
+        "site": "PH0600470",
+        "area": "NEGROS",
+        "state": "Finished",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Device Powered Off",
+        "created": "05/01/2026 20:57:00",
+        "hour": "20"
     },
     {
         "nft": "NFT20260105000480",
