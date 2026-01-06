@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Offline",
         "created": "06/01/2026 11:59:00",
         "hour": "11"
@@ -41,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "RRU hardware failure",
         "created": "06/01/2026 11:41:01",
         "hour": "11"
@@ -138,7 +138,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Device Offline",
         "created": "06/01/2026 10:48:00",
         "hour": "10"
@@ -177,6 +177,18 @@
         "remaining": "-",
         "alarm": "Device Offline",
         "created": "06/01/2026 09:38:00",
+        "hour": "9"
+    },
+    {
+        "nft": "NFT20260106000192",
+        "site": "PH0700338",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Cell out of service",
+        "created": "06/01/2026 09:26:00",
         "hour": "9"
     },
     {
