@@ -29,7 +29,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "06/01/2026 10:48:00",
@@ -42,7 +42,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "Low Liquid Level Alarm shutdown",
         "created": "06/01/2026 09:46:00",
         "hour": "9"
@@ -161,8 +161,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.5",
-        "remaining": "3.5",
+        "duration": "4.6",
+        "remaining": "3.4",
         "alarm": "Cell16 Over Resistance Alarm",
         "created": "06/01/2026 06:47:00",
         "hour": "6"
