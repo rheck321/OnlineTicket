@@ -1,12 +1,24 @@
 {"nftlist":[
     {
-        "nft": "NFT20260106000350",
-        "site": "PH0700829",
+        "nft": "NFT20260106000354",
+        "site": "PH0700246",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.1",
         "remaining": "7.9",
+        "alarm": "Cell out of service",
+        "created": "06/01/2026 14:38:00",
+        "hour": "14"
+    },
+    {
+        "nft": "NFT20260106000350",
+        "site": "PH0700829",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "06/01/2026 14:32:00",
         "hour": "14"
@@ -17,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Offline",
         "created": "06/01/2026 14:25:01",
         "hour": "14"
