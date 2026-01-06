@@ -53,8 +53,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "RRU hardware failure",
         "created": "06/01/2026 11:41:01",
         "hour": "11"
@@ -149,8 +149,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "Device Offline",
         "created": "06/01/2026 10:48:00",
         "hour": "10"
