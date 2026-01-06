@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Low Liquid Level Alarm shutdown",
         "created": "06/01/2026 09:46:00",
         "hour": "9"
@@ -41,7 +41,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.9",
+        "duration": "1.0",
         "remaining": "7.0",
         "alarm": "Cell out of service",
         "created": "06/01/2026 09:26:00",
@@ -90,7 +90,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "Device Offline",
         "created": "06/01/2026 08:02:00",
         "hour": "8"
@@ -126,7 +126,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.6",
-        "remaining": "4.4",
+        "remaining": "4.3",
         "alarm": "Cell16 Over Resistance Alarm",
         "created": "06/01/2026 06:47:00",
         "hour": "6"
