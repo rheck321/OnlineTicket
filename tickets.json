@@ -125,8 +125,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "Cell16 Over Resistance Alarm",
         "created": "06/01/2026 06:47:00",
         "hour": "6"
