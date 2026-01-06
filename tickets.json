@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Low Liquid Level Alarm shutdown",
         "created": "06/01/2026 09:46:00",
         "hour": "9"
@@ -125,8 +125,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "Cell16 Over Resistance Alarm",
         "created": "06/01/2026 06:47:00",
         "hour": "6"
