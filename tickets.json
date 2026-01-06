@@ -77,8 +77,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "Cell16 Over Resistance Alarm",
         "created": "06/01/2026 06:47:00",
         "hour": "6"
@@ -89,8 +89,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Cell23 Over Resistance Alarm",
         "created": "06/01/2026 06:29:00",
         "hour": "6"
@@ -137,8 +137,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.5",
-        "remaining": "0.5",
+        "duration": "7.6",
+        "remaining": "0.4",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "06/01/2026 01:40:01",
         "hour": "1"
@@ -174,7 +174,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Device Powered Off",
         "created": "05/01/2026 20:57:00",
         "hour": "20"
