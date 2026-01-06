@@ -77,8 +77,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Cell16 Over Resistance Alarm",
         "created": "06/01/2026 06:47:00",
         "hour": "6"
@@ -137,8 +137,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.8",
-        "remaining": "0.2",
+        "duration": "7.9",
+        "remaining": "0.1",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "06/01/2026 01:40:01",
         "hour": "1"
@@ -166,18 +166,6 @@
         "alarm": "ATS S1 Voltage State",
         "created": "05/01/2026 21:00:00",
         "hour": "21"
-    },
-    {
-        "nft": "NFT20260105000491",
-        "site": "PH0600470",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.8",
-        "remaining": "7.2",
-        "alarm": "Device Powered Off",
-        "created": "05/01/2026 20:57:00",
-        "hour": "20"
     },
     {
         "nft": "NFT20260105000480",
