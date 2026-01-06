@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Offline",
         "created": "06/01/2026 11:50:00",
         "hour": "11"
@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Heating exchange fan fault",
         "created": "06/01/2026 11:43:00",
         "hour": "11"
@@ -65,8 +65,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Optical Fail",
         "created": "06/01/2026 11:27:00",
         "hour": "11"
@@ -162,7 +162,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "Device Offline",
         "created": "06/01/2026 09:43:00",
         "hour": "9"
@@ -185,8 +185,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.6",
-        "remaining": "5.4",
+        "duration": "2.7",
+        "remaining": "5.3",
         "alarm": "Cell out of service",
         "created": "06/01/2026 09:26:00",
         "hour": "9"
@@ -233,8 +233,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "Device Offline",
         "created": "06/01/2026 08:02:00",
         "hour": "8"
