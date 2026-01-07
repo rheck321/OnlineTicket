@@ -5,35 +5,11 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Cell out of service",
         "created": "07/01/2026 12:50:01",
         "hour": "12"
-    },
-    {
-        "nft": "NFT20260107000193",
-        "site": "PH0710009",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "3.1",
-        "remaining": "4.9",
-        "alarm": "RRU interrupted",
-        "created": "07/01/2026 10:01:00",
-        "hour": "10"
-    },
-    {
-        "nft": "NFT20260107000188",
-        "site": "PH0700247",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "3.2",
-        "remaining": "4.8",
-        "alarm": "Cell out of service",
-        "created": "07/01/2026 09:51:00",
-        "hour": "9"
     },
     {
         "nft": "NFT20260107000186",
@@ -245,8 +221,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.5",
-        "remaining": "0.5",
+        "duration": "7.6",
+        "remaining": "0.4",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 00:18:00",
         "hour": "0"
