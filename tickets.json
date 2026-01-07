@@ -17,8 +17,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Battery Communication Fail",
         "created": "07/01/2026 13:09:00",
         "hour": "13"
@@ -30,7 +30,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "Cell out of service",
         "created": "07/01/2026 12:50:01",
         "hour": "12"
@@ -209,8 +209,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-5.8",
-        "remaining": "13.8",
+        "duration": "-5.7",
+        "remaining": "13.7",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 01:04:00",
         "hour": "1"
