@@ -5,8 +5,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Offline",
         "created": "07/01/2026 17:39:00",
         "hour": "17"
@@ -30,7 +30,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-7.5",
-        "remaining": "15.5",
+        "remaining": "15.4",
         "alarm": "Heating exchange fan fault",
         "created": "07/01/2026 08:50:00",
         "hour": "8"
@@ -186,7 +186,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-3.0",
-        "remaining": "11.1",
+        "remaining": "11.0",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 01:04:00",
         "hour": "1"
@@ -210,7 +210,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-3.6",
-        "remaining": "11.7",
+        "remaining": "11.6",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 00:18:00",
         "hour": "0"
@@ -258,7 +258,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-5.5",
-        "remaining": "13.5",
+        "remaining": "13.4",
         "alarm": "Cell out of service",
         "created": "01/01/2026 23:34:00",
         "hour": "23"
