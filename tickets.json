@@ -77,8 +77,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.6",
-        "remaining": "5.4",
+        "duration": "2.7",
+        "remaining": "5.3",
         "alarm": "Heating exchange fan fault",
         "created": "07/01/2026 08:50:00",
         "hour": "8"
@@ -101,8 +101,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.9",
-        "remaining": "3.1",
+        "duration": "5.0",
+        "remaining": "3.0",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "07/01/2026 07:05:00",
         "hour": "7"
@@ -257,8 +257,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.7",
-        "remaining": "0.3",
+        "duration": "7.8",
+        "remaining": "0.2",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 01:01:00",
         "hour": "1"
@@ -317,8 +317,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.6",
-        "remaining": "3.4",
+        "duration": "4.7",
+        "remaining": "3.3",
         "alarm": "Cell out of service",
         "created": "01/01/2026 23:34:00",
         "hour": "23"
