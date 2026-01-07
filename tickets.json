@@ -30,7 +30,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "Device Offline",
         "created": "07/01/2026 10:08:00",
         "hour": "10"
@@ -53,8 +53,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.6",
-        "remaining": "5.4",
+        "duration": "2.7",
+        "remaining": "5.3",
         "alarm": "Cell out of service",
         "created": "07/01/2026 09:51:00",
         "hour": "9"
@@ -77,8 +77,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "Battery Communication Fail",
         "created": "07/01/2026 09:03:00",
         "hour": "9"
@@ -257,8 +257,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.5",
-        "remaining": "0.5",
+        "duration": "7.6",
+        "remaining": "0.4",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 01:04:00",
         "hour": "1"
@@ -282,7 +282,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "7.0",
-        "remaining": "1.1",
+        "remaining": "1.0",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 00:18:00",
         "hour": "0"
