@@ -1,17 +1,5 @@
 {"nftlist":[
     {
-        "nft": "NFT20260107000401",
-        "site": "PH0600105",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.1",
-        "remaining": "7.9",
-        "alarm": "RRU interrupted",
-        "created": "07/01/2026 17:17:00",
-        "hour": "17"
-    },
-    {
         "nft": "NFT20260107000294",
         "site": "PH0600743",
         "area": "NEGROS",
@@ -41,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "8.0",
-        "remaining": "0.0",
+        "duration": "-8.0",
+        "remaining": "16.0",
         "alarm": "Heating exchange fan fault",
         "created": "07/01/2026 08:50:00",
         "hour": "8"
@@ -197,8 +185,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-3.6",
-        "remaining": "11.6",
+        "duration": "-3.5",
+        "remaining": "11.5",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 01:04:00",
         "hour": "1"
@@ -209,7 +197,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-3.0",
+        "duration": "-2.9",
         "remaining": "10.9",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 01:01:00",
@@ -221,8 +209,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-4.2",
-        "remaining": "12.2",
+        "duration": "-4.1",
+        "remaining": "12.1",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 00:18:00",
         "hour": "0"
