@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.1",
-        "remaining": "3.9",
+        "duration": "4.2",
+        "remaining": "3.8",
         "alarm": "Battery Communication Fail",
         "created": "07/01/2026 13:09:00",
         "hour": "13"
@@ -186,7 +186,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-3.6",
-        "remaining": "11.7",
+        "remaining": "11.6",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 01:04:00",
         "hour": "1"
