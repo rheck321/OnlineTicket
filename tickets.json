@@ -245,7 +245,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.9",
+        "duration": "1.0",
         "remaining": "7.0",
         "alarm": "Device Powered Off",
         "created": "06/01/2026 20:50:00",
