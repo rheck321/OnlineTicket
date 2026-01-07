@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "6.9",
+        "remaining": "6.8",
         "alarm": "Battery Communication Fail",
         "created": "07/01/2026 13:09:00",
         "hour": "13"
@@ -17,8 +17,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Cell out of service",
         "created": "07/01/2026 12:50:01",
         "hour": "12"
@@ -197,8 +197,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-6.7",
-        "remaining": "14.7",
+        "duration": "-6.6",
+        "remaining": "14.6",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 01:04:00",
         "hour": "1"
@@ -221,8 +221,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-7.3",
-        "remaining": "15.3",
+        "duration": "-7.2",
+        "remaining": "15.2",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 00:18:00",
         "hour": "0"
