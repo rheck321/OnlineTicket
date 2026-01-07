@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "RRU interrupted",
         "created": "07/01/2026 10:01:00",
         "hour": "10"
@@ -66,7 +66,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "Heating exchange fan fault",
         "created": "07/01/2026 08:50:00",
         "hour": "8"
@@ -84,25 +84,13 @@
         "hour": "8"
     },
     {
-        "nft": "NFT20260107000106",
-        "site": "CO088",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "4.5",
-        "remaining": "3.5",
-        "alarm": "MUT_LOS",
-        "created": "07/01/2026 07:13:00",
-        "hour": "7"
-    },
-    {
         "nft": "NFT20260107000105",
         "site": "PH0600297",
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
         "duration": "4.7",
-        "remaining": "3.4",
+        "remaining": "3.3",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "07/01/2026 07:05:00",
         "hour": "7"
@@ -257,8 +245,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.4",
-        "remaining": "0.6",
+        "duration": "7.5",
+        "remaining": "0.5",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 01:01:00",
         "hour": "1"
@@ -317,7 +305,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.3",
+        "duration": "4.4",
         "remaining": "3.6",
         "alarm": "Cell out of service",
         "created": "01/01/2026 23:34:00",
