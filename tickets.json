@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.3",
-        "remaining": "3.7",
+        "remaining": "3.6",
         "alarm": "Battery Communication Fail",
         "created": "07/01/2026 13:09:00",
         "hour": "13"
@@ -185,8 +185,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-3.5",
-        "remaining": "11.5",
+        "duration": "-3.4",
+        "remaining": "11.4",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 01:04:00",
         "hour": "1"
@@ -209,8 +209,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-4.1",
-        "remaining": "12.1",
+        "duration": "-4.0",
+        "remaining": "12.0",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 00:18:00",
         "hour": "0"
