@@ -5,7 +5,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "7.5",
         "alarm": "Modem part unlock",
         "created": "07/01/2026 14:53:00",
@@ -17,8 +17,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Battery Communication Fail",
         "created": "07/01/2026 13:09:00",
         "hour": "13"
@@ -54,7 +54,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.0",
-        "remaining": "2.0",
+        "remaining": "1.9",
         "alarm": "Heating exchange fan fault",
         "created": "07/01/2026 08:50:00",
         "hour": "8"
@@ -282,7 +282,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-8.0",
-        "remaining": "16.0",
+        "remaining": "15.9",
         "alarm": "Cell out of service",
         "created": "01/01/2026 23:34:00",
         "hour": "23"
