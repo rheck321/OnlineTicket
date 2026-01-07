@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "7.9",
+        "remaining": "7.8",
         "alarm": "Battery Communication Fail",
         "created": "07/01/2026 13:09:00",
         "hour": "13"
@@ -17,8 +17,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Cell out of service",
         "created": "07/01/2026 12:50:01",
         "hour": "12"
@@ -58,18 +58,6 @@
         "alarm": "RRU optical module failure",
         "created": "07/01/2026 08:24:00",
         "hour": "8"
-    },
-    {
-        "nft": "NFT20260107000105",
-        "site": "PH0600297",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "6.2",
-        "remaining": "1.8",
-        "alarm": "Low oil pressure shutdown alarm",
-        "created": "07/01/2026 07:05:00",
-        "hour": "7"
     },
     {
         "nft": "NFT20260106000486",
@@ -209,8 +197,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-7.7",
-        "remaining": "15.7",
+        "duration": "-7.6",
+        "remaining": "15.6",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 01:04:00",
         "hour": "1"
@@ -233,8 +221,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.7",
-        "remaining": "0.3",
+        "duration": "7.8",
+        "remaining": "0.2",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 00:18:00",
         "hour": "0"
