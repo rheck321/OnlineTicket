@@ -185,7 +185,7 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-3.7",
+        "duration": "-3.6",
         "remaining": "11.7",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 01:04:00",
@@ -198,7 +198,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-3.0",
-        "remaining": "11.1",
+        "remaining": "11.0",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 01:01:00",
         "hour": "1"
@@ -209,8 +209,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-4.3",
-        "remaining": "12.3",
+        "duration": "-4.2",
+        "remaining": "12.2",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 00:18:00",
         "hour": "0"
