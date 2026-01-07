@@ -1,17 +1,5 @@
 {"nftlist":[
     {
-        "nft": "NFT20260107000214",
-        "site": "CO082",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.8",
-        "remaining": "7.2",
-        "alarm": "Device Offline",
-        "created": "07/01/2026 10:37:00",
-        "hour": "10"
-    },
-    {
         "nft": "NFT20260107000202",
         "site": "CO101",
         "area": "CEBU",
@@ -42,7 +30,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "ATS S1 Voltage State",
         "created": "07/01/2026 10:00:01",
         "hour": "10"
@@ -89,8 +77,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Heating exchange fan fault",
         "created": "07/01/2026 08:50:00",
         "hour": "8"
@@ -125,8 +113,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.3",
-        "remaining": "3.7",
+        "duration": "4.4",
+        "remaining": "3.6",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "07/01/2026 07:05:00",
         "hour": "7"
@@ -281,8 +269,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.1",
-        "remaining": "0.9",
+        "duration": "7.2",
+        "remaining": "0.8",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 01:01:00",
         "hour": "1"
@@ -341,8 +329,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "Cell out of service",
         "created": "01/01/2026 23:34:00",
         "hour": "23"
