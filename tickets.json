@@ -17,8 +17,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Cell out of service",
         "created": "07/01/2026 12:50:01",
         "hour": "12"
@@ -197,8 +197,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-6.4",
-        "remaining": "14.4",
+        "duration": "-6.3",
+        "remaining": "14.3",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 01:04:00",
         "hour": "1"
@@ -209,8 +209,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-5.8",
-        "remaining": "13.8",
+        "duration": "-5.7",
+        "remaining": "13.7",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 01:01:00",
         "hour": "1"
@@ -222,7 +222,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-7.0",
-        "remaining": "15.0",
+        "remaining": "14.9",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 00:18:00",
         "hour": "0"
