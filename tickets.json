@@ -209,8 +209,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-7.2",
-        "remaining": "15.2",
+        "duration": "-7.1",
+        "remaining": "15.1",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 01:01:00",
         "hour": "1"
@@ -221,8 +221,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.6",
-        "remaining": "0.4",
+        "duration": "7.7",
+        "remaining": "0.3",
         "alarm": "Standing wave warning",
         "created": "03/01/2026 00:18:00",
         "hour": "0"
