@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20260108000342",
+        "site": "PH0700304",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Battery charger under voltage warning",
+        "created": "08/01/2026 13:39:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20260108000333",
         "site": "PH0600666",
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "08/01/2026 13:17:00",
         "hour": "13"
@@ -17,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "08/01/2026 13:17:00",
         "hour": "13"
@@ -30,7 +42,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "Cell out of service",
         "created": "08/01/2026 12:39:00",
         "hour": "12"
@@ -53,7 +65,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.6",
+        "duration": "1.7",
         "remaining": "6.3",
         "alarm": "Battery Communication Fail",
         "created": "08/01/2026 12:03:00",
@@ -102,7 +114,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "Battery Communication Fail",
         "created": "08/01/2026 11:21:00",
         "hour": "11"
