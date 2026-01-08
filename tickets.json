@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Optical Fail",
         "created": "08/01/2026 16:29:00",
         "hour": "16"
@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Optical Fail",
         "created": "08/01/2026 16:29:00",
         "hour": "16"
@@ -269,8 +269,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Physical Port Down",
         "created": "08/01/2026 09:39:00",
         "hour": "9"
