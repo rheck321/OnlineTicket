@@ -65,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Cell out of service",
         "created": "08/01/2026 11:30:00",
         "hour": "11"
@@ -126,7 +126,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.9",
-        "remaining": "5.2",
+        "remaining": "5.1",
         "alarm": "Battery Communication Fail",
         "created": "08/01/2026 10:11:00",
         "hour": "10"
