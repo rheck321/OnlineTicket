@@ -1,12 +1,36 @@
 {"nftlist":[
     {
+        "nft": "NFT20260108000241",
+        "site": "CO101",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "08/01/2026 10:37:00",
+        "hour": "10"
+    },
+    {
+        "nft": "NFT20260108000236",
+        "site": "CO088",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Critical",
+        "duration": "0.2",
+        "remaining": "3.8",
+        "alarm": "Break Off",
+        "created": "08/01/2026 10:26:00",
+        "hour": "10"
+    },
+    {
         "nft": "NFT20260108000229",
         "site": "PH0700167",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Battery Communication Fail",
         "created": "08/01/2026 10:11:00",
         "hour": "10"
@@ -17,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Device Offline",
         "created": "08/01/2026 09:52:01",
         "hour": "9"
