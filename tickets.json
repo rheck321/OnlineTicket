@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Critical",
         "duration": "0.1",
-        "remaining": "4.0",
+        "remaining": "3.9",
         "alarm": "Perimeter Alarm",
         "created": "08/01/2026 17:11:00",
         "hour": "17"
@@ -219,10 +219,10 @@
         "nft": "NFT20260108000260",
         "site": "PH0800140",
         "area": "LEYTE",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "5.9",
-        "remaining": "2.1",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Battery Communication Fail",
         "created": "08/01/2026 11:21:00",
         "hour": "11"
@@ -293,8 +293,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "Physical Port Down",
         "created": "08/01/2026 09:39:00",
         "hour": "9"
