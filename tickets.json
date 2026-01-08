@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Device Offline",
         "created": "08/01/2026 11:02:00",
         "hour": "11"
@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.1",
-        "remaining": "2.9",
+        "duration": "1.2",
+        "remaining": "2.8",
         "alarm": "Break Off",
         "created": "08/01/2026 10:26:00",
         "hour": "10"
