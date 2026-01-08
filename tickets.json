@@ -149,7 +149,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.6",
+        "duration": "4.7",
         "remaining": "3.4",
         "alarm": "Battery Communication Fail",
         "created": "08/01/2026 12:03:00",
@@ -198,7 +198,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "5.3",
-        "remaining": "2.7",
+        "remaining": "2.6",
         "alarm": "Battery Communication Fail",
         "created": "08/01/2026 11:21:00",
         "hour": "11"
@@ -270,7 +270,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "Physical Port Down",
         "created": "08/01/2026 09:39:00",
         "hour": "9"
