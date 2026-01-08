@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20260108000390",
+        "site": "PH0700287",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "08/01/2026 15:31:00",
+        "hour": "15"
+    },
+    {
         "nft": "NFT20260108000381",
         "site": "PH0600670",
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Cell out of service",
         "created": "08/01/2026 15:07:00",
         "hour": "15"
@@ -17,8 +29,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Battery Communication Fail",
         "created": "08/01/2026 14:24:00",
         "hour": "14"
@@ -29,7 +41,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.1",
+        "duration": "1.2",
         "remaining": "6.8",
         "alarm": "Device Powered Off",
         "created": "08/01/2026 14:23:00",
