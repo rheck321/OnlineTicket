@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Battery charger under voltage warning",
         "created": "08/01/2026 13:39:00",
         "hour": "13"
@@ -53,8 +53,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Cell out of service",
         "created": "08/01/2026 12:39:00",
         "hour": "12"
@@ -77,8 +77,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.3",
-        "remaining": "5.7",
+        "duration": "2.4",
+        "remaining": "5.6",
         "alarm": "Battery Communication Fail",
         "created": "08/01/2026 12:03:00",
         "hour": "12"
@@ -113,8 +113,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "Battery Communication Fail",
         "created": "08/01/2026 11:21:00",
         "hour": "11"
@@ -286,29 +286,5 @@
         "alarm": "Device Offline",
         "created": "08/01/2026 04:22:00",
         "hour": "4"
-    },
-    {
-        "nft": "NFT20260108000043",
-        "site": "PH0700287",
-        "area": "CEBU",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Device Offline",
-        "created": "08/01/2026 02:33:01",
-        "hour": "2"
-    },
-    {
-        "nft": "NFT20260108000041",
-        "site": "PH0700792",
-        "area": "BOHOL",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Physical Port Down",
-        "created": "08/01/2026 02:29:00",
-        "hour": "2"
     }
 ]}
