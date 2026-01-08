@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "Battery Communication Fail",
         "created": "08/01/2026 14:24:00",
         "hour": "14"
@@ -53,7 +53,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.8",
+        "duration": "1.9",
         "remaining": "6.2",
         "alarm": "Cell out of service",
         "created": "08/01/2026 12:39:00",
@@ -77,8 +77,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "Battery Communication Fail",
         "created": "08/01/2026 12:03:00",
         "hour": "12"
@@ -114,7 +114,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.1",
-        "remaining": "4.9",
+        "remaining": "4.8",
         "alarm": "Battery Communication Fail",
         "created": "08/01/2026 11:21:00",
         "hour": "11"
@@ -177,6 +177,18 @@
         "remaining": "-",
         "alarm": "Device Offline",
         "created": "08/01/2026 09:52:01",
+        "hour": "9"
+    },
+    {
+        "nft": "NFT20260108000177",
+        "site": "CO075",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Physical Port Down",
+        "created": "08/01/2026 09:39:00",
         "hour": "9"
     },
     {
@@ -286,5 +298,41 @@
         "alarm": "Device Offline",
         "created": "08/01/2026 04:22:00",
         "hour": "4"
+    },
+    {
+        "nft": "NFT20260108000043",
+        "site": "PH0700287",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Device Offline",
+        "created": "08/01/2026 02:33:01",
+        "hour": "2"
+    },
+    {
+        "nft": "NFT20260108000041",
+        "site": "PH0700792",
+        "area": "BOHOL",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Physical Port Down",
+        "created": "08/01/2026 02:29:00",
+        "hour": "2"
+    },
+    {
+        "nft": "NFT20260108000030",
+        "site": "CO088",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Device Offline",
+        "created": "08/01/2026 01:22:00",
+        "hour": "1"
     }
 ]}
