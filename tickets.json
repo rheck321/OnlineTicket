@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "09/01/2026 13:17:00",
         "hour": "13"
@@ -78,7 +78,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Gen communication status alarm",
         "created": "09/01/2026 12:18:00",
         "hour": "12"
@@ -150,7 +150,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.6",
-        "remaining": "5.4",
+        "remaining": "5.3",
         "alarm": "Physical Port Down",
         "created": "09/01/2026 11:06:00",
         "hour": "11"
