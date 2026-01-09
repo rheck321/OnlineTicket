@@ -41,7 +41,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
+        "duration": "1.2",
         "remaining": "6.8",
         "alarm": "Device Offline",
         "created": "09/01/2026 11:26:00",
@@ -125,8 +125,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.1",
-        "remaining": "5.9",
+        "duration": "2.2",
+        "remaining": "5.8",
         "alarm": "Optical Fail",
         "created": "09/01/2026 10:27:00",
         "hour": "10"
@@ -174,7 +174,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.6",
-        "remaining": "5.4",
+        "remaining": "5.3",
         "alarm": "Physical Port Down",
         "created": "09/01/2026 09:58:00",
         "hour": "9"
