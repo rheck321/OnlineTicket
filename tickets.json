@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "Device Offline",
         "created": "09/01/2026 11:03:00",
         "hour": "11"
@@ -89,8 +89,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Physical Port Down",
         "created": "09/01/2026 09:58:00",
         "hour": "9"
