@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Physical Port Down",
         "created": "09/01/2026 16:47:00",
         "hour": "16"
@@ -291,10 +291,10 @@
         "nft": "NFT20260109000209",
         "site": "PH0600239",
         "area": "PANAY",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Minor",
-        "duration": "6.9",
-        "remaining": "1.1",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "Optical Fail",
         "created": "09/01/2026 10:27:00",
         "hour": "10"
