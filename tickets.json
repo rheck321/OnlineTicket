@@ -17,7 +17,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.9",
+        "duration": "1.0",
         "remaining": "7.0",
         "alarm": "Physical Port Down",
         "created": "09/01/2026 20:09:00",
