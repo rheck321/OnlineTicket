@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260109000296",
+        "site": "PH0700323",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "09/01/2026 13:17:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20260109000286",
         "site": "PH0700298",
         "area": "CEBU",
@@ -17,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Physical Port Down",
         "created": "09/01/2026 12:45:00",
         "hour": "12"
@@ -29,8 +41,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Physical Port Down",
         "created": "09/01/2026 12:45:00",
         "hour": "12"
@@ -185,8 +197,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.8",
-        "remaining": "5.2",
+        "duration": "2.9",
+        "remaining": "5.1",
         "alarm": "Optical Fail",
         "created": "09/01/2026 10:27:00",
         "hour": "10"
@@ -233,7 +245,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.3",
+        "duration": "3.4",
         "remaining": "4.7",
         "alarm": "Physical Port Down",
         "created": "09/01/2026 09:58:00",
