@@ -161,8 +161,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.1",
-        "remaining": "4.9",
+        "duration": "3.2",
+        "remaining": "4.8",
         "alarm": "Cell out of service",
         "created": "09/01/2026 05:58:00",
         "hour": "5"
@@ -509,8 +509,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Battery charger under voltage warning",
         "created": "08/01/2026 18:06:00",
         "hour": "18"
