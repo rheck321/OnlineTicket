@@ -30,7 +30,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "The Device is offline",
         "created": "09/01/2026 12:49:00",
         "hour": "12"
@@ -81,6 +81,18 @@
         "remaining": "-",
         "alarm": "Cell out of service",
         "created": "09/01/2026 12:33:00",
+        "hour": "12"
+    },
+    {
+        "nft": "NFT20260109000270",
+        "site": "PH0600018",
+        "area": "PANAY",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "1.7",
+        "remaining": "6.3",
+        "alarm": "Gen communication status alarm",
+        "created": "09/01/2026 12:18:00",
         "hour": "12"
     },
     {
