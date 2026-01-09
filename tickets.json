@@ -101,8 +101,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Cell10 Over Resistance Alarm",
         "created": "09/01/2026 07:01:00",
         "hour": "7"
