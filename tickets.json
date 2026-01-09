@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Physical Port Down",
         "created": "09/01/2026 16:47:00",
         "hour": "16"
@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Offline",
         "created": "09/01/2026 16:40:01",
         "hour": "16"
@@ -114,7 +114,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.2",
-        "remaining": "3.9",
+        "remaining": "3.8",
         "alarm": "Physical Port Down",
         "created": "09/01/2026 12:45:00",
         "hour": "12"
@@ -126,7 +126,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.2",
-        "remaining": "3.9",
+        "remaining": "3.8",
         "alarm": "Physical Port Down",
         "created": "09/01/2026 12:45:00",
         "hour": "12"
@@ -282,7 +282,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.5",
-        "remaining": "1.6",
+        "remaining": "1.5",
         "alarm": "Optical Fail",
         "created": "09/01/2026 10:27:00",
         "hour": "10"
@@ -329,8 +329,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.9",
-        "remaining": "1.1",
+        "duration": "7.0",
+        "remaining": "1.0",
         "alarm": "Physical Port Down",
         "created": "09/01/2026 09:58:00",
         "hour": "9"
