@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Offline",
         "created": "09/01/2026 12:01:00",
         "hour": "12"
@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Device Offline",
         "created": "09/01/2026 11:55:00",
         "hour": "11"
@@ -65,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Physical Port Down",
         "created": "09/01/2026 11:06:00",
         "hour": "11"
@@ -893,8 +893,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-3.7",
-        "remaining": "11.7",
+        "duration": "-3.6",
+        "remaining": "11.6",
         "alarm": "Cell out of service",
         "created": "08/01/2026 12:39:00",
         "hour": "12"
