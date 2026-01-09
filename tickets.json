@@ -137,8 +137,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Cell out of service",
         "created": "09/01/2026 08:31:00",
         "hour": "8"
