@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "Transmission unit link break",
         "created": "09/01/2026 20:16:00",
         "hour": "20"
@@ -15,10 +15,10 @@
         "nft": "NFT20260109000457",
         "site": "PH0700166",
         "area": "CEBU",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Device Offline",
         "created": "09/01/2026 19:50:00",
         "hour": "19"
