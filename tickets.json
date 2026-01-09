@@ -1,5 +1,29 @@
 {"nftlist":[
     {
+        "nft": "NFT20260109000415",
+        "site": "PH0800081",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "09/01/2026 18:12:00",
+        "hour": "18"
+    },
+    {
+        "nft": "NFT20260109000413",
+        "site": "CO038",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Offline",
+        "created": "09/01/2026 18:11:00",
+        "hour": "18"
+    },
+    {
         "nft": "NFT20260109000384",
         "site": "CO101",
         "area": "CEBU",
@@ -30,7 +54,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "Device Offline",
         "created": "09/01/2026 16:40:01",
         "hour": "16"
