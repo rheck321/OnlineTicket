@@ -72,18 +72,6 @@
         "hour": "13"
     },
     {
-        "nft": "NFT20260109000286",
-        "site": "PH0700298",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "3.8",
-        "remaining": "4.2",
-        "alarm": "The Device is offline",
-        "created": "09/01/2026 12:49:00",
-        "hour": "12"
-    },
-    {
         "nft": "NFT20260109000284",
         "site": "IBS0640005",
         "area": "NEGROS",
