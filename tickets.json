@@ -53,8 +53,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Device Offline",
         "created": "09/01/2026 10:42:00",
         "hour": "10"
@@ -125,7 +125,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "Physical Port Down",
         "created": "09/01/2026 09:58:00",
@@ -858,7 +858,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-4.5",
-        "remaining": "12.5",
+        "remaining": "12.4",
         "alarm": "Cell out of service",
         "created": "08/01/2026 12:39:00",
         "hour": "12"
@@ -1138,17 +1138,5 @@
         "alarm": "Physical Port Down",
         "created": "08/01/2026 02:29:00",
         "hour": "2"
-    },
-    {
-        "nft": "NFT20260108000030",
-        "site": "CO088",
-        "area": "CEBU",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Device Offline",
-        "created": "08/01/2026 01:22:00",
-        "hour": "1"
     }
 ]}
