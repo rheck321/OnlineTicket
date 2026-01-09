@@ -89,7 +89,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "Optical Fail",
         "created": "09/01/2026 10:27:00",
@@ -137,8 +137,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.9",
-        "remaining": "6.1",
+        "duration": "2.0",
+        "remaining": "6.0",
         "alarm": "Physical Port Down",
         "created": "09/01/2026 09:58:00",
         "hour": "9"
@@ -1102,53 +1102,5 @@
         "alarm": "Device Offline",
         "created": "08/01/2026 05:55:01",
         "hour": "5"
-    },
-    {
-        "nft": "NFT20260108000077",
-        "site": "PH0700543",
-        "area": "BOHOL",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Device Offline",
-        "created": "08/01/2026 05:30:01",
-        "hour": "5"
-    },
-    {
-        "nft": "NFT20260108000064",
-        "site": "PH0700287",
-        "area": "CEBU",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Device Offline",
-        "created": "08/01/2026 04:22:00",
-        "hour": "4"
-    },
-    {
-        "nft": "NFT20260108000043",
-        "site": "PH0700287",
-        "area": "CEBU",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Device Offline",
-        "created": "08/01/2026 02:33:01",
-        "hour": "2"
-    },
-    {
-        "nft": "NFT20260108000041",
-        "site": "PH0700792",
-        "area": "BOHOL",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Physical Port Down",
-        "created": "08/01/2026 02:29:00",
-        "hour": "2"
     }
 ]}
