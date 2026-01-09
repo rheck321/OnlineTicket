@@ -29,8 +29,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Optical Fail",
         "created": "09/01/2026 10:27:00",
         "hour": "10"
@@ -78,7 +78,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.9",
-        "remaining": "7.1",
+        "remaining": "7.0",
         "alarm": "Physical Port Down",
         "created": "09/01/2026 09:58:00",
         "hour": "9"
@@ -130,18 +130,6 @@
         "alarm": "Device Offline",
         "created": "09/01/2026 09:20:01",
         "hour": "9"
-    },
-    {
-        "nft": "NFT20260109000155",
-        "site": "IBS0840002",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "2.4",
-        "remaining": "5.6",
-        "alarm": "Cell out of service",
-        "created": "09/01/2026 08:31:00",
-        "hour": "8"
     },
     {
         "nft": "NFT20260109000151",
@@ -231,10 +219,10 @@
         "nft": "NFT20260109000091",
         "site": "CO080",
         "area": "NEGROS",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "3.9",
-        "remaining": "4.1",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Cell10 Over Resistance Alarm",
         "created": "09/01/2026 07:01:00",
         "hour": "7"
@@ -255,10 +243,10 @@
         "nft": "NFT20260109000089",
         "site": "CO080",
         "area": "NEGROS",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Cell22 Over Resistance Alarm",
         "created": "09/01/2026 06:54:00",
         "hour": "6"
@@ -525,6 +513,18 @@
         "remaining": "-",
         "alarm": "Device Offline",
         "created": "08/01/2026 19:51:00",
+        "hour": "19"
+    },
+    {
+        "nft": "NFT20260108000476",
+        "site": "PH0600627",
+        "area": "NEGROS",
+        "state": "Finished",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Device Powered Off",
+        "created": "08/01/2026 19:30:01",
         "hour": "19"
     },
     {
