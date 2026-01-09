@@ -1,5 +1,29 @@
 {"nftlist":[
     {
+        "nft": "NFT20260109000445",
+        "site": "PH0600460",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "09/01/2026 19:26:00",
+        "hour": "19"
+    },
+    {
+        "nft": "NFT20260109000443",
+        "site": "PH0700005",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Offline",
+        "created": "09/01/2026 19:23:00",
+        "hour": "19"
+    },
+    {
         "nft": "NFT20260109000426",
         "site": "PH0700200",
         "area": "CEBU",
