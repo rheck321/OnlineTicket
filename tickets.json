@@ -54,7 +54,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Battery Communication Fail",
         "created": "09/01/2026 16:02:00",
         "hour": "16"
