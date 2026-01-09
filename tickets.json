@@ -1,12 +1,36 @@
 {"nftlist":[
     {
+        "nft": "NFT20260109000217",
+        "site": "PH0600460",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "09/01/2026 10:42:00",
+        "hour": "10"
+    },
+    {
+        "nft": "NFT20260109000215",
+        "site": "CO101",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Offline",
+        "created": "09/01/2026 10:36:00",
+        "hour": "10"
+    },
+    {
         "nft": "NFT20260109000209",
         "site": "PH0600239",
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Optical Fail",
         "created": "09/01/2026 10:27:00",
         "hour": "10"
@@ -53,8 +77,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Physical Port Down",
         "created": "09/01/2026 09:58:00",
         "hour": "9"
@@ -521,8 +545,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "Transmission unit link break",
         "created": "08/01/2026 19:30:00",
         "hour": "19"
