@@ -12,13 +12,25 @@
         "hour": "10"
     },
     {
+        "nft": "NFT20260110000224",
+        "site": "CO078",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.3",
+        "remaining": "7.7",
+        "alarm": "Physical Port Down",
+        "created": "10/01/2026 10:05:00",
+        "hour": "10"
+    },
+    {
         "nft": "NFT20260110000223",
         "site": "PH0600214",
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Physical Port Down",
         "created": "10/01/2026 10:05:00",
         "hour": "10"
@@ -29,8 +41,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Physical Port Down",
         "created": "10/01/2026 09:53:00",
         "hour": "9"
@@ -77,8 +89,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "10/01/2026 03:29:00",
         "hour": "3"
