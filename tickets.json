@@ -48,18 +48,6 @@
         "hour": "3"
     },
     {
-        "nft": "NFT20260109000353",
-        "site": "PH0700443",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "3.3",
-        "remaining": "4.7",
-        "alarm": "Battery Communication Fail",
-        "created": "09/01/2026 16:02:00",
-        "hour": "16"
-    },
-    {
         "nft": "NFT20260109000270",
         "site": "PH0600018",
         "area": "PANAY",
