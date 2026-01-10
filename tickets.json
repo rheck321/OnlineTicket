@@ -1,29 +1,5 @@
 {"nftlist":[
     {
-        "nft": "NFT20260110000183",
-        "site": "PH0700768",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.8",
-        "remaining": "7.2",
-        "alarm": "Cell out of service",
-        "created": "10/01/2026 09:09:00",
-        "hour": "9"
-    },
-    {
-        "nft": "NFT20260110000171",
-        "site": "PH0700158",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "1.1",
-        "remaining": "7.0",
-        "alarm": "Cell out of service",
-        "created": "10/01/2026 08:53:00",
-        "hour": "8"
-    },
-    {
         "nft": "NFT20260110000166",
         "site": "PH0700727",
         "area": "CEBU",
@@ -65,7 +41,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
+        "duration": "1.2",
         "remaining": "6.8",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "10/01/2026 03:29:00",
@@ -89,8 +65,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.6",
-        "remaining": "5.4",
+        "duration": "2.7",
+        "remaining": "5.3",
         "alarm": "Gen communication status alarm",
         "created": "09/01/2026 12:18:00",
         "hour": "12"
