@@ -1,11 +1,23 @@
 {"nftlist":[
     {
+        "nft": "NFT20260112000294",
+        "site": "PH0600670",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.4",
+        "remaining": "7.6",
+        "alarm": "Cell out of service",
+        "created": "12/01/2026 13:30:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20260112000283",
         "site": "PH0700153",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "12/01/2026 13:21:00",
@@ -138,7 +150,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "5.8",
-        "remaining": "2.2",
+        "remaining": "2.1",
         "alarm": "Cycle equalization alarm",
         "created": "12/01/2026 08:03:00",
         "hour": "8"
