@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260112000159",
+        "site": "",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "AC SPD Abnormal",
+        "created": "12/01/2026 09:34:00",
+        "hour": "9"
+    },
+    {
         "nft": "NFT20260112000113",
         "site": "CO103",
         "area": "BOHOL",
@@ -29,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "Device Offline",
         "created": "12/01/2026 07:12:00",
         "hour": "7"
@@ -834,7 +846,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "5.7",
-        "remaining": "2.4",
+        "remaining": "2.3",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "11/01/2026 04:52:00",
         "hour": "4"
@@ -1014,7 +1026,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.5",
-        "remaining": "1.6",
+        "remaining": "1.5",
         "alarm": "Cell out of service",
         "created": "10/01/2026 17:29:00",
         "hour": "17"
