@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20260112000318",
+        "site": "PH0700269",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Standing wave warning",
+        "created": "12/01/2026 14:10:00",
+        "hour": "14"
+    },
+    {
         "nft": "NFT20260112000315",
         "site": "PH0700502",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Battery Communication Fail",
         "created": "12/01/2026 14:00:01",
         "hour": "14"
@@ -15,10 +27,10 @@
         "nft": "NFT20260112000294",
         "site": "PH0600670",
         "area": "PANAY",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Minor",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Cell out of service",
         "created": "12/01/2026 13:30:00",
         "hour": "13"
@@ -54,7 +66,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "Device Offline",
         "created": "12/01/2026 12:40:24",
         "hour": "12"
@@ -77,8 +89,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Battery Communication Fail",
         "created": "12/01/2026 11:30:00",
         "hour": "11"
@@ -102,7 +114,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.4",
-        "remaining": "4.7",
+        "remaining": "4.6",
         "alarm": "Device Offline",
         "created": "12/01/2026 10:53:00",
         "hour": "10"
