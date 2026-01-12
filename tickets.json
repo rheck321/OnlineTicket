@@ -41,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.2",
-        "remaining": "6.8",
+        "duration": "1.3",
+        "remaining": "6.7",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "12/01/2026 10:20:00",
         "hour": "10"
