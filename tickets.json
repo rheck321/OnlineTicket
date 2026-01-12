@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Standing wave warning",
         "created": "12/01/2026 14:10:00",
         "hour": "14"
@@ -186,7 +186,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "6.3",
-        "remaining": "1.7",
+        "remaining": "1.6",
         "alarm": "AC SPD Abnormal",
         "created": "12/01/2026 09:34:00",
         "hour": "9"
@@ -195,10 +195,10 @@
         "nft": "NFT20260112000113",
         "site": "CO103",
         "area": "BOHOL",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Major",
-        "duration": "7.8",
-        "remaining": "0.2",
+        "duration": "6.6",
+        "remaining": "1.4",
         "alarm": "Cycle equalization alarm",
         "created": "12/01/2026 08:03:00",
         "hour": "8"
