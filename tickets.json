@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Device Offline",
         "created": "12/01/2026 10:53:00",
         "hour": "10"
@@ -54,7 +54,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.9",
-        "remaining": "6.2",
+        "remaining": "6.1",
         "alarm": "AC SPD Abnormal",
         "created": "12/01/2026 09:34:00",
         "hour": "9"
@@ -318,7 +318,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-0.1",
-        "remaining": "8.2",
+        "remaining": "8.1",
         "alarm": "Cell out of service",
         "created": "11/01/2026 19:34:00",
         "hour": "19"
