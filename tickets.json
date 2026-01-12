@@ -41,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "12/01/2026 10:20:00",
         "hour": "10"
@@ -65,8 +65,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "Cycle equalization alarm",
         "created": "12/01/2026 08:03:00",
         "hour": "8"
