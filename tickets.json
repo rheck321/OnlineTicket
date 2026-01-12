@@ -12,12 +12,24 @@
         "hour": "11"
     },
     {
+        "nft": "NFT20260112000221",
+        "site": "PH0700021",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Cell out of service",
+        "created": "12/01/2026 11:17:00",
+        "hour": "11"
+    },
+    {
         "nft": "NFT20260112000211",
         "site": "PH0700430",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
+        "duration": "1.1",
         "remaining": "7.0",
         "alarm": "Device Offline",
         "created": "12/01/2026 10:53:00",
@@ -54,7 +66,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "12/01/2026 10:20:00",
         "hour": "10"
@@ -65,8 +77,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.3",
-        "remaining": "5.7",
+        "duration": "2.4",
+        "remaining": "5.6",
         "alarm": "AC SPD Abnormal",
         "created": "12/01/2026 09:34:00",
         "hour": "9"
@@ -77,8 +89,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.8",
-        "remaining": "4.2",
+        "duration": "3.9",
+        "remaining": "4.1",
         "alarm": "Cycle equalization alarm",
         "created": "12/01/2026 08:03:00",
         "hour": "8"
@@ -329,8 +341,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Cell out of service",
         "created": "11/01/2026 19:34:00",
         "hour": "19"
