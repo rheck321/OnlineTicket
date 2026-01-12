@@ -1,12 +1,48 @@
 {"nftlist":[
     {
+        "nft": "NFT20260112000406",
+        "site": "PH0700181",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Air Conditioner Inner Fan Fault",
+        "created": "12/01/2026 17:28:00",
+        "hour": "17"
+    },
+    {
+        "nft": "NFT20260112000405",
+        "site": "PH0700429",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Transmission unit link break",
+        "created": "12/01/2026 17:27:12",
+        "hour": "17"
+    },
+    {
+        "nft": "NFT20260112000400",
+        "site": "PH0600275",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Device Powered Off",
+        "created": "12/01/2026 17:18:00",
+        "hour": "17"
+    },
+    {
         "nft": "NFT20260112000390",
         "site": "PH0600296",
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "12/01/2026 17:05:00",
         "hour": "17"
@@ -42,7 +78,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.4",
-        "remaining": "4.7",
+        "remaining": "4.6",
         "alarm": "Standing wave warning",
         "created": "12/01/2026 14:10:00",
         "hour": "14"
