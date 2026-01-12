@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "Standing wave warning",
         "created": "12/01/2026 14:10:00",
         "hour": "14"
@@ -161,8 +161,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.6",
-        "remaining": "2.4",
+        "duration": "5.7",
+        "remaining": "2.3",
         "alarm": "AC SPD Abnormal",
         "created": "12/01/2026 09:34:00",
         "hour": "9"
