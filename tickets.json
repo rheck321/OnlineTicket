@@ -41,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Battery Communication Fail",
         "created": "12/01/2026 14:00:01",
         "hour": "14"
@@ -113,8 +113,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "Battery Communication Fail",
         "created": "12/01/2026 11:30:00",
         "hour": "11"
