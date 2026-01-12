@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Device Offline",
         "created": "12/01/2026 13:21:00",
         "hour": "13"
@@ -42,7 +42,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Device Offline",
         "created": "12/01/2026 12:40:24",
         "hour": "12"
@@ -53,8 +53,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "Cell out of service",
         "created": "12/01/2026 11:39:00",
         "hour": "11"
@@ -149,8 +149,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.0",
-        "remaining": "2.0",
+        "duration": "6.1",
+        "remaining": "1.9",
         "alarm": "Cycle equalization alarm",
         "created": "12/01/2026 08:03:00",
         "hour": "8"
