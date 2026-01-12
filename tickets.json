@@ -5,8 +5,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Cycle equalization alarm",
         "created": "12/01/2026 08:03:00",
         "hour": "8"
@@ -257,8 +257,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-2.8",
-        "remaining": "10.8",
+        "duration": "-2.7",
+        "remaining": "10.7",
         "alarm": "Cell out of service",
         "created": "11/01/2026 19:34:00",
         "hour": "19"
