@@ -5,8 +5,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Cycle equalization alarm",
         "created": "12/01/2026 08:03:00",
         "hour": "8"
@@ -197,8 +197,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.2",
-        "remaining": "6.8",
+        "duration": "1.3",
+        "remaining": "6.7",
         "alarm": "Cabinet Smog Alarm",
         "created": "11/01/2026 23:19:00",
         "hour": "23"
@@ -258,7 +258,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-2.4",
-        "remaining": "10.4",
+        "remaining": "10.3",
         "alarm": "Cell out of service",
         "created": "11/01/2026 19:34:00",
         "hour": "19"
@@ -557,8 +557,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "RRU hardware failure",
         "created": "11/01/2026 11:28:00",
         "hour": "11"
