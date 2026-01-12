@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "RRU interrupted",
         "created": "12/01/2026 07:31:01",
         "hour": "7"
@@ -1026,7 +1026,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "7.0",
-        "remaining": "1.1",
+        "remaining": "1.0",
         "alarm": "Cell out of service",
         "created": "10/01/2026 17:29:00",
         "hour": "17"
