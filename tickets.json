@@ -42,7 +42,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "Device Powered Off",
         "created": "13/01/2026 09:59:00",
         "hour": "9"
@@ -305,8 +305,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.4",
-        "remaining": "3.6",
+        "duration": "4.5",
+        "remaining": "3.5",
         "alarm": "Physical Port Down",
         "created": "12/01/2026 22:34:00",
         "hour": "22"
