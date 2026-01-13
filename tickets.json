@@ -1,5 +1,53 @@
 {"nftlist":[
     {
+        "nft": "NFT20260113000253",
+        "site": "PH0600824",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "13/01/2026 12:43:00",
+        "hour": "12"
+    },
+    {
+        "nft": "NFT20260113000255",
+        "site": "CO082",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "13/01/2026 12:43:00",
+        "hour": "12"
+    },
+    {
+        "nft": "NFT20260113000252",
+        "site": "PH0700247",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Offline",
+        "created": "13/01/2026 12:39:00",
+        "hour": "12"
+    },
+    {
+        "nft": "NFT20260113000245",
+        "site": "PH0700029",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.3",
+        "remaining": "7.7",
+        "alarm": "Cell out of service",
+        "created": "13/01/2026 12:27:00",
+        "hour": "12"
+    },
+    {
         "nft": "NFT20260113000240",
         "site": "PH0700029",
         "area": "CEBU",
@@ -77,8 +125,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Device Powered Off",
         "created": "13/01/2026 09:59:00",
         "hour": "9"
@@ -197,8 +245,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.1",
-        "remaining": "2.9",
+        "duration": "5.2",
+        "remaining": "2.8",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "13/01/2026 07:35:00",
         "hour": "7"
