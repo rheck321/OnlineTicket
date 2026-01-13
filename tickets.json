@@ -1,14 +1,14 @@
 {"nftlist":[
     {
-        "nft": "NFT20260112000400",
-        "site": "PH0600275",
+        "nft": "NFT20260112000497",
+        "site": "PH0600438",
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
-        "alarm": "Device Powered Off",
-        "created": "12/01/2026 17:18:00",
-        "hour": "17"
+        "duration": "2.2",
+        "remaining": "5.8",
+        "alarm": "Cell out of service",
+        "created": "12/01/2026 19:46:00",
+        "hour": "19"
     }
 ]}
