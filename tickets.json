@@ -66,7 +66,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.9",
-        "remaining": "7.1",
+        "remaining": "7.0",
         "alarm": "Air Conditioner Inner Fan Fault",
         "created": "13/01/2026 12:01:00",
         "hour": "12"
@@ -77,8 +77,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Cell23 Under Volt",
         "created": "13/01/2026 11:30:01",
         "hour": "11"
@@ -245,7 +245,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.3",
+        "duration": "5.4",
         "remaining": "2.6",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "13/01/2026 07:35:00",
