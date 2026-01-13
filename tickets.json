@@ -78,7 +78,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.6",
-        "remaining": "5.4",
+        "remaining": "5.3",
         "alarm": "Device Powered Off",
         "created": "13/01/2026 09:59:00",
         "hour": "9"
@@ -243,10 +243,10 @@
         "nft": "NFT20260113000070",
         "site": "PH0700226",
         "area": "BOHOL",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "7.1",
-        "remaining": "0.9",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "13/01/2026 05:32:01",
         "hour": "5"
