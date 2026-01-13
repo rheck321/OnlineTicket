@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Device Offline",
         "created": "13/01/2026 12:39:00",
         "hour": "12"
@@ -41,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Cell out of service",
         "created": "13/01/2026 12:27:00",
         "hour": "12"
@@ -138,7 +138,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.4",
-        "remaining": "4.7",
+        "remaining": "4.6",
         "alarm": "Transmission unit link break",
         "created": "13/01/2026 09:26:00",
         "hour": "9"
@@ -473,8 +473,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "Cell out of service",
         "created": "12/01/2026 19:46:00",
         "hour": "19"
@@ -569,8 +569,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-6.7",
-        "remaining": "14.7",
+        "duration": "-6.6",
+        "remaining": "14.6",
         "alarm": "Standing wave warning",
         "created": "12/01/2026 14:10:00",
         "hour": "14"
