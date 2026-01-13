@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "RRU interrupted",
         "created": "13/01/2026 12:20:01",
         "hour": "12"
@@ -66,7 +66,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "Transmission unit link break",
         "created": "13/01/2026 10:02:00",
         "hour": "10"
@@ -245,7 +245,7 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.8",
+        "duration": "6.9",
         "remaining": "1.1",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "13/01/2026 05:32:01",
@@ -426,7 +426,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.9",
-        "remaining": "4.2",
+        "remaining": "4.1",
         "alarm": "Cell out of service",
         "created": "12/01/2026 19:46:00",
         "hour": "19"
@@ -522,7 +522,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-7.0",
-        "remaining": "15.1",
+        "remaining": "15.0",
         "alarm": "Standing wave warning",
         "created": "12/01/2026 14:10:00",
         "hour": "14"
