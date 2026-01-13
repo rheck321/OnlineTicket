@@ -197,8 +197,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.9",
-        "remaining": "3.1",
+        "duration": "5.0",
+        "remaining": "3.0",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "13/01/2026 07:35:00",
         "hour": "7"
