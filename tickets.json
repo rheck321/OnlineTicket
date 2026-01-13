@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260113000201",
+        "site": "PH0600350",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Battery Communication Fail",
+        "created": "13/01/2026 10:53:00",
+        "hour": "10"
+    },
+    {
         "nft": "NFT20260113000190",
         "site": "PH0700336",
         "area": "CEBU",
@@ -29,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.9",
-        "remaining": "7.1",
+        "duration": "1.0",
+        "remaining": "7.0",
         "alarm": "Device Powered Off",
         "created": "13/01/2026 09:59:00",
         "hour": "9"
@@ -149,8 +161,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.3",
-        "remaining": "4.7",
+        "duration": "3.4",
+        "remaining": "4.6",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "13/01/2026 07:35:00",
         "hour": "7"
