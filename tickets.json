@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Battery Communication Fail",
         "created": "13/01/2026 10:53:00",
         "hour": "10"
@@ -42,7 +42,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Device Powered Off",
         "created": "13/01/2026 09:59:00",
         "hour": "9"
