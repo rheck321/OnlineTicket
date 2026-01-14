@@ -17,8 +17,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Transmission unit link break",
         "created": "14/01/2026 10:05:00",
         "hour": "10"
@@ -162,7 +162,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "6.3",
-        "remaining": "1.7",
+        "remaining": "1.6",
         "alarm": "Battery Communication Fail",
         "created": "14/01/2026 04:30:01",
         "hour": "4"
@@ -341,8 +341,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.9",
-        "remaining": "0.1",
+        "duration": "8.0",
+        "remaining": "0.0",
         "alarm": "Gen communication status alarm",
         "created": "13/01/2026 15:47:00",
         "hour": "15"
@@ -389,8 +389,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "8.0",
-        "remaining": "0.0",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "The Device is offline",
         "created": "13/01/2026 14:50:00",
         "hour": "14"
