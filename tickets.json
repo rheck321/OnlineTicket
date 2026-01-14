@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Offline",
         "created": "14/01/2026 10:14:00",
         "hour": "10"
@@ -17,8 +17,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Transmission unit link break",
         "created": "14/01/2026 10:05:00",
         "hour": "10"
@@ -341,8 +341,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.6",
-        "remaining": "0.4",
+        "duration": "7.7",
+        "remaining": "0.3",
         "alarm": "Gen communication status alarm",
         "created": "13/01/2026 15:47:00",
         "hour": "15"
