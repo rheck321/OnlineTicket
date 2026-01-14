@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Physical Port Down",
         "created": "14/01/2026 10:46:00",
         "hour": "10"
@@ -353,8 +353,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-8.0",
-        "remaining": "16.0",
+        "duration": "-7.9",
+        "remaining": "15.9",
         "alarm": "Gen communication status alarm",
         "created": "13/01/2026 15:47:00",
         "hour": "15"
