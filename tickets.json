@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.0",
-        "remaining": "8.0",
+        "duration": "0.1",
+        "remaining": "7.9",
         "alarm": "Device Offline",
         "created": "14/01/2026 10:14:00",
         "hour": "10"
@@ -29,8 +29,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Battery Communication Fail",
         "created": "14/01/2026 10:01:00",
         "hour": "10"
@@ -390,7 +390,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "7.5",
-        "remaining": "0.6",
+        "remaining": "0.5",
         "alarm": "The Device is offline",
         "created": "13/01/2026 14:50:00",
         "hour": "14"
