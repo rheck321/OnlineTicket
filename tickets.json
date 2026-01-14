@@ -1,5 +1,29 @@
 {"nftlist":[
     {
+        "nft": "NFT20260114000224",
+        "site": "PH0700358",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "14/01/2026 10:14:00",
+        "hour": "10"
+    },
+    {
+        "nft": "NFT20260114000215",
+        "site": "PH0600420",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Transmission unit link break",
+        "created": "14/01/2026 10:05:00",
+        "hour": "10"
+    },
+    {
         "nft": "NFT20260114000213",
         "site": "PH0800356",
         "area": "LEYTE",
@@ -77,8 +101,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "Battery Communication Fail",
         "created": "14/01/2026 07:49:00",
         "hour": "7"
@@ -89,8 +113,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "RRU interrupted",
         "created": "14/01/2026 07:31:00",
         "hour": "7"
@@ -137,8 +161,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.7",
-        "remaining": "2.3",
+        "duration": "5.8",
+        "remaining": "2.2",
         "alarm": "Battery Communication Fail",
         "created": "14/01/2026 04:30:01",
         "hour": "4"
@@ -317,8 +341,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.3",
-        "remaining": "0.7",
+        "duration": "7.4",
+        "remaining": "0.6",
         "alarm": "Gen communication status alarm",
         "created": "13/01/2026 15:47:00",
         "hour": "15"
@@ -365,7 +389,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.4",
+        "duration": "7.5",
         "remaining": "0.6",
         "alarm": "The Device is offline",
         "created": "13/01/2026 14:50:00",
