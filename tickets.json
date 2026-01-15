@@ -17,8 +17,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "RRU interrupted",
         "created": "15/01/2026 07:31:01",
         "hour": "7"
@@ -46,18 +46,6 @@
         "alarm": "Physical Port Down",
         "created": "15/01/2026 04:22:00",
         "hour": "4"
-    },
-    {
-        "nft": "NFT20260115000044",
-        "site": "PH0800260",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "7.2",
-        "remaining": "0.8",
-        "alarm": "Heating exchange fan fault",
-        "created": "15/01/2026 01:48:00",
-        "hour": "1"
     },
     {
         "nft": "NFT20260114000439",
