@@ -5,7 +5,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
+        "duration": "0.2",
         "remaining": "7.8",
         "alarm": "Battery Communication Fail",
         "created": "18/01/2026 11:05:01",
@@ -22,6 +22,18 @@
         "alarm": "Device Offline",
         "created": "18/01/2026 11:02:00",
         "hour": "11"
+    },
+    {
+        "nft": "NFT20260118000317",
+        "site": "PH0600340",
+        "area": "PANAY",
+        "state": "Suspend",
+        "severity": "Minor",
+        "duration": "0.5",
+        "remaining": "7.5",
+        "alarm": "Standing wave warning",
+        "created": "18/01/2026 10:39:00",
+        "hour": "10"
     },
     {
         "nft": "NFT20260118000309",
@@ -114,7 +126,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.7",
-        "remaining": "3.4",
+        "remaining": "3.3",
         "alarm": "Cell out of service",
         "created": "18/01/2026 06:35:01",
         "hour": "6"
@@ -125,8 +137,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.8",
-        "remaining": "3.2",
+        "duration": "4.9",
+        "remaining": "3.1",
         "alarm": "Device Powered Off",
         "created": "18/01/2026 06:24:01",
         "hour": "6"
@@ -161,8 +173,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.1",
-        "remaining": "1.9",
+        "duration": "6.2",
+        "remaining": "1.8",
         "alarm": "Battery Communication Fail",
         "created": "18/01/2026 05:06:00",
         "hour": "5"
@@ -198,7 +210,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.9",
-        "remaining": "5.2",
+        "remaining": "5.1",
         "alarm": "Cell out of service",
         "created": "17/01/2026 19:19:00",
         "hour": "19"
@@ -233,7 +245,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.1",
+        "duration": "3.2",
         "remaining": "4.8",
         "alarm": "Gen communication status alarm",
         "created": "17/01/2026 15:33:00",
@@ -281,8 +293,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-1.0",
-        "remaining": "9.0",
+        "duration": "-0.9",
+        "remaining": "8.9",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "17/01/2026 07:31:03",
         "hour": "7"
