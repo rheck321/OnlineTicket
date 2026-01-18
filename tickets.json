@@ -24,18 +24,6 @@
         "hour": "8"
     },
     {
-        "nft": "NFT20260118000179",
-        "site": "IBS0610001",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "1.6",
-        "remaining": "6.4",
-        "alarm": "The received optical power of the optical module is abnormal",
-        "created": "18/01/2026 07:31:00",
-        "hour": "7"
-    },
-    {
         "nft": "NFT20260118000156",
         "site": "PH0600013",
         "area": "PANAY",
@@ -89,8 +77,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "Battery Communication Fail",
         "created": "18/01/2026 05:06:00",
         "hour": "5"
@@ -137,8 +125,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.2",
-        "remaining": "1.8",
+        "duration": "6.3",
+        "remaining": "1.7",
         "alarm": "GPS clock failure",
         "created": "17/01/2026 22:07:00",
         "hour": "22"
@@ -209,8 +197,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.8",
-        "remaining": "4.2",
+        "duration": "3.9",
+        "remaining": "4.1",
         "alarm": "Battery Communication Fail",
         "created": "17/01/2026 14:53:00",
         "hour": "14"
@@ -221,8 +209,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.5",
-        "remaining": "2.5",
+        "duration": "5.6",
+        "remaining": "2.4",
         "alarm": "Optical Fail",
         "created": "17/01/2026 13:59:00",
         "hour": "13"
@@ -257,8 +245,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-3.1",
-        "remaining": "11.1",
+        "duration": "-3.0",
+        "remaining": "11.0",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "17/01/2026 07:31:03",
         "hour": "7"
