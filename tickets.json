@@ -101,8 +101,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Cell out of service",
         "created": "18/01/2026 09:09:00",
         "hour": "9"
@@ -126,7 +126,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.8",
-        "remaining": "3.2",
+        "remaining": "3.1",
         "alarm": "Cell out of service",
         "created": "18/01/2026 06:35:01",
         "hour": "6"
@@ -245,7 +245,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.3",
+        "duration": "3.4",
         "remaining": "4.7",
         "alarm": "Gen communication status alarm",
         "created": "17/01/2026 15:33:00",
