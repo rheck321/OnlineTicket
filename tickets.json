@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260118000402",
+        "site": "PH0700171",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "GPS clock failure",
+        "created": "18/01/2026 12:41:02",
+        "hour": "12"
+    },
+    {
         "nft": "NFT20260118000376",
         "site": "PH0610001",
         "area": "PANAY",
@@ -54,7 +66,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Battery Communication Fail",
         "created": "18/01/2026 11:05:01",
         "hour": "11"
@@ -113,8 +125,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "RRU interrupted",
         "created": "18/01/2026 09:39:01",
         "hour": "9"
@@ -149,7 +161,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.1",
+        "duration": "6.2",
         "remaining": "1.9",
         "alarm": "Cell out of service",
         "created": "18/01/2026 06:35:01",
