@@ -53,7 +53,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
+        "duration": "1.6",
         "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "18/01/2026 11:05:01",
@@ -150,7 +150,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.0",
-        "remaining": "2.0",
+        "remaining": "1.9",
         "alarm": "Cell out of service",
         "created": "18/01/2026 06:35:01",
         "hour": "6"
