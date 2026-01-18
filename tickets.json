@@ -5,8 +5,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "RRU interrupted",
         "created": "18/01/2026 11:57:00",
         "hour": "11"
@@ -48,18 +48,6 @@
         "hour": "11"
     },
     {
-        "nft": "NFT20260118000348",
-        "site": "PH0600749",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.9",
-        "remaining": "7.1",
-        "alarm": "Device Offline",
-        "created": "18/01/2026 11:29:00",
-        "hour": "11"
-    },
-    {
         "nft": "NFT20260118000332",
         "site": "PH0600621",
         "area": "PANAY",
@@ -69,18 +57,6 @@
         "remaining": "6.7",
         "alarm": "Battery Communication Fail",
         "created": "18/01/2026 11:05:01",
-        "hour": "11"
-    },
-    {
-        "nft": "NFT20260118000330",
-        "site": "PH0700199",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.7",
-        "alarm": "Device Offline",
-        "created": "18/01/2026 11:02:00",
         "hour": "11"
     },
     {
@@ -113,7 +89,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.1",
+        "duration": "2.2",
         "remaining": "5.8",
         "alarm": "Physical Port Down",
         "created": "18/01/2026 10:14:00",
@@ -125,7 +101,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.1",
+        "duration": "2.2",
         "remaining": "5.8",
         "alarm": "Optical Fail",
         "created": "18/01/2026 10:14:00",
@@ -137,8 +113,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "RRU interrupted",
         "created": "18/01/2026 09:39:01",
         "hour": "9"
