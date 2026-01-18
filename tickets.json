@@ -114,7 +114,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.7",
-        "remaining": "3.4",
+        "remaining": "3.3",
         "alarm": "Device Powered Off",
         "created": "18/01/2026 06:24:01",
         "hour": "6"
@@ -269,8 +269,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-1.2",
-        "remaining": "9.2",
+        "duration": "-1.1",
+        "remaining": "9.1",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "17/01/2026 07:31:03",
         "hour": "7"
