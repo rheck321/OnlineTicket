@@ -5,8 +5,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Modem part unlock",
         "created": "19/01/2026 09:56:00",
         "hour": "9"
@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Physical Port Down",
         "created": "19/01/2026 09:40:01",
         "hour": "9"
@@ -30,7 +30,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.1",
-        "remaining": "6.9",
+        "remaining": "6.8",
         "alarm": "Cell out of service",
         "created": "19/01/2026 09:16:00",
         "hour": "9"
@@ -41,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Device Offline",
         "created": "19/01/2026 08:50:00",
         "hour": "8"
@@ -89,8 +89,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Physical Port Down",
         "created": "19/01/2026 08:07:00",
         "hour": "8"
@@ -101,8 +101,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.8",
-        "remaining": "5.2",
+        "duration": "2.9",
+        "remaining": "5.1",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "19/01/2026 07:31:01",
         "hour": "7"
@@ -281,8 +281,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.1",
-        "remaining": "3.9",
+        "duration": "4.2",
+        "remaining": "3.8",
         "alarm": "Cell out of service",
         "created": "18/01/2026 18:21:00",
         "hour": "18"
@@ -3226,41 +3226,5 @@
         "alarm": "RRU interrupted",
         "created": "15/01/2026 07:31:01",
         "hour": "7"
-    },
-    {
-        "nft": "NFT20260115000095",
-        "site": "PH0800289",
-        "area": "LEYTE",
-        "state": "Finished",
-        "severity": "Minor",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Cell out of service",
-        "created": "15/01/2026 06:28:00",
-        "hour": "6"
-    },
-    {
-        "nft": "NFT20260115000078",
-        "site": "PH0700482",
-        "area": "CEBU",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Physical Port Down",
-        "created": "15/01/2026 04:22:00",
-        "hour": "4"
-    },
-    {
-        "nft": "NFT20260115000062",
-        "site": "PH0800450",
-        "area": "LEYTE",
-        "state": "Finished",
-        "severity": "Minor",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Device Powered Off",
-        "created": "15/01/2026 03:36:00",
-        "hour": "3"
     }
 ]}
