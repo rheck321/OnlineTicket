@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "19/01/2026 08:50:00",
         "hour": "8"
@@ -53,8 +53,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Physical Port Down",
         "created": "19/01/2026 08:07:00",
         "hour": "8"
@@ -65,8 +65,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "19/01/2026 07:31:01",
         "hour": "7"
@@ -245,8 +245,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "Cell out of service",
         "created": "18/01/2026 18:21:00",
         "hour": "18"
@@ -533,8 +533,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Physical Port Down",
         "created": "18/01/2026 10:23:00",
         "hour": "10"
@@ -1709,8 +1709,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Battery Communication Fail",
         "created": "17/01/2026 08:35:00",
         "hour": "8"
@@ -3250,17 +3250,5 @@
         "alarm": "Transmission unit link break",
         "created": "15/01/2026 02:01:01",
         "hour": "2"
-    },
-    {
-        "nft": "NFT20260115000044",
-        "site": "PH0800260",
-        "area": "LEYTE",
-        "state": "Finished",
-        "severity": "Minor",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Heating exchange fan fault",
-        "created": "15/01/2026 01:48:00",
-        "hour": "1"
     }
 ]}
