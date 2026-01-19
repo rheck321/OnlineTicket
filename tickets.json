@@ -1,5 +1,29 @@
 {"nftlist":[
     {
+        "nft": "NFT20260119000341",
+        "site": "PH0600710",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Optical Fail",
+        "created": "19/01/2026 14:06:00",
+        "hour": "14"
+    },
+    {
+        "nft": "NFT20260119000337",
+        "site": "CO082",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.3",
+        "remaining": "7.7",
+        "alarm": "Device Offline",
+        "created": "19/01/2026 13:58:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20260119000310",
         "site": "PH0700171",
         "area": "NEGROS",
@@ -41,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.8",
-        "remaining": "4.2",
+        "duration": "3.9",
+        "remaining": "4.1",
         "alarm": "Physical Port Down",
         "created": "19/01/2026 10:23:00",
         "hour": "10"
@@ -53,8 +77,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.8",
-        "remaining": "4.2",
+        "duration": "3.9",
+        "remaining": "4.1",
         "alarm": "Physical Port Down",
         "created": "19/01/2026 10:23:00",
         "hour": "10"
@@ -65,8 +89,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.8",
-        "remaining": "4.2",
+        "duration": "3.9",
+        "remaining": "4.1",
         "alarm": "Physical Port Down",
         "created": "19/01/2026 10:23:00",
         "hour": "10"
@@ -173,8 +197,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.7",
-        "remaining": "1.4",
+        "duration": "6.8",
+        "remaining": "1.2",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "19/01/2026 07:31:01",
         "hour": "7"
@@ -3213,18 +3237,6 @@
         "remaining": "-",
         "alarm": "Cell out of service",
         "created": "15/01/2026 10:37:00",
-        "hour": "10"
-    },
-    {
-        "nft": "NFT20260115000225",
-        "site": "PH0600651",
-        "area": "PANAY",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Low oil pressure shutdown alarm",
-        "created": "15/01/2026 10:22:00",
         "hour": "10"
     }
 ]}
