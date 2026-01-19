@@ -2321,8 +2321,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.7",
-        "remaining": "0.3",
+        "duration": "7.8",
+        "remaining": "0.2",
         "alarm": "Cell out of service",
         "created": "16/01/2026 13:26:00",
         "hour": "13"
