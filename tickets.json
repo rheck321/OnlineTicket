@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260119000174",
+        "site": "PH0600079",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Cell out of service",
+        "created": "19/01/2026 09:16:00",
+        "hour": "9"
+    },
+    {
         "nft": "NFT20260119000159",
         "site": "PH0700188",
         "area": "CEBU",
@@ -221,8 +233,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.1",
-        "remaining": "5.9",
+        "duration": "2.2",
+        "remaining": "5.8",
         "alarm": "Optical Fail",
         "created": "18/01/2026 19:57:00",
         "hour": "19"
@@ -663,10 +675,10 @@
         "nft": "NFT20260118000179",
         "site": "IBS0610001",
         "area": "PANAY",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "18/01/2026 07:31:00",
         "hour": "7"
@@ -1109,8 +1121,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.4",
-        "remaining": "2.6",
+        "duration": "5.5",
+        "remaining": "2.5",
         "alarm": "Physical Port Down",
         "created": "17/01/2026 16:57:00",
         "hour": "16"
