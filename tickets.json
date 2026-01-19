@@ -234,7 +234,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-7.5",
-        "remaining": "15.6",
+        "remaining": "15.5",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "19/01/2026 07:31:01",
         "hour": "7"
