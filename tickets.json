@@ -5,10 +5,22 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Battery Communication Fail",
         "created": "19/01/2026 10:34:00",
+        "hour": "10"
+    },
+    {
+        "nft": "NFT20260119000240",
+        "site": "PH0700590",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.7",
+        "remaining": "7.3",
+        "alarm": "Physical Port Down",
+        "created": "19/01/2026 10:23:00",
         "hour": "10"
     },
     {
@@ -17,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Physical Port Down",
         "created": "19/01/2026 10:23:00",
         "hour": "10"
@@ -29,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Physical Port Down",
         "created": "19/01/2026 10:23:00",
         "hour": "10"
@@ -42,7 +54,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "6.9",
+        "remaining": "6.8",
         "alarm": "Modem part unlock",
         "created": "19/01/2026 09:56:00",
         "hour": "9"
@@ -53,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.3",
-        "remaining": "6.7",
+        "duration": "1.4",
+        "remaining": "6.6",
         "alarm": "Physical Port Down",
         "created": "19/01/2026 09:40:01",
         "hour": "9"
@@ -63,10 +75,10 @@
         "nft": "NFT20260119000174",
         "site": "PH0600079",
         "area": "PANAY",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Minor",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Cell out of service",
         "created": "19/01/2026 09:16:00",
         "hour": "9"
@@ -125,8 +137,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "Physical Port Down",
         "created": "19/01/2026 08:07:00",
         "hour": "8"
@@ -137,8 +149,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "19/01/2026 07:31:01",
         "hour": "7"
@@ -293,8 +305,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.8",
-        "remaining": "4.2",
+        "duration": "3.9",
+        "remaining": "4.1",
         "alarm": "Optical Fail",
         "created": "18/01/2026 19:57:00",
         "hour": "19"
@@ -310,6 +322,18 @@
         "alarm": "Physical Port Down",
         "created": "18/01/2026 19:30:00",
         "hour": "19"
+    },
+    {
+        "nft": "NFT20260118000569",
+        "site": "PH0700022",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Cell out of service",
+        "created": "18/01/2026 18:21:00",
+        "hour": "18"
     },
     {
         "nft": "NFT20260118000545",
