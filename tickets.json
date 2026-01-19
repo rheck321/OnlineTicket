@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20260119000345",
+        "site": "CO077",
+        "area": "NEGROS",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Physical Port Down",
+        "created": "19/01/2026 14:16:00",
+        "hour": "14"
+    },
+    {
         "nft": "NFT20260119000341",
         "site": "PH0600710",
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Optical Fail",
         "created": "19/01/2026 14:06:00",
         "hour": "14"
@@ -65,8 +77,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.1",
-        "remaining": "3.9",
+        "duration": "4.2",
+        "remaining": "3.8",
         "alarm": "Physical Port Down",
         "created": "19/01/2026 10:23:00",
         "hour": "10"
@@ -77,8 +89,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.1",
-        "remaining": "3.9",
+        "duration": "4.2",
+        "remaining": "3.8",
         "alarm": "Physical Port Down",
         "created": "19/01/2026 10:23:00",
         "hour": "10"
@@ -89,8 +101,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.1",
-        "remaining": "3.9",
+        "duration": "4.2",
+        "remaining": "3.8",
         "alarm": "Physical Port Down",
         "created": "19/01/2026 10:23:00",
         "hour": "10"
@@ -197,8 +209,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.0",
-        "remaining": "1.0",
+        "duration": "7.1",
+        "remaining": "0.9",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "19/01/2026 07:31:01",
         "hour": "7"
