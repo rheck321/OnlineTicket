@@ -17,7 +17,7 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.1",
+        "duration": "2.2",
         "remaining": "5.8",
         "alarm": "Device Offline",
         "created": "19/01/2026 14:45:00",
@@ -102,7 +102,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "6.5",
-        "remaining": "1.5",
+        "remaining": "1.4",
         "alarm": "Physical Port Down",
         "created": "19/01/2026 10:23:00",
         "hour": "10"
@@ -114,7 +114,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "6.5",
-        "remaining": "1.5",
+        "remaining": "1.4",
         "alarm": "Physical Port Down",
         "created": "19/01/2026 10:23:00",
         "hour": "10"
@@ -126,7 +126,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "6.5",
-        "remaining": "1.5",
+        "remaining": "1.4",
         "alarm": "Physical Port Down",
         "created": "19/01/2026 10:23:00",
         "hour": "10"
