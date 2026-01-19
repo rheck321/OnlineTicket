@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260119000310",
+        "site": "PH0700171",
+        "area": "NEGROS",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Device Offline",
+        "created": "19/01/2026 13:05:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20260119000255",
         "site": "PH0600367",
         "area": "PANAY",
@@ -29,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "Physical Port Down",
         "created": "19/01/2026 10:23:00",
         "hour": "10"
@@ -41,8 +53,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "Physical Port Down",
         "created": "19/01/2026 10:23:00",
         "hour": "10"
@@ -53,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "Physical Port Down",
         "created": "19/01/2026 10:23:00",
         "hour": "10"
@@ -77,8 +89,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "Physical Port Down",
         "created": "19/01/2026 09:40:01",
         "hour": "9"
@@ -149,8 +161,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.2",
-        "remaining": "2.8",
+        "duration": "5.3",
+        "remaining": "2.6",
         "alarm": "Physical Port Down",
         "created": "19/01/2026 08:07:00",
         "hour": "8"
@@ -161,8 +173,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.8",
-        "remaining": "2.1",
+        "duration": "6.0",
+        "remaining": "2.0",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "19/01/2026 07:31:01",
         "hour": "7"
