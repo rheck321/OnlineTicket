@@ -3,10 +3,10 @@
         "nft": "NFT20260119000374",
         "site": "PH0700434",
         "area": "CEBU",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.5",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Device Offline",
         "created": "19/01/2026 15:19:00",
         "hour": "15"
@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "6.9",
+        "remaining": "6.8",
         "alarm": "Device Offline",
         "created": "19/01/2026 14:45:00",
         "hour": "14"
@@ -233,8 +233,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-7.7",
-        "remaining": "15.7",
+        "duration": "-7.6",
+        "remaining": "15.6",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "19/01/2026 07:31:01",
         "hour": "7"
