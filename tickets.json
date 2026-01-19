@@ -2136,6 +2136,18 @@
         "hour": "18"
     },
     {
+        "nft": "NFT20260116000495",
+        "site": "CO075",
+        "area": "PANAY",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Device Offline",
+        "created": "16/01/2026 18:03:00",
+        "hour": "18"
+    },
+    {
         "nft": "NFT20260116000494",
         "site": "PH0700323",
         "area": "CEBU",
