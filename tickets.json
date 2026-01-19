@@ -17,8 +17,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Device Offline",
         "created": "19/01/2026 14:45:00",
         "hour": "14"
@@ -234,7 +234,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-6.5",
-        "remaining": "14.6",
+        "remaining": "14.5",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "19/01/2026 07:31:01",
         "hour": "7"
