@@ -1,5 +1,29 @@
 {"nftlist":[
     {
+        "nft": "NFT20260120000355",
+        "site": "PH0700433",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Air Conditioner Outer Fan Fault",
+        "created": "20/01/2026 12:37:01",
+        "hour": "12"
+    },
+    {
+        "nft": "NFT20260120000350",
+        "site": "CO086",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Critical",
+        "duration": "0.2",
+        "remaining": "3.8",
+        "alarm": "Over temperature",
+        "created": "20/01/2026 12:31:00",
+        "hour": "12"
+    },
+    {
         "nft": "NFT20260120000347",
         "site": "PH0600180",
         "area": "PANAY",
@@ -108,6 +132,18 @@
         "hour": "11"
     },
     {
+        "nft": "NFT20260120000310",
+        "site": "PH0700281",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Physical Port Down",
+        "created": "20/01/2026 11:21:00",
+        "hour": "11"
+    },
+    {
         "nft": "NFT20260120000301",
         "site": "PH0600308",
         "area": "NEGROS",
@@ -125,8 +161,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Cell out of service",
         "created": "20/01/2026 10:38:00",
         "hour": "10"
@@ -245,8 +281,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "Air Conditioner Communication Lost",
         "created": "20/01/2026 08:57:00",
         "hour": "8"
@@ -330,7 +366,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "5.2",
-        "remaining": "2.9",
+        "remaining": "2.8",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "20/01/2026 07:31:00",
         "hour": "7"
