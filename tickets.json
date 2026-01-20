@@ -377,8 +377,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Cell out of service",
         "created": "19/01/2026 21:39:00",
         "hour": "21"
@@ -797,8 +797,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Battery Communication Fail",
         "created": "19/01/2026 06:01:00",
         "hour": "6"
