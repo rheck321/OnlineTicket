@@ -269,8 +269,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "RRU interrupted",
         "created": "20/01/2026 07:54:00",
         "hour": "7"
@@ -281,8 +281,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.4",
-        "remaining": "3.6",
+        "duration": "4.5",
+        "remaining": "3.5",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "20/01/2026 07:31:00",
         "hour": "7"
@@ -677,8 +677,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.9",
-        "remaining": "3.1",
+        "duration": "5.0",
+        "remaining": "3.0",
         "alarm": "Physical Port Down",
         "created": "19/01/2026 18:01:00",
         "hour": "18"
