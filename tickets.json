@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Cell out of service",
         "created": "20/01/2026 12:03:00",
         "hour": "12"
@@ -22,6 +22,18 @@
         "alarm": "Battery Communication Fail",
         "created": "20/01/2026 12:01:00",
         "hour": "12"
+    },
+    {
+        "nft": "NFT20260120000331",
+        "site": "CO086",
+        "area": "NEGROS",
+        "state": "Finished",
+        "severity": "Critical",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Over temperature",
+        "created": "20/01/2026 11:55:00",
+        "hour": "11"
     },
     {
         "nft": "NFT20260120000321",
@@ -41,8 +53,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.6",
-        "remaining": "3.4",
+        "duration": "0.7",
+        "remaining": "3.3",
         "alarm": "The Device is offline",
         "created": "20/01/2026 11:33:00",
         "hour": "11"
@@ -53,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "20/01/2026 11:28:00",
         "hour": "11"
@@ -77,8 +89,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "Physical Port Down",
         "created": "20/01/2026 11:21:00",
         "hour": "11"
@@ -102,7 +114,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "Cell out of service",
         "created": "20/01/2026 10:38:00",
         "hour": "10"
@@ -149,8 +161,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.9",
-        "remaining": "2.1",
+        "duration": "2.0",
+        "remaining": "2.0",
         "alarm": "Cell08 Over Volt",
         "created": "20/01/2026 10:16:00",
         "hour": "10"
@@ -209,8 +221,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "Air Conditioner Communication Lost",
         "created": "20/01/2026 08:58:00",
         "hour": "8"
@@ -221,8 +233,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "Air Conditioner Communication Lost",
         "created": "20/01/2026 08:57:00",
         "hour": "8"
@@ -696,6 +708,18 @@
         "hour": "18"
     },
     {
+        "nft": "NFT20260119000450",
+        "site": "CO087",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Physical Port Down",
+        "created": "19/01/2026 18:01:00",
+        "hour": "18"
+    },
+    {
         "nft": "NFT20260119000432",
         "site": "PH0800450",
         "area": "LEYTE",
@@ -785,7 +809,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-6.6",
+        "duration": "-6.5",
         "remaining": "14.6",
         "alarm": "Optical Fail",
         "created": "19/01/2026 14:06:00",
