@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Oil pressure sensor open circuit alarm",
         "created": "20/01/2026 11:02:00",
         "hour": "11"
@@ -17,8 +17,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "Cell out of service",
         "created": "20/01/2026 10:38:00",
         "hour": "10"
@@ -137,8 +137,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Air Conditioner Communication Lost",
         "created": "20/01/2026 08:57:00",
         "hour": "8"
@@ -222,7 +222,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.2",
-        "remaining": "3.9",
+        "remaining": "3.8",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "20/01/2026 07:31:00",
         "hour": "7"
@@ -550,18 +550,6 @@
         "alarm": "Cabinet Flood Alarm",
         "created": "19/01/2026 21:27:00",
         "hour": "21"
-    },
-    {
-        "nft": "NFT20260119000477",
-        "site": "PH0700341",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "3.5",
-        "remaining": "4.5",
-        "alarm": "Physical Port Down",
-        "created": "19/01/2026 19:13:00",
-        "hour": "19"
     },
     {
         "nft": "NFT20260119000464",
