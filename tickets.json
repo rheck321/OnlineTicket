@@ -29,8 +29,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "Air Conditioner Communication Lost",
         "created": "20/01/2026 08:58:00",
         "hour": "8"
@@ -41,22 +41,10 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.8",
-        "remaining": "7.2",
-        "alarm": "Air Conditioner Communication Lost",
-        "created": "20/01/2026 08:57:00",
-        "hour": "8"
-    },
-    {
-        "nft": "NFT20260120000223",
-        "site": "",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Minor",
         "duration": "0.9",
         "remaining": "7.1",
         "alarm": "Air Conditioner Communication Lost",
-        "created": "20/01/2026 08:55:00",
+        "created": "20/01/2026 08:57:00",
         "hour": "8"
     },
     {
@@ -101,7 +89,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.8",
+        "duration": "1.9",
         "remaining": "6.2",
         "alarm": "Battery Communication Fail",
         "created": "20/01/2026 07:59:00",
@@ -402,7 +390,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-7.5",
-        "remaining": "15.5",
+        "remaining": "15.4",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "20/01/2026 01:17:00",
         "hour": "1"
@@ -437,8 +425,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Cell out of service",
         "created": "19/01/2026 21:39:00",
         "hour": "21"
@@ -570,7 +558,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.5",
-        "remaining": "1.5",
+        "remaining": "1.4",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "19/01/2026 16:37:00",
         "hour": "16"
@@ -618,7 +606,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "7.0",
-        "remaining": "1.0",
+        "remaining": "0.9",
         "alarm": "Optical Fail",
         "created": "19/01/2026 14:06:00",
         "hour": "14"
@@ -857,8 +845,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Battery Communication Fail",
         "created": "19/01/2026 06:01:00",
         "hour": "6"
