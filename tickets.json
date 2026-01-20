@@ -41,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.5",
-        "remaining": "3.5",
+        "duration": "0.6",
+        "remaining": "3.4",
         "alarm": "The Device is offline",
         "created": "20/01/2026 11:33:00",
         "hour": "11"
@@ -53,8 +53,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "20/01/2026 11:28:00",
         "hour": "11"
@@ -77,8 +77,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Physical Port Down",
         "created": "20/01/2026 11:21:00",
         "hour": "11"
@@ -101,7 +101,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "Cell out of service",
         "created": "20/01/2026 10:38:00",
@@ -149,8 +149,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "1.8",
-        "remaining": "2.2",
+        "duration": "1.9",
+        "remaining": "2.1",
         "alarm": "Cell08 Over Volt",
         "created": "20/01/2026 10:16:00",
         "hour": "10"
@@ -209,8 +209,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.1",
-        "remaining": "4.9",
+        "duration": "3.2",
+        "remaining": "4.8",
         "alarm": "Air Conditioner Communication Lost",
         "created": "20/01/2026 08:58:00",
         "hour": "8"
@@ -221,8 +221,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.1",
-        "remaining": "4.9",
+        "duration": "3.2",
+        "remaining": "4.8",
         "alarm": "Air Conditioner Communication Lost",
         "created": "20/01/2026 08:57:00",
         "hour": "8"
@@ -693,18 +693,6 @@
         "remaining": "-",
         "alarm": "Device Offline",
         "created": "19/01/2026 18:24:01",
-        "hour": "18"
-    },
-    {
-        "nft": "NFT20260119000450",
-        "site": "CO087",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "5.1",
-        "remaining": "2.9",
-        "alarm": "Physical Port Down",
-        "created": "19/01/2026 18:01:00",
         "hour": "18"
     },
     {
