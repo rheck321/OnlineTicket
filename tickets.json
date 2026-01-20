@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Offline",
         "created": "20/01/2026 13:02:00",
         "hour": "13"
@@ -77,8 +77,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.9",
-        "remaining": "7.1",
+        "duration": "1.0",
+        "remaining": "7.0",
         "alarm": "Cell out of service",
         "created": "20/01/2026 12:21:01",
         "hour": "12"
@@ -209,7 +209,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.6",
+        "duration": "2.7",
         "remaining": "5.3",
         "alarm": "Cell out of service",
         "created": "20/01/2026 10:38:00",
@@ -317,8 +317,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.3",
-        "remaining": "3.7",
+        "duration": "4.4",
+        "remaining": "3.6",
         "alarm": "Air Conditioner Communication Lost",
         "created": "20/01/2026 08:58:00",
         "hour": "8"
@@ -329,8 +329,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.3",
-        "remaining": "3.7",
+        "duration": "4.4",
+        "remaining": "3.6",
         "alarm": "Air Conditioner Communication Lost",
         "created": "20/01/2026 08:57:00",
         "hour": "8"
@@ -906,7 +906,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-5.5",
-        "remaining": "13.5",
+        "remaining": "13.4",
         "alarm": "Optical Fail",
         "created": "19/01/2026 14:06:00",
         "hour": "14"
@@ -1137,18 +1137,6 @@
         "remaining": "7.9",
         "alarm": "Standing wave warning",
         "created": "19/01/2026 06:50:00",
-        "hour": "6"
-    },
-    {
-        "nft": "NFT20260119000068",
-        "site": "PH0800197",
-        "area": "LEYTE",
-        "state": "Suspend",
-        "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
-        "alarm": "Battery Communication Fail",
-        "created": "19/01/2026 06:01:00",
         "hour": "6"
     }
 ]}
