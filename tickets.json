@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "Device Offline",
         "created": "20/01/2026 08:20:00",
         "hour": "8"
@@ -195,10 +195,10 @@
         "nft": "NFT20260120000074",
         "site": "CO077",
         "area": "NEGROS",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "4.9",
-        "remaining": "3.1",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Cell06 Over Volt",
         "created": "20/01/2026 03:30:01",
         "hour": "3"
