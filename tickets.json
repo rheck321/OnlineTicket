@@ -1,5 +1,29 @@
 {"nftlist":[
     {
+        "nft": "NFT20260122000404",
+        "site": "PH0600215",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Gen communication status alarm",
+        "created": "22/01/2026 14:12:00",
+        "hour": "14"
+    },
+    {
+        "nft": "NFT20260122000401",
+        "site": "CO101",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Offline",
+        "created": "22/01/2026 14:08:00",
+        "hour": "14"
+    },
+    {
         "nft": "NFT20260122000391",
         "site": "CO084",
         "area": "CEBU",
@@ -29,8 +53,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "Protection function fail",
         "created": "22/01/2026 13:09:00",
         "hour": "13"
@@ -89,8 +113,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Battery Communication Fail",
         "created": "22/01/2026 11:28:00",
         "hour": "11"
@@ -125,8 +149,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.7",
-        "remaining": "3.3",
+        "duration": "4.8",
+        "remaining": "3.2",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "22/01/2026 09:27:00",
         "hour": "9"
