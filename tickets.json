@@ -41,8 +41,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Battery Communication Fail",
         "created": "22/01/2026 11:28:00",
         "hour": "11"
@@ -77,8 +77,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "22/01/2026 09:27:00",
         "hour": "9"
@@ -473,8 +473,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.5",
-        "remaining": "0.5",
+        "duration": "7.6",
+        "remaining": "0.4",
         "alarm": "Protection function fail",
         "created": "21/01/2026 21:46:00",
         "hour": "21"
