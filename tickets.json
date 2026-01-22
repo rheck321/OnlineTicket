@@ -29,7 +29,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.1",
+        "duration": "2.2",
         "remaining": "5.8",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "22/01/2026 09:27:00",
@@ -414,7 +414,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "7.0",
-        "remaining": "1.1",
+        "remaining": "1.0",
         "alarm": "Protection function fail",
         "created": "21/01/2026 21:46:00",
         "hour": "21"
