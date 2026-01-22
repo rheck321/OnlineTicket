@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20260122000365",
+        "site": "PH0700406",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Protection function fail",
+        "created": "22/01/2026 13:09:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20260122000330",
         "site": "PH0700625",
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "22/01/2026 12:43:00",
         "hour": "12"
@@ -17,7 +29,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "22/01/2026 11:41:00",
@@ -149,8 +161,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.1",
-        "remaining": "2.9",
+        "duration": "5.2",
+        "remaining": "2.8",
         "alarm": "Optical Fail",
         "created": "22/01/2026 08:01:00",
         "hour": "8"
@@ -161,8 +173,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.6",
-        "remaining": "2.4",
+        "duration": "5.7",
+        "remaining": "2.3",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "22/01/2026 07:31:01",
         "hour": "7"
