@@ -29,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.3",
-        "remaining": "4.7",
+        "duration": "3.4",
+        "remaining": "4.6",
         "alarm": "Battery Communication Fail",
         "created": "23/01/2026 14:48:00",
         "hour": "14"
@@ -41,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "RRU interrupted",
         "created": "23/01/2026 14:43:00",
         "hour": "14"
@@ -101,8 +101,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "Physical Port Down",
         "created": "23/01/2026 14:04:00",
         "hour": "14"
@@ -1206,7 +1206,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-1.1",
-        "remaining": "9.2",
+        "remaining": "9.1",
         "alarm": "Optical Fail",
         "created": "22/01/2026 08:01:00",
         "hour": "8"
