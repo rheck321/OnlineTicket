@@ -30,7 +30,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.1",
-        "remaining": "4.9",
+        "remaining": "4.8",
         "alarm": "Battery Communication Fail",
         "created": "23/01/2026 14:48:00",
         "hour": "14"
@@ -54,7 +54,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.4",
-        "remaining": "4.7",
+        "remaining": "4.6",
         "alarm": "Cell out of service",
         "created": "23/01/2026 14:33:00",
         "hour": "14"
@@ -101,8 +101,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.8",
-        "remaining": "4.2",
+        "duration": "3.9",
+        "remaining": "4.1",
         "alarm": "Physical Port Down",
         "created": "23/01/2026 14:04:00",
         "hour": "14"
@@ -123,10 +123,10 @@
         "nft": "NFT20260123000424",
         "site": "IBS0610001",
         "area": "PANAY",
-        "state": "Processing",
+        "state": "Suspend",
         "severity": "Critical",
-        "duration": "4.0",
-        "remaining": "0.0",
+        "duration": "3.3",
+        "remaining": "0.7",
         "alarm": "RHUB link is down",
         "created": "23/01/2026 13:56:00",
         "hour": "13"
@@ -1205,8 +1205,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-1.4",
-        "remaining": "9.4",
+        "duration": "-1.3",
+        "remaining": "9.3",
         "alarm": "Optical Fail",
         "created": "22/01/2026 08:01:00",
         "hour": "8"
