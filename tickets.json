@@ -1,11 +1,23 @@
 {"nftlist":[
     {
+        "nft": "NFT20260123000374",
+        "site": "CO077",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Physical Port Down",
+        "created": "23/01/2026 12:17:00",
+        "hour": "12"
+    },
+    {
         "nft": "NFT20260123000362",
         "site": "PH0700193",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "23/01/2026 11:54:00",
@@ -17,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Device Offline",
         "created": "23/01/2026 10:39:00",
         "hour": "10"
@@ -41,8 +53,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.6",
-        "remaining": "5.4",
+        "duration": "2.7",
+        "remaining": "5.3",
         "alarm": "Optical Fail",
         "created": "23/01/2026 09:46:00",
         "hour": "9"
@@ -305,8 +317,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "Cell out of service",
         "created": "23/01/2026 02:11:00",
         "hour": "2"
@@ -510,7 +522,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-7.5",
-        "remaining": "15.6",
+        "remaining": "15.5",
         "alarm": "RRU interrupted",
         "created": "22/01/2026 17:34:00",
         "hour": "17"
@@ -605,8 +617,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-6.8",
-        "remaining": "14.8",
+        "duration": "-6.7",
+        "remaining": "14.7",
         "alarm": "Cell out of service",
         "created": "22/01/2026 16:44:00",
         "hour": "16"
@@ -1025,8 +1037,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-6.9",
-        "remaining": "14.9",
+        "duration": "-6.8",
+        "remaining": "14.8",
         "alarm": "Optical Fail",
         "created": "22/01/2026 08:01:00",
         "hour": "8"
