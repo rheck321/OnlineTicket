@@ -1001,8 +1001,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.2",
-        "remaining": "0.8",
+        "duration": "7.3",
+        "remaining": "0.7",
         "alarm": "Optical Fail",
         "created": "22/01/2026 08:01:00",
         "hour": "8"
