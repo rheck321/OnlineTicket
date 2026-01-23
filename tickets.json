@@ -17,8 +17,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Physical Port Down",
         "created": "23/01/2026 12:17:00",
         "hour": "12"
@@ -65,8 +65,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.1",
-        "remaining": "4.9",
+        "duration": "3.2",
+        "remaining": "4.8",
         "alarm": "Optical Fail",
         "created": "23/01/2026 09:46:00",
         "hour": "9"
@@ -329,8 +329,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.5",
-        "remaining": "3.5",
+        "duration": "4.6",
+        "remaining": "3.4",
         "alarm": "Cell out of service",
         "created": "23/01/2026 02:11:00",
         "hour": "2"
@@ -534,7 +534,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-7.0",
-        "remaining": "15.1",
+        "remaining": "15.0",
         "alarm": "RRU interrupted",
         "created": "22/01/2026 17:34:00",
         "hour": "17"
@@ -1049,8 +1049,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-6.4",
-        "remaining": "14.4",
+        "duration": "-6.3",
+        "remaining": "14.3",
         "alarm": "Optical Fail",
         "created": "22/01/2026 08:01:00",
         "hour": "8"
