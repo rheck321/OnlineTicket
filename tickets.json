@@ -294,7 +294,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Cell out of service",
         "created": "22/01/2026 20:43:01",
         "hour": "20"
@@ -953,7 +953,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.0",
+        "duration": "6.1",
         "remaining": "1.9",
         "alarm": "Optical Fail",
         "created": "22/01/2026 08:01:00",
