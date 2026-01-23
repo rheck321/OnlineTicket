@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Cell out of service",
         "created": "23/01/2026 14:33:00",
         "hour": "14"
@@ -17,8 +17,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Standing wave warning",
         "created": "23/01/2026 14:27:00",
         "hour": "14"
@@ -53,8 +53,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Physical Port Down",
         "created": "23/01/2026 14:04:00",
         "hour": "14"
@@ -77,8 +77,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.7",
-        "remaining": "3.3",
+        "duration": "0.8",
+        "remaining": "3.2",
         "alarm": "RHUB link is down",
         "created": "23/01/2026 13:56:00",
         "hour": "13"
@@ -173,8 +173,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.9",
-        "remaining": "3.1",
+        "duration": "5.0",
+        "remaining": "3.0",
         "alarm": "Optical Fail",
         "created": "23/01/2026 09:46:00",
         "hour": "9"
@@ -437,8 +437,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.3",
-        "remaining": "1.7",
+        "duration": "6.4",
+        "remaining": "1.6",
         "alarm": "Cell out of service",
         "created": "23/01/2026 02:11:00",
         "hour": "2"
@@ -1104,6 +1104,18 @@
         "hour": "9"
     },
     {
+        "nft": "NFT20260122000223",
+        "site": "PH0600651",
+        "area": "PANAY",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Low oil pressure shutdown alarm",
+        "created": "22/01/2026 09:27:00",
+        "hour": "9"
+    },
+    {
         "nft": "NFT20260122000211",
         "site": "PH0600244",
         "area": "NEGROS",
@@ -1157,7 +1169,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-4.6",
+        "duration": "-4.5",
         "remaining": "12.6",
         "alarm": "Optical Fail",
         "created": "22/01/2026 08:01:00",
