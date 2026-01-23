@@ -29,8 +29,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Battery Communication Fail",
         "created": "23/01/2026 14:11:00",
         "hour": "14"
@@ -78,7 +78,7 @@
         "state": "Processing",
         "severity": "Critical",
         "duration": "0.8",
-        "remaining": "3.2",
+        "remaining": "3.1",
         "alarm": "RHUB link is down",
         "created": "23/01/2026 13:56:00",
         "hour": "13"
@@ -125,8 +125,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "Physical Port Down",
         "created": "23/01/2026 12:17:00",
         "hour": "12"
@@ -1104,18 +1104,6 @@
         "hour": "9"
     },
     {
-        "nft": "NFT20260122000223",
-        "site": "PH0600651",
-        "area": "PANAY",
-        "state": "Finished",
-        "severity": "Major",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Low oil pressure shutdown alarm",
-        "created": "22/01/2026 09:27:00",
-        "hour": "9"
-    },
-    {
         "nft": "NFT20260122000211",
         "site": "PH0600244",
         "area": "NEGROS",
@@ -1170,7 +1158,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-4.5",
-        "remaining": "12.6",
+        "remaining": "12.5",
         "alarm": "Optical Fail",
         "created": "22/01/2026 08:01:00",
         "hour": "8"
