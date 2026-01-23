@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.1",
-        "remaining": "7.9",
+        "remaining": "7.8",
         "alarm": "Standing wave warning",
         "created": "23/01/2026 14:27:00",
         "hour": "14"
@@ -65,8 +65,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.6",
-        "remaining": "3.4",
+        "duration": "0.7",
+        "remaining": "3.3",
         "alarm": "RHUB link is down",
         "created": "23/01/2026 13:56:00",
         "hour": "13"
