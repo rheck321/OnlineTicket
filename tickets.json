@@ -29,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Optical Fail",
         "created": "23/01/2026 09:46:00",
         "hour": "9"
@@ -605,8 +605,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "Standing wave warning",
         "created": "22/01/2026 16:33:00",
         "hour": "16"
@@ -1014,7 +1014,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-8.0",
-        "remaining": "16.0",
+        "remaining": "15.9",
         "alarm": "Optical Fail",
         "created": "22/01/2026 08:01:00",
         "hour": "8"
