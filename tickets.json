@@ -222,7 +222,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.4",
-        "remaining": "6.7",
+        "remaining": "6.6",
         "alarm": "Cell out of service",
         "created": "25/01/2026 22:16:00",
         "hour": "22"
