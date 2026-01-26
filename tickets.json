@@ -17,8 +17,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Standing wave warning",
         "created": "26/01/2026 09:19:00",
         "hour": "9"
@@ -233,8 +233,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Cell out of service",
         "created": "25/01/2026 22:16:00",
         "hour": "22"
@@ -353,8 +353,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.5",
-        "remaining": "3.5",
+        "duration": "4.6",
+        "remaining": "3.4",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "25/01/2026 17:11:00",
         "hour": "17"
