@@ -162,7 +162,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Physical Port Down",
         "created": "26/01/2026 00:13:00",
         "hour": "0"
