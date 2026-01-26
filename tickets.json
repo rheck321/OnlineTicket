@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260126000175",
+        "site": "PH0700599",
+        "area": "BOHOL",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Standing wave warning",
+        "created": "26/01/2026 09:19:00",
+        "hour": "9"
+    },
+    {
         "nft": "NFT20260126000161",
         "site": "PH0700204",
         "area": "CEBU",
@@ -120,18 +132,6 @@
         "hour": "2"
     },
     {
-        "nft": "NFT20260126000032",
-        "site": "PH0600264",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "1.1",
-        "remaining": "6.9",
-        "alarm": "Cell out of service",
-        "created": "26/01/2026 02:23:00",
-        "hour": "2"
-    },
-    {
         "nft": "NFT20260126000005",
         "site": "PH0700111",
         "area": "CEBU",
@@ -209,7 +209,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.9",
+        "duration": "1.0",
         "remaining": "7.0",
         "alarm": "Cell out of service",
         "created": "25/01/2026 22:16:00",
