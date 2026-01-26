@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260126000161",
+        "site": "PH0700204",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Device Offline",
+        "created": "26/01/2026 08:52:00",
+        "hour": "8"
+    },
+    {
         "nft": "NFT20260126000151",
         "site": "PH0600038",
         "area": "PANAY",
