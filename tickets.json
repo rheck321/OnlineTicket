@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Battery Communication Fail",
         "created": "27/01/2026 09:20:00",
         "hour": "9"
@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Battery Communication Fail",
         "created": "27/01/2026 08:27:00",
         "hour": "8"
@@ -174,7 +174,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.8",
-        "remaining": "3.2",
+        "remaining": "3.1",
         "alarm": "Cell out of service",
         "created": "27/01/2026 04:46:01",
         "hour": "4"
@@ -257,8 +257,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-4.4",
-        "remaining": "12.4",
+        "duration": "-4.3",
+        "remaining": "12.3",
         "alarm": "GPS clock failure",
         "created": "26/01/2026 21:58:00",
         "hour": "21"
@@ -545,8 +545,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.5",
-        "remaining": "1.5",
+        "duration": "6.6",
+        "remaining": "1.4",
         "alarm": "Transmission unit link break",
         "created": "26/01/2026 14:10:00",
         "hour": "14"
