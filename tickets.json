@@ -90,7 +90,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "Battery Communication Fail",
         "created": "27/01/2026 08:27:00",
         "hour": "8"
@@ -233,8 +233,8 @@
         "area": "",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.0",
-        "remaining": "2.0",
+        "duration": "6.1",
+        "remaining": "1.9",
         "alarm": "Cell out of service",
         "created": "27/01/2026 04:46:01",
         "hour": "4"
@@ -317,8 +317,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-3.2",
-        "remaining": "11.2",
+        "duration": "-3.1",
+        "remaining": "11.1",
         "alarm": "GPS clock failure",
         "created": "26/01/2026 21:58:00",
         "hour": "21"
