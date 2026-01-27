@@ -41,8 +41,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Device Offline",
         "created": "27/01/2026 16:48:00",
         "hour": "16"
@@ -101,8 +101,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "Cell out of service",
         "created": "27/01/2026 13:29:00",
         "hour": "13"
@@ -473,8 +473,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-4.1",
-        "remaining": "12.1",
+        "duration": "-4.0",
+        "remaining": "12.0",
         "alarm": "Cell out of service",
         "created": "27/01/2026 05:35:01",
         "hour": "5"
