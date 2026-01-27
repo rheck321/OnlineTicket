@@ -186,7 +186,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "5.7",
-        "remaining": "2.4",
+        "remaining": "2.3",
         "alarm": "Battery Communication Fail",
         "created": "27/01/2026 05:55:00",
         "hour": "5"
@@ -197,8 +197,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.7",
-        "remaining": "2.3",
+        "duration": "5.8",
+        "remaining": "2.2",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "27/01/2026 05:50:00",
         "hour": "5"
@@ -353,8 +353,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-0.8",
-        "remaining": "8.8",
+        "duration": "-0.7",
+        "remaining": "8.7",
         "alarm": "Cell out of service",
         "created": "26/01/2026 20:19:00",
         "hour": "20"
