@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260127000237",
+        "site": "PH0600422",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "27/01/2026 12:21:00",
+        "hour": "12"
+    },
+    {
         "nft": "NFT20260127000227",
         "site": "PH0600105",
         "area": "NEGROS",
@@ -18,7 +30,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "27/01/2026 11:49:00",
         "hour": "11"
@@ -41,8 +53,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "BBU interrupted",
         "created": "27/01/2026 11:39:00",
         "hour": "11"
@@ -234,7 +246,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "6.5",
-        "remaining": "1.6",
+        "remaining": "1.5",
         "alarm": "Battery Communication Fail",
         "created": "27/01/2026 05:55:00",
         "hour": "5"
@@ -245,8 +257,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.5",
-        "remaining": "1.5",
+        "duration": "6.6",
+        "remaining": "1.4",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "27/01/2026 05:50:00",
         "hour": "5"
@@ -402,7 +414,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "Cell out of service",
         "created": "26/01/2026 20:19:00",
         "hour": "20"
