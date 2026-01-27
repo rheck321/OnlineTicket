@@ -233,8 +233,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.2",
-        "remaining": "1.8",
+        "duration": "6.3",
+        "remaining": "1.7",
         "alarm": "Cell out of service",
         "created": "27/01/2026 05:35:01",
         "hour": "5"
@@ -342,7 +342,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-2.1",
-        "remaining": "10.2",
+        "remaining": "10.1",
         "alarm": "GPS clock failure",
         "created": "26/01/2026 21:58:00",
         "hour": "21"
