@@ -1,17 +1,5 @@
 {"nftlist":[
     {
-        "nft": "NFT20260127000185",
-        "site": "PH0600105",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.5",
-        "remaining": "7.5",
-        "alarm": "Cell out of service",
-        "created": "27/01/2026 10:37:00",
-        "hour": "10"
-    },
-    {
         "nft": "NFT20260127000181",
         "site": "PH0600105",
         "area": "NEGROS",
@@ -27,10 +15,10 @@
         "nft": "NFT20260127000180",
         "site": "PH0600105",
         "area": "NEGROS",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Standing wave warning",
         "created": "27/01/2026 10:32:00",
         "hour": "10"
@@ -305,8 +293,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-2.9",
-        "remaining": "10.9",
+        "duration": "-2.8",
+        "remaining": "10.8",
         "alarm": "GPS clock failure",
         "created": "26/01/2026 21:58:00",
         "hour": "21"
