@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260127000185",
+        "site": "PH0600105",
+        "area": "NEGROS",
+        "state": "Finished",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Cell out of service",
+        "created": "27/01/2026 10:37:00",
+        "hour": "10"
+    },
+    {
         "nft": "NFT20260127000181",
         "site": "PH0600105",
         "area": "NEGROS",
@@ -185,8 +197,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.5",
-        "remaining": "2.5",
+        "duration": "5.6",
+        "remaining": "2.4",
         "alarm": "Cell out of service",
         "created": "27/01/2026 05:36:01",
         "hour": "5"
@@ -197,8 +209,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.5",
-        "remaining": "2.5",
+        "duration": "5.6",
+        "remaining": "2.4",
         "alarm": "Cell out of service",
         "created": "27/01/2026 05:35:01",
         "hour": "5"
@@ -214,6 +226,18 @@
         "alarm": "Air Conditioner Communication Lost",
         "created": "27/01/2026 05:08:00",
         "hour": "5"
+    },
+    {
+        "nft": "NFT20260127000040",
+        "site": "PH0800171",
+        "area": "",
+        "state": "Finished",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Cell out of service",
+        "created": "27/01/2026 04:46:01",
+        "hour": "4"
     },
     {
         "nft": "NFT20260127000037",
@@ -317,7 +341,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-1.2",
+        "duration": "-1.1",
         "remaining": "9.2",
         "alarm": "Cell out of service",
         "created": "26/01/2026 20:19:00",
@@ -341,8 +365,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.1",
-        "remaining": "4.9",
+        "duration": "3.2",
+        "remaining": "4.8",
         "alarm": "Battery Communication Fail",
         "created": "26/01/2026 19:54:00",
         "hour": "19"
