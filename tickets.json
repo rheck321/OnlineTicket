@@ -222,7 +222,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.0",
-        "remaining": "2.0",
+        "remaining": "1.9",
         "alarm": "Cell out of service",
         "created": "27/01/2026 05:35:01",
         "hour": "5"
@@ -329,8 +329,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-2.4",
-        "remaining": "10.4",
+        "duration": "-2.3",
+        "remaining": "10.3",
         "alarm": "GPS clock failure",
         "created": "26/01/2026 21:58:00",
         "hour": "21"
