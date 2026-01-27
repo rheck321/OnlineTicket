@@ -78,7 +78,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.2",
-        "remaining": "3.9",
+        "remaining": "3.8",
         "alarm": "Physical Port Down",
         "created": "27/01/2026 12:50:01",
         "hour": "12"
@@ -113,8 +113,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.4",
-        "remaining": "3.6",
+        "duration": "4.5",
+        "remaining": "3.5",
         "alarm": "BBU interrupted",
         "created": "27/01/2026 12:33:00",
         "hour": "12"
