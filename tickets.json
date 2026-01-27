@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "Device Offline",
         "created": "27/01/2026 12:21:00",
         "hour": "12"
@@ -17,8 +17,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Cell out of service",
         "created": "27/01/2026 12:04:00",
         "hour": "12"
@@ -282,7 +282,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.8",
-        "remaining": "1.2",
+        "remaining": "1.1",
         "alarm": "Cell out of service",
         "created": "27/01/2026 05:35:01",
         "hour": "5"
@@ -389,8 +389,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-1.6",
-        "remaining": "9.6",
+        "duration": "-1.5",
+        "remaining": "9.5",
         "alarm": "GPS clock failure",
         "created": "26/01/2026 21:58:00",
         "hour": "21"
