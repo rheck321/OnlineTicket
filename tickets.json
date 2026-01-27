@@ -41,8 +41,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "Cell out of service",
         "created": "27/01/2026 13:29:00",
         "hour": "13"
@@ -114,7 +114,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.7",
-        "remaining": "3.4",
+        "remaining": "3.3",
         "alarm": "BBU interrupted",
         "created": "27/01/2026 12:33:00",
         "hour": "12"
@@ -413,8 +413,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-4.4",
-        "remaining": "12.4",
+        "duration": "-4.3",
+        "remaining": "12.3",
         "alarm": "Cell out of service",
         "created": "27/01/2026 05:35:01",
         "hour": "5"
