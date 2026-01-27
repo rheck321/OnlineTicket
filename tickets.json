@@ -126,7 +126,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.3",
-        "remaining": "3.7",
+        "remaining": "3.6",
         "alarm": "Battery Communication Fail",
         "created": "27/01/2026 05:55:00",
         "hour": "5"
@@ -149,8 +149,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.6",
-        "remaining": "3.4",
+        "duration": "4.7",
+        "remaining": "3.3",
         "alarm": "Cell out of service",
         "created": "27/01/2026 05:36:01",
         "hour": "5"
@@ -162,7 +162,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.7",
-        "remaining": "3.4",
+        "remaining": "3.3",
         "alarm": "Cell out of service",
         "created": "27/01/2026 05:35:01",
         "hour": "5"
@@ -293,7 +293,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-2.1",
+        "duration": "-2.0",
         "remaining": "10.1",
         "alarm": "Cell out of service",
         "created": "26/01/2026 20:19:00",
@@ -317,8 +317,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Battery Communication Fail",
         "created": "26/01/2026 19:54:00",
         "hour": "19"
@@ -622,6 +622,18 @@
         "alarm": "Optical Fail",
         "created": "26/01/2026 13:04:00",
         "hour": "13"
+    },
+    {
+        "nft": "NFT20260126000262",
+        "site": "PH0700133",
+        "area": "NEGROS",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Physical Port Down",
+        "created": "26/01/2026 12:29:00",
+        "hour": "12"
     },
     {
         "nft": "NFT20260126000224",
