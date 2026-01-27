@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.1",
-        "remaining": "7.9",
+        "remaining": "7.8",
         "alarm": "RRU interrupted",
         "created": "27/01/2026 11:14:00",
         "hour": "11"
@@ -185,8 +185,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.4",
-        "remaining": "2.6",
+        "duration": "5.5",
+        "remaining": "2.5",
         "alarm": "Battery Communication Fail",
         "created": "27/01/2026 05:55:00",
         "hour": "5"
@@ -353,8 +353,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-1.0",
-        "remaining": "9.0",
+        "duration": "-0.9",
+        "remaining": "8.9",
         "alarm": "Cell out of service",
         "created": "26/01/2026 20:19:00",
         "hour": "20"
@@ -378,7 +378,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.4",
-        "remaining": "4.7",
+        "remaining": "4.6",
         "alarm": "Battery Communication Fail",
         "created": "26/01/2026 19:54:00",
         "hour": "19"
