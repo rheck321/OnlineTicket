@@ -24,18 +24,6 @@
         "hour": "11"
     },
     {
-        "nft": "NFT20260128000134",
-        "site": "PH0700480",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "5.2",
-        "remaining": "2.9",
-        "alarm": "Battery Communication Fail",
-        "created": "28/01/2026 07:50:00",
-        "hour": "7"
-    },
-    {
         "nft": "NFT20260128000111",
         "site": "IBS0610001",
         "area": "PANAY",
@@ -126,7 +114,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "5.3",
-        "remaining": "2.7",
+        "remaining": "2.6",
         "alarm": "reverse link RSSI is too low",
         "created": "27/01/2026 20:25:00",
         "hour": "20"
