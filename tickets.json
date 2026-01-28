@@ -113,7 +113,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.3",
+        "duration": "5.4",
         "remaining": "2.6",
         "alarm": "reverse link RSSI is too low",
         "created": "27/01/2026 20:30:00",
