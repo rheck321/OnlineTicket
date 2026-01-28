@@ -17,8 +17,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "RRU interrupted",
         "created": "28/01/2026 11:41:00",
         "hour": "11"
@@ -125,8 +125,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.6",
-        "remaining": "3.4",
+        "duration": "4.7",
+        "remaining": "3.3",
         "alarm": "reverse link RSSI is too low",
         "created": "27/01/2026 20:25:00",
         "hour": "20"
