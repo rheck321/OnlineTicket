@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Device Offline",
         "created": "28/01/2026 12:08:00",
         "hour": "12"
@@ -30,7 +30,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.7",
-        "remaining": "3.4",
+        "remaining": "3.3",
         "alarm": "Battery Communication Fail",
         "created": "28/01/2026 07:50:00",
         "hour": "7"
@@ -126,7 +126,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.8",
-        "remaining": "3.2",
+        "remaining": "3.1",
         "alarm": "reverse link RSSI is too low",
         "created": "27/01/2026 20:25:00",
         "hour": "20"
