@@ -1,17 +1,5 @@
 {"nftlist":[
     {
-        "nft": "NFT20260128000326",
-        "site": "CO090",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Critical",
-        "duration": "0.1",
-        "remaining": "3.9",
-        "alarm": "Perimeter Alarm",
-        "created": "28/01/2026 14:07:00",
-        "hour": "14"
-    },
-    {
         "nft": "NFT20260128000325",
         "site": "PH0600735",
         "area": "PANAY",
@@ -29,8 +17,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Cell out of service",
         "created": "28/01/2026 13:35:00",
         "hour": "13"
@@ -65,8 +53,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.1",
-        "remaining": "1.9",
+        "duration": "6.2",
+        "remaining": "1.8",
         "alarm": "Fade margin value is below threshold",
         "created": "28/01/2026 02:22:00",
         "hour": "2"
@@ -77,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.1",
-        "remaining": "1.9",
+        "duration": "6.2",
+        "remaining": "1.8",
         "alarm": "Fade margin value is below threshold",
         "created": "28/01/2026 02:21:00",
         "hour": "2"
