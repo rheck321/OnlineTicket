@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Device Offline",
         "created": "28/01/2026 13:18:00",
         "hour": "13"
@@ -42,7 +42,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "5.7",
-        "remaining": "2.4",
+        "remaining": "2.3",
         "alarm": "BBU interrupted",
         "created": "28/01/2026 04:31:01",
         "hour": "4"
@@ -53,8 +53,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.5",
-        "remaining": "2.5",
+        "duration": "5.6",
+        "remaining": "2.4",
         "alarm": "Fade margin value is below threshold",
         "created": "28/01/2026 02:22:00",
         "hour": "2"
@@ -65,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.5",
-        "remaining": "2.5",
+        "duration": "5.6",
+        "remaining": "2.4",
         "alarm": "Fade margin value is below threshold",
         "created": "28/01/2026 02:21:00",
         "hour": "2"
@@ -89,8 +89,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.6",
-        "remaining": "2.4",
+        "duration": "5.7",
+        "remaining": "2.3",
         "alarm": "reverse link RSSI is too low",
         "created": "27/01/2026 20:30:00",
         "hour": "20"
