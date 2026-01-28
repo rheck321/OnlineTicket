@@ -113,7 +113,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.4",
+        "duration": "6.5",
         "remaining": "1.6",
         "alarm": "reverse link RSSI is too low",
         "created": "27/01/2026 20:25:00",
