@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "RRU interrupted",
         "created": "28/01/2026 11:41:00",
         "hour": "11"
@@ -65,8 +65,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "BBU interrupted",
         "created": "28/01/2026 04:31:01",
         "hour": "4"
@@ -77,8 +77,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.1",
-        "remaining": "3.9",
+        "duration": "4.2",
+        "remaining": "3.8",
         "alarm": "Fade margin value is below threshold",
         "created": "28/01/2026 02:22:00",
         "hour": "2"
@@ -89,8 +89,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.1",
-        "remaining": "3.9",
+        "duration": "4.2",
+        "remaining": "3.8",
         "alarm": "Fade margin value is below threshold",
         "created": "28/01/2026 02:21:00",
         "hour": "2"
@@ -101,23 +101,11 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.8",
+        "duration": "3.9",
         "remaining": "4.2",
         "alarm": "Cell out of service",
         "created": "28/01/2026 00:16:00",
         "hour": "0"
-    },
-    {
-        "nft": "NFT20260127000443",
-        "site": "PH0800336",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "3.3",
-        "remaining": "4.7",
-        "alarm": "RRU interrupted",
-        "created": "27/01/2026 21:33:00",
-        "hour": "21"
     },
     {
         "nft": "NFT20260127000442",
@@ -166,18 +154,6 @@
         "alarm": "Fade margin value is below threshold",
         "created": "27/01/2026 18:33:00",
         "hour": "18"
-    },
-    {
-        "nft": "NFT20260127000331",
-        "site": "PH0800336",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "-7.8",
-        "remaining": "15.8",
-        "alarm": "Cell out of service",
-        "created": "27/01/2026 15:43:00",
-        "hour": "15"
     },
     {
         "nft": "NFT20260127000051",
