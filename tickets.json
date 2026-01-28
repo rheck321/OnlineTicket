@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.0",
-        "remaining": "8.0",
+        "duration": "0.1",
+        "remaining": "7.9",
         "alarm": "Device Offline",
         "created": "28/01/2026 12:08:00",
         "hour": "12"
@@ -24,25 +24,13 @@
         "hour": "11"
     },
     {
-        "nft": "NFT20260128000242",
-        "site": "PH0700019",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "1.2",
-        "remaining": "6.8",
-        "alarm": "Cell out of service",
-        "created": "28/01/2026 10:59:00",
-        "hour": "10"
-    },
-    {
         "nft": "NFT20260128000134",
         "site": "PH0700480",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.3",
-        "remaining": "3.7",
+        "duration": "4.4",
+        "remaining": "3.6",
         "alarm": "Battery Communication Fail",
         "created": "28/01/2026 07:50:00",
         "hour": "7"
@@ -125,8 +113,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "RRU interrupted",
         "created": "27/01/2026 21:33:00",
         "hour": "21"
@@ -150,7 +138,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.2",
-        "remaining": "3.9",
+        "remaining": "3.8",
         "alarm": "reverse link RSSI is too low",
         "created": "27/01/2026 20:30:00",
         "hour": "20"
