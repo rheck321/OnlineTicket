@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260128000322",
+        "site": "PH0700292",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "28/01/2026 13:54:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20260128000310",
         "site": "PH0600105",
         "area": "NEGROS",
@@ -101,8 +113,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.2",
-        "remaining": "1.8",
+        "duration": "6.3",
+        "remaining": "1.7",
         "alarm": "reverse link RSSI is too low",
         "created": "27/01/2026 20:25:00",
         "hour": "20"
