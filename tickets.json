@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "Battery Communication Fail",
         "created": "28/01/2026 07:50:00",
         "hour": "7"
@@ -137,8 +137,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.4",
-        "remaining": "3.6",
+        "duration": "4.5",
+        "remaining": "3.5",
         "alarm": "reverse link RSSI is too low",
         "created": "27/01/2026 20:25:00",
         "hour": "20"
