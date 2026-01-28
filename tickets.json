@@ -1,17 +1,5 @@
 {"nftlist":[
     {
-        "nft": "NFT20260128000306",
-        "site": "PH0600735",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.0",
-        "remaining": "8.0",
-        "alarm": "The actual received level is lower than the given lower threshold",
-        "created": "28/01/2026 13:26:33",
-        "hour": "13"
-    },
-    {
         "nft": "NFT20260128000305",
         "site": "PH0700237",
         "area": "CEBU",
@@ -34,18 +22,6 @@
         "alarm": "Gen over current shutdown",
         "created": "28/01/2026 12:53:00",
         "hour": "12"
-    },
-    {
-        "nft": "NFT20260128000261",
-        "site": "IBS0610011",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "1.8",
-        "remaining": "6.2",
-        "alarm": "RRU interrupted",
-        "created": "28/01/2026 11:41:00",
-        "hour": "11"
     },
     {
         "nft": "NFT20260128000111",
@@ -138,7 +114,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "5.8",
-        "remaining": "2.2",
+        "remaining": "2.1",
         "alarm": "reverse link RSSI is too low",
         "created": "27/01/2026 20:25:00",
         "hour": "20"
