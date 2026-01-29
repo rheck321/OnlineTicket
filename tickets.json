@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Battery Communication Fail",
         "created": "29/01/2026 10:11:00",
         "hour": "10"
@@ -185,8 +185,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "BBU interrupted",
         "created": "29/01/2026 01:10:00",
         "hour": "1"
@@ -209,8 +209,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Fade margin value is below threshold",
         "created": "28/01/2026 23:53:00",
         "hour": "23"
@@ -305,8 +305,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.5",
-        "remaining": "4.5",
+        "duration": "3.6",
+        "remaining": "4.4",
         "alarm": "reverse link RSSI is too low",
         "created": "28/01/2026 18:47:00",
         "hour": "18"
