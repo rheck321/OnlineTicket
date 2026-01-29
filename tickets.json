@@ -137,8 +137,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.7",
-        "remaining": "3.3",
+        "duration": "4.8",
+        "remaining": "3.2",
         "alarm": "Battery Communication Fail",
         "created": "29/01/2026 07:15:00",
         "hour": "7"
@@ -341,8 +341,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "The actual received level is lower than the given lower threshold",
         "created": "28/01/2026 18:14:54",
         "hour": "18"
