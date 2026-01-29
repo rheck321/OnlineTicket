@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "29/01/2026 15:20:00",
         "hour": "15"
@@ -54,7 +54,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "The actual received level is lower than the given lower threshold",
         "created": "29/01/2026 14:25:00",
         "hour": "14"
