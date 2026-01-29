@@ -185,7 +185,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.1",
+        "duration": "2.2",
         "remaining": "5.8",
         "alarm": "BBU interrupted",
         "created": "29/01/2026 01:10:00",
@@ -209,7 +209,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.1",
+        "duration": "2.2",
         "remaining": "5.8",
         "alarm": "Fade margin value is below threshold",
         "created": "28/01/2026 23:53:00",
@@ -298,6 +298,18 @@
         "alarm": "Transmission unit link break",
         "created": "28/01/2026 19:20:00",
         "hour": "19"
+    },
+    {
+        "nft": "NFT20260128000467",
+        "site": "PH0600105",
+        "area": "NEGROS",
+        "state": "Finished",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "reverse link RSSI is too low",
+        "created": "28/01/2026 18:47:00",
+        "hour": "18"
     },
     {
         "nft": "NFT20260128000458",
