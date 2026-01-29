@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Device Offline",
         "created": "29/01/2026 12:31:00",
         "hour": "12"
@@ -29,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Device Offline",
         "created": "29/01/2026 11:32:00",
         "hour": "11"
@@ -161,8 +161,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.4",
-        "remaining": "2.6",
+        "duration": "5.5",
+        "remaining": "2.5",
         "alarm": "Battery Communication Fail",
         "created": "29/01/2026 07:15:00",
         "hour": "7"
@@ -1090,17 +1090,5 @@
         "alarm": "Standing wave warning",
         "created": "28/01/2026 01:03:02",
         "hour": "1"
-    },
-    {
-        "nft": "NFT20260128000011",
-        "site": "PH0600735",
-        "area": "PANAY",
-        "state": "Finished",
-        "severity": "Minor",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "The actual received level is lower than the given lower threshold",
-        "created": "28/01/2026 00:36:32",
-        "hour": "0"
     }
 ]}
