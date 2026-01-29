@@ -17,7 +17,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "7.5",
         "alarm": "Battery Communication Fail",
         "created": "29/01/2026 12:38:00",
