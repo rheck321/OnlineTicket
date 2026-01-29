@@ -30,7 +30,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.7",
+        "remaining": "6.6",
         "alarm": "Device Offline",
         "created": "29/01/2026 11:32:00",
         "hour": "11"
@@ -161,8 +161,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.6",
-        "remaining": "2.4",
+        "duration": "5.7",
+        "remaining": "2.3",
         "alarm": "Battery Communication Fail",
         "created": "29/01/2026 07:15:00",
         "hour": "7"
