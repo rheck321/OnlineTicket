@@ -137,8 +137,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.4",
-        "remaining": "3.6",
+        "duration": "4.5",
+        "remaining": "3.5",
         "alarm": "Cell out of service",
         "created": "29/01/2026 05:06:00",
         "hour": "5"
@@ -257,8 +257,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Cell out of service",
         "created": "28/01/2026 19:39:00",
         "hour": "19"
@@ -281,8 +281,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.3",
-        "remaining": "5.7",
+        "duration": "2.4",
+        "remaining": "5.6",
         "alarm": "reverse link RSSI is too low",
         "created": "28/01/2026 18:47:00",
         "hour": "18"
