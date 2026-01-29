@@ -317,8 +317,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.7",
-        "remaining": "3.3",
+        "duration": "4.8",
+        "remaining": "3.2",
         "alarm": "Cell out of service",
         "created": "28/01/2026 19:39:00",
         "hour": "19"
