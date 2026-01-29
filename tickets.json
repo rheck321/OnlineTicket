@@ -17,7 +17,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.9",
+        "duration": "2.0",
         "remaining": "6.0",
         "alarm": "Battery Communication Fail",
         "created": "29/01/2026 10:11:00",
@@ -192,6 +192,18 @@
         "hour": "3"
     },
     {
+        "nft": "NFT20260129000019",
+        "site": "PH0600808",
+        "area": "PANAY",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "BBU interrupted",
+        "created": "29/01/2026 01:10:00",
+        "hour": "1"
+    },
+    {
         "nft": "NFT20260129000005",
         "site": "PH0700504",
         "area": "CEBU",
@@ -282,7 +294,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.2",
-        "remaining": "3.9",
+        "remaining": "3.8",
         "alarm": "Cell out of service",
         "created": "28/01/2026 19:39:00",
         "hour": "19"
