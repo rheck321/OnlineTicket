@@ -65,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Physical Port Down",
         "created": "29/01/2026 13:45:00",
         "hour": "13"
@@ -113,7 +113,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.6",
+        "duration": "2.7",
         "remaining": "5.3",
         "alarm": "Battery Communication Fail",
         "created": "29/01/2026 12:38:00",
@@ -161,7 +161,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.1",
+        "duration": "5.2",
         "remaining": "2.9",
         "alarm": "Battery Communication Fail",
         "created": "29/01/2026 10:11:00",
@@ -492,6 +492,18 @@
         "hour": "0"
     },
     {
+        "nft": "NFT20260129000114",
+        "site": "IBS0710030",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.5",
+        "remaining": "3.5",
+        "alarm": "RHUB link is down",
+        "created": "29/01/2026 07:49:00",
+        "hour": "7"
+    },
+    {
         "nft": "NFT20260129000113",
         "site": "PH0700037",
         "area": "CEBU",
@@ -624,6 +636,18 @@
         "hour": "0"
     },
     {
+        "nft": "NFT20260129000114",
+        "site": "IBS0710030",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.5",
+        "remaining": "3.5",
+        "alarm": "RHUB link is down",
+        "created": "29/01/2026 07:49:00",
+        "hour": "7"
+    },
+    {
         "nft": "NFT20260129000113",
         "site": "PH0700037",
         "area": "CEBU",
@@ -754,6 +778,18 @@
         "alarm": "Fade margin value is below threshold",
         "created": "29/01/2026 00:11:00",
         "hour": "0"
+    },
+    {
+        "nft": "NFT20260129000114",
+        "site": "IBS0710030",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Critical",
+        "duration": "0.5",
+        "remaining": "3.5",
+        "alarm": "RHUB link is down",
+        "created": "29/01/2026 07:49:00",
+        "hour": "7"
     },
     {
         "nft": "NFT20260129000113",
