@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260129000299",
+        "site": "PH0600358",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Device Offline",
+        "created": "29/01/2026 13:14:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20260129000284",
         "site": "PH0700430",
         "area": "CEBU",
@@ -65,8 +77,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "Battery Communication Fail",
         "created": "29/01/2026 10:11:00",
         "hour": "10"
@@ -1101,18 +1113,6 @@
         "remaining": "-",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "28/01/2026 01:17:00",
-        "hour": "1"
-    },
-    {
-        "nft": "NFT20260128000020",
-        "site": "PH0600305",
-        "area": "NEGROS",
-        "state": "Finished",
-        "severity": "Minor",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Standing wave warning",
-        "created": "28/01/2026 01:03:02",
         "hour": "1"
     }
 ]}
