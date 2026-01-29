@@ -174,7 +174,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.7",
+        "remaining": "6.6",
         "alarm": "BBU interrupted",
         "created": "29/01/2026 01:10:00",
         "hour": "1"
@@ -198,7 +198,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.7",
+        "remaining": "6.6",
         "alarm": "Fade margin value is below threshold",
         "created": "28/01/2026 23:53:00",
         "hour": "23"
