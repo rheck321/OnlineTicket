@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "BBU interrupted",
         "created": "29/01/2026 13:30:00",
         "hour": "13"
@@ -89,8 +89,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "Battery Communication Fail",
         "created": "29/01/2026 10:11:00",
         "hour": "10"
