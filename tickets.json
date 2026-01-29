@@ -41,8 +41,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "Battery Communication Fail",
         "created": "29/01/2026 10:11:00",
         "hour": "10"
@@ -317,8 +317,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.6",
-        "remaining": "3.4",
+        "duration": "4.7",
+        "remaining": "3.3",
         "alarm": "Cell out of service",
         "created": "28/01/2026 19:39:00",
         "hour": "19"
@@ -1101,18 +1101,6 @@
         "remaining": "-",
         "alarm": "The actual received level is lower than the given lower threshold",
         "created": "28/01/2026 00:36:32",
-        "hour": "0"
-    },
-    {
-        "nft": "NFT20260128000007",
-        "site": "PH0600532",
-        "area": "PANAY",
-        "state": "Finished",
-        "severity": "Minor",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "Cell out of service",
-        "created": "28/01/2026 00:16:00",
         "hour": "0"
     }
 ]}
