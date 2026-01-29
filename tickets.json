@@ -5,8 +5,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Physical Port Down",
         "created": "29/01/2026 14:42:00",
         "hour": "14"
@@ -17,8 +17,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "The actual received level is lower than the given lower threshold",
         "created": "29/01/2026 14:25:00",
         "hour": "14"
@@ -150,7 +150,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.7",
-        "remaining": "3.4",
+        "remaining": "3.3",
         "alarm": "Battery Communication Fail",
         "created": "29/01/2026 10:11:00",
         "hour": "10"
