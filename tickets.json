@@ -5,8 +5,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Battery Communication Fail",
         "created": "29/01/2026 10:11:00",
         "hour": "10"
@@ -126,7 +126,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.4",
-        "remaining": "4.7",
+        "remaining": "4.6",
         "alarm": "Battery Communication Fail",
         "created": "29/01/2026 07:15:00",
         "hour": "7"
@@ -197,7 +197,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.6",
+        "duration": "1.7",
         "remaining": "6.3",
         "alarm": "Fade margin value is below threshold",
         "created": "29/01/2026 00:11:00",
@@ -282,7 +282,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.6",
-        "remaining": "5.4",
+        "remaining": "5.3",
         "alarm": "Cell out of service",
         "created": "28/01/2026 19:39:00",
         "hour": "19"
@@ -305,8 +305,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "reverse link RSSI is too low",
         "created": "28/01/2026 18:47:00",
         "hour": "18"
@@ -342,7 +342,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "The actual received level is lower than the given lower threshold",
         "created": "28/01/2026 18:14:54",
         "hour": "18"
