@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.0",
-        "remaining": "8.0",
+        "duration": "0.1",
+        "remaining": "7.9",
         "alarm": "Device Offline",
         "created": "29/01/2026 13:14:00",
         "hour": "13"
@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Battery Communication Fail",
         "created": "29/01/2026 12:38:00",
         "hour": "12"
@@ -198,7 +198,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "6.0",
-        "remaining": "2.0",
+        "remaining": "1.9",
         "alarm": "Battery Communication Fail",
         "created": "29/01/2026 07:15:00",
         "hour": "7"
