@@ -41,8 +41,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.8",
-        "remaining": "6.2",
+        "duration": "1.9",
+        "remaining": "6.1",
         "alarm": "Physical Port Down",
         "created": "29/01/2026 14:42:00",
         "hour": "14"
@@ -53,8 +53,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.8",
-        "remaining": "6.2",
+        "duration": "1.9",
+        "remaining": "6.1",
         "alarm": "Physical Port Down",
         "created": "29/01/2026 14:42:00",
         "hour": "14"
@@ -65,8 +65,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.1",
-        "remaining": "5.9",
+        "duration": "2.2",
+        "remaining": "5.8",
         "alarm": "The actual received level is lower than the given lower threshold",
         "created": "29/01/2026 14:25:00",
         "hour": "14"
@@ -197,7 +197,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.3",
+        "duration": "6.4",
         "remaining": "1.6",
         "alarm": "Battery Communication Fail",
         "created": "29/01/2026 10:11:00",
@@ -396,6 +396,18 @@
         "hour": "0"
     },
     {
+        "nft": "NFT20260129000159",
+        "site": "PH0700480",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Major",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Battery Communication Fail",
+        "created": "29/01/2026 08:59:00",
+        "hour": "8"
+    },
+    {
         "nft": "NFT20260129000133",
         "site": "PH0600096",
         "area": "NEGROS",
@@ -552,6 +564,18 @@
         "hour": "0"
     },
     {
+        "nft": "NFT20260129000159",
+        "site": "PH0700480",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Major",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Battery Communication Fail",
+        "created": "29/01/2026 08:59:00",
+        "hour": "8"
+    },
+    {
         "nft": "NFT20260129000133",
         "site": "PH0600096",
         "area": "NEGROS",
@@ -708,6 +732,18 @@
         "hour": "0"
     },
     {
+        "nft": "NFT20260129000159",
+        "site": "PH0700480",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Major",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Battery Communication Fail",
+        "created": "29/01/2026 08:59:00",
+        "hour": "8"
+    },
+    {
         "nft": "NFT20260129000133",
         "site": "PH0600096",
         "area": "NEGROS",
@@ -862,6 +898,18 @@
         "alarm": "Fade margin value is below threshold",
         "created": "29/01/2026 00:11:00",
         "hour": "0"
+    },
+    {
+        "nft": "NFT20260129000159",
+        "site": "PH0700480",
+        "area": "CEBU",
+        "state": "Suspend",
+        "severity": "Major",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Battery Communication Fail",
+        "created": "29/01/2026 08:59:00",
+        "hour": "8"
     },
     {
         "nft": "NFT20260129000133",
