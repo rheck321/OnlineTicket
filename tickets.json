@@ -1,5 +1,29 @@
 {"nftlist":[
     {
+        "nft": "NFT20260129000388",
+        "site": "CO101",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Generator status",
+        "created": "29/01/2026 16:37:00",
+        "hour": "16"
+    },
+    {
+        "nft": "NFT20260129000386",
+        "site": "CO101",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Non automatic state",
+        "created": "29/01/2026 16:34:00",
+        "hour": "16"
+    },
+    {
         "nft": "NFT20260129000374",
         "site": "PH0600735",
         "area": "PANAY",
@@ -18,7 +42,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.7",
+        "remaining": "6.6",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "29/01/2026 15:20:00",
         "hour": "15"
@@ -78,7 +102,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.6",
-        "remaining": "5.4",
+        "remaining": "5.3",
         "alarm": "Transmission unit link break",
         "created": "29/01/2026 14:05:00",
         "hour": "14"
@@ -198,7 +222,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "6.5",
-        "remaining": "1.5",
+        "remaining": "1.4",
         "alarm": "Battery Communication Fail",
         "created": "29/01/2026 10:11:00",
         "hour": "10"
