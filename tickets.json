@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "29/01/2026 11:32:00",
         "hour": "11"
@@ -190,18 +190,6 @@
         "alarm": "ATS S1 Voltage State",
         "created": "29/01/2026 03:01:01",
         "hour": "3"
-    },
-    {
-        "nft": "NFT20260129000019",
-        "site": "PH0600808",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "3.2",
-        "remaining": "4.8",
-        "alarm": "BBU interrupted",
-        "created": "29/01/2026 01:10:00",
-        "hour": "1"
     },
     {
         "nft": "NFT20260129000005",
