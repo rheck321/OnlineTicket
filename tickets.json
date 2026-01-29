@@ -1,5 +1,29 @@
 {"nftlist":[
     {
+        "nft": "NFT20260129000360",
+        "site": "PH0700215",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Charge Circuit Switch Failure alarm",
+        "created": "29/01/2026 15:20:00",
+        "hour": "15"
+    },
+    {
+        "nft": "NFT20260129000357",
+        "site": "PH0700316",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.3",
+        "remaining": "7.7",
+        "alarm": "Device Offline",
+        "created": "29/01/2026 15:16:00",
+        "hour": "15"
+    },
+    {
         "nft": "NFT20260129000339",
         "site": "CO078",
         "area": "PANAY",
@@ -41,8 +65,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Transmission unit link break",
         "created": "29/01/2026 14:05:00",
         "hour": "14"
@@ -161,8 +185,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.3",
-        "remaining": "2.7",
+        "duration": "5.4",
+        "remaining": "2.6",
         "alarm": "Battery Communication Fail",
         "created": "29/01/2026 10:11:00",
         "hour": "10"
