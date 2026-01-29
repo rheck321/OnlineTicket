@@ -17,7 +17,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
+        "duration": "1.2",
         "remaining": "6.8",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "29/01/2026 15:20:00",
@@ -77,8 +77,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.4",
-        "remaining": "5.6",
+        "duration": "2.5",
+        "remaining": "5.5",
         "alarm": "Transmission unit link break",
         "created": "29/01/2026 14:05:00",
         "hour": "14"
@@ -198,7 +198,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "6.3",
-        "remaining": "1.7",
+        "remaining": "1.6",
         "alarm": "Battery Communication Fail",
         "created": "29/01/2026 10:11:00",
         "hour": "10"
