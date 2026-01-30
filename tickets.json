@@ -17,7 +17,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.3",
+        "duration": "1.4",
         "remaining": "6.7",
         "alarm": "The Equipment is offline(Microwave)",
         "created": "30/01/2026 08:45:00",
@@ -65,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.3",
-        "remaining": "4.7",
+        "duration": "3.4",
+        "remaining": "4.6",
         "alarm": "Battery Communication Fail",
         "created": "30/01/2026 06:44:00",
         "hour": "6"
@@ -94,18 +94,6 @@
         "alarm": "Air Conditioner Communication Lost",
         "created": "30/01/2026 05:17:01",
         "hour": "5"
-    },
-    {
-        "nft": "NFT20260129000460",
-        "site": "PH0800437",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "3.6",
-        "remaining": "4.4",
-        "alarm": "Cell out of service",
-        "created": "29/01/2026 20:01:00",
-        "hour": "20"
     },
     {
         "nft": "NFT20260129000163",
@@ -137,7 +125,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.4",
+        "duration": "6.5",
         "remaining": "1.6",
         "alarm": "Cell out of service",
         "created": "29/01/2026 05:06:00",
