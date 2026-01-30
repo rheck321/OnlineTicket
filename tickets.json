@@ -5,22 +5,10 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.0",
-        "remaining": "8.0",
+        "duration": "0.1",
+        "remaining": "7.9",
         "alarm": "Modem part unlock",
         "created": "30/01/2026 13:56:00",
-        "hour": "13"
-    },
-    {
-        "nft": "NFT20260130000312",
-        "site": "PH0700282",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
-        "alarm": "Device Offline",
-        "created": "30/01/2026 13:37:00",
         "hour": "13"
     },
     {
