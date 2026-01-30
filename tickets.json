@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "Cabinet Smog Alarm",
         "created": "30/01/2026 09:28:00",
         "hour": "9"
@@ -66,7 +66,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.2",
-        "remaining": "3.9",
+        "remaining": "3.8",
         "alarm": "Cell out of service",
         "created": "30/01/2026 05:22:01",
         "hour": "5"
@@ -77,8 +77,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "Air Conditioner Communication Lost",
         "created": "30/01/2026 05:17:01",
         "hour": "5"
@@ -89,8 +89,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "Cell out of service",
         "created": "29/01/2026 20:01:00",
         "hour": "20"
