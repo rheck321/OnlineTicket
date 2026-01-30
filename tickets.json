@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Device Offline",
         "created": "30/01/2026 12:11:00",
         "hour": "12"
@@ -41,8 +41,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.3",
-        "remaining": "3.7",
+        "duration": "4.4",
+        "remaining": "3.6",
         "alarm": "Cabinet Smog Alarm",
         "created": "30/01/2026 09:28:00",
         "hour": "9"
