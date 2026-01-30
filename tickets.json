@@ -5,7 +5,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
+        "duration": "0.2",
         "remaining": "7.8",
         "alarm": "Physical Port Down",
         "created": "30/01/2026 10:31:00",
@@ -46,18 +46,6 @@
         "alarm": "Cabinet Smog Alarm",
         "created": "30/01/2026 09:28:00",
         "hour": "9"
-    },
-    {
-        "nft": "NFT20260130000162",
-        "site": "PH0700429",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "1.9",
-        "remaining": "6.1",
-        "alarm": "The Equipment is offline(Microwave)",
-        "created": "30/01/2026 08:45:00",
-        "hour": "8"
     },
     {
         "nft": "NFT20260130000132",
@@ -101,8 +89,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.9",
-        "remaining": "4.1",
+        "duration": "4.0",
+        "remaining": "4.0",
         "alarm": "Battery Communication Fail",
         "created": "30/01/2026 06:44:00",
         "hour": "6"
@@ -174,7 +162,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "7.0",
-        "remaining": "1.0",
+        "remaining": "0.9",
         "alarm": "Cell out of service",
         "created": "29/01/2026 05:06:00",
         "hour": "5"
