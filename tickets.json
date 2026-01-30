@@ -1,5 +1,29 @@
 {"nftlist":[
     {
+        "nft": "NFT20260130000268",
+        "site": "PH0700270",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.3",
+        "remaining": "7.7",
+        "alarm": "Device Offline",
+        "created": "30/01/2026 11:24:00",
+        "hour": "11"
+    },
+    {
+        "nft": "NFT20260130000259",
+        "site": "PH0600808",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.7",
+        "remaining": "7.3",
+        "alarm": "BBU interrupted",
+        "created": "30/01/2026 10:59:00",
+        "hour": "10"
+    },
+    {
         "nft": "NFT20260130000257",
         "site": "PH0600291",
         "area": "NEGROS",
@@ -17,7 +41,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
+        "duration": "1.2",
         "remaining": "6.8",
         "alarm": "Physical Port Down",
         "created": "30/01/2026 10:31:00",
@@ -130,6 +154,18 @@
         "alarm": "Air Conditioner Communication Lost",
         "created": "30/01/2026 05:17:01",
         "hour": "5"
+    },
+    {
+        "nft": "NFT20260130000062",
+        "site": "CO038",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Physical Port Down",
+        "created": "30/01/2026 03:17:01",
+        "hour": "3"
     },
     {
         "nft": "NFT20260129000163",
