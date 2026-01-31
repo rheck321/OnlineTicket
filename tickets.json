@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "31/01/2026 13:30:00",
         "hour": "13"
@@ -654,7 +654,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.0",
-        "remaining": "2.0",
+        "remaining": "1.9",
         "alarm": "Cell out of service",
         "created": "30/01/2026 21:45:00",
         "hour": "21"
