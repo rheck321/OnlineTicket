@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Optical Fail",
         "created": "31/01/2026 14:32:00",
         "hour": "14"
@@ -29,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Physical Port Down",
         "created": "31/01/2026 14:32:00",
         "hour": "14"
@@ -102,7 +102,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "The actual received level is lower than the given lower threshold",
         "created": "31/01/2026 12:54:00",
         "hour": "12"
