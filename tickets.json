@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260131000357",
+        "site": "PH0600282",
+        "area": "NEGROS",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.8",
+        "alarm": "Transmission unit link break",
+        "created": "31/01/2026 12:34:00",
+        "hour": "12"
+    },
+    {
         "nft": "NFT20260131000342",
         "site": "CO083",
         "area": "CEBU",
@@ -185,7 +197,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.5",
+        "duration": "6.6",
         "remaining": "1.4",
         "alarm": "Cell out of service",
         "created": "31/01/2026 06:07:00",
@@ -617,8 +629,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.1",
-        "remaining": "2.9",
+        "duration": "5.2",
+        "remaining": "2.8",
         "alarm": "Cell out of service",
         "created": "30/01/2026 21:45:00",
         "hour": "21"
@@ -713,8 +725,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.4",
-        "remaining": "1.6",
+        "duration": "6.5",
+        "remaining": "1.5",
         "alarm": "Optical Fail",
         "created": "30/01/2026 19:18:00",
         "hour": "19"
@@ -725,8 +737,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.0",
-        "remaining": "1.0",
+        "duration": "7.1",
+        "remaining": "0.9",
         "alarm": "Physical Port Down",
         "created": "30/01/2026 18:41:00",
         "hour": "18"
@@ -905,8 +917,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.5",
-        "remaining": "0.5",
+        "duration": "7.6",
+        "remaining": "0.4",
         "alarm": "Physical Port Down",
         "created": "30/01/2026 10:31:00",
         "hour": "10"
