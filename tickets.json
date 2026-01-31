@@ -5,8 +5,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Device Offline",
         "created": "31/01/2026 13:35:00",
         "hour": "13"
@@ -30,7 +30,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "The actual received level is lower than the given lower threshold",
         "created": "31/01/2026 12:54:00",
         "hour": "12"
