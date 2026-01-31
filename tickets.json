@@ -29,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Transmission unit link break",
         "created": "31/01/2026 12:34:00",
         "hour": "12"
@@ -51,10 +51,10 @@
         "nft": "NFT20260131000336",
         "site": "PH0600439",
         "area": "NEGROS",
-        "state": "Processing",
+        "state": "Finished",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Device Offline",
         "created": "31/01/2026 12:05:00",
         "hour": "12"
@@ -641,8 +641,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.6",
-        "remaining": "2.4",
+        "duration": "5.7",
+        "remaining": "2.3",
         "alarm": "Cell out of service",
         "created": "30/01/2026 21:45:00",
         "hour": "21"
@@ -929,8 +929,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "8.0",
-        "remaining": "0.0",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Physical Port Down",
         "created": "30/01/2026 10:31:00",
         "hour": "10"
@@ -1077,18 +1077,6 @@
         "remaining": "-",
         "alarm": "Device Offline",
         "created": "30/01/2026 07:33:00",
-        "hour": "7"
-    },
-    {
-        "nft": "NFT20260130000118",
-        "site": "IBS0610001",
-        "area": "PANAY",
-        "state": "Finished",
-        "severity": "Minor",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "The received optical power of the optical module is abnormal",
-        "created": "30/01/2026 07:31:02",
         "hour": "7"
     },
     {
