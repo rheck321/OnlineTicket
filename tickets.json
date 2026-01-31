@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260131000408",
+        "site": "PH0600787",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.3",
+        "remaining": "7.7",
+        "alarm": "Physical Port Down",
+        "created": "31/01/2026 14:04:00",
+        "hour": "14"
+    },
+    {
         "nft": "NFT20260131000396",
         "site": "PH0800081",
         "area": "LEYTE",
@@ -17,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "31/01/2026 13:30:00",
         "hour": "13"
@@ -29,7 +41,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "The actual received level is lower than the given lower threshold",
         "created": "31/01/2026 12:54:00",
@@ -678,7 +690,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.8",
-        "remaining": "1.2",
+        "remaining": "1.1",
         "alarm": "Cell out of service",
         "created": "30/01/2026 21:45:00",
         "hour": "21"
@@ -1078,6 +1090,18 @@
         "alarm": "Device Offline",
         "created": "30/01/2026 08:05:00",
         "hour": "8"
+    },
+    {
+        "nft": "NFT20260130000132",
+        "site": "PH0600794",
+        "area": "NEGROS",
+        "state": "Finished",
+        "severity": "Major",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "The Device is offline",
+        "created": "30/01/2026 07:46:00",
+        "hour": "7"
     },
     {
         "nft": "NFT20260130000132",
