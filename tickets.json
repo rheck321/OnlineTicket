@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "Physical Port Down",
         "created": "31/01/2026 14:55:00",
         "hour": "14"
@@ -30,7 +30,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "Physical Port Down",
         "created": "31/01/2026 14:53:04",
         "hour": "14"
@@ -41,8 +41,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "The Equipment is offline(DATA)",
         "created": "31/01/2026 14:50:01",
         "hour": "14"
@@ -65,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Optical Fail",
         "created": "31/01/2026 14:32:00",
         "hour": "14"
@@ -77,8 +77,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Physical Port Down",
         "created": "31/01/2026 14:32:00",
         "hour": "14"
@@ -149,8 +149,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "The actual received level is lower than the given lower threshold",
         "created": "31/01/2026 12:54:00",
         "hour": "12"
