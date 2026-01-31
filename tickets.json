@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Device Offline",
         "created": "31/01/2026 12:05:00",
         "hour": "12"
@@ -186,7 +186,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.5",
-        "remaining": "1.5",
+        "remaining": "1.4",
         "alarm": "Cell out of service",
         "created": "31/01/2026 06:07:00",
         "hour": "6"
@@ -437,8 +437,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.0",
-        "remaining": "4.0",
+        "duration": "4.1",
+        "remaining": "3.9",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "31/01/2026 02:12:00",
         "hour": "2"
@@ -546,7 +546,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.5",
-        "remaining": "1.6",
+        "remaining": "1.5",
         "alarm": "Cell out of service",
         "created": "30/01/2026 23:53:00",
         "hour": "23"
