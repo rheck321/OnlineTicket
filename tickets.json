@@ -17,7 +17,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
+        "duration": "1.5",
         "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "02/02/2026 11:15:00",
@@ -42,7 +42,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.6",
-        "remaining": "5.4",
+        "remaining": "5.3",
         "alarm": "RRU interrupted",
         "created": "02/02/2026 10:05:00",
         "hour": "10"
@@ -305,8 +305,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-6.7",
-        "remaining": "14.7",
+        "duration": "-6.6",
+        "remaining": "14.6",
         "alarm": "Cell out of service",
         "created": "02/02/2026 03:22:00",
         "hour": "3"
