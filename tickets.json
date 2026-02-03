@@ -149,8 +149,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "Physical Port Down",
         "created": "03/02/2026 09:25:01",
         "hour": "9"
