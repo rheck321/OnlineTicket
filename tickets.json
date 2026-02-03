@@ -5,7 +5,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.5",
+        "duration": "0.6",
         "remaining": "3.5",
         "alarm": "The Device is offline",
         "created": "03/02/2026 12:15:00",
@@ -162,7 +162,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.4",
-        "remaining": "4.7",
+        "remaining": "4.6",
         "alarm": "Physical Port Down",
         "created": "03/02/2026 09:25:01",
         "hour": "9"
