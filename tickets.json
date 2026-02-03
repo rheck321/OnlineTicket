@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Device Offline",
         "created": "03/02/2026 11:48:00",
         "hour": "11"
@@ -69,6 +69,18 @@
         "remaining": "-",
         "alarm": "Compressor Fault",
         "created": "03/02/2026 10:28:54",
+        "hour": "10"
+    },
+    {
+        "nft": "NFT20260203000216",
+        "site": "PH0700010",
+        "area": "CEBU",
+        "state": "Finished",
+        "severity": "Minor",
+        "duration": "-",
+        "remaining": "-",
+        "alarm": "Cell out of service",
+        "created": "03/02/2026 10:25:12",
         "hour": "10"
     },
     {
