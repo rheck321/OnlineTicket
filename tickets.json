@@ -12,30 +12,6 @@
         "hour": "15"
     },
     {
-        "nft": "NFT20260206000570",
-        "site": "PH0700314",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.8",
-        "alarm": "Device Offline",
-        "created": "06/02/2026 15:38:00",
-        "hour": "15"
-    },
-    {
-        "nft": "NFT20260206000567",
-        "site": "CO089",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
-        "alarm": "Cell04 Under Volt",
-        "created": "06/02/2026 15:37:00",
-        "hour": "15"
-    },
-    {
         "nft": "NFT20260206000552",
         "site": "CO084",
         "area": "CEBU",
@@ -53,7 +29,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.9",
+        "duration": "1.0",
         "remaining": "7.0",
         "alarm": "Physical Port Down",
         "created": "06/02/2026 14:50:00",
@@ -65,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Cell04 Over Resistance Alarm",
         "created": "06/02/2026 14:39:00",
         "hour": "14"
