@@ -1,17 +1,5 @@
 {"nftlist":[
     {
-        "nft": "NFT20260206000491",
-        "site": "CO090",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
-        "alarm": "Multi-point Flooding Alarm",
-        "created": "06/02/2026 14:04:00",
-        "hour": "14"
-    },
-    {
         "nft": "NFT20260206000480",
         "site": "CO089",
         "area": "CEBU",
@@ -42,7 +30,7 @@
         "state": "Processing",
         "severity": "Critical",
         "duration": "3.4",
-        "remaining": "0.7",
+        "remaining": "0.6",
         "alarm": "Perimeter Alarm",
         "created": "06/02/2026 10:48:00",
         "hour": "10"
@@ -53,7 +41,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.3",
+        "duration": "4.4",
         "remaining": "3.6",
         "alarm": "Bad Package Error Rising",
         "created": "06/02/2026 09:48:00",
@@ -125,8 +113,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.0",
-        "remaining": "2.0",
+        "duration": "6.1",
+        "remaining": "1.9",
         "alarm": "Cell out of service",
         "created": "06/02/2026 02:25:00",
         "hour": "2"
@@ -185,8 +173,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.5",
-        "remaining": "1.5",
+        "duration": "6.6",
+        "remaining": "1.4",
         "alarm": "Cell out of service",
         "created": "05/02/2026 19:18:00",
         "hour": "19"
