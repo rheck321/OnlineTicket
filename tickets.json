@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.0",
-        "remaining": "4.0",
+        "duration": "0.1",
+        "remaining": "3.9",
         "alarm": "Commnication Fail",
         "created": "06/02/2026 13:52:00",
         "hour": "13"
@@ -34,6 +34,18 @@
         "alarm": "Perimeter Alarm",
         "created": "06/02/2026 10:48:00",
         "hour": "10"
+    },
+    {
+        "nft": "NFT20260206000312",
+        "site": "CO038",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "4.1",
+        "remaining": "3.9",
+        "alarm": "Bad Package Error Rising",
+        "created": "06/02/2026 09:48:00",
+        "hour": "9"
     },
     {
         "nft": "NFT20260206000221",
