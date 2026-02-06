@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.4",
-        "remaining": "3.6",
+        "duration": "0.5",
+        "remaining": "3.5",
         "alarm": "Perimeter Alarm",
         "created": "06/02/2026 10:48:00",
         "hour": "10"
@@ -29,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "Cell out of service",
         "created": "06/02/2026 07:30:00",
         "hour": "7"
@@ -113,8 +113,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "Cell out of service",
         "created": "06/02/2026 02:34:00",
         "hour": "2"
@@ -197,8 +197,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.6",
-        "remaining": "5.4",
+        "duration": "2.7",
+        "remaining": "5.3",
         "alarm": "RRU interrupted",
         "created": "05/02/2026 18:36:00",
         "hour": "18"
@@ -234,7 +234,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "3.9",
-        "remaining": "4.2",
+        "remaining": "4.1",
         "alarm": "Cell out of service",
         "created": "05/02/2026 17:22:00",
         "hour": "17"
@@ -245,8 +245,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "RRU interrupted",
         "created": "05/02/2026 07:31:01",
         "hour": "7"
