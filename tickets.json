@@ -24,24 +24,12 @@
         "hour": "10"
     },
     {
-        "nft": "NFT20260206000336",
-        "site": "CO084",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Critical",
-        "duration": "0.2",
-        "remaining": "3.8",
-        "alarm": "Perimeter Alarm",
-        "created": "06/02/2026 10:10:00",
-        "hour": "10"
-    },
-    {
         "nft": "NFT20260206000221",
         "site": "PH0700797",
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.3",
+        "duration": "2.4",
         "remaining": "5.7",
         "alarm": "Air Conditioner Communication Lost",
         "created": "06/02/2026 08:02:00",
@@ -54,7 +42,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.9",
-        "remaining": "5.2",
+        "remaining": "5.1",
         "alarm": "Cell out of service",
         "created": "06/02/2026 07:30:00",
         "hour": "7"
@@ -78,7 +66,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Cell out of service",
         "created": "06/02/2026 05:38:00",
         "hour": "5"
@@ -102,7 +90,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.1",
-        "remaining": "5.9",
+        "remaining": "5.8",
         "alarm": "Cell out of service",
         "created": "06/02/2026 05:01:01",
         "hour": "5"
@@ -114,7 +102,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Cell out of service",
         "created": "06/02/2026 03:36:01",
         "hour": "3"
@@ -126,7 +114,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.1",
-        "remaining": "5.9",
+        "remaining": "5.8",
         "alarm": "Fade margin value is below threshold",
         "created": "06/02/2026 02:56:00",
         "hour": "2"
@@ -137,8 +125,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.1",
-        "remaining": "5.9",
+        "duration": "2.2",
+        "remaining": "5.8",
         "alarm": "Fade margin value is below threshold",
         "created": "06/02/2026 02:55:00",
         "hour": "2"
@@ -161,8 +149,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Cell out of service",
         "created": "06/02/2026 02:25:00",
         "hour": "2"
@@ -173,7 +161,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.8",
+        "duration": "2.9",
         "remaining": "5.2",
         "alarm": "Optical port link fault",
         "created": "05/02/2026 23:09:00",
@@ -197,8 +185,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Cell out of service",
         "created": "05/02/2026 20:04:00",
         "hour": "20"
@@ -221,8 +209,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Cell out of service",
         "created": "05/02/2026 19:18:00",
         "hour": "19"
@@ -245,8 +233,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "Physical Port Down",
         "created": "05/02/2026 17:49:00",
         "hour": "17"
@@ -258,7 +246,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.1",
-        "remaining": "5.9",
+        "remaining": "5.8",
         "alarm": "RRU interrupted",
         "created": "05/02/2026 17:43:00",
         "hour": "17"
