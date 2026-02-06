@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260206000513",
+        "site": "CO089",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.8",
+        "alarm": "Cell04 Over Resistance Alarm",
+        "created": "06/02/2026 14:39:00",
+        "hour": "14"
+    },
+    {
         "nft": "NFT20260206000509",
         "site": "PH0700174",
         "area": "CEBU",
@@ -30,7 +42,7 @@
         "state": "Processing",
         "severity": "Critical",
         "duration": "4.0",
-        "remaining": "0.1",
+        "remaining": "0.0",
         "alarm": "Perimeter Alarm",
         "created": "06/02/2026 10:48:00",
         "hour": "10"
