@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Cell13 Under Volt",
         "created": "06/02/2026 08:30:00",
         "hour": "8"
@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Loss of Speed Signal Alarm",
         "created": "06/02/2026 08:29:00",
         "hour": "8"
@@ -42,7 +42,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "6.9",
+        "remaining": "6.8",
         "alarm": "Battery Communication Fail",
         "created": "06/02/2026 07:55:00",
         "hour": "7"
@@ -53,8 +53,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Cell out of service",
         "created": "06/02/2026 07:30:00",
         "hour": "7"
@@ -162,7 +162,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "0.9",
-        "remaining": "7.1",
+        "remaining": "7.0",
         "alarm": "Cell out of service",
         "created": "06/02/2026 02:25:00",
         "hour": "2"
@@ -173,8 +173,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "Device Powered Off",
         "created": "06/02/2026 00:27:00",
         "hour": "0"
@@ -234,7 +234,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Transmission unit link break",
         "created": "05/02/2026 21:04:00",
         "hour": "21"
@@ -245,7 +245,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.0",
+        "duration": "1.1",
         "remaining": "7.0",
         "alarm": "BBU interrupted",
         "created": "05/02/2026 20:52:00",
@@ -281,8 +281,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.9",
-        "remaining": "7.1",
+        "duration": "1.0",
+        "remaining": "7.0",
         "alarm": "Battery stolen",
         "created": "05/02/2026 20:01:00",
         "hour": "20"
@@ -294,7 +294,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Cell out of service",
         "created": "05/02/2026 19:18:00",
         "hour": "19"
@@ -317,8 +317,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.9",
-        "remaining": "5.1",
+        "duration": "3.0",
+        "remaining": "5.0",
         "alarm": "Physical Port Down",
         "created": "05/02/2026 17:49:00",
         "hour": "17"
