@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "3.6",
-        "remaining": "0.4",
+        "duration": "3.7",
+        "remaining": "0.3",
         "alarm": "Perimeter Alarm",
         "created": "06/02/2026 10:48:00",
         "hour": "10"
@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.6",
-        "remaining": "3.4",
+        "duration": "4.7",
+        "remaining": "3.3",
         "alarm": "Bad Package Error Rising",
         "created": "06/02/2026 09:48:00",
         "hour": "9"
@@ -162,7 +162,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.8",
-        "remaining": "1.2",
+        "remaining": "1.1",
         "alarm": "Cell out of service",
         "created": "05/02/2026 19:18:00",
         "hour": "19"
