@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20260206000491",
+        "site": "CO090",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Multi-point Flooding Alarm",
+        "created": "06/02/2026 14:04:00",
+        "hour": "14"
+    },
+    {
         "nft": "NFT20260206000480",
         "site": "CO089",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.2",
-        "remaining": "3.8",
+        "duration": "0.3",
+        "remaining": "3.7",
         "alarm": "Commnication Fail",
         "created": "06/02/2026 13:52:00",
         "hour": "13"
@@ -17,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Fade margin value is below threshold",
         "created": "06/02/2026 12:41:00",
         "hour": "12"
@@ -29,7 +41,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "3.3",
+        "duration": "3.4",
         "remaining": "0.7",
         "alarm": "Perimeter Alarm",
         "created": "06/02/2026 10:48:00",
@@ -42,7 +54,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.3",
-        "remaining": "3.7",
+        "remaining": "3.6",
         "alarm": "Bad Package Error Rising",
         "created": "06/02/2026 09:48:00",
         "hour": "9"
