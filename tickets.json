@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20260206000461",
+        "site": "PH0700003",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Offline",
+        "created": "06/02/2026 13:06:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20260206000450",
         "site": "PH0700406",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Fade margin value is below threshold",
         "created": "06/02/2026 12:41:00",
         "hour": "12"
@@ -17,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "2.3",
-        "remaining": "1.7",
+        "duration": "2.4",
+        "remaining": "1.6",
         "alarm": "Perimeter Alarm",
         "created": "06/02/2026 10:48:00",
         "hour": "10"
