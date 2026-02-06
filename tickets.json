@@ -12,25 +12,13 @@
         "hour": "8"
     },
     {
-        "nft": "NFT20260206000209",
-        "site": "PH0700319",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
-        "alarm": "Battery Communication Fail",
-        "created": "06/02/2026 07:55:00",
-        "hour": "7"
-    },
-    {
         "nft": "NFT20260206000176",
         "site": "PH0600452",
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
         "duration": "2.6",
-        "remaining": "5.4",
+        "remaining": "5.3",
         "alarm": "Cell out of service",
         "created": "06/02/2026 07:30:00",
         "hour": "7"
@@ -125,8 +113,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.8",
-        "remaining": "6.2",
+        "duration": "1.9",
+        "remaining": "6.1",
         "alarm": "Cell out of service",
         "created": "06/02/2026 02:34:00",
         "hour": "2"
@@ -209,8 +197,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "RRU interrupted",
         "created": "05/02/2026 18:36:00",
         "hour": "18"
@@ -257,7 +245,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.9",
+        "duration": "2.0",
         "remaining": "6.0",
         "alarm": "RRU interrupted",
         "created": "05/02/2026 07:31:01",
