@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "7.9",
+        "remaining": "7.8",
         "alarm": "Device Offline",
         "created": "06/02/2026 16:59:00",
         "hour": "16"
@@ -34,18 +34,6 @@
         "alarm": "Cell out of service",
         "created": "06/02/2026 16:00:01",
         "hour": "16"
-    },
-    {
-        "nft": "NFT20260206000522",
-        "site": "PH0800197",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "2.3",
-        "remaining": "5.7",
-        "alarm": "Physical Port Down",
-        "created": "06/02/2026 14:50:00",
-        "hour": "14"
     },
     {
         "nft": "NFT20260206000513",
