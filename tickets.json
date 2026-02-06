@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260206000552",
+        "site": "CO084",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Critical",
+        "duration": "0.1",
+        "remaining": "4.0",
+        "alarm": "Perimeter Alarm",
+        "created": "06/02/2026 15:19:00",
+        "hour": "15"
+    },
+    {
         "nft": "NFT20260206000543",
         "site": "PH0600328",
         "area": "PANAY",
@@ -41,8 +53,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.5",
-        "remaining": "2.5",
+        "duration": "5.6",
+        "remaining": "2.4",
         "alarm": "Bad Package Error Rising",
         "created": "06/02/2026 09:48:00",
         "hour": "9"
