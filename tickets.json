@@ -6,21 +6,9 @@
         "state": "Processing",
         "severity": "Critical",
         "duration": "0.1",
-        "remaining": "4.0",
+        "remaining": "3.9",
         "alarm": "Perimeter Alarm",
         "created": "06/02/2026 15:19:00",
-        "hour": "15"
-    },
-    {
-        "nft": "NFT20260206000543",
-        "site": "PH0600328",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
-        "alarm": "Device Offline",
-        "created": "06/02/2026 15:07:00",
         "hour": "15"
     },
     {
@@ -29,8 +17,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "Physical Port Down",
         "created": "06/02/2026 14:50:00",
         "hour": "14"
@@ -41,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Cell04 Over Resistance Alarm",
         "created": "06/02/2026 14:39:00",
         "hour": "14"
