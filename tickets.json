@@ -12,30 +12,6 @@
         "hour": "14"
     },
     {
-        "nft": "NFT20260206000509",
-        "site": "PH0700174",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
-        "alarm": "Device Offline",
-        "created": "06/02/2026 14:34:00",
-        "hour": "14"
-    },
-    {
-        "nft": "NFT20260206000480",
-        "site": "CO089",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Critical",
-        "duration": "1.0",
-        "remaining": "3.0",
-        "alarm": "Commnication Fail",
-        "created": "06/02/2026 13:52:00",
-        "hour": "13"
-    },
-    {
         "nft": "NFT20260206000370",
         "site": "CO084",
         "area": "CEBU",
