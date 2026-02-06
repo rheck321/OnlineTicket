@@ -5,35 +5,11 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Cell out of service",
         "created": "06/02/2026 16:00:01",
         "hour": "16"
-    },
-    {
-        "nft": "NFT20260206000577",
-        "site": "PH0600328",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
-        "alarm": "Device Offline",
-        "created": "06/02/2026 15:43:00",
-        "hour": "15"
-    },
-    {
-        "nft": "NFT20260206000552",
-        "site": "CO084",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Critical",
-        "duration": "0.9",
-        "remaining": "3.1",
-        "alarm": "Perimeter Alarm",
-        "created": "06/02/2026 15:19:00",
-        "hour": "15"
     },
     {
         "nft": "NFT20260206000522",
@@ -42,7 +18,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Physical Port Down",
         "created": "06/02/2026 14:50:00",
         "hour": "14"
