@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.7",
-        "remaining": "3.3",
+        "duration": "0.8",
+        "remaining": "3.2",
         "alarm": "Commnication Fail",
         "created": "06/02/2026 13:52:00",
         "hour": "13"
