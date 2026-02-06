@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.6",
-        "remaining": "5.4",
+        "duration": "2.7",
+        "remaining": "5.3",
         "alarm": "Cell04 Over Resistance Alarm",
         "created": "06/02/2026 14:39:00",
         "hour": "14"
@@ -141,18 +141,6 @@
         "remaining": "4.1",
         "alarm": "Cell out of service",
         "created": "05/02/2026 20:04:00",
-        "hour": "20"
-    },
-    {
-        "nft": "NFT20260205000500",
-        "site": "PH0700797",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "2.8",
-        "remaining": "5.2",
-        "alarm": "Battery stolen",
-        "created": "05/02/2026 20:01:00",
         "hour": "20"
     },
     {
