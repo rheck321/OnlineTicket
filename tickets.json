@@ -137,8 +137,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.7",
-        "remaining": "2.3",
+        "duration": "5.8",
+        "remaining": "2.2",
         "alarm": "Cell out of service",
         "created": "05/02/2026 20:04:00",
         "hour": "20"
