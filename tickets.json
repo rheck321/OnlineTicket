@@ -125,8 +125,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "Cell out of service",
         "created": "05/02/2026 20:04:00",
         "hour": "20"
@@ -174,7 +174,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.7",
-        "remaining": "3.4",
+        "remaining": "3.3",
         "alarm": "RRU interrupted",
         "created": "05/02/2026 17:43:00",
         "hour": "17"
