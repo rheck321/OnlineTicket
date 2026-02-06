@@ -1,29 +1,5 @@
 {"nftlist":[
     {
-        "nft": "NFT20260206000621",
-        "site": "PH0800197",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.2",
-        "remaining": "7.8",
-        "alarm": "Cell out of service",
-        "created": "06/02/2026 17:07:01",
-        "hour": "17"
-    },
-    {
-        "nft": "NFT20260206000583",
-        "site": "PH0700064",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "1.3",
-        "remaining": "6.7",
-        "alarm": "Cell out of service",
-        "created": "06/02/2026 16:00:01",
-        "hour": "16"
-    },
-    {
         "nft": "NFT20260206000513",
         "site": "CO089",
         "area": "CEBU",
@@ -34,18 +10,6 @@
         "alarm": "Cell04 Over Resistance Alarm",
         "created": "06/02/2026 14:39:00",
         "hour": "14"
-    },
-    {
-        "nft": "NFT20260206000221",
-        "site": "PH0700797",
-        "area": "NEGROS",
-        "state": "Suspend",
-        "severity": "Minor",
-        "duration": "2.9",
-        "remaining": "5.2",
-        "alarm": "Air Conditioner Communication Lost",
-        "created": "06/02/2026 08:02:00",
-        "hour": "8"
     },
     {
         "nft": "NFT20260206000122",
