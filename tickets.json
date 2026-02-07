@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Offline",
         "created": "07/02/2026 16:33:00",
         "hour": "16"
@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Offline",
         "created": "07/02/2026 16:31:00",
         "hour": "16"
@@ -29,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.5",
-        "remaining": "7.5",
+        "duration": "0.6",
+        "remaining": "7.4",
         "alarm": "GPS clock failure",
         "created": "07/02/2026 16:14:00",
         "hour": "16"
@@ -90,7 +90,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "07/02/2026 15:22:02",
         "hour": "15"
@@ -102,7 +102,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "07/02/2026 15:22:02",
         "hour": "15"
@@ -114,7 +114,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "07/02/2026 15:22:02",
         "hour": "15"
@@ -126,7 +126,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "07/02/2026 15:22:02",
         "hour": "15"
@@ -138,7 +138,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "07/02/2026 15:22:02",
         "hour": "15"
@@ -150,7 +150,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "07/02/2026 15:22:02",
         "hour": "15"
@@ -174,7 +174,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "07/02/2026 15:22:02",
         "hour": "15"
@@ -186,7 +186,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "07/02/2026 15:22:02",
         "hour": "15"
@@ -198,7 +198,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "07/02/2026 15:22:02",
         "hour": "15"
@@ -210,7 +210,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "07/02/2026 15:22:02",
         "hour": "15"
@@ -222,7 +222,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "07/02/2026 15:22:00",
         "hour": "15"
@@ -234,7 +234,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "07/02/2026 15:22:00",
         "hour": "15"
@@ -246,7 +246,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "07/02/2026 15:22:00",
         "hour": "15"
@@ -258,7 +258,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "07/02/2026 15:22:00",
         "hour": "15"
@@ -270,7 +270,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "07/02/2026 15:22:00",
         "hour": "15"
@@ -282,7 +282,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "07/02/2026 15:22:00",
         "hour": "15"
@@ -293,8 +293,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "07/02/2026 15:21:00",
         "hour": "15"
@@ -305,8 +305,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "07/02/2026 15:21:00",
         "hour": "15"
@@ -317,8 +317,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.6",
+        "duration": "1.5",
+        "remaining": "6.5",
         "alarm": "Battery Communication Fail",
         "created": "07/02/2026 15:21:00",
         "hour": "15"
@@ -330,7 +330,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Cell out of service",
         "created": "07/02/2026 15:10:00",
         "hour": "15"
@@ -449,7 +449,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "2.5",
+        "duration": "2.6",
         "remaining": "1.4",
         "alarm": "Break Off",
         "created": "07/02/2026 14:13:00",
@@ -569,8 +569,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.6",
-        "remaining": "4.4",
+        "duration": "3.7",
+        "remaining": "4.3",
         "alarm": "Transmission unit link break",
         "created": "07/02/2026 13:09:01",
         "hour": "13"
@@ -581,8 +581,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.6",
-        "remaining": "4.4",
+        "duration": "3.7",
+        "remaining": "4.3",
         "alarm": "The Device is offline",
         "created": "07/02/2026 13:09:01",
         "hour": "13"
@@ -797,7 +797,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.3",
+        "duration": "6.4",
         "remaining": "1.6",
         "alarm": "Standing wave warning",
         "created": "07/02/2026 10:25:00",
