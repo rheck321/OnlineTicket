@@ -17,8 +17,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.1",
-        "remaining": "6.9",
+        "duration": "1.2",
+        "remaining": "6.8",
         "alarm": "Cabinet Flood Alarm",
         "created": "09/02/2026 09:22:00",
         "hour": "9"
@@ -125,8 +125,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.3",
-        "remaining": "5.7",
+        "duration": "2.4",
+        "remaining": "5.6",
         "alarm": "Battery Communication Fail",
         "created": "08/02/2026 22:57:00",
         "hour": "22"
@@ -149,8 +149,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.9",
-        "remaining": "6.1",
+        "duration": "2.0",
+        "remaining": "6.0",
         "alarm": "Physical Port Down",
         "created": "08/02/2026 21:48:00",
         "hour": "21"
@@ -197,8 +197,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.3",
-        "remaining": "4.7",
+        "duration": "3.4",
+        "remaining": "4.6",
         "alarm": "Fade margin value is below threshold",
         "created": "08/02/2026 18:34:00",
         "hour": "18"
@@ -210,7 +210,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.4",
-        "remaining": "4.7",
+        "remaining": "4.6",
         "alarm": "Fade margin value is below threshold",
         "created": "08/02/2026 18:33:00",
         "hour": "18"
@@ -234,7 +234,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-6.5",
-        "remaining": "14.6",
+        "remaining": "14.5",
         "alarm": "Cell out of service",
         "created": "08/02/2026 15:55:00",
         "hour": "15"
@@ -257,8 +257,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "8.0",
-        "remaining": "0.0",
+        "duration": "-",
+        "remaining": "-",
         "alarm": "Cell out of service",
         "created": "08/02/2026 10:29:00",
         "hour": "10"
