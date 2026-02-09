@@ -114,7 +114,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "7.0",
-        "remaining": "1.1",
+        "remaining": "1.0",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "09/02/2026 07:31:01",
         "hour": "7"
@@ -149,8 +149,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.7",
-        "remaining": "2.3",
+        "duration": "5.8",
+        "remaining": "2.2",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "09/02/2026 00:31:00",
         "hour": "0"
