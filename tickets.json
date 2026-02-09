@@ -161,8 +161,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.3",
-        "remaining": "1.7",
+        "duration": "6.4",
+        "remaining": "1.6",
         "alarm": "Battery Communication Fail",
         "created": "08/02/2026 22:57:00",
         "hour": "22"
@@ -209,8 +209,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.3",
-        "remaining": "0.7",
+        "duration": "7.4",
+        "remaining": "0.6",
         "alarm": "Fade margin value is below threshold",
         "created": "08/02/2026 18:34:00",
         "hour": "18"
