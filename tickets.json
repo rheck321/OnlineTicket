@@ -161,8 +161,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.2",
-        "remaining": "0.8",
+        "duration": "7.3",
+        "remaining": "0.7",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "09/02/2026 00:31:00",
         "hour": "0"
