@@ -17,8 +17,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "SMR03 Communication Fail",
         "created": "09/02/2026 11:54:00",
         "hour": "11"
@@ -53,8 +53,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.1",
-        "remaining": "5.9",
+        "duration": "2.2",
+        "remaining": "5.8",
         "alarm": "Transmission unit link break",
         "created": "09/02/2026 11:29:01",
         "hour": "11"
@@ -65,8 +65,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.1",
-        "remaining": "5.9",
+        "duration": "2.2",
+        "remaining": "5.8",
         "alarm": "Transmission unit link break",
         "created": "09/02/2026 11:29:01",
         "hour": "11"
@@ -89,8 +89,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.2",
-        "remaining": "3.8",
+        "duration": "4.3",
+        "remaining": "3.7",
         "alarm": "Cabinet Flood Alarm",
         "created": "09/02/2026 09:22:00",
         "hour": "9"
@@ -102,7 +102,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.3",
-        "remaining": "3.7",
+        "remaining": "3.6",
         "alarm": "Air Conditioner Communication Lost",
         "created": "09/02/2026 09:18:00",
         "hour": "9"
@@ -222,21 +222,9 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "6.5",
-        "remaining": "1.6",
-        "alarm": "Fade margin value is below threshold",
-        "created": "08/02/2026 18:34:00",
-        "hour": "18"
-    },
-    {
-        "nft": "NFT20260208000450",
-        "site": "PH0800250",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "6.5",
         "remaining": "1.5",
         "alarm": "Fade margin value is below threshold",
-        "created": "08/02/2026 18:33:00",
+        "created": "08/02/2026 18:34:00",
         "hour": "18"
     },
     {
