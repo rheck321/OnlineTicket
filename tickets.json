@@ -29,8 +29,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.5",
-        "remaining": "6.5",
+        "duration": "1.6",
+        "remaining": "6.4",
         "alarm": "Cell out of service",
         "created": "09/02/2026 14:14:00",
         "hour": "14"
@@ -149,8 +149,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-7.8",
-        "remaining": "15.8",
+        "duration": "-7.7",
+        "remaining": "15.7",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "09/02/2026 07:31:01",
         "hour": "7"
@@ -185,8 +185,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.0",
-        "remaining": "1.0",
+        "duration": "7.1",
+        "remaining": "0.9",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "09/02/2026 00:31:00",
         "hour": "0"
