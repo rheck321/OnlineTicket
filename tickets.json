@@ -5,8 +5,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Device Offline",
         "created": "09/02/2026 13:24:00",
         "hour": "13"
@@ -53,8 +53,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.6",
-        "remaining": "5.4",
+        "duration": "2.7",
+        "remaining": "5.3",
         "alarm": "Transmission unit link break",
         "created": "09/02/2026 11:29:01",
         "hour": "11"
@@ -102,7 +102,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.8",
-        "remaining": "3.2",
+        "remaining": "3.1",
         "alarm": "Air Conditioner Communication Lost",
         "created": "09/02/2026 09:18:00",
         "hour": "9"
@@ -210,7 +210,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "7.0",
-        "remaining": "1.1",
+        "remaining": "1.0",
         "alarm": "Fade margin value is below threshold",
         "created": "08/02/2026 18:34:00",
         "hour": "18"
