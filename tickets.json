@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Device Offline",
         "created": "09/02/2026 09:01:00",
         "hour": "9"
@@ -42,7 +42,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "Battery Communication Fail",
         "created": "09/02/2026 07:45:00",
         "hour": "7"
@@ -54,7 +54,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.9",
-        "remaining": "6.2",
+        "remaining": "6.1",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "09/02/2026 07:31:01",
         "hour": "7"
@@ -65,8 +65,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.0",
-        "remaining": "5.0",
+        "duration": "3.1",
+        "remaining": "4.9",
         "alarm": "Battery Communication Fail",
         "created": "09/02/2026 06:20:01",
         "hour": "6"
@@ -101,8 +101,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Charge Circuit Switch Failure alarm",
         "created": "09/02/2026 00:31:00",
         "hour": "0"
@@ -113,7 +113,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.9",
+        "duration": "1.0",
         "remaining": "7.0",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "08/02/2026 23:44:00",
@@ -137,8 +137,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.8",
-        "remaining": "7.2",
+        "duration": "0.9",
+        "remaining": "7.1",
         "alarm": "SMR04 Communication Fail",
         "created": "08/02/2026 22:54:00",
         "hour": "22"
@@ -228,18 +228,6 @@
         "hour": "18"
     },
     {
-        "nft": "NFT20260208000429",
-        "site": "PH0700010",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "3.3",
-        "remaining": "4.7",
-        "alarm": "Cell out of service",
-        "created": "08/02/2026 17:23:00",
-        "hour": "17"
-    },
-    {
         "nft": "NFT20260208000403",
         "site": "PH0700275",
         "area": "CEBU",
@@ -281,7 +269,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.3",
+        "duration": "2.4",
         "remaining": "5.7",
         "alarm": "RRU interrupted",
         "created": "08/02/2026 07:31:00",
