@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "Device Offline",
         "created": "09/02/2026 09:12:00",
         "hour": "9"
@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "BBU optical module RX and TX abnormal",
         "created": "09/02/2026 08:55:00",
         "hour": "8"
@@ -53,7 +53,7 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.8",
+        "duration": "1.9",
         "remaining": "6.2",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "09/02/2026 07:31:01",
@@ -114,7 +114,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.9",
-        "remaining": "7.1",
+        "remaining": "7.0",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "08/02/2026 23:44:00",
         "hour": "23"
@@ -125,7 +125,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
+        "duration": "1.2",
         "remaining": "6.8",
         "alarm": "Battery Communication Fail",
         "created": "08/02/2026 22:57:00",
@@ -168,18 +168,6 @@
         "hour": "21"
     },
     {
-        "nft": "NFT20260208000482",
-        "site": "PH0600420",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
-        "alarm": "The actual received level is lower than the given lower threshold",
-        "created": "08/02/2026 20:20:00",
-        "hour": "20"
-    },
-    {
         "nft": "NFT20260208000476",
         "site": "PH0700245",
         "area": "CEBU",
@@ -189,18 +177,6 @@
         "remaining": "6.7",
         "alarm": "Battery stolen",
         "created": "08/02/2026 20:01:00",
-        "hour": "20"
-    },
-    {
-        "nft": "NFT20260208000475",
-        "site": "PH0600420",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
-        "alarm": "Transmission unit link break",
-        "created": "08/02/2026 20:00:00",
         "hour": "20"
     },
     {
@@ -221,7 +197,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.1",
+        "duration": "2.2",
         "remaining": "5.8",
         "alarm": "Fade margin value is below threshold",
         "created": "08/02/2026 18:34:00",
@@ -257,8 +233,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "Cell out of service",
         "created": "08/02/2026 17:23:00",
         "hour": "17"
@@ -288,25 +264,13 @@
         "hour": "15"
     },
     {
-        "nft": "NFT20260208000287",
-        "site": "CO077",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "1.8",
-        "remaining": "6.2",
-        "alarm": "Physical Port Down",
-        "created": "08/02/2026 10:48:00",
-        "hour": "10"
-    },
-    {
         "nft": "NFT20260208000274",
         "site": "PH0600537",
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.8",
-        "remaining": "1.2",
+        "duration": "6.9",
+        "remaining": "1.1",
         "alarm": "Cell out of service",
         "created": "08/02/2026 10:29:00",
         "hour": "10"
