@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "09/02/2026 17:07:00",
         "hour": "17"
@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Device Offline",
         "created": "09/02/2026 16:59:00",
         "hour": "16"
@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Device Offline",
         "created": "09/02/2026 16:48:00",
         "hour": "16"
@@ -42,34 +42,10 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.4",
-        "remaining": "6.7",
+        "remaining": "6.6",
         "alarm": "Device Offline",
         "created": "09/02/2026 16:11:00",
         "hour": "16"
-    },
-    {
-        "nft": "NFT20260209000378",
-        "site": "PH0700247",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
-        "alarm": "Device Offline",
-        "created": "09/02/2026 15:18:00",
-        "hour": "15"
-    },
-    {
-        "nft": "NFT20260209000349",
-        "site": "CO037s",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "3.0",
-        "remaining": "5.0",
-        "alarm": "Device Offline",
-        "created": "09/02/2026 14:35:00",
-        "hour": "14"
     },
     {
         "nft": "NFT20260209000343",
@@ -82,18 +58,6 @@
         "alarm": "Cell out of service",
         "created": "09/02/2026 14:14:00",
         "hour": "14"
-    },
-    {
-        "nft": "NFT20260209000326",
-        "site": "PH0600328",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "4.1",
-        "remaining": "3.9",
-        "alarm": "Device Offline",
-        "created": "09/02/2026 13:24:00",
-        "hour": "13"
     },
     {
         "nft": "NFT20260209000278",
@@ -174,7 +138,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-6.0",
-        "remaining": "14.0",
+        "remaining": "13.9",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "09/02/2026 07:31:01",
         "hour": "7"
@@ -202,18 +166,6 @@
         "alarm": "Heating exchange fan fault",
         "created": "09/02/2026 01:15:00",
         "hour": "1"
-    },
-    {
-        "nft": "NFT20260209000010",
-        "site": "PH0600357",
-        "area": "NEGROS",
-        "state": "Suspend",
-        "severity": "Major",
-        "duration": "7.2",
-        "remaining": "0.8",
-        "alarm": "Charge Circuit Switch Failure alarm",
-        "created": "09/02/2026 00:31:00",
-        "hour": "0"
     },
     {
         "nft": "NFT20260208000487",
