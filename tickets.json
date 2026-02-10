@@ -54,7 +54,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.6",
-        "remaining": "4.4",
+        "remaining": "4.3",
         "alarm": "OSC_LOS",
         "created": "09/02/2026 22:18:00",
         "hour": "22"
@@ -65,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.5",
-        "remaining": "5.5",
+        "duration": "2.6",
+        "remaining": "5.4",
         "alarm": "The Device is offline",
         "created": "09/02/2026 22:10:01",
         "hour": "22"
