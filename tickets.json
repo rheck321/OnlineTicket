@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260210000276",
+        "site": "PH0700001",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Battery Communication Fail",
+        "created": "10/02/2026 13:10:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20260210000262",
         "site": "PH0600391",
         "area": "NEGROS",
@@ -17,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Battery Communication Fail",
         "created": "10/02/2026 12:35:00",
         "hour": "12"
@@ -42,7 +54,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "Cell out of service",
         "created": "10/02/2026 11:18:00",
         "hour": "11"
@@ -54,7 +66,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "2.4",
-        "remaining": "5.7",
+        "remaining": "5.6",
         "alarm": "Physical Port Down",
         "created": "10/02/2026 10:52:00",
         "hour": "10"
@@ -102,7 +114,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "6.0",
-        "remaining": "2.0",
+        "remaining": "1.9",
         "alarm": "OSC_LOS",
         "created": "09/02/2026 22:18:00",
         "hour": "22"
