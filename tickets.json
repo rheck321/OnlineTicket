@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260210000239",
+        "site": "PH0700011",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.0",
+        "remaining": "8.0",
+        "alarm": "Battery Communication Fail",
+        "created": "10/02/2026 11:56:00",
+        "hour": "11"
+    },
+    {
         "nft": "NFT20260210000228",
         "site": "PH0600425",
         "area": "NEGROS",
@@ -17,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Cell out of service",
         "created": "10/02/2026 11:18:00",
         "hour": "11"
@@ -30,7 +42,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "Physical Port Down",
         "created": "10/02/2026 10:52:00",
         "hour": "10"
@@ -65,7 +77,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.3",
+        "duration": "2.4",
         "remaining": "5.7",
         "alarm": "Device Offline",
         "created": "10/02/2026 09:36:00",
@@ -89,8 +101,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.7",
-        "remaining": "3.3",
+        "duration": "4.8",
+        "remaining": "3.2",
         "alarm": "OSC_LOS",
         "created": "09/02/2026 22:18:00",
         "hour": "22"
@@ -101,7 +113,7 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.6",
+        "duration": "3.7",
         "remaining": "4.3",
         "alarm": "The Device is offline",
         "created": "09/02/2026 22:10:01",
