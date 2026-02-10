@@ -29,8 +29,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Cell out of service",
         "created": "10/02/2026 13:15:00",
         "hour": "13"
@@ -46,18 +46,6 @@
         "alarm": "Battery Communication Fail",
         "created": "10/02/2026 13:10:00",
         "hour": "13"
-    },
-    {
-        "nft": "NFT20260210000262",
-        "site": "PH0600391",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.7",
-        "alarm": "Physical Port Down",
-        "created": "10/02/2026 12:37:00",
-        "hour": "12"
     },
     {
         "nft": "NFT20260210000259",
@@ -77,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.0",
-        "remaining": "6.0",
+        "duration": "2.1",
+        "remaining": "5.9",
         "alarm": "Battery Communication Fail",
         "created": "10/02/2026 11:56:00",
         "hour": "11"
