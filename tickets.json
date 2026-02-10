@@ -1,29 +1,5 @@
 {"nftlist":[
     {
-        "nft": "NFT20260210000243",
-        "site": "PH0600328",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
-        "alarm": "Device Offline",
-        "created": "10/02/2026 12:04:00",
-        "hour": "12"
-    },
-    {
-        "nft": "NFT20260210000242",
-        "site": "PH0700056",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
-        "alarm": "Device Offline",
-        "created": "10/02/2026 12:03:00",
-        "hour": "12"
-    },
-    {
         "nft": "NFT20260210000239",
         "site": "PH0700011",
         "area": "CEBU",
@@ -36,25 +12,13 @@
         "hour": "11"
     },
     {
-        "nft": "NFT20260210000228",
-        "site": "PH0600425",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.8",
-        "remaining": "7.2",
-        "alarm": "Device Offline",
-        "created": "10/02/2026 11:37:00",
-        "hour": "11"
-    },
-    {
         "nft": "NFT20260210000216",
         "site": "PH0700111",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.1",
-        "remaining": "6.9",
+        "remaining": "6.8",
         "alarm": "Cell out of service",
         "created": "10/02/2026 11:18:00",
         "hour": "11"
@@ -66,7 +30,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "Physical Port Down",
         "created": "10/02/2026 10:52:00",
         "hour": "10"
@@ -94,18 +58,6 @@
         "alarm": "Cell out of service",
         "created": "10/02/2026 10:14:00",
         "hour": "10"
-    },
-    {
-        "nft": "NFT20260210000154",
-        "site": "CO037s",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "2.8",
-        "remaining": "5.2",
-        "alarm": "Device Offline",
-        "created": "10/02/2026 09:36:00",
-        "hour": "9"
     },
     {
         "nft": "NFT20260210000060",
@@ -138,7 +90,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "4.2",
-        "remaining": "3.9",
+        "remaining": "3.8",
         "alarm": "The Device is offline",
         "created": "09/02/2026 22:10:01",
         "hour": "22"
