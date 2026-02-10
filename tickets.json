@@ -5,8 +5,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Physical Port Down",
         "created": "10/02/2026 10:52:00",
         "hour": "10"
@@ -77,8 +77,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.3",
-        "remaining": "4.7",
+        "duration": "3.4",
+        "remaining": "4.6",
         "alarm": "The Device is offline",
         "created": "09/02/2026 22:10:01",
         "hour": "22"
