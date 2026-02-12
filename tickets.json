@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Device Offline",
         "created": "12/02/2026 16:24:00",
         "hour": "16"
@@ -17,8 +17,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.6",
-        "remaining": "6.4",
+        "duration": "1.7",
+        "remaining": "6.3",
         "alarm": "Battery Communication Fail",
         "created": "12/02/2026 15:19:00",
         "hour": "15"
@@ -65,8 +65,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-7.6",
-        "remaining": "15.6",
+        "duration": "-7.5",
+        "remaining": "15.5",
         "alarm": "Cell out of service",
         "created": "12/02/2026 08:31:00",
         "hour": "8"
@@ -233,8 +233,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-5.4",
-        "remaining": "13.4",
+        "duration": "-5.3",
+        "remaining": "13.3",
         "alarm": "Optical Fail",
         "created": "11/02/2026 17:51:00",
         "hour": "17"
@@ -257,8 +257,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-1.8",
-        "remaining": "9.8",
+        "duration": "-1.7",
+        "remaining": "9.7",
         "alarm": "PH0800001 - XDC07 - Cell01 charging high temperature protection",
         "created": "11/02/2026 13:11:09",
         "hour": "13"
