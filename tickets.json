@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260212000404",
+        "site": "PH0700429",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Transmission unit link break",
+        "created": "12/02/2026 14:46:40",
+        "hour": "14"
+    },
+    {
         "nft": "NFT20260212000379",
         "site": "PH0700255",
         "area": "CEBU",
@@ -18,7 +30,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "The actual received level is lower than the given lower threshold",
         "created": "12/02/2026 13:15:01",
         "hour": "13"
@@ -30,7 +42,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "The actual received level is lower than the given lower threshold",
         "created": "12/02/2026 13:15:00",
         "hour": "13"
@@ -42,7 +54,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "The actual received level is lower than the given lower threshold",
         "created": "12/02/2026 13:15:00",
         "hour": "13"
@@ -54,7 +66,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "The actual received level is lower than the given lower threshold",
         "created": "12/02/2026 13:15:00",
         "hour": "13"
@@ -90,7 +102,7 @@
         "state": "Processing",
         "severity": "Critical",
         "duration": "1.9",
-        "remaining": "2.1",
+        "remaining": "2.0",
         "alarm": "DG. Communication Fail",
         "created": "12/02/2026 12:53:00",
         "hour": "12"
@@ -126,7 +138,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "3.6",
-        "remaining": "4.4",
+        "remaining": "4.3",
         "alarm": "Battery Communication Fail",
         "created": "12/02/2026 11:11:00",
         "hour": "11"
@@ -173,8 +185,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.2",
-        "remaining": "0.8",
+        "duration": "7.3",
+        "remaining": "0.7",
         "alarm": "Low fuel level alarm",
         "created": "12/02/2026 07:34:00",
         "hour": "7"
@@ -306,7 +318,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "6.7",
-        "remaining": "1.4",
+        "remaining": "1.3",
         "alarm": "Transmission unit link break",
         "created": "11/02/2026 23:34:00",
         "hour": "23"
@@ -341,8 +353,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-3.1",
-        "remaining": "11.1",
+        "duration": "-3.0",
+        "remaining": "11.0",
         "alarm": "Optical Fail",
         "created": "11/02/2026 17:48:00",
         "hour": "17"
@@ -414,7 +426,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.9",
-        "remaining": "6.2",
+        "remaining": "6.1",
         "alarm": "PH0800121 - XDC03 - Cell04 charging high temperature protection",
         "created": "11/02/2026 12:57:26",
         "hour": "12"
