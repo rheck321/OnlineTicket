@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "7.9",
+        "remaining": "7.8",
         "alarm": "Device Offline",
         "created": "12/02/2026 16:24:00",
         "hour": "16"
@@ -24,25 +24,13 @@
         "hour": "15"
     },
     {
-        "nft": "NFT20260212000353",
-        "site": "PH0600312",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
-        "alarm": "Device Powered Off",
-        "created": "12/02/2026 12:55:00",
-        "hour": "12"
-    },
-    {
         "nft": "NFT20260212000349",
         "site": "PH0800147",
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "3.6",
-        "remaining": "0.4",
+        "duration": "3.7",
+        "remaining": "0.3",
         "alarm": "DG. Communication Fail",
         "created": "12/02/2026 12:53:00",
         "hour": "12"
@@ -53,8 +41,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.3",
-        "remaining": "2.7",
+        "duration": "5.4",
+        "remaining": "2.6",
         "alarm": "Battery Communication Fail",
         "created": "12/02/2026 11:11:00",
         "hour": "11"
@@ -65,8 +53,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.2",
-        "remaining": "1.8",
+        "duration": "6.3",
+        "remaining": "1.7",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "12/02/2026 10:17:00",
         "hour": "10"
@@ -77,8 +65,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "8.0",
-        "remaining": "0.0",
+        "duration": "-8.0",
+        "remaining": "16.0",
         "alarm": "Cell out of service",
         "created": "12/02/2026 08:31:00",
         "hour": "8"
@@ -102,7 +90,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "-7.0",
-        "remaining": "15.1",
+        "remaining": "15.0",
         "alarm": "Low fuel level alarm",
         "created": "12/02/2026 07:34:00",
         "hour": "7"
@@ -269,7 +257,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-2.2",
+        "duration": "-2.1",
         "remaining": "10.2",
         "alarm": "PH0800001 - XDC07 - Cell01 charging high temperature protection",
         "created": "11/02/2026 13:11:09",
