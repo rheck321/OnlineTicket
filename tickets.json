@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.5",
+        "remaining": "6.4",
         "alarm": "Device Offline",
         "created": "12/02/2026 13:37:00",
         "hour": "13"
@@ -30,7 +30,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "The actual received level is lower than the given lower threshold",
         "created": "12/02/2026 13:15:01",
         "hour": "13"
@@ -42,7 +42,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "The actual received level is lower than the given lower threshold",
         "created": "12/02/2026 13:15:00",
         "hour": "13"
@@ -54,7 +54,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "The actual received level is lower than the given lower threshold",
         "created": "12/02/2026 13:15:00",
         "hour": "13"
@@ -66,7 +66,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "The actual received level is lower than the given lower threshold",
         "created": "12/02/2026 13:15:00",
         "hour": "13"
@@ -77,8 +77,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Transmission unit link break",
         "created": "12/02/2026 12:55:00",
         "hour": "12"
@@ -89,8 +89,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Transmission unit link break",
         "created": "12/02/2026 12:55:00",
         "hour": "12"
@@ -150,7 +150,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.7",
-        "remaining": "1.4",
+        "remaining": "1.3",
         "alarm": "Cell out of service",
         "created": "12/02/2026 08:31:00",
         "hour": "8"
@@ -281,8 +281,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.7",
-        "remaining": "1.3",
+        "duration": "6.8",
+        "remaining": "1.2",
         "alarm": "The actual received level is lower than the given lower threshold",
         "created": "11/02/2026 23:54:00",
         "hour": "23"
@@ -293,7 +293,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "7.0",
+        "duration": "7.1",
         "remaining": "0.9",
         "alarm": "Transmission unit link break",
         "created": "11/02/2026 23:34:00",
@@ -306,7 +306,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "7.0",
-        "remaining": "1.0",
+        "remaining": "0.9",
         "alarm": "Transmission unit link break",
         "created": "11/02/2026 23:34:00",
         "hour": "23"
@@ -329,8 +329,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-7.2",
-        "remaining": "15.2",
+        "duration": "-7.1",
+        "remaining": "15.1",
         "alarm": "Optical Fail",
         "created": "11/02/2026 17:51:00",
         "hour": "17"
