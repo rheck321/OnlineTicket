@@ -17,8 +17,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Critical",
-        "duration": "0.6",
-        "remaining": "3.4",
+        "duration": "0.7",
+        "remaining": "3.3",
         "alarm": "Break Off",
         "created": "12/02/2026 16:28:00",
         "hour": "16"
@@ -65,8 +65,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.9",
-        "remaining": "2.1",
+        "duration": "6.0",
+        "remaining": "2.0",
         "alarm": "Battery Communication Fail",
         "created": "12/02/2026 11:11:00",
         "hour": "11"
@@ -78,7 +78,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.8",
-        "remaining": "1.2",
+        "remaining": "1.1",
         "alarm": "The received optical power of the optical module is abnormal",
         "created": "12/02/2026 10:17:00",
         "hour": "10"
@@ -96,25 +96,13 @@
         "hour": "8"
     },
     {
-        "nft": "NFT20260212000128",
-        "site": "IBS0810004",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Critical",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "The Device is offline",
-        "created": "12/02/2026 08:01:00",
-        "hour": "8"
-    },
-    {
         "nft": "NFT20260212000116",
         "site": "PH0600177",
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-6.5",
-        "remaining": "14.5",
+        "duration": "-6.4",
+        "remaining": "14.4",
         "alarm": "Low fuel level alarm",
         "created": "12/02/2026 07:34:00",
         "hour": "7"
@@ -329,8 +317,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "4.1",
-        "remaining": "3.9",
+        "duration": "4.2",
+        "remaining": "3.8",
         "alarm": "PH0800121 - XDC03 - Cell04 charging high temperature protection",
         "created": "11/02/2026 12:57:26",
         "hour": "12"
