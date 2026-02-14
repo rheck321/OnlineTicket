@@ -5,8 +5,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.3",
-        "remaining": "7.7",
+        "duration": "0.4",
+        "remaining": "7.6",
         "alarm": "Device Offline",
         "created": "14/02/2026 08:34:00",
         "hour": "8"
@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.4",
-        "remaining": "6.6",
+        "remaining": "6.5",
         "alarm": "RRU interrupted",
         "created": "14/02/2026 07:31:00",
         "hour": "7"
@@ -65,8 +65,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.3",
-        "remaining": "2.7",
+        "duration": "5.4",
+        "remaining": "2.6",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "14/02/2026 03:36:01",
         "hour": "3"
@@ -78,7 +78,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "6.0",
-        "remaining": "2.0",
+        "remaining": "1.9",
         "alarm": "Air Conditioner Communication Lost",
         "created": "14/02/2026 02:55:00",
         "hour": "2"
@@ -281,8 +281,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.2",
-        "remaining": "1.8",
+        "duration": "6.3",
+        "remaining": "1.7",
         "alarm": "PH0800001 - XDC07 - Cell01 charging high temperature protection",
         "created": "11/02/2026 13:11:09",
         "hour": "13"
@@ -370,18 +370,6 @@
         "alarm": "Physical Port Down",
         "created": "10/02/2026 14:04:00",
         "hour": "14"
-    },
-    {
-        "nft": "NFT20260209000140",
-        "site": "IBS0610001",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "The received optical power of the optical module is abnormal",
-        "created": "09/02/2026 07:31:01",
-        "hour": "7"
     },
     {
         "nft": "NFT20260209000062",
@@ -528,18 +516,6 @@
         "hour": "15"
     },
     {
-        "nft": "NFT20260207000468",
-        "site": "PH0700083",
-        "area": "CEBU",
-        "state": "Suspend",
-        "severity": "Major",
-        "duration": "1.1",
-        "remaining": "6.9",
-        "alarm": "Battery Communication Fail",
-        "created": "07/02/2026 15:21:00",
-        "hour": "15"
-    },
-    {
         "nft": "NFT20260207000389",
         "site": "PH0800037",
         "area": "LEYTE",
@@ -586,18 +562,6 @@
         "alarm": "RRU interrupted",
         "created": "05/02/2026 17:43:00",
         "hour": "17"
-    },
-    {
-        "nft": "NFT20260205000128",
-        "site": "IBS0610001",
-        "area": "PANAY",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "-",
-        "remaining": "-",
-        "alarm": "RRU interrupted",
-        "created": "05/02/2026 07:31:01",
-        "hour": "7"
     },
     {
         "nft": "NFT20260205000117",
