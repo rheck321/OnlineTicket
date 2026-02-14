@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "8.0",
+        "remaining": "7.9",
         "alarm": "SMR04 Communication Fail",
         "created": "14/02/2026 10:50:02",
         "hour": "10"
@@ -20,18 +20,6 @@
         "duration": "0.2",
         "remaining": "7.8",
         "alarm": "Standing wave warning",
-        "created": "14/02/2026 10:42:00",
-        "hour": "10"
-    },
-    {
-        "nft": "NFT20260214000258",
-        "site": "PH0700429",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
-        "alarm": "The Equipment is offline(Microwave)",
         "created": "14/02/2026 10:42:00",
         "hour": "10"
     },
@@ -90,7 +78,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "1.9",
-        "remaining": "6.1",
+        "remaining": "6.0",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "14/02/2026 08:58:00",
         "hour": "8"
@@ -125,8 +113,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.1",
-        "remaining": "1.9",
+        "duration": "6.2",
+        "remaining": "1.8",
         "alarm": "Physical Port Down",
         "created": "14/02/2026 04:45:00",
         "hour": "4"
@@ -137,8 +125,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.6",
-        "remaining": "1.4",
+        "duration": "6.7",
+        "remaining": "1.3",
         "alarm": "Cell out of service",
         "created": "14/02/2026 04:15:01",
         "hour": "4"
