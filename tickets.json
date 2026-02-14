@@ -54,7 +54,7 @@
         "state": "Processing",
         "severity": "Minor",
         "duration": "4.8",
-        "remaining": "3.2",
+        "remaining": "3.1",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "14/02/2026 03:36:01",
         "hour": "3"
@@ -269,8 +269,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "5.7",
-        "remaining": "2.3",
+        "duration": "5.8",
+        "remaining": "2.2",
         "alarm": "PH0800001 - XDC07 - Cell01 charging high temperature protection",
         "created": "11/02/2026 13:11:09",
         "hour": "13"
