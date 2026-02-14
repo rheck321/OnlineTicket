@@ -1,12 +1,24 @@
 {"nftlist":[
     {
+        "nft": "NFT20260214000188",
+        "site": "CO074",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "ATS S1 Voltage State",
+        "created": "14/02/2026 09:14:01",
+        "hour": "9"
+    },
+    {
         "nft": "NFT20260214000183",
         "site": "PH0700247",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Device Offline",
         "created": "14/02/2026 09:09:00",
         "hour": "9"
@@ -29,8 +41,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "14/02/2026 08:58:00",
         "hour": "8"
@@ -65,8 +77,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.6",
-        "remaining": "3.4",
+        "duration": "4.7",
+        "remaining": "3.3",
         "alarm": "Physical Port Down",
         "created": "14/02/2026 04:45:00",
         "hour": "4"
@@ -77,8 +89,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.1",
-        "remaining": "2.9",
+        "duration": "5.2",
+        "remaining": "2.8",
         "alarm": "Cell out of service",
         "created": "14/02/2026 04:15:01",
         "hour": "4"
