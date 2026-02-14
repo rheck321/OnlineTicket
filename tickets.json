@@ -17,7 +17,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
+        "duration": "0.2",
         "remaining": "7.8",
         "alarm": "Transmission unit link break",
         "created": "14/02/2026 09:04:00",
@@ -29,22 +29,10 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.2",
-        "remaining": "7.8",
+        "duration": "0.3",
+        "remaining": "7.7",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "14/02/2026 08:58:00",
-        "hour": "8"
-    },
-    {
-        "nft": "NFT20260214000146",
-        "site": "PH0600549",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.7",
-        "remaining": "7.3",
-        "alarm": "Device Offline",
-        "created": "14/02/2026 08:34:00",
         "hour": "8"
     },
     {
@@ -94,18 +82,6 @@
         "alarm": "Cell out of service",
         "created": "14/02/2026 04:15:01",
         "hour": "4"
-    },
-    {
-        "nft": "NFT20260214000055",
-        "site": "PH0700244",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Minor",
-        "duration": "5.6",
-        "remaining": "2.4",
-        "alarm": "Air Conditioner Outer Fan Fault",
-        "created": "14/02/2026 03:36:01",
-        "hour": "3"
     },
     {
         "nft": "NFT20260214000046",
@@ -197,8 +173,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "Lithium Battery Failure",
         "created": "13/02/2026 00:01:00",
         "hour": "0"
