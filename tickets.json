@@ -29,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "3.6",
-        "remaining": "4.4",
+        "duration": "3.7",
+        "remaining": "4.3",
         "alarm": "Physical Port Down",
         "created": "14/02/2026 04:45:00",
         "hour": "4"
@@ -41,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.1",
-        "remaining": "3.9",
+        "duration": "4.2",
+        "remaining": "3.8",
         "alarm": "Cell out of service",
         "created": "14/02/2026 04:15:01",
         "hour": "4"
@@ -293,8 +293,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "PH0800121 - XDC03 - Cell04 charging high temperature protection",
         "created": "11/02/2026 12:57:26",
         "hour": "12"
