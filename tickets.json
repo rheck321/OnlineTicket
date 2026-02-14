@@ -18,7 +18,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.6",
-        "remaining": "7.5",
+        "remaining": "7.4",
         "alarm": "Device Offline",
         "created": "14/02/2026 09:09:00",
         "hour": "9"
@@ -29,8 +29,8 @@
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "0.7",
-        "remaining": "7.3",
+        "duration": "0.8",
+        "remaining": "7.2",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "14/02/2026 08:58:00",
         "hour": "8"
