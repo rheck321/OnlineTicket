@@ -41,8 +41,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.7",
-        "remaining": "6.3",
+        "duration": "1.8",
+        "remaining": "6.2",
         "alarm": "RRU interrupted",
         "created": "14/02/2026 07:31:00",
         "hour": "7"
@@ -89,8 +89,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "6.3",
-        "remaining": "1.7",
+        "duration": "6.4",
+        "remaining": "1.6",
         "alarm": "Air Conditioner Communication Lost",
         "created": "14/02/2026 02:55:00",
         "hour": "2"
@@ -101,8 +101,8 @@
         "area": "BOHOL",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "RRU interrupted",
         "created": "13/02/2026 20:10:00",
         "hour": "20"
@@ -113,8 +113,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.7",
-        "remaining": "5.3",
+        "duration": "2.8",
+        "remaining": "5.2",
         "alarm": "Intruder Alarm",
         "created": "13/02/2026 20:01:00",
         "hour": "20"
