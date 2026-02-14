@@ -1,5 +1,41 @@
 {"nftlist":[
     {
+        "nft": "NFT20260214000220",
+        "site": "PH0600328",
+        "area": "PANAY",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Device Offline",
+        "created": "14/02/2026 09:54:00",
+        "hour": "9"
+    },
+    {
+        "nft": "NFT20260214000218",
+        "site": "PH0800231",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Battery Communication Fail",
+        "created": "14/02/2026 09:47:00",
+        "hour": "9"
+    },
+    {
+        "nft": "NFT20260214000201",
+        "site": "PH0700015",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Minor",
+        "duration": "0.6",
+        "remaining": "7.4",
+        "alarm": "Cell out of service",
+        "created": "14/02/2026 09:24:00",
+        "hour": "9"
+    },
+    {
         "nft": "NFT20260214000188",
         "site": "CO074",
         "area": "PANAY",
@@ -12,25 +48,13 @@
         "hour": "9"
     },
     {
-        "nft": "NFT20260214000183",
-        "site": "PH0700247",
-        "area": "CEBU",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.8",
-        "remaining": "7.2",
-        "alarm": "Device Offline",
-        "created": "14/02/2026 09:09:00",
-        "hour": "9"
-    },
-    {
         "nft": "NFT20260214000171",
         "site": "PH0800147",
         "area": "SAMAR",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "1.0",
-        "remaining": "7.0",
+        "duration": "1.1",
+        "remaining": "6.9",
         "alarm": "Air Conditioner Outer Fan Fault",
         "created": "14/02/2026 08:58:00",
         "hour": "8"
@@ -65,8 +89,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.2",
-        "remaining": "2.8",
+        "duration": "5.3",
+        "remaining": "2.7",
         "alarm": "Physical Port Down",
         "created": "14/02/2026 04:45:00",
         "hour": "4"
@@ -77,8 +101,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.7",
-        "remaining": "2.3",
+        "duration": "5.8",
+        "remaining": "2.2",
         "alarm": "Cell out of service",
         "created": "14/02/2026 04:15:01",
         "hour": "4"
