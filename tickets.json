@@ -84,18 +84,6 @@
         "hour": "23"
     },
     {
-        "nft": "NFT20260213000534",
-        "site": "IBS0710061",
-        "area": "CEBU",
-        "state": "Suspend",
-        "severity": "Minor",
-        "duration": "0.3",
-        "remaining": "7.7",
-        "alarm": "Cell out of service",
-        "created": "13/02/2026 21:48:00",
-        "hour": "21"
-    },
-    {
         "nft": "NFT20260213000511",
         "site": "IBS0740022",
         "area": "BOHOL",
@@ -305,8 +293,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.2",
-        "remaining": "4.8",
+        "duration": "3.3",
+        "remaining": "4.7",
         "alarm": "PH0800121 - XDC03 - Cell04 charging high temperature protection",
         "created": "11/02/2026 12:57:26",
         "hour": "12"
