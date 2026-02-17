@@ -12,18 +12,6 @@
         "hour": "15"
     },
     {
-        "nft": "NFT20260217000357",
-        "site": "PH0600536",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "1.4",
-        "remaining": "6.6",
-        "alarm": "Device Offline",
-        "created": "17/02/2026 14:58:00",
-        "hour": "14"
-    },
-    {
         "nft": "NFT20260217000346",
         "site": "PH0600359",
         "area": "PANAY",
