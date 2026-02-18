@@ -1,11 +1,35 @@
 {"nftlist":[
     {
+        "nft": "NFT20260218000251",
+        "site": "PH0800218",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "Physical Port Down",
+        "created": "18/02/2026 11:57:00",
+        "hour": "11"
+    },
+    {
+        "nft": "NFT20260218000248",
+        "site": "PH0700204",
+        "area": "CEBU",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.2",
+        "remaining": "7.8",
+        "alarm": "Device Offline",
+        "created": "18/02/2026 11:53:00",
+        "hour": "11"
+    },
+    {
         "nft": "NFT20260218000224",
         "site": "PH0700251",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "1.1",
+        "duration": "1.2",
         "remaining": "6.8",
         "alarm": "Battery Communication Fail",
         "created": "18/02/2026 10:52:00",
