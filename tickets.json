@@ -1,5 +1,17 @@
 {"nftlist":[
     {
+        "nft": "NFT20260218000324",
+        "site": "CO085",
+        "area": "LEYTE",
+        "state": "Processing",
+        "severity": "Major",
+        "duration": "0.1",
+        "remaining": "7.9",
+        "alarm": "ATS S1 Voltage State",
+        "created": "18/02/2026 13:04:00",
+        "hour": "13"
+    },
+    {
         "nft": "NFT20260218000311",
         "site": "PH0600259",
         "area": "NEGROS",
@@ -17,8 +29,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.4",
-        "remaining": "7.6",
+        "duration": "0.5",
+        "remaining": "7.5",
         "alarm": "Device Offline",
         "created": "18/02/2026 12:41:00",
         "hour": "12"
@@ -36,25 +48,13 @@
         "hour": "12"
     },
     {
-        "nft": "NFT20260218000251",
-        "site": "PH0800218",
-        "area": "LEYTE",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "1.2",
-        "remaining": "6.8",
-        "alarm": "Physical Port Down",
-        "created": "18/02/2026 11:57:00",
-        "hour": "11"
-    },
-    {
         "nft": "NFT20260218000224",
         "site": "PH0700251",
         "area": "CEBU",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Battery Communication Fail",
         "created": "18/02/2026 10:52:00",
         "hour": "10"
@@ -113,8 +113,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.5",
-        "remaining": "2.5",
+        "duration": "5.6",
+        "remaining": "2.4",
         "alarm": "Physical Port Down",
         "created": "17/02/2026 23:06:00",
         "hour": "23"
