@@ -5,8 +5,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.1",
-        "remaining": "7.9",
+        "duration": "0.2",
+        "remaining": "7.8",
         "alarm": "ATS S1 Voltage State",
         "created": "18/02/2026 13:04:00",
         "hour": "13"
@@ -21,18 +21,6 @@
         "remaining": "7.6",
         "alarm": "Device Offline",
         "created": "18/02/2026 12:50:00",
-        "hour": "12"
-    },
-    {
-        "nft": "NFT20260218000306",
-        "site": "PH0700810",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "0.5",
-        "remaining": "7.5",
-        "alarm": "Device Offline",
-        "created": "18/02/2026 12:41:00",
         "hour": "12"
     },
     {
@@ -89,8 +77,8 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "5.6",
-        "remaining": "2.4",
+        "duration": "5.7",
+        "remaining": "2.3",
         "alarm": "Physical Port Down",
         "created": "17/02/2026 23:06:00",
         "hour": "23"
@@ -101,7 +89,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "6.0",
+        "duration": "6.1",
         "remaining": "1.9",
         "alarm": "Low oil pressure shutdown alarm",
         "created": "17/02/2026 20:02:00",
