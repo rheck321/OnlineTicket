@@ -6,7 +6,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.1",
-        "remaining": "7.0",
+        "remaining": "6.9",
         "alarm": "Battery Communication Fail",
         "created": "18/02/2026 10:52:00",
         "hour": "10"
@@ -65,7 +65,7 @@
         "area": "LEYTE",
         "state": "Processing",
         "severity": "Major",
-        "duration": "4.3",
+        "duration": "4.4",
         "remaining": "3.6",
         "alarm": "Physical Port Down",
         "created": "17/02/2026 23:06:00",
