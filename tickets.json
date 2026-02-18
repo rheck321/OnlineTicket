@@ -41,8 +41,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.7",
-        "remaining": "4.3",
+        "duration": "3.8",
+        "remaining": "4.2",
         "alarm": "RRU interrupted",
         "created": "18/02/2026 07:31:00",
         "hour": "7"
@@ -84,30 +84,6 @@
         "hour": "20"
     },
     {
-        "nft": "NFT20260217000457",
-        "site": "PH0600507",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "4.0",
-        "remaining": "4.0",
-        "alarm": "Fade margin value is below threshold",
-        "created": "17/02/2026 18:58:00",
-        "hour": "18"
-    },
-    {
-        "nft": "NFT20260217000458",
-        "site": "PH0600420",
-        "area": "NEGROS",
-        "state": "Processing",
-        "severity": "Major",
-        "duration": "4.0",
-        "remaining": "4.0",
-        "alarm": "Fade margin value is below threshold",
-        "created": "17/02/2026 18:58:00",
-        "hour": "18"
-    },
-    {
         "nft": "NFT20260217000433",
         "site": "PH0700010",
         "area": "CEBU",
@@ -125,7 +101,7 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "2.3",
+        "duration": "2.4",
         "remaining": "5.7",
         "alarm": "The actual received level is lower than the given lower threshold",
         "created": "17/02/2026 18:01:01",
