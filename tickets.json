@@ -17,8 +17,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "0.6",
-        "remaining": "7.4",
+        "duration": "0.7",
+        "remaining": "7.3",
         "alarm": "Transmission unit link break",
         "created": "19/02/2026 08:28:00",
         "hour": "8"
@@ -54,7 +54,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "SMR02 Communication Fail",
         "created": "19/02/2026 07:28:00",
         "hour": "7"
@@ -66,7 +66,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "1.6",
-        "remaining": "6.4",
+        "remaining": "6.3",
         "alarm": "SMR17 Communication Fail",
         "created": "19/02/2026 07:28:00",
         "hour": "7"
@@ -102,7 +102,7 @@
         "state": "Processing",
         "severity": "Major",
         "duration": "0.1",
-        "remaining": "7.9",
+        "remaining": "7.8",
         "alarm": "Transmission unit link break",
         "created": "19/02/2026 06:18:01",
         "hour": "6"
@@ -137,8 +137,8 @@
         "area": "PANAY",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "3.4",
-        "remaining": "4.6",
+        "duration": "3.5",
+        "remaining": "4.5",
         "alarm": "Cell out of service",
         "created": "19/02/2026 01:14:00",
         "hour": "1"
@@ -185,8 +185,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "SMR04 Communication Fail",
         "created": "18/02/2026 21:18:00",
         "hour": "21"
@@ -197,8 +197,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "SMR03 Communication Fail",
         "created": "18/02/2026 21:18:00",
         "hour": "21"
