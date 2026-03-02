@@ -65,8 +65,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Major",
-        "duration": "2.2",
-        "remaining": "5.8",
+        "duration": "2.3",
+        "remaining": "5.7",
         "alarm": "Fade margin value is below threshold",
         "created": "01/03/2026 22:11:00",
         "hour": "22"
@@ -149,8 +149,8 @@
         "area": "NEGROS",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "7.6",
-        "remaining": "0.4",
+        "duration": "7.7",
+        "remaining": "0.3",
         "alarm": "The actual received level is lower than the given lower threshold",
         "created": "01/03/2026 13:33:00",
         "hour": "13"
@@ -161,8 +161,8 @@
         "area": "CEBU",
         "state": "Processing",
         "severity": "Minor",
-        "duration": "-0.8",
-        "remaining": "8.8",
+        "duration": "-0.7",
+        "remaining": "8.7",
         "alarm": "Cell out of service",
         "created": "01/03/2026 08:06:00",
         "hour": "8"
